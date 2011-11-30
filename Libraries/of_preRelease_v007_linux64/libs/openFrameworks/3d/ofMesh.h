@@ -73,8 +73,6 @@ public:
 	int getNumTexCoords() const;
 	int getNumIndices() const;
 	
-	ofVec3f getCentroid();
-
 	ofVec3f* getVerticesPointer();
 	ofFloatColor* getColorsPointer();
 	ofVec3f* getNormalsPointer();

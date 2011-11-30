@@ -282,16 +282,6 @@ int ofPrimitive::getNumIndicesWire(){
  */
 
 //--------------------------------------------------------------
-ofVec3f ofMesh::getCentroid(){
-	ofVec3f runningAverage = vertices[0];
-	for(unsigned long int v = 1; v < (unsigned long int)vertices.size(); v++){
-		unsigned long int contributingVertexCount = v + 1;
-		runningAverage = runningAverage * float(v) / float(contributingVertexCount) + vertices[v] * 1.0 / float(contributingVertexCount);
-	}
-	return runningAverage;
-}
-
-//--------------------------------------------------------------
 ofVec3f* ofMesh::getVerticesPointer(){
 #ifdef TARGET_OSX
 	return &vertices[0];
