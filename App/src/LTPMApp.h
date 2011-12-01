@@ -2,7 +2,7 @@
 
 #include "ofMain.h"
 #include "ofxOsc.h"
-//#include <ofxAssimpModelLoader.h>
+#include <ofxOpenCv.h>
 
 
 // listen on port 12345
@@ -20,6 +20,8 @@ class LTPMApp : public ofBaseApp {
 		void update();
 		void draw();
 
+		//vector<vector<ofPoint>> getSegments(const ofImage & image);
+
 		void keyPressed(int key);
 		void keyReleased(int key);
 		void mouseMoved(int x, int y );
@@ -32,6 +34,7 @@ class LTPMApp : public ofBaseApp {
 
 
 		ofImage image;
+		ofxCvColorImage segImage;
 
 		//ofxAssimpModelLoader body;
 
