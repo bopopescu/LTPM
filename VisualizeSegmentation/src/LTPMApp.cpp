@@ -87,60 +87,7 @@ Segmentation segFile2Vector(string segFilename)
   return seg;
 
 
-/*
-  vector<unsigned int> d;
 
-
-  ///fid = fopen(filename,'r');
-  ifstream file (segFilename.c_str(), ios::in|ios::binary|ios::ate);
-  if (file.is_open())
-  {
-    ///dim = fread(fid,1,'uint');
-    unsigned int dim;
-    file.read((char*)&dim, sizeof(unsigned int));
-
-    ///for i = 1:dim
-    ///  d(i) = fread(fid,1,'uint');
-    ///end;
-    for(int i = 0; i < dim; i++)
-    {
-      unsigned int intI;
-      file >> intI;
-      d.push_back(intI);
-    }
-
-
-/*
-    [B,count] = fread(fid,prod(d),'int');
-    B = reshape(B,fliplr(d));
-
-dim = fread(fid,1,'uint');
-
-if (~feof(fid)) %collection of arrays.
-  A{1} = B;
-  ct = 2;
-  while (~feof(fid))
-    for i = 1:dim
-      d(i) = fread(fid,1,'uint');
-    end;
-    [B,count] = fread(fid,prod(d),'int');
-    A{ct} = reshape(B,fliplr(d));
-    ct = ct + 1;
-    dim = fread(fid,1,'uint');
-  end;
-else %else a single array 
-  A = B;
-end;
-
-*/
-
-/*
-    cout << "dim: " << dim << endl << "d: ";
-    for(int i = 0; i < d.size(); i++)
-      cout << d[i] << ", " << endl;
-*/
-
- // }
 
 }
 
@@ -163,17 +110,75 @@ void LTPMApp::setup(){
 	segImage.clear();
 	segImage.allocate(image.width, image.height, OF_IMAGE_COLOR);
 	Segmentation seg = segFile2Vector(segFilename);
-        
+
+
+	std::map<int, std::vector<ofColor> > segmentPixels;
+	std::map<int, ofColor > segmentAvgColors;
+	std::map<int, int> segmentPixelCounts;
+
 	for(int x = 0; x < image.width; x++)
 	{
 		for(int y = 0; y < image.height; y++)
 		{
-			float val = float(seg.labels[x*image.height+y]) / float(seg.maxLabel);
-			ofColor color(int(val * 255));
-			//cout << segData[x*image.width+y] << ", ";
-			segImage.setColor(x, y, color);
+			int label = seg.labels[x*image.height+y];
+			float val = float(label) / float(seg.maxLabel);
+			std::map<int, std::vector<ofColor> >::const_iterator labelColor = segmentPixels.find(label);
+			if(labelColor == segmentPixels.end())
+			{
+				segmentPixels[label] = std::vector<ofColor>();
+				//segmentAvgColors[label] = image.getColor(x,y);
+				//segmentPixelCounts[label] = 1;
+			}
+			/*else
+			{
+				float accumulatedAverageWeight = float(segmentPixelCounts[label]) / float(segmentPixelCounts[label] + 1);
+				float newColorWeight = 1.0 - accumulatedAverageWeight;
+				segmentAvgColors[label] = segmentAvgColors[label] * accumulatedAverageWeight  + image.getColor(x,y) * newColorWeight;
+				segmentPixelCounts[label]++;
+			}*/
+			segmentPixels[label].push_back(image.getColor(x,y));
+			//cout << segmentPixels[label].size() << endl;
+			//segImage.setColor(x, y, image.getColor(x,y));
+
 		}
 	}
+
+	// calculate average color in each segment
+	for(std::map<int, std::vector<ofColor> >::iterator s = segmentPixels.begin(); s != segmentPixels.end(); s++)
+	{
+		unsigned int totalRed   = 0;
+		unsigned int totalGreen = 0;
+		unsigned int totalBlue  = 0;
+	
+		for(int p = 0; p < (*s).second.size(); p++)
+		{
+			totalRed   += (*s).second[p].r;
+			totalGreen += (*s).second[p].g;
+			totalBlue  += (*s).second[p].b;
+		}
+		
+		int label = (*s).first;
+
+		segmentAvgColors[label] = ofColor(totalRed   / (*s).second.size(),
+                                                       totalGreen / (*s).second.size(),
+                                                       totalBlue  / (*s).second.size());
+
+		
+		cout << "Label " << (*s).first << ": (first, last, average) = ("
+                     << (int) (*s).second[0].r << ", " << (int) (*s).second[(*s).second.size()-1].r << ", " << (int) segmentAvgColors[label].r << ")"
+		     << "Pixel Count: " << (*s).second.size() << endl;
+	}
+
+	for(int x = 0; x < image.width; x++)
+	{
+		for(int y = 0; y < image.height; y++)
+		{
+			int label = seg.labels[x*image.height+y];
+			segImage.setColor(x, y, segmentAvgColors[label]);
+		}
+	}
+
+
 	segImage.update();
 	cout << endl;
 	
