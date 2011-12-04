@@ -2,7 +2,7 @@
 
 #include "ofMain.h"
 #include "ofxOsc.h"
-//#include <ofxOpenCv.h>
+#include <ofxOpenCv.h>
 
 
 // listen on port 12345
