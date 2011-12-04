@@ -10,7 +10,7 @@
 #include "graph.h"
 #include "Segment.h"
 
-#include "Types.h"
+#include <Types.h>
 
 #define SEGMENT_COLOR_SIMILARITY_THRESHOLD 50
 
