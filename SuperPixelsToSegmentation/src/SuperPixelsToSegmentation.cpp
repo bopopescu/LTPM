@@ -257,7 +257,7 @@ int SuperPixelsToSegmentation::run(){
 	for(int n = 0; n < collapsedSegments.size(); n++)
 	{
 		Segment* s = collapsedSegments[n];
-		cvDrawContours(mergedSegmentsImage, s->contour, CV_RGB(0, 0, 0), CV_RGB(s->color.r, s->color.g, s->color.b), 10, 1, CV_AA);
+		cvDrawContours(mergedSegmentsImage, s->contour, CV_RGB(255, 255, 255), CV_RGB(s->color.r, s->color.g, s->color.b), 10, 1, CV_AA);
 	}
 	
 	// save segmentation to file, yo
