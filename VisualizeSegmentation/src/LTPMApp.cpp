@@ -97,7 +97,7 @@ Segmentation segFile2Vector(string segFilename)
 
 }
 
-set<int> getAdjacentLabels(Segmentation seg, int x, int y)
+set<int> getAdjacentSegments(Segmentation seg, int x, int y)
 {
 	set<int> adjacentLabels;
 
@@ -155,7 +155,7 @@ void LTPMApp::setup(){
 
 			segmentPixels[label].push_back(image.getColor(x,y));
 
-			set<int> adjacentLabels = getAdjacentLabels(seg, x, y);
+			set<int> adjacentLabels = getAdjacentSegments(seg, x, y);
 			for(set<int>::iterator l = adjacentLabels.begin(); l != adjacentLabels.end(); l++)
 			{
 				if(!segmentGraph.edgeExists(label, *l))

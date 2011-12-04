@@ -21,9 +21,9 @@ include_directories(
   ../Libraries/of_preRelease_v007_linux64/libs/cairo/include
   ../Libraries/of_preRelease_v007_linux64/libs/cairo/include/cairo
   ../Libraries/of_preRelease_v007_linux64/libs/kiss/include
-  ../Libraries/of_preRelease_v007_linux64/addons/ofxOpenCv/libs/opencv/include/opencv
-  ../Libraries/of_preRelease_v007_linux64/addons/ofxOpenCv/libs/opencv/include
-  ../Libraries/of_preRelease_v007_linux64/addons/ofxOpenCv/src
+  #../Libraries/of_preRelease_v007_linux64/addons/ofxOpenCv/libs/opencv/include/opencv
+  #../Libraries/of_preRelease_v007_linux64/addons/ofxOpenCv/libs/opencv/include
+  #../Libraries/of_preRelease_v007_linux64/addons/ofxOpenCv/src
   ../Libraries/of_preRelease_v007_linux64/addons/ofxOsc/libs/oscpack/include/osc
   ../Libraries/of_preRelease_v007_linux64/addons/ofxOsc/libs/oscpack/include/ip
   ../Libraries/of_preRelease_v007_linux64/addons/ofxAssimpModelLoader/src
@@ -40,7 +40,7 @@ link_directories(
   ../Libraries/of_preRelease_v007_linux64/libs/tess2/lib/linux64 
   ../Libraries/of_preRelease_v007_linux64/libs/kiss/lib/linux64
   ../Libraries/of_preRelease_v007_linux64/libs/poco/lib/linux64
-  ../Libraries/of_preRelease_v007_linux64/addons/ofxOpenCv/libs/opencv/lib/linux64
+  #../Libraries/of_preRelease_v007_linux64/addons/ofxOpenCv/libs/opencv/lib/linux64
   #../Libraries/of_preRelease_v007_linux64/addons/ofxAssimpModelLoader/libs/assimp/lib/linux64
 )
 
@@ -49,7 +49,8 @@ add_executable (LTPM
   src/main.cpp
   src/LTPMApp.cpp
   #../Libraries/of_preRelease_v007_linux64/addons/ofxOpenCv/src/ofxCvImage.cpp
-  #../Libraries/of_preRelease_v007_linux64/addons/ofxOpenCv/src/ofxCvColorImage.cpp
+  #../Libraries/of_preRelease_v007_linux64/addons/ofxOpenCv/src/ofxCvGrayscaleImage.cpp
+  #../Libraries/of_preRelease_v007_linux64/addons/ofxOpenCv/src/ofxCvContourFinder.cpp
   #../Libraries/of_preRelease_v007_linux64/addons/ofxOsc/src/ofxOscMessage.cpp
   #../Libraries/of_preRelease_v007_linux64/addons/ofxOsc/src/ofxOscReceiver.cpp
   #../Libraries/of_preRelease_v007_linux64/addons/ofxOsc/src/ofxOscSender.cpp
@@ -59,7 +60,7 @@ add_executable (LTPM
 
 target_link_libraries (LTPM
   openFrameworks openal mpg123 tess2 cairo
-  opencv_core
+  #opencv_core
   #opencv_lapack
   #opencv_flann
   #opencv_contrib
