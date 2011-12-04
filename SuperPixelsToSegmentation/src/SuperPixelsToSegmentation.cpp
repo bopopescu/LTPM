@@ -160,7 +160,9 @@ int SuperPixelsToSegmentation::run(){
 	Segmentation seg = segFile2Vector(segFilename);
 
 	std::map<int, std::vector<Color> > segmentPixels;
-	std::map<int, Color > segmentAvgColors;
+	std::map<int, IplImage*> segmentMasks;
+	std::map<int, BwImage> segmentMaskWrappers;
+	std::map<int, Color> segmentAvgColors;
 	std::map<int, int> segmentPixelCounts;
 
 	Graph segmentGraph;
@@ -179,10 +181,14 @@ int SuperPixelsToSegmentation::run(){
 				cout << "found first label " << label << endl;
 				segmentGraph.addVertexIfNotPresent(label);
 				segmentPixels[label] = std::vector<Color>();
+				segmentMasks[label] = cvCreateImage(cvSize(seg.width, seg.height), IPL_DEPTH_8U, 1);
+				cvSet(segmentMasks[label], cvScalar(0));
+				segmentMaskWrappers[label] = BwImage(segmentMasks[label]);
 
 			}
 			Color pixelValue = rgbImage[y][x]; 
 			segmentPixels[label].push_back(pixelValue);
+			segmentMaskWrappers[label][y][x] = 1;
 
 			set<int> adjacentLabels = getAdjacentSegments(seg, x, y);
 			for(set<int>::iterator l = adjacentLabels.begin(); l != adjacentLabels.end(); l++)
@@ -195,7 +201,9 @@ int SuperPixelsToSegmentation::run(){
 		}
 	}
 
-	// calculate average color in each segment
+	// calculate average color, contour of each segment
+	CvMemStorage *storage = cvCreateMemStorage(0);
+	CvSeq *contours = 0;
 	for(std::map<int, std::vector<Color> >::iterator s = segmentPixels.begin(); s != segmentPixels.end(); s++)
 	{
 		unsigned int totalRed   = 0;
@@ -215,7 +223,10 @@ int SuperPixelsToSegmentation::run(){
                                                        totalGreen / (*s).second.size(),
                                                        totalBlue  / (*s).second.size());
 
+		cvFindContours(segmentMasks[label], storage, &contours, sizeof(CvContour), CV_RETR_LIST, CV_CHAIN_APPROX_SIMPLE);
 		
+		cvDrawContours(image, contours, CV_RGB(255,0,0), CV_RGB(0,255,0), 10, 1, CV_AA, cvPoint(0,0));
+
 		cout << "Label " << (*s).first << ": (first, last, average) = ("
                      << (int) (*s).second[0].r << ", " << (int) (*s).second[(*s).second.size()-1].r << ", " << (int) segmentAvgColors[label].r << ")"
 		     << "Pixel Count: " << (*s).second.size() << endl;
@@ -249,6 +260,7 @@ int SuperPixelsToSegmentation::run(){
 	cvMoveWindow("image", 0, 300);
 	cvNamedWindow("seg image", CV_WINDOW_AUTOSIZE);
 	cvMoveWindow("seg image", image->width, 300);
+
 
 	cvShowImage("image", image);
 	cvShowImage("seg image", segImage);
