@@ -3,6 +3,7 @@
 #include <iostream>
 #include <fstream>
 
+#include "graph.h"
 
 LTPMApp::LTPMApp(int argc, char** argv)
 {
@@ -16,11 +17,16 @@ LTPMApp::LTPMApp(int argc, char** argv)
 	segFilename = argv[2];
 }
 
-typedef struct Segmentation
+class Segmentation
 {
+public:
   int maxLabel;
   vector<int> labels;
-} Segmentation;
+  int width;
+  int height;
+
+  int getLabel(int x, int y) { return labels[x*height+y]; }
+};
 
 Segmentation segFile2Vector(string segFilename)
 {
@@ -72,6 +78,8 @@ Segmentation segFile2Vector(string segFilename)
 
   //vector<int> realSegData;
   Segmentation seg;
+  seg.width = dim_vals[0];
+  seg.height = dim_vals[1];
   //int realMax = *currentInt;
   seg.maxLabel = *currentInt;
   for(int p = 0; p < prod; p++)
@@ -80,31 +88,43 @@ Segmentation segFile2Vector(string segFilename)
     seg.labels.push_back(*currentInt);
     currentInt++;
   }
+  cout << "width: " << seg.width << ", height: " << seg.height << endl;
   cout << "real max: " << seg.maxLabel << endl;
 
 
 
   return seg;
 
+}
 
+set<int> getAdjacentSegments(Segmentation seg, int x, int y)
+{
+	set<int> adjacentLabels;
 
+	for(int neighborX = MAX(0, x-1); neighborX <= MIN(seg.width-1, x+1); neighborX++)
+	{
+		for(int neighborY = MAX(0, y-1); neighborY <= MIN(seg.height-1, y+1); neighborY++)
+		{
+			if(neighborX == x && neighborY == y)
+				continue;
 
+			if(seg.getLabel(neighborX, neighborY) != seg.getLabel(x, y))
+				adjacentLabels.insert(seg.getLabel(neighborX, neighborY));
+		}
+	}
+
+	return adjacentLabels;
 }
 
 //--------------------------------------------------------------
 void LTPMApp::setup(){
 	ofDisableDataPath();
 
-    //receiver.setup( PORT );
+
 
 	ofSetVerticalSync(true);
 
-	// this uses depth information for occlusion
-	// rather than always drawing things on top of each other
-//	glEnable(GL_DEPTH_TEST);
 
-	// this sets the camera's distance from the object
-//	cam.setDistance(100);
 
 	image.loadImage(imageFilename);
 	segImage.clear();
@@ -116,6 +136,8 @@ void LTPMApp::setup(){
 	std::map<int, ofColor > segmentAvgColors;
 	std::map<int, int> segmentPixelCounts;
 
+	Graph segmentGraph;
+
 	for(int x = 0; x < image.width; x++)
 	{
 		for(int y = 0; y < image.height; y++)
@@ -125,20 +147,21 @@ void LTPMApp::setup(){
 			std::map<int, std::vector<ofColor> >::const_iterator labelColor = segmentPixels.find(label);
 			if(labelColor == segmentPixels.end())
 			{
+				cout << "found first label " << label << endl;
+				segmentGraph.addVertexIfNotPresent(label);
 				segmentPixels[label] = std::vector<ofColor>();
-				//segmentAvgColors[label] = image.getColor(x,y);
-				//segmentPixelCounts[label] = 1;
+
 			}
-			/*else
-			{
-				float accumulatedAverageWeight = float(segmentPixelCounts[label]) / float(segmentPixelCounts[label] + 1);
-				float newColorWeight = 1.0 - accumulatedAverageWeight;
-				segmentAvgColors[label] = segmentAvgColors[label] * accumulatedAverageWeight  + image.getColor(x,y) * newColorWeight;
-				segmentPixelCounts[label]++;
-			}*/
+
 			segmentPixels[label].push_back(image.getColor(x,y));
-			//cout << segmentPixels[label].size() << endl;
-			//segImage.setColor(x, y, image.getColor(x,y));
+
+			set<int> adjacentLabels = getAdjacentSegments(seg, x, y);
+			for(set<int>::iterator l = adjacentLabels.begin(); l != adjacentLabels.end(); l++)
+			{
+				if(!segmentGraph.edgeExists(label, *l))
+					segmentGraph.addEdgeAndVerticesIfNotPresent(label, *l);
+			}
+				
 
 		}
 	}
@@ -169,6 +192,16 @@ void LTPMApp::setup(){
 		     << "Pixel Count: " << (*s).second.size() << endl;
 	}
 
+	// merge similar adjacent segments
+	for(int x = 0; x < image.width; x++)
+	{
+		for(int y = 0; y < image.height; y++)
+		{
+			
+		}
+	}
+
+	// assign segment colors to segmentation visualization image
 	for(int x = 0; x < image.width; x++)
 	{
 		for(int y = 0; y < image.height; y++)

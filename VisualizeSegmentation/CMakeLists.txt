@@ -49,7 +49,8 @@ add_executable (LTPM
   src/main.cpp
   src/LTPMApp.cpp
   #../Libraries/of_preRelease_v007_linux64/addons/ofxOpenCv/src/ofxCvImage.cpp
-  #../Libraries/of_preRelease_v007_linux64/addons/ofxOpenCv/src/ofxCvColorImage.cpp
+  #../Libraries/of_preRelease_v007_linux64/addons/ofxOpenCv/src/ofxCvGrayscaleImage.cpp
+  #../Libraries/of_preRelease_v007_linux64/addons/ofxOpenCv/src/ofxCvContourFinder.cpp
   #../Libraries/of_preRelease_v007_linux64/addons/ofxOsc/src/ofxOscMessage.cpp
   #../Libraries/of_preRelease_v007_linux64/addons/ofxOsc/src/ofxOscReceiver.cpp
   #../Libraries/of_preRelease_v007_linux64/addons/ofxOsc/src/ofxOscSender.cpp
