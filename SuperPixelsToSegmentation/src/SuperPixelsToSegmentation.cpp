@@ -37,11 +37,11 @@ Segmentation segFile2Vector(string segFilename)
       max = MAX(max, fileInts[i]);
     }
 
-    cout << segData.size() << " ints, max: " << max << endl;
+    cerr << segData.size() << " ints, max: " << max << endl;
 
     delete[] memblock;
   }
-  else cout << "Unable to open file";
+  else cerr << "Unable to open file";
   //return 0;
 
 
@@ -49,18 +49,18 @@ Segmentation segFile2Vector(string segFilename)
   
   int dim = *currentInt;
   currentInt++;
-  cout << "dim: " << dim << endl;
+  cerr << "dim: " << dim << endl;
   
   int prod = 1;
   vector<int> dim_vals;
   for(int d = 0; d < dim; d++)
   {
     prod *= *currentInt;
-    cout << *currentInt << ", ";
+    cerr << *currentInt << ", ";
     dim_vals.push_back(*currentInt);
     currentInt++;
   }
-  cout << "prod: " << prod << endl;
+  cerr << "prod: " << prod << endl;
 
   //vector<int> realSegData;
   Segmentation seg;
@@ -74,8 +74,8 @@ Segmentation segFile2Vector(string segFilename)
     seg.labels.push_back(*currentInt);
     currentInt++;
   }
-  cout << "width: " << seg.width << ", height: " << seg.height << endl;
-  cout << "real max: " << seg.maxLabel << endl;
+  cerr << "width: " << seg.width << ", height: " << seg.height << endl;
+  cerr << "real max: " << seg.maxLabel << endl;
 
 
 
@@ -102,6 +102,24 @@ set<int> getAdjacentSegments(Segmentation seg, int x, int y)
 	return adjacentLabels;
 }
 
+void printSegments(vector<Segment*> segments)
+{
+	for(int s = 0; s < segments.size(); s++)
+	{
+		Segment* seg = segments[s];
+		cout << (int) seg->color.r << "," << (int) seg->color.g << "," << (int) seg->color.b << ":";
+		
+		for( CvSeq* c = seg->contour; c!=NULL; c=c->h_next ){
+			for(int i = 0; i < c->total; i++){
+				CvPoint* p = CV_GET_SEQ_ELEM( CvPoint, c, i );
+				cout << p->x << "," << p->y << ";";
+			}
+			cout << "&";
+		}
+		cout << endl;
+	}
+}
+
 //--------------------------------------------------------------
 int SuperPixelsToSegmentation::run(){
 	image = 0; 
@@ -112,7 +130,7 @@ int SuperPixelsToSegmentation::run(){
 		return 1;
 	}
 
-	cout << "Loaded " << imageFilename << endl << "width: " << image->width << endl;
+	cerr << "Loaded " << imageFilename << endl << "width: " << image->width << endl;
 
 	///segImage.clear();
 	segImage = cvCreateImage(cvSize(image->width, image->height),IPL_DEPTH_8U,3);
@@ -131,7 +149,7 @@ int SuperPixelsToSegmentation::run(){
 		for(int y = 0; y < image->height; y++)
 		{
 			int label = seg.labels[x*image->height+y];
-			//cout << "looking at pixel with label: " << label << endl;
+			//cerr << "looking at pixel with label: " << label << endl;
 			std::map<int, Segment>::const_iterator segmentLocation = segments.find(label);
 			if(segmentLocation == segments.end())
 			{
@@ -196,7 +214,7 @@ int SuperPixelsToSegmentation::run(){
 
 		//cvDrawContours(image, currentSegment->contour, CV_RGB(255,0,0), CV_RGB(0,255,0), 10, 1, CV_AA, cvPoint(0,0));
 
-		//cout << "Label " << (*s).first << ": (first, last, average) = ("
+		//cerr << "Label " << (*s).first << ": (first, last, average) = ("
                 //     << (int) (*s).second[0].r << ", " << (int) (*s).second[(*s).second.size()-1].r << ", " << (int) segmentAvgColors[label].r << ")"
 		//     << "Pixel Count: " << (*s).second.size() << endl;
 	}
@@ -241,6 +259,10 @@ int SuperPixelsToSegmentation::run(){
 		Segment* s = collapsedSegments[n];
 		cvDrawContours(mergedSegmentsImage, s->contour, CV_RGB(0, 0, 0), CV_RGB(s->color.r, s->color.g, s->color.b), 10, 1, CV_AA);
 	}
+	
+	// save segmentation to file, yo
+	printSegments(segmentGraph.vertices());
+
 
 	// draw graph into segmentation image
 	set<Edge> edges = segmentGraph.edges();
@@ -255,7 +277,7 @@ int SuperPixelsToSegmentation::run(){
 	}
 
 	//segImage.update();
-	cout << endl;
+	cerr << endl;
 
 	int top = 200;
 	cvNamedWindow("image", CV_WINDOW_AUTOSIZE);
@@ -279,7 +301,7 @@ SuperPixelsToSegmentation::SuperPixelsToSegmentation(int argc, char** argv)
 
 	if(argc < 3)
 	{
-		std::cout << "Usage: SuperPixelsToSegmentation <image_file> <BSE_seg_file>" << std::endl;
+		std::cerr << "Usage: SuperPixelsToSegmentation <image_file> <BSE_seg_file>" << std::endl;
 		std::exit(0);
 	}
 	imageFilename = argv[1];
