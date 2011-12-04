@@ -3,63 +3,99 @@
 #include <map>
 #include <set>
 
+#include "Segment.h"
+
 using namespace std;
 
-typedef struct Edge
+class Edge
 {
-	int a;
-	int b;
-} Edge;
+public:
+	Segment* a;
+	Segment* b;
+	bool operator<(const Edge & other) const {
+		if(a->label < other.a->label)
+			return true;
+		else if(a->label == other.a->label)
+			if(b->label < other.b->label)
+				return true;
+		return false;
+	}
+};
 
 class Graph
 {
 public:
-	void addVertexIfNotPresent(int v)
+	void addVertexIfNotPresent(Segment* s)
 	{
-		if(!vertexExists(v))
+		if(!vertexExists(s))
 		{
-			graph[v] = set<int>();
-			cout << "added " << v << " to graph" << endl;
+			graph[s] = set<Segment*>();
+			//cout << "added Segment " << s->label << " to graph" << endl;
 		}
 	}
 
-	void addEdgeAndVerticesIfNotPresent(int v1, int v2)
+	void addEdgeAndVerticesIfNotPresent(Segment* s1, Segment* s2)
 	{
-		addVertexIfNotPresent(v1);
-		addVertexIfNotPresent(v2);
-		if(!edgeExists(v1, v2))
+		addVertexIfNotPresent(s1);
+		addVertexIfNotPresent(s2);
+		if(!edgeExists(s1, s2))
 		{
-			graph[v1].insert(v2);
-			graph[v2].insert(v1);
+			graph[s1].insert(s2);
+			graph[s2].insert(s1);
 		}
 	}
 
-	bool edgeExists(int v1, int v2)
+	bool edgeExists(Segment* s1, Segment* s2)
 	{
-		if(!vertexExists(v1) || !vertexExists(v2))
+		if(!vertexExists(s1) || !vertexExists(s2))
 			return false;
 
-		if(graph[v1].find(v2) != graph[v1].end())
+		if(graph[s1].find(s2) != graph[s1].end())
 			return true;
 		else
 			return false;
 	}
 
-	bool vertexExists(int v)
+	bool vertexExists(Segment* s)
 	{
-		bool exists = graph.find(v) != graph.end();
-		if(!exists) cout << v << " does not exist in graph" << endl;
+		bool exists = graph.find(s) != graph.end();
+		/*if(!exists)
+			cout << s << " is NOT in the graph" << endl;
+		else
+			cout << s << " is in the graph" << endl;*/
 		return exists;
 	}
 
-	map<int, set<int> > edges()
+	set<Edge> edges()
 	{
-		return graph;
+		set<Edge> edges;
+		for(map<Segment*, set<Segment*> >::iterator node = graph.begin(); node != graph.end(); node++)
+		{
+			Segment* currentSegment = (*node).first;
+			set<Segment*> neighbors = (*node).second;
+			for(set<Segment*>::iterator neighbor_node = neighbors.begin(); neighbor_node != neighbors.end(); neighbor_node++)
+			{
+				Segment* neighborSegment = (*neighbor_node);
+				Edge canonicalEdge;
+				if(currentSegment->label < neighborSegment->label)
+				{
+					canonicalEdge.a = currentSegment;
+					canonicalEdge.b = neighborSegment;
+				}
+				else
+				{
+					canonicalEdge.a = neighborSegment;
+					canonicalEdge.b = currentSegment;
+				}
+				edges.insert(canonicalEdge);
+			}
+		}
+		return edges;
 	}
 
-	void collapseEdge(int v1, int v2);
+	void collapseEdge(Segment* s1, Segment* s2);
 
 private:
-	map<int, set<int> > graph;
+	map<Segment*, set<Segment*> > graph;
 	
 };

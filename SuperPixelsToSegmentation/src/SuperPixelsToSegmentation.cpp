@@ -8,52 +8,11 @@
 #include <map>
 
 #include "graph.h"
+#include "Segment.h"
 
+#include "Types.h"
 
-
-class Segmentation
-{
-public:
-  int maxLabel;
-  vector<int> labels;
-  int width;
-  int height;
-
-  int getLabel(int x, int y) { return labels[x*height+y]; }
-};
-
-class Color
-{
-public:
-  Color() {};
-  Color(int _r, int _g, int _b) { r = _r; g = _g; b = _b; }
-  unsigned char r;
-  unsigned char g;
-  unsigned char b;
-};
-
-
-template<class T> class Image
-{
-  private:
-  IplImage* imgp;
-  public:
-  Image(IplImage* img=0) {imgp=img;}
-  ~Image(){imgp=0;}
-  void operator=(IplImage* img) {imgp=img;}
-  inline T* operator[](const int rowIndx) {
-    return ((T *)(imgp->imageData + rowIndx*imgp->widthStep));}
-};
-
-typedef struct{
-  float b,g,r;
-} RgbPixelFloat;
-
-typedef Image<Color>       RgbImage;
-typedef Image<RgbPixelFloat>  RgbImageFloat;
-typedef Image<unsigned char>  BwImage;
-typedef Image<float>          BwImageFloat;
-
+#define SEGMENT_COLOR_SIMILARITY_THRESHOLD 25
 
 Segmentation segFile2Vector(string segFilename)
 {
@@ -159,72 +118,93 @@ int SuperPixelsToSegmentation::run(){
 	segImage = cvCreateImage(cvSize(image->width, image->height),IPL_DEPTH_8U,3);
 	Segmentation seg = segFile2Vector(segFilename);
 
-	std::map<int, std::vector<Color> > segmentPixels;
-	std::map<int, IplImage*> segmentMasks;
-	std::map<int, BwImage> segmentMaskWrappers;
-	std::map<int, CvPoint> segmentCentroids;
-	std::map<int, Color> segmentAvgColors;
-	std::map<int, int> segmentPixelCounts;
+
+	std::map<int, Segment> segments;
+
+	//std::map<int, std::vector<Color> > segmentPixels;
+	//std::map<int, IplImage*> segmentMasks;
+	//std::map<int, BwImage> segmentMaskWrappers;
+	//std::map<int, CvPoint> segmentCentroids;
+	//std::map<int, Color> segmentAvgColors;
+	//std::map<int, int> segmentPixelCounts;
 
 	Graph segmentGraph;
 	
 	RgbImage rgbImage(image);
 
+	// create all segments
 	for(int x = 0; x < image->width; x++)
 	{
 		for(int y = 0; y < image->height; y++)
 		{
 			int label = seg.labels[x*image->height+y];
-			float val = float(label) / float(seg.maxLabel);
-			std::map<int, std::vector<Color> >::const_iterator labelColor = segmentPixels.find(label);
-			if(labelColor == segmentPixels.end())
+			//cout << "looking at pixel with label: " << label << endl;
+			std::map<int, Segment>::const_iterator segmentLocation = segments.find(label);
+			if(segmentLocation == segments.end())
 			{
-				cout << "found first label " << label << endl;
-				segmentGraph.addVertexIfNotPresent(label);
-				segmentPixels[label] = std::vector<Color>();
-				segmentMasks[label] = cvCreateImage(cvSize(seg.width, seg.height), IPL_DEPTH_8U, 1);
-				cvSet(segmentMasks[label], cvScalar(0));
-				segmentMaskWrappers[label] = BwImage(segmentMasks[label]);
+				//cout << "found first label " << label << endl;
+
+				Segment newSegment(seg, label);
+				
+				
+				//segmentPixels[label] = std::vector<Color>();
+				//segmentMasks[label] = cvCreateImage(cvSize(seg.width, seg.height), IPL_DEPTH_8U, 1);
+				//segmentMaskWrappers[label] = BwImage(segmentMasks[label]);
+				segments[label] = newSegment;
+				segmentGraph.addVertexIfNotPresent(&segments[label]);
 
 			}
 			Color pixelValue = rgbImage[y][x]; 
-			segmentPixels[label].push_back(pixelValue);
-			segmentMaskWrappers[label][y][x] = 1;
-
-			set<int> adjacentLabels = getAdjacentSegments(seg, x, y);
-			for(set<int>::iterator l = adjacentLabels.begin(); l != adjacentLabels.end(); l++)
-			{
-				if(!segmentGraph.edgeExists(label, *l))
-					segmentGraph.addEdgeAndVerticesIfNotPresent(label, *l);
-			}
-				
+			segments[label].pixels.push_back(pixelValue);
+			segments[label].mask[y][x] = 1;			
 
 		}
 	}
 
+	// create segment adjacency edges
+	for(int x = 0; x < image->width; x++)
+	{
+		for(int y = 0; y < image->height; y++)
+		{
+			int label = seg.labels[x*image->height+y];
+			set<int> adjacentLabels = getAdjacentSegments(seg, x, y);
+			for(set<int>::iterator l = adjacentLabels.begin(); l != adjacentLabels.end(); l++)
+			{
+				
+				if(!segmentGraph.edgeExists(&segments[label], &segments[*l]))
+					segmentGraph.addEdgeAndVerticesIfNotPresent(&segments[label], &segments[*l]);
+			}
+		}
+	}
+
+
 	// calculate average color, contour of each segment
 	CvMemStorage *storage = cvCreateMemStorage(0);
 	CvSeq *contours = 0;
-	for(std::map<int, std::vector<Color> >::iterator s = segmentPixels.begin(); s != segmentPixels.end(); s++)
+	for(std::map<int, Segment>::iterator s = segments.begin(); s != segments.end(); s++)
 	{
+		
+
 		unsigned int totalRed   = 0;
 		unsigned int totalGreen = 0;
 		unsigned int totalBlue  = 0;
 	
-		for(int p = 0; p < (*s).second.size(); p++)
+		Segment* currentSegment = & (*s).second;
+
+		for(int p = 0; p < currentSegment->pixels.size(); p++)
 		{
-			totalRed   += (*s).second[p].r;
-			totalGreen += (*s).second[p].g;
-			totalBlue  += (*s).second[p].b;
+			totalRed   += currentSegment->pixels[p].r;
+			totalGreen += currentSegment->pixels[p].g;
+			totalBlue  += currentSegment->pixels[p].b;
 		}
 		
-		int label = (*s).first;
+		int currentLabel = (*s).first;
 
-		segmentAvgColors[label] = Color(totalRed   / (*s).second.size(),
-                                                       totalGreen / (*s).second.size(),
-                                                       totalBlue  / (*s).second.size());
+		currentSegment->color = Color(totalRed   / currentSegment->pixels.size(),
+                                              totalGreen / currentSegment->pixels.size(),
+                                              totalBlue  / currentSegment->pixels.size());
 
-		cvFindContours(segmentMasks[label], storage, &contours, sizeof(CvContour), CV_RETR_LIST, CV_CHAIN_APPROX_SIMPLE);
+		cvFindContours(currentSegment->iplMask, storage, &contours, sizeof(CvContour), CV_RETR_LIST, CV_CHAIN_APPROX_SIMPLE);
 		CvMoments moments;
 		cvMoments(contours, &moments);
 		double m00, m10, m01;
@@ -236,23 +216,34 @@ int SuperPixelsToSegmentation::run(){
 		// TBD check that m00 != 0
 		float center_x = m10/m00;
 		float center_y = m01/m00;
-		segmentCentroids[label] = cvPoint(center_x, center_y);
+		currentSegment->centroid = cvPoint(center_x, center_y);
 
 		cvDrawContours(image, contours, CV_RGB(255,0,0), CV_RGB(0,255,0), 10, 1, CV_AA, cvPoint(0,0));
 
-		cout << "Label " << (*s).first << ": (first, last, average) = ("
-                     << (int) (*s).second[0].r << ", " << (int) (*s).second[(*s).second.size()-1].r << ", " << (int) segmentAvgColors[label].r << ")"
-		     << "Pixel Count: " << (*s).second.size() << endl;
+		//cout << "Label " << (*s).first << ": (first, last, average) = ("
+                //     << (int) (*s).second[0].r << ", " << (int) (*s).second[(*s).second.size()-1].r << ", " << (int) segmentAvgColors[label].r << ")"
+		//     << "Pixel Count: " << (*s).second.size() << endl;
 	}
 
 	// merge similar adjacent segments
-	for(int x = 0; x < image->width; x++)
+	/*bool updatedGraph = true;
+	while(updatedGraph)
 	{
-		for(int y = 0; y < image->height; y++)
+		set<Edge> edges = segmentGraph.edges();
+		updatedGraph = false;
+		for(set<Edge>::iterator e = edges.begin(); e != edges.end() && !updatedGraph; e++)
 		{
-			
+			Segment* segment1 = (*e).a;
+			Segment* segment2 = (*e).b;
+
+			if(Color::distance(segment1->color, segment2->color) < SEGMENT_COLOR_SIMILARITY_THRESHOLD)
+			{
+				segmentGraph.collapseEdge((*e), Segment::combine(segment1, segment2));
+				updatedGraph = true;
+				break;
+			}
 		}
-	}
+	}*/
 
 	// assign segment colors to segmentation visualization image
 	RgbImage rgbSegImage(segImage);
@@ -261,16 +252,16 @@ int SuperPixelsToSegmentation::run(){
 		for(int y = 0; y < image->height; y++)
 		{
 			int label = seg.labels[x*image->height+y];
-			rgbSegImage[y][x] = segmentAvgColors[label];
+			rgbSegImage[y][x] = segments[label].color;
 		}
 	}
 
 	// draw graph into segmentation image
-	map<int, set<int> > edges = segmentGraph.edges();
-	for(map<int, set<int> >::iterator e = edges.begin(); e != edges.end(); e++)
+	set<Edge> edges = segmentGraph.edges();
+	for(set<Edge>::iterator e = edges.begin(); e != edges.end(); e++)
 	{
-		for(set<int>::iterator other_seg = (*e).second.begin(); other_seg != (*e).second.end(); other_seg++)
-			cvLine(image, segmentCentroids[(*e).first], segmentCentroids[(*other_seg)], CV_RGB(0, 0, 255), 1, CV_AA);
+		//for(set<int>::iterator other_seg = (*e).second.begin(); other_seg != (*e).second.end(); other_seg++)
+		cvLine(image, (*e).a->centroid, (*e).b->centroid, CV_RGB(0, 0, 255), 1, CV_AA);
 	}
 
 	//segImage.update();
