@@ -1,5 +1,7 @@
 #include "SuperPixelsToSegmentation.h"
 
+#include <opencv/highgui.h>
+
 #include <iostream>
 #include <fstream>
 
@@ -19,6 +21,39 @@ public:
 
   int getLabel(int x, int y) { return labels[x*height+y]; }
 };
+
+class Color
+{
+public:
+  Color() {};
+  Color(int _r, int _g, int _b) { r = _r; g = _g; b = _b; }
+  unsigned char r;
+  unsigned char g;
+  unsigned char b;
+};
+
+
+template<class T> class Image
+{
+  private:
+  IplImage* imgp;
+  public:
+  Image(IplImage* img=0) {imgp=img;}
+  ~Image(){imgp=0;}
+  void operator=(IplImage* img) {imgp=img;}
+  inline T* operator[](const int rowIndx) {
+    return ((T *)(imgp->imageData + rowIndx*imgp->widthStep));}
+};
+
+typedef struct{
+  float b,g,r;
+} RgbPixelFloat;
+
+typedef Image<Color>       RgbImage;
+typedef Image<RgbPixelFloat>  RgbImageFloat;
+typedef Image<unsigned char>  BwImage;
+typedef Image<float>          BwImageFloat;
+
 
 Segmentation segFile2Vector(string segFilename)
 {
@@ -111,42 +146,43 @@ set<int> getAdjacentSegments(Segmentation seg, int x, int y)
 //--------------------------------------------------------------
 int SuperPixelsToSegmentation::run(){
 	image = 0; 
-	image = cvLoadImage(imageFilename);
+	image = cvLoadImage(imageFilename.c_str());
 	if(!image)
 	{
-		printf("Could not load image file: %s\n",fileName);
+		printf("Could not load image file: %s\n",imageFilename.c_str());
 		return 1;
 	}
 
-	cout << "Loaded " << imageFilename << endl << "width: " << cvImageWidth(image) << endl;
+	cout << "Loaded " << imageFilename << endl << "width: " << image->width << endl;
 
 	///segImage.clear();
-	///segImage.allocate(image.width, image.height, OF_IMAGE_COLOR);
+	segImage = cvCreateImage(cvSize(image->width, image->height),IPL_DEPTH_8U,3);
 	Segmentation seg = segFile2Vector(segFilename);
 
-
-	std::map<int, std::vector<ofColor> > segmentPixels;
-	std::map<int, ofColor > segmentAvgColors;
+	std::map<int, std::vector<Color> > segmentPixels;
+	std::map<int, Color > segmentAvgColors;
 	std::map<int, int> segmentPixelCounts;
 
 	Graph segmentGraph;
+	
+	RgbImage rgbImage(image);
 
-	for(int x = 0; x < image.width; x++)
+	for(int x = 0; x < image->width; x++)
 	{
-		for(int y = 0; y < image.height; y++)
+		for(int y = 0; y < image->height; y++)
 		{
-			int label = seg.labels[x*image.height+y];
+			int label = seg.labels[x*image->height+y];
 			float val = float(label) / float(seg.maxLabel);
-			std::map<int, std::vector<ofColor> >::const_iterator labelColor = segmentPixels.find(label);
+			std::map<int, std::vector<Color> >::const_iterator labelColor = segmentPixels.find(label);
 			if(labelColor == segmentPixels.end())
 			{
 				cout << "found first label " << label << endl;
 				segmentGraph.addVertexIfNotPresent(label);
-				segmentPixels[label] = std::vector<ofColor>();
+				segmentPixels[label] = std::vector<Color>();
 
 			}
-
-			segmentPixels[label].push_back(image.getColor(x,y));
+			Color pixelValue = rgbImage[y][x]; 
+			segmentPixels[label].push_back(pixelValue);
 
 			set<int> adjacentLabels = getAdjacentSegments(seg, x, y);
 			for(set<int>::iterator l = adjacentLabels.begin(); l != adjacentLabels.end(); l++)
@@ -160,7 +196,7 @@ int SuperPixelsToSegmentation::run(){
 	}
 
 	// calculate average color in each segment
-	for(std::map<int, std::vector<ofColor> >::iterator s = segmentPixels.begin(); s != segmentPixels.end(); s++)
+	for(std::map<int, std::vector<Color> >::iterator s = segmentPixels.begin(); s != segmentPixels.end(); s++)
 	{
 		unsigned int totalRed   = 0;
 		unsigned int totalGreen = 0;
@@ -175,7 +211,7 @@ int SuperPixelsToSegmentation::run(){
 		
 		int label = (*s).first;
 
-		segmentAvgColors[label] = ofColor(totalRed   / (*s).second.size(),
+		segmentAvgColors[label] = Color(totalRed   / (*s).second.size(),
                                                        totalGreen / (*s).second.size(),
                                                        totalBlue  / (*s).second.size());
 
@@ -186,28 +222,38 @@ int SuperPixelsToSegmentation::run(){
 	}
 
 	// merge similar adjacent segments
-	for(int x = 0; x < image.width; x++)
+	for(int x = 0; x < image->width; x++)
 	{
-		for(int y = 0; y < image.height; y++)
+		for(int y = 0; y < image->height; y++)
 		{
 			
 		}
 	}
 
 	// assign segment colors to segmentation visualization image
-	for(int x = 0; x < image.width; x++)
+	RgbImage rgbSegImage(segImage);
+	for(int x = 0; x < image->width; x++)
 	{
-		for(int y = 0; y < image.height; y++)
+		for(int y = 0; y < image->height; y++)
 		{
-			int label = seg.labels[x*image.height+y];
-			segImage.setColor(x, y, segmentAvgColors[label]);
+			int label = seg.labels[x*image->height+y];
+			rgbSegImage[y][x] = segmentAvgColors[label];
 		}
 	}
 
 
-	segImage.update();
+	//segImage.update();
 	cout << endl;
-	
+
+	cvNamedWindow("image", CV_WINDOW_AUTOSIZE);
+	cvMoveWindow("image", 0, 300);
+	cvNamedWindow("seg image", CV_WINDOW_AUTOSIZE);
+	cvMoveWindow("seg image", image->width, 300);
+
+	cvShowImage("image", image);
+	cvShowImage("seg image", segImage);
+
+	cvWaitKey(0);
 
 	return 0;
 }

@@ -28,5 +28,5 @@ target_link_libraries (SuperPixelsToSegmentation
   #opencv_imgproc
   #opencv_objdetect
   #opencv_legacy
-  #opencv_highgui
+  opencv_highgui
 )
