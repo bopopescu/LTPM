@@ -162,6 +162,7 @@ int SuperPixelsToSegmentation::run(){
 	std::map<int, std::vector<Color> > segmentPixels;
 	std::map<int, IplImage*> segmentMasks;
 	std::map<int, BwImage> segmentMaskWrappers;
+	std::map<int, CvPoint> segmentCentroids;
 	std::map<int, Color> segmentAvgColors;
 	std::map<int, int> segmentPixelCounts;
 
@@ -224,7 +225,19 @@ int SuperPixelsToSegmentation::run(){
                                                        totalBlue  / (*s).second.size());
 
 		cvFindContours(segmentMasks[label], storage, &contours, sizeof(CvContour), CV_RETR_LIST, CV_CHAIN_APPROX_SIMPLE);
-		
+		CvMoments moments;
+		cvMoments(contours, &moments);
+		double m00, m10, m01;
+
+		m00 = cvGetSpatialMoment(&moments, 0,0);
+		m10 = cvGetSpatialMoment(&moments, 1,0);
+		m01 = cvGetSpatialMoment(&moments, 0,1);
+
+		// TBD check that m00 != 0
+		float center_x = m10/m00;
+		float center_y = m01/m00;
+		segmentCentroids[label] = cvPoint(center_x, center_y);
+
 		cvDrawContours(image, contours, CV_RGB(255,0,0), CV_RGB(0,255,0), 10, 1, CV_AA, cvPoint(0,0));
 
 		cout << "Label " << (*s).first << ": (first, last, average) = ("
@@ -252,6 +265,13 @@ int SuperPixelsToSegmentation::run(){
 		}
 	}
 
+	// draw graph into segmentation image
+	map<int, set<int> > edges = segmentGraph.edges();
+	for(map<int, set<int> >::iterator e = edges.begin(); e != edges.end(); e++)
+	{
+		for(set<int>::iterator other_seg = (*e).second.begin(); other_seg != (*e).second.end(); other_seg++)
+			cvLine(image, segmentCentroids[(*e).first], segmentCentroids[(*other_seg)], CV_RGB(0, 0, 255), 1, CV_AA);
+	}
 
 	//segImage.update();
 	cout << endl;

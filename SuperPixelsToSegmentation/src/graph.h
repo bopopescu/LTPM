@@ -5,6 +5,12 @@
 
 using namespace std;
 
+typedef struct Edge
+{
+	int a;
+	int b;
+} Edge;
+
 class Graph
 {
 public:
@@ -44,6 +50,11 @@ public:
 		bool exists = graph.find(v) != graph.end();
 		if(!exists) cout << v << " does not exist in graph" << endl;
 		return exists;
+	}
+
+	map<int, set<int> > edges()
+	{
+		return graph;
 	}
 
 	void collapseEdge(int v1, int v2);
