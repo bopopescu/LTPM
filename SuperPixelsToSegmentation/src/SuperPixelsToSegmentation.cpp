@@ -12,7 +12,7 @@
 
 #include "Types.h"
 
-#define SEGMENT_COLOR_SIMILARITY_THRESHOLD 25
+#define SEGMENT_COLOR_SIMILARITY_THRESHOLD 50
 
 Segmentation segFile2Vector(string segFilename)
 {
@@ -121,13 +121,6 @@ int SuperPixelsToSegmentation::run(){
 
 	std::map<int, Segment> segments;
 
-	//std::map<int, std::vector<Color> > segmentPixels;
-	//std::map<int, IplImage*> segmentMasks;
-	//std::map<int, BwImage> segmentMaskWrappers;
-	//std::map<int, CvPoint> segmentCentroids;
-	//std::map<int, Color> segmentAvgColors;
-	//std::map<int, int> segmentPixelCounts;
-
 	Graph segmentGraph;
 	
 	RgbImage rgbImage(image);
@@ -142,14 +135,11 @@ int SuperPixelsToSegmentation::run(){
 			std::map<int, Segment>::const_iterator segmentLocation = segments.find(label);
 			if(segmentLocation == segments.end())
 			{
-				//cout << "found first label " << label << endl;
 
 				Segment newSegment(seg, label);
 				
 				
-				//segmentPixels[label] = std::vector<Color>();
-				//segmentMasks[label] = cvCreateImage(cvSize(seg.width, seg.height), IPL_DEPTH_8U, 1);
-				//segmentMaskWrappers[label] = BwImage(segmentMasks[label]);
+
 				segments[label] = newSegment;
 				segmentGraph.addVertexIfNotPresent(&segments[label]);
 
@@ -179,8 +169,6 @@ int SuperPixelsToSegmentation::run(){
 
 
 	// calculate average color, contour of each segment
-	CvMemStorage *storage = cvCreateMemStorage(0);
-	CvSeq *contours = 0;
 	for(std::map<int, Segment>::iterator s = segments.begin(); s != segments.end(); s++)
 	{
 		
@@ -204,21 +192,9 @@ int SuperPixelsToSegmentation::run(){
                                               totalGreen / currentSegment->pixels.size(),
                                               totalBlue  / currentSegment->pixels.size());
 
-		cvFindContours(currentSegment->iplMask, storage, &contours, sizeof(CvContour), CV_RETR_LIST, CV_CHAIN_APPROX_SIMPLE);
-		CvMoments moments;
-		cvMoments(contours, &moments);
-		double m00, m10, m01;
+		currentSegment->updateContour();
 
-		m00 = cvGetSpatialMoment(&moments, 0,0);
-		m10 = cvGetSpatialMoment(&moments, 1,0);
-		m01 = cvGetSpatialMoment(&moments, 0,1);
-
-		// TBD check that m00 != 0
-		float center_x = m10/m00;
-		float center_y = m01/m00;
-		currentSegment->centroid = cvPoint(center_x, center_y);
-
-		cvDrawContours(image, contours, CV_RGB(255,0,0), CV_RGB(0,255,0), 10, 1, CV_AA, cvPoint(0,0));
+		//cvDrawContours(image, currentSegment->contour, CV_RGB(255,0,0), CV_RGB(0,255,0), 10, 1, CV_AA, cvPoint(0,0));
 
 		//cout << "Label " << (*s).first << ": (first, last, average) = ("
                 //     << (int) (*s).second[0].r << ", " << (int) (*s).second[(*s).second.size()-1].r << ", " << (int) segmentAvgColors[label].r << ")"
@@ -226,7 +202,7 @@ int SuperPixelsToSegmentation::run(){
 	}
 
 	// merge similar adjacent segments
-	/*bool updatedGraph = true;
+	bool updatedGraph = true;
 	while(updatedGraph)
 	{
 		set<Edge> edges = segmentGraph.edges();
@@ -238,12 +214,13 @@ int SuperPixelsToSegmentation::run(){
 
 			if(Color::distance(segment1->color, segment2->color) < SEGMENT_COLOR_SIMILARITY_THRESHOLD)
 			{
-				segmentGraph.collapseEdge((*e), Segment::combine(segment1, segment2));
+				segmentGraph.collapseEdge(*e);
 				updatedGraph = true;
 				break;
 			}
 		}
-	}*/
+	}
+	// segments is now invalid-ish
 
 	// assign segment colors to segmentation visualization image
 	RgbImage rgbSegImage(segImage);
@@ -256,25 +233,41 @@ int SuperPixelsToSegmentation::run(){
 		}
 	}
 
+	// make image with collapsed segmentation
+	IplImage* mergedSegmentsImage = cvCreateImage(cvSize(segImage->width, segImage->height), IPL_DEPTH_8U, 3);
+	vector<Segment*> collapsedSegments = segmentGraph.vertices();
+	for(int n = 0; n < collapsedSegments.size(); n++)
+	{
+		Segment* s = collapsedSegments[n];
+		cvDrawContours(mergedSegmentsImage, s->contour, CV_RGB(0, 0, 0), CV_RGB(s->color.r, s->color.g, s->color.b), 10, 1, CV_AA);
+	}
+
 	// draw graph into segmentation image
 	set<Edge> edges = segmentGraph.edges();
 	for(set<Edge>::iterator e = edges.begin(); e != edges.end(); e++)
 	{
+		
+		cvDrawContours(image, (*e).a->contour, CV_RGB(255,0,0), CV_RGB(0,255,0), 10, 1, CV_AA, cvPoint(0,0));
+
 		//for(set<int>::iterator other_seg = (*e).second.begin(); other_seg != (*e).second.end(); other_seg++)
 		cvLine(image, (*e).a->centroid, (*e).b->centroid, CV_RGB(0, 0, 255), 1, CV_AA);
+
 	}
 
 	//segImage.update();
 	cout << endl;
 
+	int top = 200;
 	cvNamedWindow("image", CV_WINDOW_AUTOSIZE);
-	cvMoveWindow("image", 0, 300);
+	cvMoveWindow("image", 0, top);
 	cvNamedWindow("seg image", CV_WINDOW_AUTOSIZE);
-	cvMoveWindow("seg image", image->width, 300);
-
+	cvMoveWindow("seg image", image->width, top);
+	cvNamedWindow("collapsed segments", CV_WINDOW_AUTOSIZE);
+	cvMoveWindow("collapsed segments", image->width, top + image->height);
 
 	cvShowImage("image", image);
 	cvShowImage("seg image", segImage);
+	cvShowImage("collapsed segments", mergedSegmentsImage);
 
 	cvWaitKey(0);
 

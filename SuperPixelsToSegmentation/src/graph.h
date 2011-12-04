@@ -93,7 +93,58 @@ public:
 		return edges;
 	}
 
-	void collapseEdge(Segment* s1, Segment* s2);
+	void collapseEdge(const Edge e)
+	{
+		Segment *s1 = e.a, *s2 = e.b;
+
+		Segment *newSegment = Segment::combine(e.a, e.b);
+		set<Segment*> newSegmentNeighbors;
+		newSegmentNeighbors.insert(graph[s1].begin(), graph[s1].end());
+		newSegmentNeighbors.insert(graph[s2].begin(), graph[s2].end());
+		newSegmentNeighbors.erase(s1);
+		newSegmentNeighbors.erase(s2);
+			
+
+
+		// replace s2 references with s1 references
+		for(map<Segment*, set<Segment*> >::iterator node = graph.begin(); node != graph.end(); node++)
+		{
+			set<Segment*>::iterator s2Location = (*node).second.find(s2);
+			if(s2Location != (*node).second.end())
+			{
+				(*node).second.erase(s2);
+				(*node).second.insert(newSegment);
+			}
+
+			set<Segment*>::iterator s1Location = (*node).second.find(s1);
+			if(s1Location != (*node).second.end())
+			{
+				(*node).second.erase(s1);
+				(*node).second.insert(newSegment);
+			}
+
+
+		}
+
+
+		// remove s1 and s2
+		graph.erase(s1);
+		graph.erase(s2);
+		
+		graph[newSegment] = newSegmentNeighbors;
+
+		
+	}
+
+	vector<Segment*> vertices()
+	{
+		vector<Segment*> vertices;
+		for(map<Segment*, set<Segment*> >::iterator node = graph.begin(); node != graph.end(); node++)
+		{
+			vertices.push_back((*node).first);
+		}
+		return vertices;
+	}
 
 private:
 	map<Segment*, set<Segment*> > graph;
