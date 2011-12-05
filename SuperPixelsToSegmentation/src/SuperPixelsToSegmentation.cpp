@@ -83,9 +83,9 @@ Segmentation segFile2Vector(string segFilename)
 
 }
 
-set<int> getAdjacentSegments(Segmentation seg, int x, int y)
+std::set<int> getAdjacentSegments(Segmentation seg, int x, int y)
 {
-	set<int> adjacentLabels;
+	std::set<int> adjacentLabels;
 
 	for(int neighborX = MAX(0, x-1); neighborX <= MIN(seg.width-1, x+1); neighborX++)
 	{
@@ -175,8 +175,8 @@ int SuperPixelsToSegmentation::run(){
 		for(int y = 0; y < image->height; y++)
 		{
 			int label = seg.labels[x*image->height+y];
-			set<int> adjacentLabels = getAdjacentSegments(seg, x, y);
-			for(set<int>::iterator l = adjacentLabels.begin(); l != adjacentLabels.end(); l++)
+			std::set<int> adjacentLabels = getAdjacentSegments(seg, x, y);
+			for(std::set<int>::iterator l = adjacentLabels.begin(); l != adjacentLabels.end(); l++)
 			{
 				
 				if(!segmentGraph.edgeExists(&segments[label], &segments[*l]))
@@ -223,9 +223,9 @@ int SuperPixelsToSegmentation::run(){
 	bool updatedGraph = true;
 	while(updatedGraph)
 	{
-		set<Edge> edges = segmentGraph.edges();
+		std::set<Edge> edges = segmentGraph.edges();
 		updatedGraph = false;
-		for(set<Edge>::iterator e = edges.begin(); e != edges.end() && !updatedGraph; e++)
+		for(std::set<Edge>::iterator e = edges.begin(); e != edges.end() && !updatedGraph; e++)
 		{
 			Segment* segment1 = (*e).a;
 			Segment* segment2 = (*e).b;
@@ -265,13 +265,13 @@ int SuperPixelsToSegmentation::run(){
 
 
 	// draw graph into segmentation image
-	set<Edge> edges = segmentGraph.edges();
-	for(set<Edge>::iterator e = edges.begin(); e != edges.end(); e++)
+	std::set<Edge> edges = segmentGraph.edges();
+	for(std::set<Edge>::iterator e = edges.begin(); e != edges.end(); e++)
 	{
 		
 		cvDrawContours(image, (*e).a->contour, CV_RGB(255,0,0), CV_RGB(0,255,0), 10, 1, CV_AA, cvPoint(0,0));
 
-		//for(set<int>::iterator other_seg = (*e).second.begin(); other_seg != (*e).second.end(); other_seg++)
+		//for(std::set<int>::iterator other_seg = (*e).second.begin(); other_seg != (*e).second.end(); other_seg++)
 		cvLine(image, (*e).a->centroid, (*e).b->centroid, CV_RGB(0, 0, 255), 1, CV_AA);
 
 	}

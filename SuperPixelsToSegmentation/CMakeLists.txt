@@ -6,6 +6,7 @@ find_package(OpenCV)
 
 include_directories(
   ../Common
+  ../Libraries/boost_1_48_0
   ${OpenCV_INCLUDE_DIR}
 )
 

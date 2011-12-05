@@ -5,7 +5,6 @@
 
 #include "Segment.h"
 
-using namespace std;
 
 class Edge
 {
@@ -29,7 +28,7 @@ public:
 	{
 		if(!vertexExists(s))
 		{
-			graph[s] = set<Segment*>();
+			graph[s] = std::set<Segment*>();
 			//cout << "added Segment " << s->label << " to graph" << endl;
 		}
 	}
@@ -66,14 +65,14 @@ public:
 		return exists;
 	}
 
-	set<Edge> edges()
+	std::set<Edge> edges()
 	{
-		set<Edge> edges;
-		for(map<Segment*, set<Segment*> >::iterator node = graph.begin(); node != graph.end(); node++)
+		std::set<Edge> edges;
+		for(map<Segment*, std::set<Segment*> >::iterator node = graph.begin(); node != graph.end(); node++)
 		{
 			Segment* currentSegment = (*node).first;
-			set<Segment*> neighbors = (*node).second;
-			for(set<Segment*>::iterator neighbor_node = neighbors.begin(); neighbor_node != neighbors.end(); neighbor_node++)
+			std::set<Segment*> neighbors = (*node).second;
+			for(std::set<Segment*>::iterator neighbor_node = neighbors.begin(); neighbor_node != neighbors.end(); neighbor_node++)
 			{
 				Segment* neighborSegment = (*neighbor_node);
 				Edge canonicalEdge;
@@ -98,7 +97,7 @@ public:
 		Segment *s1 = e.a, *s2 = e.b;
 
 		Segment *newSegment = Segment::combine(e.a, e.b);
-		set<Segment*> newSegmentNeighbors;
+		std::set<Segment*> newSegmentNeighbors;
 		newSegmentNeighbors.insert(graph[s1].begin(), graph[s1].end());
 		newSegmentNeighbors.insert(graph[s2].begin(), graph[s2].end());
 		newSegmentNeighbors.erase(s1);
@@ -107,16 +106,16 @@ public:
 
 
 		// replace s2 references with s1 references
-		for(map<Segment*, set<Segment*> >::iterator node = graph.begin(); node != graph.end(); node++)
+		for(map<Segment*, std::set<Segment*> >::iterator node = graph.begin(); node != graph.end(); node++)
 		{
-			set<Segment*>::iterator s2Location = (*node).second.find(s2);
+			std::set<Segment*>::iterator s2Location = (*node).second.find(s2);
 			if(s2Location != (*node).second.end())
 			{
 				(*node).second.erase(s2);
 				(*node).second.insert(newSegment);
 			}
 
-			set<Segment*>::iterator s1Location = (*node).second.find(s1);
+			std::set<Segment*>::iterator s1Location = (*node).second.find(s1);
 			if(s1Location != (*node).second.end())
 			{
 				(*node).second.erase(s1);
@@ -139,7 +138,7 @@ public:
 	vector<Segment*> vertices()
 	{
 		vector<Segment*> vertices;
-		for(map<Segment*, set<Segment*> >::iterator node = graph.begin(); node != graph.end(); node++)
+		for(map<Segment*, std::set<Segment*> >::iterator node = graph.begin(); node != graph.end(); node++)
 		{
 			vertices.push_back((*node).first);
 		}
@@ -147,6 +146,6 @@ public:
 	}
 
 private:
-	map<Segment*, set<Segment*> > graph;
+	map<Segment*, std::set<Segment*> > graph;
 	
 };
