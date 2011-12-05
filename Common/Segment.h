@@ -21,6 +21,8 @@ public:
 
 	void updateContour();
 
+	float areaOfIntersectionWith(Segment & other);
+
 	std::vector<Color> pixels;
 	BwImage mask;
 	IplImage* iplMask;
@@ -37,4 +39,4 @@ public:
 	Polygon polygon;
 };
 
-float compareSegmentations(vector<Segment> a, vector<Segment> b);
+float scoreCandidate(vector<Segment> targetSegmentation, vector<Segment> candidateSegmentation);

@@ -1,5 +1,6 @@
 #include "Segment.h"
 
+#include <boost/foreach.hpp>
 
 Segment* Segment::combine(Segment *s1, Segment *s2)
 {
@@ -65,18 +66,84 @@ void Segment::updateContour()
 	centroid = cvPoint(center_x, center_y);
 }
 
-float compareSegmentations(vector<Segment> a, vector<Segment> b)
+
+float Segment::areaOfIntersectionWith(Segment & other)
 {
-/*	std::deque<Polygon> output;
-	boost::geometry::intersection(green, blue, output);
+
+	std::deque<Polygon> output;
+	boost::geometry::intersection(polygon, other.polygon, output);
+
+	float intersectionArea = 0.0;
 
 	int i = 0;
-	std::cout << "green && blue:" << std::endl;
-	BOOST_FOREACH(polygon const& p, output)
+	BOOST_FOREACH(Polygon const& p, output)
 	{
-		std::cout << i++ << ": " << boost::geometry::area(p) << std::endl;
+		intersectionArea += boost::geometry::area(p);
 	}
-*/
 
-	return 1.0;
+	return intersectionArea;
+}
+
+class Match
+{
+public:
+	Match() { };
+	Match(Segment * _segment, float _score) { segment = _segment; score = _score; };
+	float score;
+	Segment* segment;
+};
+
+bool contains(map<Segment*, Match> _map, Segment* key)
+{
+	map<Segment*, Match>::iterator location = _map.find(key);
+	return location != _map.end();
+}
+
+float scoreCandidate(vector<Segment> targetSegmentation, vector<Segment> candidateSegmentation)
+{
+
+	// TODO add color matching in here.
+
+	map<Segment*, Match> bestMatchByTarget;
+	float totalTargetArea = 0;.0;
+	for(int targetSegmentIndex = 0; targetSegmentIndex < targetSegmentation.size(); targetSegmentIndex++)
+	{
+		Segment* targetSegment = & targetSegmentation[targetSegmentIndex];
+		totalTargetArea += area(targetSegment->polygon);
+	}
+
+	// assign each candidate segment to the target segment it most intersects with
+	// pair each target segment with the best candidate segment match (most intersects)
+	for(int candidateSegmentIndex = 0; candidateSegmentIndex < candidateSegmentation.size(); candidateSegmentIndex++)
+	{
+		Segment* candidateSegment = & candidateSegmentation[candidateSegmentIndex];
+		
+		for(int targetSegmentIndex = 0; targetSegmentIndex < targetSegmentation.size(); targetSegmentIndex++)
+		{
+			Segment* targetSegment = & targetSegmentation[targetSegmentIndex];
+			float pairOverlap = candidateSegment->areaOfIntersectionWith(*targetSegment);
+			if(!contains(bestMatchByTarget, targetSegment))
+				bestMatchByTarget[targetSegment] = Match(candidateSegment, pairOverlap);
+			else if(pairOverlap > bestMatchByTarget[targetSegment].score)
+				bestMatchByTarget[targetSegment] = Match(candidateSegment, pairOverlap);
+		}
+	}
+
+	// sum intersection areas of all pairs
+	float totalMatchArea = 0.0;
+	for(map<Segment*, Match>::iterator match = bestMatchByTarget.begin(); match != bestMatchByTarget.end(); match++)
+	{
+		totalMatchArea += (*match).second.score;
+		cerr << "match score: " << (*match).second.score << endl;
+	}
+
+	// divide total intersection area by total target polygon area
+	float match = totalMatchArea / totalTargetArea;
+
+	// return
+
+
+
+
+	return match;
 }
