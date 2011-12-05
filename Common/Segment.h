@@ -36,3 +36,5 @@ public:
 	CvSeq *contour;
 	Polygon polygon;
 };
+
+float compareSegmentations(vector<Segment> a, vector<Segment> b);
