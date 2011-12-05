@@ -46,7 +46,17 @@ Segment::Segment(Segmentation & _seg, int _label)
 	seg = &_seg;
 }
 
+bool Segment::hasCVContour()
+{
+	contour = 0;
 
+	
+	cvFindContours(iplMask, storage, &contour, sizeof(CvContour), CV_RETR_LIST, CV_CHAIN_APPROX_SIMPLE);
+	CvMoments moments;
+	
+	if(contour == 0) return false;
+	else return true;
+}
 
 void Segment::updateContour()
 {
@@ -54,9 +64,19 @@ void Segment::updateContour()
 
 	cvFindContours(iplMask, storage, &contour, sizeof(CvContour), CV_RETR_LIST, CV_CHAIN_APPROX_NONE);
 	CvMoments moments;
+	
+//	CvSeq* c = contour;
+//cerr << "-------------------------- " << c << endl;
+	/*for( CvSeq* c = contour; c!=NULL; c=c->h_next ){
+			for(int i = 0; i < c->total; i++){
+				CvPoint* p = CV_GET_SEQ_ELEM( CvPoint, c, i );
+				cerr << p->x << "," << p->y << endl;
+			}
+		}
+*/
 	cvMoments(contour, &moments);
 	double m00, m10, m01;
-
+	
 	m00 = cvGetSpatialMoment(&moments, 0,0);
 	m10 = cvGetSpatialMoment(&moments, 1,0);
 	m01 = cvGetSpatialMoment(&moments, 0,1);
