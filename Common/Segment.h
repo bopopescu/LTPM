@@ -18,7 +18,8 @@ public:
 
 	Segment();
 	Segment(Segmentation & seg, int label);
-
+	
+	bool hasCVContour();
 	void updateContour();
 
 	float areaOfIntersectionWith(Segment & other);

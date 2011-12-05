@@ -1,5 +1,5 @@
 #!/bin/sh
-
+# needs path to images and number of super pixels to generate
 #mkdir $1/segs
 
 for i in $1*.jpg

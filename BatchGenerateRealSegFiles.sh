@@ -4,5 +4,5 @@
 for i in $1*.jpg
 do 
 echo Working on... $i
-./SuperPixelsToSegmentation/build/SuperPixelsToSegmentation $i $i.$2.seg 0 > $3/$(basename $i).realseg
+./SuperPixelsToSegmentation/build/SuperPixelsToSegmentation $i $i.$2.seg 0 > $3/$(basename $i).$2.realseg
 done

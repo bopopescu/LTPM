@@ -15,6 +15,7 @@ class SuperPixelsToSegmentation {
 
 		string imageFilename;
 		string segFilename;
+		int shouldVisualize;
 		
 		IplImage* image;
 		IplImage* segImage;

@@ -135,7 +135,7 @@ int SuperPixelsToSegmentation::run(){
 	///segImage.clear();
 	segImage = cvCreateImage(cvSize(image->width, image->height),IPL_DEPTH_8U,3);
 	Segmentation seg = segFile2Vector(segFilename);
-
+	
 
 	std::map<int, Segment> segments;
 
@@ -159,32 +159,61 @@ int SuperPixelsToSegmentation::run(){
 				
 
 				segments[label] = newSegment;
-				segmentGraph.addVertexIfNotPresent(&segments[label]);
+				//segmentGraph.addVertexIfNotPresent(&segments[label]);
 
 			}
 			Color pixelValue = rgbImage[y][x]; 
 			segments[label].pixels.push_back(pixelValue);
-			segments[label].mask[y][x] = 1;			
+			segments[label].mask[y][x] = 255;			
 
 		}
 	}
 
+	// remove invalid segments
+	vector<int> invalidLabels;
+	for(std::map<int, Segment>::iterator s = segments.begin(); s != segments.end(); s++)
+	{
+		Segment* currentSegment = & (*s).second;
+		if(!currentSegment->hasCVContour()) {
+			invalidLabels.push_back((*s).first); 
+		}
+		else segmentGraph.addVertexIfNotPresent(currentSegment);
+	}
+
+	for(int i = 0;  i < invalidLabels.size(); i++)
+	{
+		cerr << "label: " << invalidLabels[i] << " is invalid" <<  endl;
+		segments.erase(invalidLabels[i]);
+		if(segments.find(invalidLabels[i]) != segments.end()) cerr << invalidLabels[i] << " still in the segments map" << endl;
+	}
+
+	//if(segments.find(0) != segments.end()) cerr << 0 << " still in the segments map" << endl;
+	
 	// create segment adjacency edges
 	for(int x = 0; x < image->width; x++)
 	{
 		for(int y = 0; y < image->height; y++)
 		{
 			int label = seg.labels[x*image->height+y];
+			if(find(invalidLabels.begin(), invalidLabels.end(), label) != invalidLabels.end()) { 
+				//cerr << "label: " << label << endl;
+				continue;
+			}
+
 			std::set<int> adjacentLabels = getAdjacentSegments(seg, x, y);
 			for(std::set<int>::iterator l = adjacentLabels.begin(); l != adjacentLabels.end(); l++)
 			{
-				
+				if(find(invalidLabels.begin(), invalidLabels.end(), *l) != invalidLabels.end()) { 
+					//cerr << "other label: " << *l << endl;
+					continue;
+				}
 				if(!segmentGraph.edgeExists(&segments[label], &segments[*l]))
 					segmentGraph.addEdgeAndVerticesIfNotPresent(&segments[label], &segments[*l]);
 			}
 		}
 	}
 
+	//if(segments.find(0) != segments.end()) cerr << 0 << " still in the segments map" << endl;
 
 	// calculate average color, contour of each segment
 	for(std::map<int, Segment>::iterator s = segments.begin(); s != segments.end(); s++)
@@ -196,24 +225,37 @@ int SuperPixelsToSegmentation::run(){
 		unsigned int totalBlue  = 0;
 	
 		Segment* currentSegment = & (*s).second;
-
 		for(int p = 0; p < currentSegment->pixels.size(); p++)
 		{
 			totalRed   += currentSegment->pixels[p].r;
 			totalGreen += currentSegment->pixels[p].g;
 			totalBlue  += currentSegment->pixels[p].b;
 		}
-		
+				
 		int currentLabel = (*s).first;
 
 		currentSegment->color = Color(totalRed   / currentSegment->pixels.size(),
                                               totalGreen / currentSegment->pixels.size(),
                                               totalBlue  / currentSegment->pixels.size());
+				
 
-		currentSegment->updateContour();
+		
+
+		//cerr << "Avg Color: " << (int)currentSegment->color.r << " " << (int)currentSegment->color.g << " " << (int)currentSegment->color.g << endl;
+		//cerr << "label: " << currentSegment->label << " numPixels: " << currentSegment->pixels.size() << endl;
+
+		//cvNamedWindow("iplMask", CV_WINDOW_AUTOSIZE);
+		//cvMoveWindow("iplMask", 0, 200);
+		//cvShowImage("iplMask", currentSegment->iplMask);
+		//cvWaitKey(0);
+		//return 0;
+		//currentSegment->updateContour();
+
 
 		//cvDrawContours(image, currentSegment->contour, CV_RGB(255,0,0), CV_RGB(0,255,0), 10, 1, CV_AA, cvPoint(0,0));
-
+		
+		
+		
 		//cerr << "Label " << (*s).first << ": (first, last, average) = ("
                 //     << (int) (*s).second[0].r << ", " << (int) (*s).second[(*s).second.size()-1].r << ", " << (int) segmentAvgColors[label].r << ")"
 		//     << "Pixel Count: " << (*s).second.size() << endl;
@@ -251,6 +293,7 @@ int SuperPixelsToSegmentation::run(){
 		}
 	}
 
+
 	// make image with collapsed segmentation
 	IplImage* mergedSegmentsImage = cvCreateImage(cvSize(segImage->width, segImage->height), IPL_DEPTH_8U, 3);
 	vector<Segment*> collapsedSegments = segmentGraph.vertices();
@@ -260,9 +303,13 @@ int SuperPixelsToSegmentation::run(){
 		cvDrawContours(mergedSegmentsImage, s->contour, CV_RGB(255, 255, 255), CV_RGB(s->color.r, s->color.g, s->color.b), 10, 1, CV_AA);
 	}
 	
+
 	// save segmentation to file, yo
 	printSegments(segmentGraph.vertices());
+	
 
+	// check if should visualize
+	if(shouldVisualize == 0) return 0; 
 
 	// draw graph into segmentation image
 	std::set<Edge> edges = segmentGraph.edges();
@@ -278,6 +325,7 @@ int SuperPixelsToSegmentation::run(){
 
 	//segImage.update();
 	cerr << endl;
+	
 
 	int top = 200;
 	cvNamedWindow("image", CV_WINDOW_AUTOSIZE);
@@ -306,4 +354,6 @@ SuperPixelsToSegmentation::SuperPixelsToSegmentation(int argc, char** argv)
 	}
 	imageFilename = argv[1];
 	segFilename = argv[2];
+	shouldVisualize = atoi(argv[2]);
+	std::cerr << "Should Visualize: " << shouldVisualize << endl;
 }

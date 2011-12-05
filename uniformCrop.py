@@ -21,6 +21,7 @@ for row in range(0,divHeight):
 		x = col*cellWidth
 		y = row*cellHeight
 		croppedIm = im.crop((x,y,x+cellWidth,y+cellHeight))
+		print(file + "_" + str(row) + "_" + str(col) + ext)
 		croppedIm.save(os.path.join(destPath,file + "_" + str(row) + "_" + str(col) + ext), "JPEG")
 
 print("Cell Width: " + str(cellWidth) + " Cell Height: " + str(cellHeight))
