@@ -177,7 +177,11 @@ int SuperPixelsToSegmentation::run(){
 		if(!currentSegment->hasCVContour()) {
 			invalidLabels.push_back((*s).first); 
 		}
-		else segmentGraph.addVertexIfNotPresent(currentSegment);
+		else
+		{
+			currentSegment->updateContour();
+			segmentGraph.addVertexIfNotPresent(currentSegment);
+		}
 	}
 
 	for(int i = 0;  i < invalidLabels.size(); i++)
@@ -319,7 +323,8 @@ int SuperPixelsToSegmentation::run(){
 		cvDrawContours(image, (*e).a->contour, CV_RGB(255,0,0), CV_RGB(0,255,0), 10, 1, CV_AA, cvPoint(0,0));
 
 		//for(std::set<int>::iterator other_seg = (*e).second.begin(); other_seg != (*e).second.end(); other_seg++)
-		cvLine(image, (*e).a->centroid, (*e).b->centroid, CV_RGB(0, 0, 255), 1, CV_AA);
+		cvLine(image, (*e).a->centroid, (*e).b->centroid, CV_RGB(0, 0, 255), 1, CV_AA); // FIXME centroid is bad sometimes (when segment is small. we blame OpenCV)
+		//cerr << "a centroid: " << (*e).a->centroid.x << " b centroid: " << (*e).b->centroid.x << endl;
 
 	}
 
@@ -354,6 +359,6 @@ SuperPixelsToSegmentation::SuperPixelsToSegmentation(int argc, char** argv)
 	}
 	imageFilename = argv[1];
 	segFilename = argv[2];
-	shouldVisualize = atoi(argv[2]);
+	shouldVisualize = atoi(argv[3]);
 	std::cerr << "Should Visualize: " << shouldVisualize << endl;
 }

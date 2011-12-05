@@ -2,6 +2,7 @@
 
 #include <boost/foreach.hpp>
 #include <boost/geometry/algorithms/num_points.hpp>
+#include <boost/geometry/geometries/box.hpp>
 
 Segment* Segment::combine(Segment *s1, Segment *s2)
 {
@@ -51,7 +52,7 @@ bool Segment::hasCVContour()
 	contour = 0;
 
 	
-	cvFindContours(iplMask, storage, &contour, sizeof(CvContour), CV_RETR_LIST, CV_CHAIN_APPROX_SIMPLE);
+	cvFindContours(iplMask, storage, &contour, sizeof(CvContour), CV_RETR_LIST, CV_CHAIN_APPROX_NONE);
 	CvMoments moments;
 	
 	if(contour == 0) return false;
@@ -91,7 +92,31 @@ void Segment::updateContour()
 float Segment::areaOfIntersectionWith(Segment & other)
 {
 
-	cerr << "mePoly    size: " << num_points(polygon) << endl << "mePoly    area: " << boost::geometry::area(polygon) << endl;
+	boost::geometry::model::box<Point> bbox;
+	boost::geometry::envelope(polygon, bbox);
+
+	int min_x = get<0>(bbox.min_corner());
+	int max_x = get<0>(bbox.max_corner());
+	int min_y = get<1>(bbox.min_corner());
+	int max_y = get<1>(bbox.max_corner());
+
+	cerr << "min_x: " << min_x << endl;
+	cerr << "max_x: " << max_x << endl;
+	cerr << "min_y: " << min_y << endl;
+	cerr << "max_y: " << max_y << endl;
+	cerr << endl;
+	
+	int intersectionArea = 0;
+	for(int x = min_x; x <= max_x; x++)
+		for(int y = min_y; y <= max_y; y++)
+			if(boost::geometry::within(make<Point>(x, y), polygon) &&
+			   boost::geometry::within(make<Point>(x, y), other.polygon))
+				intersectionArea++; // this is a hack because polygon intersection is throwing invalid (poly) input exception =/
+
+	
+	return intersectionArea;
+
+	/*cerr << "mePoly    size: " << num_points(polygon) << endl << "mePoly    area: " << boost::geometry::area(polygon) << endl;
 	cerr << "otherPoly size: " << num_points(other.polygon) << endl << "otherPoly area: " << boost::geometry::area(other.polygon) << endl;
 	cerr << endl;
 
@@ -107,8 +132,8 @@ float Segment::areaOfIntersectionWith(Segment & other)
 	{
 		intersectionArea += boost::geometry::area(p);
 	}
-
 	return intersectionArea;
+*/
 }
 
 class Match
