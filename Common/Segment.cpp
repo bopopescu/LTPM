@@ -64,3 +64,19 @@ void Segment::updateContour()
 	float center_y = m01/m00;
 	centroid = cvPoint(center_x, center_y);
 }
+
+float compareSegmentations(vector<Segment> a, vector<Segment> b)
+{
+/*	std::deque<Polygon> output;
+	boost::geometry::intersection(green, blue, output);
+
+	int i = 0;
+	std::cout << "green && blue:" << std::endl;
+	BOOST_FOREACH(polygon const& p, output)
+	{
+		std::cout << i++ << ": " << boost::geometry::area(p) << std::endl;
+	}
+*/
+
+	return 1.0;
+}

@@ -13,7 +13,7 @@ class PlaceImage {
 
 		int run();
 
-		string bigImageSegmentsFilename;
+		string bigImageSegmentationsDirectory;
 		string dbImageSegmentsFilename;
 		
 };
