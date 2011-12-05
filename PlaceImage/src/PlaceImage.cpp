@@ -74,15 +74,20 @@ vector< Segment > loadSegments(string segmentFilename)
 		assert(pathStrings.size() == 2); // want just one path, but might need to handle internal paths at some point ...
 		vector<string> pointStrings;
 		boost::split(pointStrings, pathStrings[0], boost::is_any_of(";"));
-
+		Segment newSegment;
 		for(int p = 0; p < pointStrings.size(); p++)
 		{
 			if(pointStrings[p].size() == 0)
 				continue;
 			vector<int> components = commaSeperatedIntegersToVector(pointStrings[p]);
+			append(newSegment.polygon, Point(components[0], components[1]));
 			//cerr << components[0] << ",, " << components[1] << endl;
 			
 		}
+		//int static sum = 0;
+		//sum += area(newSegment.polygon);
+		//cerr << "polygon area: " << area(newSegment.polygon) << endl;
+		//cerr << "total: " << sum << endl;
 	}
 
 
