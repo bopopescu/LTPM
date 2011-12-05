@@ -2,6 +2,15 @@
 
 #include <Types.h>
 
+#include <boost/geometry.hpp>
+#include <boost/geometry/geometries/point_xy.hpp>
+#include <boost/geometry/geometries/polygon.hpp>
+
+using namespace boost::geometry;
+
+typedef model::d2::point_xy<float> Point;
+typedef model::polygon<Point> Polygon;
+
 class Segment
 {
 public:
@@ -25,4 +34,5 @@ public:
 
 	CvMemStorage *storage;
 	CvSeq *contour;
+	Polygon polygon;
 };

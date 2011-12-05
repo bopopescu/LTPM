@@ -17,22 +17,76 @@ using namespace std;
 
 #include <boost/foreach.hpp>
 
+#include <boost/algorithm/string.hpp>
+
 //using namespace boost::geometry;
 
 //#include "graph.h"
-//#include "Segment.h"
+#include <Segment.h>
 
 //#include "Types.h"
 
 //#define SEGMENT_COLOR_SIMILARITY_THRESHOLD 50
 
-/*
-vector< vector<Point> > loadSegments(string segmentFilename)
+vector<int> commaSeperatedIntegersToVector(string segFileColorString)
 {
-	vector<int> segData;
-	ifstream file (segFilename.c_str(), ios::in|ios::binary|ios::ate);
+	vector<string> componentStrings;
+	boost::split(componentStrings, segFileColorString, boost::is_any_of(","));
 
-	for(int s = 0; s < segments.size(); s++)
+	vector<int> integers;
+	for(int c = 0; c < componentStrings.size(); c++)
+	{
+		integers.push_back(atoi(componentStrings[c].c_str()));
+	}
+
+	return integers;
+}
+
+vector< Segment > loadSegments(string segmentFilename)
+{
+	cerr << "Opening " << segmentFilename << endl;
+	ifstream file (segmentFilename.c_str(), ios::in);
+	std::stringstream buffer;
+	buffer << file.rdbuf();
+	string segmentFile = buffer.str();
+	file.close();
+
+	std::vector<std::string> lines;
+	boost::split(lines, segmentFile, boost::is_any_of("\n"));
+
+	for(int l = 0; l < lines.size(); l++)
+	{
+		if(lines[l] == "")
+			continue;
+		vector<string> colorAndPaths;
+		boost::split(colorAndPaths, lines[l], boost::is_any_of(":"));
+
+		vector<int> colorComponents = commaSeperatedIntegersToVector(colorAndPaths[0]);
+		Color color;
+		color.r = colorComponents[0];
+		color.g = colorComponents[1];
+		color.b = colorComponents[2];
+		//cerr << "color: " << (int) color.r << " -- " << (int) color.g << " -- " << (int) color.b << endl;
+
+		vector<string> pathStrings;
+		boost::split(pathStrings, colorAndPaths[1], boost::is_any_of("&"));
+
+		assert(pathStrings.size() == 2); // want just one path, but might need to handle internal paths at some point ...
+		vector<string> pointStrings;
+		boost::split(pointStrings, pathStrings[0], boost::is_any_of(";"));
+
+		for(int p = 0; p < pointStrings.size(); p++)
+		{
+			if(pointStrings[p].size() == 0)
+				continue;
+			vector<int> components = commaSeperatedIntegersToVector(pointStrings[p]);
+			//cerr << components[0] << ",, " << components[1] << endl;
+			
+		}
+	}
+
+
+	/*for(int s = 0; s < segments.size(); s++)
 	{
 		Segment* seg = segments[s];
 		cout << (int) seg->color.r << "," << (int) seg->color.g << "," << (int) seg->color.b << ":";
@@ -45,12 +99,13 @@ vector< vector<Point> > loadSegments(string segmentFilename)
 			cout << "&";
 		}
 		cout << endl;
-	}
+	}*/
+
 }
-*/
+
 
 int PlaceImage::run(){
-
+	vector< Segment > segments = loadSegments(dbImageSegmentsFilename);
 
 typedef boost::geometry::model::polygon<boost::geometry::model::d2::point_xy<double> > polygon;
 
@@ -72,7 +127,7 @@ typedef boost::geometry::model::polygon<boost::geometry::model::d2::point_xy<dou
     {
         std::cout << i++ << ": " << boost::geometry::area(p) << std::endl;
     }
-
+	cout << "hey" << endl;
 
 /*
 	int top = 200;

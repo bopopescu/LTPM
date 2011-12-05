@@ -16,7 +16,7 @@ link_directories(
 add_executable (SuperPixelsToSegmentation
   src/main.cpp
   src/SuperPixelsToSegmentation.cpp
-  src/Segment.cpp
+  ../Common/Segment.cpp
 )
 
 target_link_libraries (SuperPixelsToSegmentation
