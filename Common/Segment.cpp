@@ -140,8 +140,8 @@ class Match
 {
 public:
 	Match() { };
-	Match(Segment * _segment, float _score) { segment = _segment; score = _score; };
-	float score;
+	Match(Segment * _segment, float _intersectionArea) { segment = _segment; intersectionArea = _intersectionArea; };
+	float intersectionArea;
 	Segment* segment;
 };
 
@@ -186,27 +186,37 @@ float scoreCandidate(vector<Segment> targetSegmentation, vector<Segment> candida
 		{
 			if(!contains(bestMatchByTarget, bestMatchTargetSegment))
 				bestMatchByTarget[bestMatchTargetSegment] = Match(candidateSegment, bestTargetScore);
-			else if(bestTargetScore > bestMatchByTarget[bestMatchTargetSegment].score)
+			else if(bestTargetScore > bestMatchByTarget[bestMatchTargetSegment].intersectionArea)
 				bestMatchByTarget[bestMatchTargetSegment] = Match(candidateSegment, bestTargetScore);
 		}
 	}
 
 	// sum intersection areas of all pairs
 	float totalMatchArea = 0.0;
+	float sumOfColorScoresWeightedByIntersectionArea = 0.0;
 	for(map<Segment*, Match>::iterator match = bestMatchByTarget.begin(); match != bestMatchByTarget.end(); match++)
 	{
-		totalMatchArea += (*match).second.score;
-		cerr << "match score: " << (*match).second.score << endl;
+		Segment* targetSegment    = (*match).first;
+		Segment* candidateSegment = (*match).second.segment;
+		float matchArea = (*match).second.intersectionArea;
+
+		totalMatchArea += matchArea;
+		cerr << "segment pair area match score: " << (*match).second.intersectionArea << endl;
+
+		float colorScore = 1.0 - Color::distance(targetSegment->color, candidateSegment->color) / sqrtf((255*255) + (255*255) + (255*255));
+		sumOfColorScoresWeightedByIntersectionArea += matchArea * colorScore;
 	}
 
 	// divide total intersection area by total target polygon area
-	cout << "totalMatchArea: " << totalMatchArea << " totalTargetArea: " << totalTargetArea << endl;
-	float match = totalMatchArea / totalTargetArea;
+	cerr << "totalMatchArea: " << totalMatchArea << " totalTargetArea: " << totalTargetArea << endl;
+	float areaScore = totalMatchArea / totalTargetArea;
 
-	// return
+	// divide weighted color match sum by total intersection area
+	float colorScore = sumOfColorScoresWeightedByIntersectionArea / totalMatchArea;
+	cerr << "colorScore: " << colorScore << endl;
 
-
-
+	float match = areaScore * colorScore;
+	cerr << "MATCH: " << match << endl;
 
 	return match;
 }

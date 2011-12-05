@@ -60,6 +60,9 @@ vector< Segment > loadSegments(string segmentFilename)
 	{
 		if(lines[l] == "")
 			continue;
+
+		Segment newSegment;
+
 		vector<string> colorAndPaths;
 		boost::split(colorAndPaths, lines[l], boost::is_any_of(":"));
 
@@ -68,6 +71,7 @@ vector< Segment > loadSegments(string segmentFilename)
 		color.r = colorComponents[0];
 		color.g = colorComponents[1];
 		color.b = colorComponents[2];
+		newSegment.color = color;
 		//cerr << "color: " << (int) color.r << " -- " << (int) color.g << " -- " << (int) color.b << endl;
 
 		vector<string> pathStrings;
@@ -76,7 +80,6 @@ vector< Segment > loadSegments(string segmentFilename)
 		assert(pathStrings.size() == 2); // want just one path, but might need to handle internal paths at some point ...
 		vector<string> pointStrings;
 		boost::split(pointStrings, pathStrings[0], boost::is_any_of(";"));
-		Segment newSegment;
 		for(int p = 0; p < pointStrings.size(); p++)
 		{
 			if(pointStrings[p].size() == 0)
