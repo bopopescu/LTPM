@@ -1,8 +1,6 @@
 #!/bin/sh
 # Usage: <target_image> <target_realseg> <candidate_realseg>
 
-source DBConfig.sh
-
 score=`./PlaceImage/build/PlaceImage $2 $3`
 
 # insert in db
