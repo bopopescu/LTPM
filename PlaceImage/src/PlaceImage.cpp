@@ -77,7 +77,10 @@ vector< Segment > loadSegments(string segmentFilename)
 		vector<string> pathStrings;
 		boost::split(pathStrings, colorAndPaths[1], boost::is_any_of("&"));
 
-		assert(pathStrings.size() == 2); // want just one path, but might need to handle internal paths at some point ...
+		//cerr << "pathStrings.size() = " << pathStrings.size() << endl;
+		if(pathStrings.size() != 2) // want just one path, but might need to handle internal paths at some point...
+			cerr << "SAW CONTOUR WITH INTERNAL PATH NEED TO IMPLEMENT TODO TODO TODO TODO TODO!!!!!!!!!!!!" << endl;
+
 		vector<string> pointStrings;
 		boost::split(pointStrings, pathStrings[0], boost::is_any_of(";"));
 		for(int p = 0; p < pointStrings.size(); p++)
