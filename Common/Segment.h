@@ -23,6 +23,7 @@ public:
 	void updateContour();
 
 	float areaOfIntersectionWith(Segment & other);
+	float hackAreaOfIntersectionWith(Segment & other);
 
 	std::vector<Color> pixels;
 	BwImage mask;

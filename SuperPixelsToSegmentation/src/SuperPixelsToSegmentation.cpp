@@ -12,7 +12,7 @@
 
 #include <Types.h>
 
-#define SEGMENT_COLOR_SIMILARITY_THRESHOLD 50
+#define SEGMENT_COLOR_SIMILARITY_THRESHOLD 25
 
 Segmentation segFile2Vector(string segFilename)
 {
@@ -344,7 +344,12 @@ int SuperPixelsToSegmentation::run(){
 	cvShowImage("seg image", segImage);
 	cvShowImage("collapsed segments", mergedSegmentsImage);
 
-	cvWaitKey(0);
+	int key = -1;
+	while(key != 0)
+	{
+		key = cvWaitKey(0);
+		cerr << key << endl;
+	}
 
 	return 0;
 }

@@ -3,11 +3,11 @@
 import os, sys
 import Image
 
-# take in image path, number of cells in the x, number of cells in y, and output path
+# take in image path, number of rows, number of cols, and output path
 
 im = Image.open(sys.argv[1])
-divWidth = int(sys.argv[2])
-divHeight = int(sys.argv[3])
+divWidth = int(sys.argv[3])
+divHeight = int(sys.argv[2])
 destPath = sys.argv[4]
 
 cellWidth = im.size[0] / divWidth
@@ -22,7 +22,7 @@ for row in range(0,divHeight):
 		y = row*cellHeight
 		croppedIm = im.crop((x,y,x+cellWidth,y+cellHeight))
 		print(file + "_" + str(row) + "_" + str(col) + ext)
-		croppedIm.save(os.path.join(destPath,file + "_" + str(row) + "_" + str(col) + ext), "JPEG")
+		croppedIm.save(os.path.join(destPath,file + "_" + str(row) + "_" + str(col) + '.jpg'), "JPEG")
 
 print("Cell Width: " + str(cellWidth) + " Cell Height: " + str(cellHeight))
 

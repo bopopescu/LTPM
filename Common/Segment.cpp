@@ -89,51 +89,65 @@ void Segment::updateContour()
 }
 
 
-float Segment::areaOfIntersectionWith(Segment & other)
+float Segment::hackAreaOfIntersectionWith(Segment & other)
 {
+	boost::geometry::model::box<Point> bbox1;
+	boost::geometry::envelope(polygon, bbox1);
 
-	boost::geometry::model::box<Point> bbox;
-	boost::geometry::envelope(polygon, bbox);
+	int min_x1 = get<0>(bbox1.min_corner());
+	int max_x1 = get<0>(bbox1.max_corner());
+	int min_y1 = get<1>(bbox1.min_corner());
+	int max_y1 = get<1>(bbox1.max_corner());
 
-	int min_x = get<0>(bbox.min_corner());
-	int max_x = get<0>(bbox.max_corner());
-	int min_y = get<1>(bbox.min_corner());
-	int max_y = get<1>(bbox.max_corner());
+	boost::geometry::model::box<Point> bbox2;
+	boost::geometry::envelope(polygon, bbox2);
 
-	cerr << "min_x: " << min_x << endl;
-	cerr << "max_x: " << max_x << endl;
-	cerr << "min_y: " << min_y << endl;
-	cerr << "max_y: " << max_y << endl;
-	cerr << endl;
+	int min_x2 = get<0>(bbox2.min_corner());
+	int max_x2 = get<0>(bbox2.max_corner());
+	int min_y2 = get<1>(bbox2.min_corner());
+	int max_y2 = get<1>(bbox2.max_corner());
+
+	int min_x = MAX(min_x1, min_x2);
+	int min_y = MAX(min_y1, min_y2);
+	int max_x = MIN(max_x1, max_x2);
+	int max_y = MIN(max_y1, max_y2);
+
 	
 	int intersectionArea = 0;
 	for(int x = min_x; x <= max_x; x++)
 		for(int y = min_y; y <= max_y; y++)
 			if(boost::geometry::within(make<Point>(x, y), polygon) &&
 			   boost::geometry::within(make<Point>(x, y), other.polygon))
-				intersectionArea++; // this is a hack because polygon intersection is throwing invalid (poly) input exception =/
-
+				intersectionArea++; 
 	
 	return intersectionArea;
+}
 
+float Segment::areaOfIntersectionWith(Segment & other)
+{
 	/*cerr << "mePoly    size: " << num_points(polygon) << endl << "mePoly    area: " << boost::geometry::area(polygon) << endl;
 	cerr << "otherPoly size: " << num_points(other.polygon) << endl << "otherPoly area: " << boost::geometry::area(other.polygon) << endl;
-	cerr << endl;
-
-	std::deque<Polygon> output;
-
-		
-
-	boost::geometry::intersection(other.polygon, other.polygon, output);
+	cerr << endl;*/
 
 	float intersectionArea = 0.0;
 
-	BOOST_FOREACH(Polygon const& p, output)
+	try
 	{
-		intersectionArea += boost::geometry::area(p);
+		std::deque<Polygon> output;
+		boost::geometry::intersection(polygon, other.polygon, output);
+
+		intersectionArea = 0.0;
+		BOOST_FOREACH(Polygon const& p, output)
+		{
+			intersectionArea += boost::geometry::area(p);
+		}
 	}
+	catch(std::exception & e)
+	{
+		intersectionArea = hackAreaOfIntersectionWith(other);
+	}
+
 	return intersectionArea;
-*/
 }
 
 class Match
@@ -153,8 +167,6 @@ bool contains(map<Segment*, Match> _map, Segment* key)
 
 float scoreCandidate(vector<Segment> targetSegmentation, vector<Segment> candidateSegmentation)
 {
-
-	// TODO add color matching in here.
 
 	map<Segment*, Match> bestMatchByTarget;
 	float totalTargetArea = 0.0;
