@@ -3,8 +3,11 @@ wget -O /tmp/of_preRelease_v007_linux64.tar.gz "http://www.openframeworks.cc/ver
 cd Libraries; tar xzvf /tmp/of_preRelease_v007_linux64.tar.gz; cd -
 cd of_preRelease_v007_linux64/
 cd Libraries/of_preRelease_v007_linux64/scripts/linux/ubuntu
-sudo ./install_dependencies.sh
-sudo apt-get install libmpg123-dev
+./install_dependencies.sh
+apt-get install libmpg123-dev
 
 # fortran
-sudo apt-get install gfortran
+apt-get install gfortran
+
+# python mysql
+apt-get install python-mysqldb
