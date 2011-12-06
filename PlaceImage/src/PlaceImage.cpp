@@ -108,7 +108,7 @@ int PlaceImage::run(){
 
 	vector< Segment > targetTileSegments = loadSegments(bigImageSegmentationsDirectory); // let's see if we can compare a segments to itself!
 
-	cerr << "Compare! " << scoreCandidate(candidateImageSegments, targetTileSegments) << endl;
+	cout << scoreCandidate(candidateImageSegments, targetTileSegments);
 
 	// TODO for each tile
 	//vector< Segment > targetTileSegments = loadSegments(bigImageSegmentationsDirectory); // TODO one file path now
