@@ -1,0 +1,2488 @@
+
+mintime: 1322697600 maxtime: 1324512427.5
+numimgs: 20
+total pages: 1
+visiting only 1 pages ( up to 250 images)
+photo: 6478893939 91c361ecfc 7008
+owner: 62586117@N05
+title: Father Time.
+originalsecret: ac8dd07444
+originalformat: jpg
+o_height: 2100
+o_width: 2672
+datetaken: 2011-11-30 13:49:54
+dateupload: 1323382323
+tags: camera uk england news man men face hair beard glasses video day faces action reporter somerset professional crew bbc unite stare microphone strike local facial cameraman intent taunton neilmoralee
+license: 3
+latitude: 51.01586
+longitude: -3.103187
+accuracy: 14
+views: 57
+interestingness: 1 out of 20
+
+photo: 6459288335 03edb63a63 7032
+owner: 25854373@N03
+title: Welcome to Letchworth Village
+originalsecret: 129b0462f7
+originalformat: jpg
+o_height: 3456
+o_width: 5183
+datetaken: 2011-12-03 15:20:28
+dateupload: 1323090304
+tags: usa newyork abandoned hospital unitedstates urbanexploration asylum hdr institution urbex letchworthvillage photomatix thiells physicallyandmentallydisabled residentialinstitution
+license: 0
+latitude: 41.21698
+longitude: -74.021828
+accuracy: 16
+views: 75
+interestingness: 2 out of 20
+
+photo: 6466534197 47558b685c 7033
+owner: 7133314@N03
+title: Dawn at Hedrick Point
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-09-28 07:05:54
+dateupload: 1323188834
+tags: dawn wyoming grandtetonnationalpark gtnp tetoncounty cathedralgroup canon24105mm hedrickpond canon5dmarkii hedrickpondoverlook hedrickpoint
+license: 0
+latitude: 43.75456
+longitude: -110.58021
+accuracy: 16
+views: 42
+interestingness: 3 out of 20
+
+photo: 6478689329 6c1b4892e4 7168
+owner: 62586117@N05
+title: News Crew  (quick or we will miss it)
+originalsecret: 1cd3573669
+originalformat: jpg
+o_height: 2100
+o_width: 3360
+datetaken: 2011-11-30 13:49:35
+dateupload: 1323379535
+tags: camera uk england news man men face hair beard glasses video day faces action reporter somerset professional crew bbc unite stare microphone strike local facial cameraman intent taunton neilmoralee
+license: 3
+latitude: 51.016603
+longitude: -3.103401
+accuracy: 14
+views: 32
+interestingness: 4 out of 20
+
+photo: 6452031583 72ceeecb3e 7164
+owner: 53636170@N02
+title: York Minster at night
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-04 11:43:01
+dateupload: 1322998981
+tags: road street york winter cars architecture lights headlights nighttime yorkminster sadloafer hansdavisphotography
+license: 0
+latitude: 53.959317
+longitude: -1.081809
+accuracy: 11
+views: 34
+interestingness: 5 out of 20
+
+photo: 6446121449 f6d090b32e 7147
+owner: 57768536@N05
+title: Roving Reporter
+originalsecret: 95943951e5
+originalformat: jpg
+o_height: 1917
+o_width: 1882
+datetaken: 2011-12-01 12:48:28
+dateupload: 1322911681
+tags: 
+license: 1
+latitude: -34.92818
+longitude: 138.599948
+accuracy: 16
+views: 29
+interestingness: 6 out of 20
+
+photo: 6464584011 213c48bafb 7017
+owner: 54031384@N08
+title: leopards - tanzania
+originalsecret: bcabe5ea04
+originalformat: jpg
+o_height: 500
+o_width: 666
+datetaken: 2011-11-07 18:39:52
+dateupload: 1323155495
+tags: africa park travel holiday game tree tourism animal cat wonder tanzania big afternoon photographer reporter young traveller safari national leopard journey planet conde lonely migration serengeti geo panther geographic nast catteau wwwemmanuelcatteaucom
+license: 0
+latitude: -2.008339
+longitude: 34.716438
+accuracy: 1
+views: 77
+interestingness: 7 out of 20
+
+photo: 6435819019 f58b10c8f1 7006
+owner: 50233839@N04
+title: In the cradle.
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-01 03:45:52
+dateupload: 1322739952
+tags: life light shadow summer baby hot sleep miracle dream armenia asleep wineyard cradle nikonsb800 nikond3 nikkoraf24120
+license: 0
+latitude: 40.150144
+longitude: 44.037666
+accuracy: 11
+views: 40
+interestingness: 8 out of 20
+
+photo: 6456924905 eafc8c0a1e 7004
+owner: 25036263@N02
+title: cotton
+originalsecret: ac299fa7ea
+originalformat: jpg
+o_height: 2524
+o_width: 1757
+datetaken: 2011-12-04 20:23:08
+dateupload: 1323051788
+tags: wake funeral intelligence cotton highstreet legislature source journalism storyteller weststreet fenians lamarstreet sunnsand jacksonmississippi fourthestate newcapitol lakelanddrive georgestreetgrocery tommassey malcolmwhite mississippisportshalloffame beaumiller december42011 deanofjacksonbartenders mississippikidneyfoundation johnmichaelrubenstein boonevillenative retiredbartender lawmakersbartender reportersbartender rudolphcottonbaronich dickballard bertcase
+license: 5
+latitude: 32.334927
+longitude: -90.1558
+accuracy: 15
+views: 13
+interestingness: 9 out of 20
+
+photo: 6434003949 a9420ea153 7162
+owner: 7202153@N03
+title: Emery's early iPod - an Edison phonograph - Kolb residence - Grand Canyon Village
+originalsecret: 4df07a354a
+originalformat: jpg
+o_height: 3000
+o_width: 4000
+datetaken: 2011-11-17 15:28:30
+dateupload: 1322705101
+tags: park arizona building history home architecture movie studio nationalpark village district grandcanyon south grand photographic canyon historic national residence rim southrim kolb grandcanyonnationalpark nationalhistoricdistrict kolbstudio alhikesaz arizonamemoryproject gc2011 kolbresidence grandcanyonvillagehistoricdistrict
+license: 2
+latitude: 36.057538
+longitude: -112.145744
+accuracy: 16
+views: 40
+interestingness: 10 out of 20
+
+photo: 6434004439 140fc0c172 7173
+owner: 7202153@N03
+title: Historic Kolb Studio - Grand Canyon - South Rim
+originalsecret: 8fbe2c29f8
+originalformat: jpg
+o_height: 2468
+o_width: 3688
+datetaken: 2011-11-17 14:22:48
+dateupload: 1322705108
+tags: park arizona building history home architecture movie studio nationalpark village district flag grandcanyon south americanflag grand photographic canyon historic national american residence rim southrim kolb grandcanyonnationalpark nationalhistoricdistrict kolbstudio alhikesaz arizonamemoryproject gc2011 kolbresidence grandcanyonvillagehistoricdistrict
+license: 2
+latitude: 36.057538
+longitude: -112.145744
+accuracy: 16
+views: 63
+interestingness: 11 out of 20
+
+photo: 6471675661 c1e3c34dac 7152
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 11:18:38
+dateupload: 1323268380
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 9.001316
+longitude: 38.745313
+accuracy: 16
+views: 9
+interestingness: 12 out of 20
+
+photo: 6456927129 9cccd91c9e 7014
+owner: 25036263@N02
+title: coach gorden
+originalsecret: ed366ecf82
+originalformat: jpg
+o_height: 1760
+o_width: 1320
+datetaken: 2011-12-04 20:23:32
+dateupload: 1323051812
+tags: funeral writers swac reporters editors collegefootball jsu wlbt rickcleveland mississippisportshalloffame december42011 wcgorden coachgorden mississippikidneyfoundation johnmichaelrubenstein retiredcoach clarionledgersportseditor televisionsportseditor
+license: 5
+latitude: 32.335208
+longitude: -90.155807
+accuracy: 15
+views: 8
+interestingness: 13 out of 20
+
+photo: 6473558877 6af8b527f1 7151
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 12:28:56
+dateupload: 1323293110
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 8.999383
+longitude: 38.74473
+accuracy: 16
+views: 7
+interestingness: 14 out of 20
+
+photo: 6473455005 c2fd15a654 7030
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 12:23:52
+dateupload: 1323291706
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 8.999366
+longitude: 38.744633
+accuracy: 16
+views: 4
+interestingness: 15 out of 20
+
+photo: 6473075381 a177a2bfff 7031
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 12:12:57
+dateupload: 1323286622
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 8.99955
+longitude: 38.744316
+accuracy: 16
+views: 7
+interestingness: 16 out of 20
+
+photo: 6472751253 4e60367157 7160
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 11:55:49
+dateupload: 1323282338
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 9.0005
+longitude: 38.743766
+accuracy: 16
+views: 3
+interestingness: 17 out of 20
+
+photo: 6472308373 19b511cc98 7003
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 11:35:02
+dateupload: 1323276630
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 9.000575
+longitude: 38.744488
+accuracy: 16
+views: 8
+interestingness: 18 out of 20
+
+photo: 6472232149 96ac327d1c 7167
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 11:29:49
+dateupload: 1323275652
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 8.999783
+longitude: 38.74423
+accuracy: 16
+views: 10
+interestingness: 19 out of 20
+
+photo: 6472193499 cc28b686cc 7018
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 11:26:14
+dateupload: 1323275163
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 8.999766
+longitude: 38.74428
+accuracy: 16
+views: 14
+interestingness: 20 out of 20
+
+photo: 6477425225 b93f673ca9 7168
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 12:59:02
+dateupload: 1323362010
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 9.00005
+longitude: 38.745469
+accuracy: 16
+views: 5
+interestingness: 21 out of 20
+
+photo: 6477727455 17d60f50c5 7019
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 13:11:10
+dateupload: 1323366180
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 9.001183
+longitude: 38.745313
+accuracy: 16
+views: 5
+interestingness: 22 out of 20
+
+photo: 6477687203 c4eec55759 7149
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 13:11:01
+dateupload: 1323365581
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 9.001183
+longitude: 38.745313
+accuracy: 16
+views: 4
+interestingness: 23 out of 20
+
+photo: 6460009703 77162ec2a5 7024
+owner: 71176599@N07
+title: Baroness Warsi talks to local reporters
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-05 14:26:48
+dateupload: 1323097838
+tags: norwich workprogramme regionalcabinet
+license: 0
+latitude: 52.63525
+longitude: 1.294841
+accuracy: 13
+views: 45
+interestingness: 24 out of 20
+
+photo: 6482154059 71cd16fa2e 7172
+owner: 43385797@N08
+title: 2011 Nieman Lecture
+originalsecret: d9d4c5c0f9
+originalformat: jpg
+o_height: 400
+o_width: 559
+datetaken: 2011-12-07 07:09:01
+dateupload: 1323445455
+tags: dean reporter journalism 2011 collegeofcommunication jamesfoley photographerbensmidt niemanlecture loribergen collegeofcomm 2011niemanlecture
+license: 0
+latitude: 43.039893
+longitude: -87.931846
+accuracy: 15
+views: 2
+interestingness: 25 out of 20
+
+photo: 6480385993 f522a98464 7142
+owner: 26329029@N06
+title: Tribune Tower Main Entrance
+originalsecret: 59d04442c4
+originalformat: jpg
+o_height: 768
+o_width: 1024
+datetaken: 2011-12-08 20:18:54
+dateupload: 1323407995
+tags: wood chicago news stone architecture paper print newspaper illinois jon media arch tour michigan gothic reporter n kristin il doorway ave worlds newsroom artifacts yates journalist tribune ornamentation newsprint tribunetower chicagotribune samuelson 435 jonyates worldsgreatestnewspaper problamsolver
+license: 0
+latitude: 41.890545
+longitude: -87.623814
+accuracy: 16
+views: 5
+interestingness: 26 out of 20
+
+photo: 6480385469 0d62f60a6c 7145
+owner: 26329029@N06
+title: North America Relief Mural Over Tribune Tower Front Desk
+originalsecret: aa620c316d
+originalformat: jpg
+o_height: 768
+o_width: 1024
+datetaken: 2011-12-08 20:15:06
+dateupload: 1323407984
+tags: chicago news paper print newspaper illinois jon media tour michigan reporter n kristin il ave worlds newsroom yates journalist tribune newsprint tribunetower chicagotribune samuelson 435 jonyates worldsgreatestnewspaper problamsolver
+license: 0
+latitude: 41.890545
+longitude: -87.623814
+accuracy: 16
+views: 4
+interestingness: 27 out of 20
+
+photo: 6480385095 09e785cf73 7019
+owner: 26329029@N06
+title: Editorial Reception Desk
+originalsecret: 204642672c
+originalformat: jpg
+o_height: 768
+o_width: 1024
+datetaken: 2011-12-08 19:52:21
+dateupload: 1323407976
+tags: chicago news paper print gold newspaper illinois jon media tour desk michigan reporter n kristin il ave worlds editorial prize newsroom prizes yates journalist tribune plaques pulitzer newsprint tribunetower chicagotribune samuelson 435 jonyates worldsgreatestnewspaper problamsolver
+license: 0
+latitude: 41.890545
+longitude: -87.623814
+accuracy: 16
+views: 2
+interestingness: 28 out of 20
+
+photo: 6480384599 8e527cc9c3 7017
+owner: 26329029@N06
+title: Newspaper Manifesto
+originalsecret: cf1376b366
+originalformat: jpg
+o_height: 768
+o_width: 1024
+datetaken: 2011-12-08 19:50:45
+dateupload: 1323407966
+tags: chicago news paper print newspaper illinois jon media tour michigan reporter n kristin il ave worlds newsroom yates journalist tribune manifesto newsprint tribunetower chicagotribune samuelson 435 jonyates worldsgreatestnewspaper problamsolver
+license: 0
+latitude: 41.890545
+longitude: -87.623814
+accuracy: 16
+views: 3
+interestingness: 29 out of 20
+
+photo: 6480384129 32b1a5c5ae 7014
+owner: 26329029@N06
+title: Holiday Cake, Chicago Tribune Test Kitchen
+originalsecret: 021be62fe5
+originalformat: jpg
+o_height: 768
+o_width: 1024
+datetaken: 2011-12-08 19:48:34
+dateupload: 1323407956
+tags: test chicago news kitchen cake paper print newspaper illinois jon media tour michigan reporter n kristin il ave worlds newsroom yates journalist tribune newsprint tribunetower chicagotribune samuelson 435 jonyates worldsgreatestnewspaper problamsolver
+license: 0
+latitude: 41.890545
+longitude: -87.623814
+accuracy: 16
+views: 4
+interestingness: 30 out of 20
+
+photo: 6480383599 dcfed553c2 7173
+owner: 26329029@N06
+title: The Tribune Test Kitchen
+originalsecret: 439927b910
+originalformat: jpg
+o_height: 768
+o_width: 1024
+datetaken: 2011-12-08 19:47:09
+dateupload: 1323407945
+tags: test chicago news kitchen paper print newspaper illinois jon media tour michigan reporter n kristin il ave worlds newsroom yates journalist tribune newsprint tribunetower chicagotribune samuelson 435 jonyates worldsgreatestnewspaper problamsolver
+license: 0
+latitude: 41.890545
+longitude: -87.623814
+accuracy: 16
+views: 5
+interestingness: 31 out of 20
+
+photo: 6480383063 d742dce8ce 7173
+owner: 26329029@N06
+title: Jon Hilkevitch's Space
+originalsecret: 36e5715f82
+originalformat: jpg
+o_height: 768
+o_width: 1024
+datetaken: 2011-12-08 19:45:19
+dateupload: 1323407935
+tags: chicago news train paper print newspaper illinois jon media tour cta map michigan reporter n el kristin il ave transportation transit worlds newsroom yates journalist tribune newsprint tribunetower chicagotribune samuelson 435 jonyates worldsgreatestnewspaper problamsolver hilkevitch
+license: 0
+latitude: 41.890545
+longitude: -87.623814
+accuracy: 16
+views: 4
+interestingness: 32 out of 20
+
+photo: 6480382423 6808d22bab 7163
+owner: 26329029@N06
+title: Jon Hilkevitch's Space
+originalsecret: b33b385ac2
+originalformat: jpg
+o_height: 768
+o_width: 1024
+datetaken: 2011-12-08 19:44:58
+dateupload: 1323407924
+tags: chicago news train paper print newspaper illinois jon media tour cta map michigan reporter n el kristin il ave transportation transit worlds newsroom yates journalist tribune newsprint tribunetower chicagotribune samuelson 435 jonyates worldsgreatestnewspaper problamsolver hilkevitch
+license: 0
+latitude: 41.890545
+longitude: -87.623814
+accuracy: 16
+views: 7
+interestingness: 33 out of 20
+
+photo: 6480381875 49ef73e7ea 7004
+owner: 26329029@N06
+title: Chicago Tribune Newsroom
+originalsecret: 7c3d471780
+originalformat: jpg
+o_height: 768
+o_width: 1024
+datetaken: 2011-12-08 19:44:38
+dateupload: 1323407909
+tags: chicago news paper print newspaper illinois jon media tour michigan reporter n kristin il ave worlds newsroom yates journalist tribune newsprint tribunetower chicagotribune samuelson 435 jonyates worldsgreatestnewspaper problamsolver
+license: 0
+latitude: 41.890545
+longitude: -87.623814
+accuracy: 16
+views: 3
+interestingness: 34 out of 20
+
+photo: 6480381425 d34f50f0d3 7029
+owner: 26329029@N06
+title: Chicago Tribune Newsroom
+originalsecret: 4fe9f5d481
+originalformat: jpg
+o_height: 768
+o_width: 1024
+datetaken: 2011-12-08 19:44:26
+dateupload: 1323407899
+tags: chicago news paper print newspaper illinois jon media tour michigan reporter n kristin il ave worlds newsroom yates journalist tribune newsprint tribunetower chicagotribune samuelson 435 jonyates worldsgreatestnewspaper problamsolver
+license: 0
+latitude: 41.890545
+longitude: -87.623814
+accuracy: 16
+views: 4
+interestingness: 35 out of 20
+
+photo: 6480381025 919c90d199 7170
+owner: 26329029@N06
+title: Rick Tuma's Desk
+originalsecret: de7f4af926
+originalformat: jpg
+o_height: 768
+o_width: 1024
+datetaken: 2011-12-08 19:41:50
+dateupload: 1323407889
+tags: chicago news paper print toys newspaper illinois jon media artist tour desk michigan reporter n rick kristin il staff ave worlds newsroom yates journalist tribune newsprint tribunetower chicagotribune samuelson 435 jonyates tuma worldsgreatestnewspaper problamsolver
+license: 0
+latitude: 41.890545
+longitude: -87.623814
+accuracy: 16
+views: 4
+interestingness: 36 out of 20
+
+photo: 6480380445 de096b2805 7033
+owner: 26329029@N06
+title: Rick Tuma's Desk
+originalsecret: f4d7da56ba
+originalformat: jpg
+o_height: 768
+o_width: 1024
+datetaken: 2011-12-08 19:41:28
+dateupload: 1323407877
+tags: chicago news paper print toys newspaper illinois jon media artist tour desk michigan reporter n rick kristin il staff ave worlds newsroom yates journalist tribune newsprint tribunetower chicagotribune samuelson 435 jonyates tuma worldsgreatestnewspaper problamsolver
+license: 0
+latitude: 41.890545
+longitude: -87.623814
+accuracy: 16
+views: 5
+interestingness: 37 out of 20
+
+photo: 6480379913 00c9e5bef7 7172
+owner: 26329029@N06
+title: Rick Tuma's Desk
+originalsecret: 38de51692f
+originalformat: jpg
+o_height: 768
+o_width: 1024
+datetaken: 2011-12-08 19:41:20
+dateupload: 1323407866
+tags: chicago news paper print toys newspaper illinois jon media artist tour desk michigan reporter n rick kristin il staff ave worlds newsroom yates journalist tribune newsprint tribunetower chicagotribune samuelson 435 jonyates tuma worldsgreatestnewspaper problamsolver
+license: 0
+latitude: 41.890545
+longitude: -87.623814
+accuracy: 16
+views: 7
+interestingness: 38 out of 20
+
+photo: 6479539081 2732b58286 7172
+owner: 41701540@N02
+title: Blago
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-06 18:41:33
+dateupload: 1323393044
+tags: city autumn winter urban chicago news building fall night john dark evening early blog illinois downtown december nocturnal loop jackson governor rush hour rod statest federal trial rodney reporters reportage corruption dearborn blogo kluczynski 2011 blagojevich straightoutofthecamera sentencing plymouthct blago sooc straightoutofcamera
+license: 0
+latitude: 41.878108
+longitude: -87.628895
+accuracy: 16
+views: 11
+interestingness: 39 out of 20
+
+photo: 6479409267 8dfc22123f 7024
+owner: 40243520@N02
+title: Col Everett Peabody Mortuary Monument
+originalsecret: f78c11498a
+originalformat: jpg
+o_height: 2592
+o_width: 3872
+datetaken: 2011-12-03 03:47:55
+dateupload: 1323390774
+tags: park monument war tennessee military civil national savannah shiloh col peabody everett mortuary
+license: 1
+latitude: 35.126935
+longitude: -88.347116
+accuracy: 16
+views: 3
+interestingness: 40 out of 20
+
+photo: 6477635169 6b6e52319b 7031
+owner: 43385797@N08
+title: Diederich Ideas
+originalsecret: 5588d9e62a
+originalformat: jpg
+o_height: 400
+o_width: 587
+datetaken: 2011-12-07 02:27:22
+dateupload: 1323364865
+tags: reporters 2011 collegeofcommunication jamesfoley jpad photographerbensmidt niemanlecture collegeofcomm niemanlectureseries
+license: 0
+latitude: 43.038559
+longitude: -87.927832
+accuracy: 16
+views: 39
+interestingness: 41 out of 20
+
+photo: 6477634973 c4ffe10df1 7150
+owner: 43385797@N08
+title: Diederich Ideas
+originalsecret: 743270701a
+originalformat: jpg
+o_height: 400
+o_width: 598
+datetaken: 2011-12-07 02:21:07
+dateupload: 1323364863
+tags: reporters 2011 collegeofcommunication jamesfoley jpad photographerbensmidt niemanlecture collegeofcomm niemanlectureseries
+license: 0
+latitude: 43.038559
+longitude: -87.927832
+accuracy: 16
+views: 36
+interestingness: 42 out of 20
+
+photo: 6477634637 24d6c4e16e 7034
+owner: 43385797@N08
+title: Diederich Ideas
+originalsecret: 1d5da2ef8e
+originalformat: jpg
+o_height: 400
+o_width: 624
+datetaken: 2011-12-07 02:12:37
+dateupload: 1323364858
+tags: 2011 collegeofcomm collegeofcommunication jamesfoley jpad niemanlecture niemanlectureseries photographerbensmidt reporters
+license: 0
+latitude: 43.038559
+longitude: -87.927832
+accuracy: 16
+views: 38
+interestingness: 43 out of 20
+
+photo: 6476964359 ed1ba3b71f 7030
+owner: 21085645@N03
+title: Post-game interviews with Tim Tebow and Eric Decker
+originalsecret: 6eb1ec9865
+originalformat: jpg
+o_height: 2448
+o_width: 3264
+datetaken: 2011-12-04 16:22:37
+dateupload: 1323355415
+tags: game home sports television minnesota football tv purple nfl minneapolis indoor professional cameras mn turf reporters metrodome postgame minnesotavikings interviews denverbroncos 2011 timtebow december4th 120411 ericdecker mallofamericafield
+license: 1
+latitude: 44.973982
+longitude: -93.258379
+accuracy: 15
+views: 9
+interestingness: 44 out of 20
+
+photo: 6476897173 993eff24e0 7152
+owner: 21085645@N03
+title: Dave Winfield being interviewed on tv before the Vikings game
+originalsecret: 047c717ac8
+originalformat: jpg
+o_height: 2448
+o_width: 3264
+datetaken: 2011-12-04 12:05:33
+dateupload: 1323354422
+tags: game home sports minnesota football tv media purple baseball nfl reporter minneapolis indoor player professional halloffame interview mn turf metrodome minnesotavikings denverbroncos 2011 davewinfield december4th 120411 mallofamericafield
+license: 1
+latitude: 44.973982
+longitude: -93.258379
+accuracy: 15
+views: 0
+interestingness: 45 out of 20
+
+photo: 6476895429 64a12ce063 7021
+owner: 21085645@N03
+title: Eric Decker on the Vikings logo at midfield
+originalsecret: fb2d4c8bf3
+originalformat: jpg
+o_height: 2448
+o_width: 3264
+datetaken: 2011-12-04 12:01:56
+dateupload: 1323354397
+tags: game home sports minnesota standing logo football media purple nfl minneapolis indoor professional cameras vikings mn turf reporters warmups pregame metrodome midfield minnesotavikings denverbroncos 2011 50yardline december4th 120411 ericdecker mallofamericafield
+license: 1
+latitude: 44.973982
+longitude: -93.258379
+accuracy: 15
+views: 0
+interestingness: 46 out of 20
+
+photo: 6476436419 4b10f8c167 7025
+owner: 53240306@N07
+title: GB.PAK.09.0033
+originalsecret: b81e73f1dd
+originalformat: jpg
+o_height: 800
+o_width: 1200
+datetaken: 2009-11-02 16:42:24
+dateupload: 1323346312
+tags: pakistan reporter karachi sindh shantytown fwc macharcolony dailytimes balazsgardi amarguriro environmentaljournalist facingwatercrisis slumsettlement
+license: 3
+latitude: 24.861041
+longitude: 66.982215
+accuracy: 15
+views: 1
+interestingness: 47 out of 20
+
+photo: 6475972371 ee21b0162e 7150
+owner: 20169731@N00
+title: veteran broadcast journalist Vic Lee covering Occupy San Francisco
+originalsecret: 3366a92d69
+originalformat: png
+o_height: 1050
+o_width: 1573
+datetaken: 2011-12-07 16:34:51
+dateupload: 1323335984
+tags: sanfrancisco 99 demonstrations protests reporters viclee ows abc7 kgo investigativejournalists broadcastjournalists occupysanfrancisco
+license: 3
+latitude: 37.794711
+longitude: -122.394508
+accuracy: 15
+views: 3
+interestingness: 48 out of 20
+
+photo: 6466490409 2e6e35ffa6 7034
+owner: 27461366@N07
+title: JOVIAT-FUTBOL SALA-FUTBOLISTAS-JOVENES-JAN DESCALS-FOTOS-ERNEST DESCALS
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-05 21:32:22
+dateupload: 1323188305
+tags: barcelona espa?a amigos history sports sport photo team spain photos soccer competition son games recuerdo fotos competicion deporte catalunya players futbol padre reportajes historia catalu?a memoria deportes compa?eros hijo fotografo manresa equipo hijos frieds fotografias equipos jugadores deportistas partidos reportaje futbolsala futbolistas escolajoviat ernestdescals jandescals juliarios adriacoma arturrios
+license: 0
+latitude: 41.725391
+longitude: 1.823549
+accuracy: 11
+views: 27
+interestingness: 49 out of 20
+
+photo: 6442164207 f891de8e1e 7174
+owner: 47953739@N08
+title: Wolf Creek Dam Media Day 2011
+originalsecret: 3f11635346
+originalformat: jpg
+o_height: 2848
+o_width: 4288
+datetaken: 2011-11-18 12:30:26
+dateupload: 1322843561
+tags: lake project construction unitedstates dam ky safety corps foxnews commonwealth cumberland jamestown wolfcreek cumberlandriver mediaday usace lakecumberland corpsofengineers projectmanager wtvf damsafety ltcdelapp
+license: 6
+latitude: 36.86993
+longitude: -85.132251
+accuracy: 15
+views: 6
+interestingness: 50 out of 20
+
+photo: 6442163277 51ba370e15 7162
+owner: 47953739@N08
+title: Wolf Creek Dam Media Day 2011
+originalsecret: b8dd2fba44
+originalformat: jpg
+o_height: 4288
+o_width: 2848
+datetaken: 2011-11-18 12:28:08
+dateupload: 1322843550
+tags: lake project construction unitedstates dam ky safety corps foxnews commonwealth cumberland jamestown wolfcreek cumberlandriver mediaday usace lakecumberland corpsofengineers projectmanager wtvf damsafety ltcdelapp
+license: 6
+latitude: 36.86993
+longitude: -85.132251
+accuracy: 15
+views: 6
+interestingness: 51 out of 20
+
+photo: 6442161247 7caa8773b3 7027
+owner: 47953739@N08
+title: Wolf Creek Dam Media Day 2011
+originalsecret: ffdcde0a5d
+originalformat: jpg
+o_height: 2848
+o_width: 4288
+datetaken: 2011-11-18 12:12:31
+dateupload: 1322843526
+tags: lake project construction unitedstates dam ky safety corps foxnews commonwealth cumberland jamestown wolfcreek cumberlandriver mediaday usace lakecumberland corpsofengineers projectmanager wtvf damsafety ltcdelapp
+license: 6
+latitude: 36.869235
+longitude: -85.1446
+accuracy: 15
+views: 10
+interestingness: 52 out of 20
+
+photo: 6442160223 79ded2364f 7013
+owner: 47953739@N08
+title: Wolf Creek Dam Media Day 2011
+originalsecret: bf720c5f9d
+originalformat: jpg
+o_height: 2848
+o_width: 4288
+datetaken: 2011-11-18 11:58:35
+dateupload: 1322843513
+tags: lake project construction unitedstates dam ky safety corps foxnews commonwealth cumberland jamestown wolfcreek cumberlandriver mediaday usace lakecumberland corpsofengineers projectmanager wtvf damsafety ltcdelapp
+license: 6
+latitude: 36.869235
+longitude: -85.1446
+accuracy: 15
+views: 5
+interestingness: 53 out of 20
+
+photo: 6442159439 60ceaf86ce 7149
+owner: 47953739@N08
+title: Wolf Creek Dam Media Day 2011
+originalsecret: aa0b696143
+originalformat: jpg
+o_height: 4288
+o_width: 2848
+datetaken: 2011-11-18 11:52:47
+dateupload: 1322843503
+tags: lake project construction unitedstates dam ky safety corps foxnews commonwealth cumberland jamestown wolfcreek cumberlandriver mediaday usace lakecumberland corpsofengineers projectmanager wtvf damsafety ltcdelapp
+license: 6
+latitude: 36.869235
+longitude: -85.1446
+accuracy: 15
+views: 5
+interestingness: 54 out of 20
+
+photo: 6442158397 4aac9a525f 7013
+owner: 47953739@N08
+title: Wolf Creek Dam Media Day 2011
+originalsecret: facbf56f64
+originalformat: jpg
+o_height: 2848
+o_width: 4288
+datetaken: 2011-11-18 11:49:58
+dateupload: 1322843490
+tags: lake project construction unitedstates dam ky safety corps foxnews commonwealth cumberland jamestown wolfcreek cumberlandriver mediaday usace lakecumberland corpsofengineers projectmanager wtvf damsafety ltcdelapp
+license: 6
+latitude: 36.869235
+longitude: -85.1446
+accuracy: 15
+views: 4
+interestingness: 55 out of 20
+
+photo: 6442157493 951f74110d 7031
+owner: 47953739@N08
+title: Wolf Creek Dam Media Day 2011
+originalsecret: 189cbfdbed
+originalformat: jpg
+o_height: 2848
+o_width: 4288
+datetaken: 2011-11-18 11:49:22
+dateupload: 1322843478
+tags: lake project construction unitedstates dam ky safety corps foxnews commonwealth cumberland jamestown wolfcreek cumberlandriver mediaday usace lakecumberland corpsofengineers projectmanager wtvf damsafety ltcdelapp
+license: 6
+latitude: 36.869235
+longitude: -85.1446
+accuracy: 15
+views: 3
+interestingness: 56 out of 20
+
+photo: 6442156671 3d0e55b74f 7004
+owner: 47953739@N08
+title: Wolf Creek Dam Media Day 2011
+originalsecret: 69ded1c3af
+originalformat: jpg
+o_height: 2848
+o_width: 4288
+datetaken: 2011-11-18 11:46:40
+dateupload: 1322843468
+tags: lake project construction unitedstates dam ky safety corps foxnews commonwealth cumberland jamestown wolfcreek cumberlandriver mediaday usace lakecumberland corpsofengineers projectmanager wtvf damsafety ltcdelapp
+license: 6
+latitude: 36.869235
+longitude: -85.1446
+accuracy: 15
+views: 5
+interestingness: 57 out of 20
+
+photo: 6442155745 c5d4e835b8 7150
+owner: 47953739@N08
+title: Wolf Creek Dam Media Day 2011
+originalsecret: e5bca9bd01
+originalformat: jpg
+o_height: 2848
+o_width: 4288
+datetaken: 2011-11-18 11:21:34
+dateupload: 1322843456
+tags: lake project construction unitedstates dam ky safety corps foxnews commonwealth cumberland jamestown wolfcreek cumberlandriver mediaday usace lakecumberland corpsofengineers projectmanager wtvf damsafety ltcdelapp
+license: 6
+latitude: 36.869235
+longitude: -85.1446
+accuracy: 15
+views: 2
+interestingness: 58 out of 20
+
+photo: 6442154683 e2657d4889 7002
+owner: 47953739@N08
+title: Wolf Creek Dam Media Day 2011
+originalsecret: b499ffbfa1
+originalformat: jpg
+o_height: 2848
+o_width: 4288
+datetaken: 2011-11-18 11:18:09
+dateupload: 1322843445
+tags: lake project construction unitedstates dam ky safety corps foxnews commonwealth cumberland jamestown wolfcreek cumberlandriver mediaday usace lakecumberland corpsofengineers projectmanager wtvf damsafety ltcdelapp
+license: 6
+latitude: 36.869235
+longitude: -85.1446
+accuracy: 15
+views: 2
+interestingness: 59 out of 20
+
+photo: 6442153621 1467bec285 7168
+owner: 47953739@N08
+title: Wolf Creek Dam Media Day 2011
+originalsecret: f324af97aa
+originalformat: jpg
+o_height: 2848
+o_width: 4288
+datetaken: 2011-11-18 11:17:36
+dateupload: 1322843432
+tags: lake project construction unitedstates dam ky safety corps foxnews commonwealth cumberland jamestown wolfcreek cumberlandriver mediaday usace lakecumberland corpsofengineers projectmanager wtvf damsafety ltcdelapp
+license: 6
+latitude: 36.869235
+longitude: -85.1446
+accuracy: 15
+views: 3
+interestingness: 60 out of 20
+
+photo: 6442152559 2b59014488 7143
+owner: 47953739@N08
+title: Wolf Creek Dam Media Day 2011
+originalsecret: 8515beee1b
+originalformat: jpg
+o_height: 2848
+o_width: 4288
+datetaken: 2011-11-18 11:04:05
+dateupload: 1322843418
+tags: lake project construction unitedstates dam ky safety corps foxnews commonwealth cumberland jamestown wolfcreek cumberlandriver mediaday usace lakecumberland corpsofengineers projectmanager wtvf damsafety ltcdelapp
+license: 6
+latitude: 36.869235
+longitude: -85.1446
+accuracy: 15
+views: 5
+interestingness: 61 out of 20
+
+photo: 6442151655 b78beb309c 7031
+owner: 47953739@N08
+title: Wolf Creek Dam Media Day 2011
+originalsecret: 121ed9037e
+originalformat: jpg
+o_height: 2848
+o_width: 4288
+datetaken: 2011-11-18 11:02:44
+dateupload: 1322843407
+tags: lake project construction unitedstates dam ky safety corps foxnews commonwealth cumberland jamestown wolfcreek cumberlandriver mediaday usace lakecumberland corpsofengineers projectmanager wtvf damsafety ltcdelapp
+license: 6
+latitude: 36.869235
+longitude: -85.1446
+accuracy: 15
+views: 4
+interestingness: 62 out of 20
+
+photo: 6438318367 b841fdb5da 7019
+owner: 79781814@N00
+title: Occupy San Francisco
+originalsecret: df654e81c5
+originalformat: jpg
+o_height: 1936
+o_width: 2592
+datetaken: 2011-12-01 13:46:43
+dateupload: 1322776003
+tags: sanfrancisco reporter tentcity cameraman sfist newscrew ows justinhermannplaza occupy cbs5bayareanews
+license: 4
+latitude: 37.789219
+longitude: -122.402731
+accuracy: 16
+views: 29
+interestingness: 63 out of 20
+
+photo: 6436461065 554b7fbd40 7015
+owner: 57048464@N00
+title: NASCAR FANFEST 2011 - Checkin' The 6 - Las Vegas, NV
+originalsecret: 12b29b3c76
+originalformat: jpg
+o_height: 3456
+o_width: 5184
+datetaken: 2011-11-30 15:18:25
+dateupload: 1322902519
+tags: street las vegas cute st canon tv downtown strasse nevada reporter fremont nv blond experience nascar 13 motorsports channel ashlee fanfest 2011 ktnv demartino 60d tossmeanote
+license: 0
+latitude: 36.17026
+longitude: -115.143032
+accuracy: 16
+views: 9
+interestingness: 64 out of 20
+
+photo: 6436458215 5c259dd1e6 7007
+owner: 57048464@N00
+title: NASCAR FANFEST 2011 - Ashlee Demartino On Location - Las Vegas, NV
+originalsecret: d0c9a747a0
+originalformat: jpg
+o_height: 5184
+o_width: 3456
+datetaken: 2011-11-30 15:18:21
+dateupload: 1322902520
+tags: street las vegas cute st canon downtown strasse nevada reporter fremont nv blond experience nascar mic 13 motorsports meet channel greet ashlee fanfest 2011 ktnv demartino 60d tossmeanote
+license: 0
+latitude: 36.17026
+longitude: -115.143032
+accuracy: 16
+views: 16
+interestingness: 65 out of 20
+
+photo: 6436342965 d7b2a6792e 7169
+owner: 57048464@N00
+title: NASCAR FANFEST 2011 - ESPN's Jamie Little - Las Vegas, NV
+originalsecret: 905ef27721
+originalformat: jpg
+o_height: 3456
+o_width: 5184
+datetaken: 2011-11-30 14:42:23
+dateupload: 1322902559
+tags: street las vegas smile st canon happy downtown jamie little native strasse nevada joy reporter pit fremont nv nascar abc espn fanfest 2011 60d tossmeanote
+license: 0
+latitude: 36.17026
+longitude: -115.143032
+accuracy: 16
+views: 17
+interestingness: 66 out of 20
+
+photo: 6436339613 112106567a 7143
+owner: 57048464@N00
+title: NASCAR FANFEST 2011 - Jamie Little - Las Vegas, NV
+originalsecret: b0b092336d
+originalformat: jpg
+o_height: 3456
+o_width: 5184
+datetaken: 2011-11-30 14:41:27
+dateupload: 1322902561
+tags: street las vegas st downtown jamie little native stage strasse nevada reporter pit fremont nv nascar abc espn fanfest 2011 tossmeanote
+license: 0
+latitude: 36.17026
+longitude: -115.143032
+accuracy: 16
+views: 9
+interestingness: 67 out of 20
+
+photo: 6436295699 f6964d20da 7164
+owner: 35749421@N08
+title: Procopian News staff holiday card, side 2
+originalsecret: 5b1e3670ce
+originalformat: jpg
+o_height: 3636
+o_width: 5129
+datetaken: 2011-12-01 08:11:50
+dateupload: 1322748710
+tags: illinois 1960s collegestudents lisle benedictineuniversity collegenewspaper illinoisbenedictinecollege stprocopiuscollege procopiannews babydollpolkaclub
+license: 2
+latitude: 41.778956
+longitude: -88.095722
+accuracy: 16
+views: 18
+interestingness: 68 out of 20
+
+photo: 6436294485 3589d300db 7002
+owner: 35749421@N08
+title: Procopian News staff holiday card, side 1
+originalsecret: 9781866f69
+originalformat: jpg
+o_height: 3583
+o_width: 5129
+datetaken: 2011-12-01 08:11:31
+dateupload: 1322748691
+tags: illinois 1960s collegestudents lisle holidaycard newsdesk benedictineuniversity collegenewspaper illinoisbenedictinecollege stprocopiuscollege procopiannews
+license: 2
+latitude: 41.777728
+longitude: -88.097707
+accuracy: 16
+views: 50
+interestingness: 69 out of 20
+
+photo: 6435721893 8f11d8e95d 7002
+owner: 20711542@N02
+title: Administration commentary
+originalsecret: f4e54942f8
+originalformat: jpg
+o_height: 1728
+o_width: 2592
+datetaken: 2011-11-30 14:47:26
+dateupload: 1322737934
+tags: park light club football flood reporter portsmouth fratton cameraman cameravan
+license: 5
+latitude: 50.795275
+longitude: -1.064858
+accuracy: 15
+views: 4
+interestingness: 70 out of 20
+
+photo: 6482156361 05a7cc264b 7034
+owner: 43385797@N08
+title: 2011 Nieman Lecture
+originalsecret: f0b6fab649
+originalformat: jpg
+o_height: 600
+o_width: 409
+datetaken: 2011-12-07 07:28:34
+dateupload: 1323445486
+tags: reporter journalism 2011 collegeofcommunication jamesfoley photographerbensmidt niemanlecture collegeofcomm 2011niemanlecture
+license: 0
+latitude: 43.039893
+longitude: -87.931846
+accuracy: 15
+views: 1
+interestingness: 71 out of 20
+
+photo: 6482155799 f3496e4302 7026
+owner: 43385797@N08
+title: 2011 Nieman Lecture
+originalsecret: 4418b1003c
+originalformat: jpg
+o_height: 600
+o_width: 432
+datetaken: 2011-12-07 07:18:37
+dateupload: 1323445478
+tags: reporter journalism 2011 collegeofcommunication jamesfoley photographerbensmidt niemanlecture collegeofcomm 2011niemanlecture
+license: 0
+latitude: 43.039893
+longitude: -87.931846
+accuracy: 15
+views: 2
+interestingness: 72 out of 20
+
+photo: 6482155719 4be79a504c 7031
+owner: 43385797@N08
+title: 2011 Nieman Lecture
+originalsecret: b067828a5b
+originalformat: jpg
+o_height: 600
+o_width: 392
+datetaken: 2011-12-07 07:16:07
+dateupload: 1323445477
+tags: reporter journalism 2011 collegeofcommunication jamesfoley photographerbensmidt niemanlecture collegeofcomm 2011niemanlecture
+license: 0
+latitude: 43.039893
+longitude: -87.931846
+accuracy: 15
+views: 3
+interestingness: 73 out of 20
+
+photo: 6482155641 547a79fdcc 7157
+owner: 43385797@N08
+title: 2011 Nieman Lecture
+originalsecret: 3034bab4b7
+originalformat: jpg
+o_height: 600
+o_width: 388
+datetaken: 2011-12-07 07:16:03
+dateupload: 1323445476
+tags: reporter journalism 2011 collegeofcommunication jamesfoley photographerbensmidt niemanlecture collegeofcomm 2011niemanlecture
+license: 0
+latitude: 43.039893
+longitude: -87.931846
+accuracy: 15
+views: 2
+interestingness: 74 out of 20
+
+photo: 6482154903 94bbefe2df 7153
+owner: 43385797@N08
+title: 2011 Nieman Lecture
+originalsecret: 02c3a13775
+originalformat: jpg
+o_height: 600
+o_width: 369
+datetaken: 2011-12-07 07:11:06
+dateupload: 1323445467
+tags: reporter journalism 2011 collegeofcommunication jamesfoley photographerbensmidt niemanlecture collegeofcomm 2011niemanlecture
+license: 0
+latitude: 43.039893
+longitude: -87.931846
+accuracy: 15
+views: 3
+interestingness: 75 out of 20
+
+photo: 6482154323 08970d1138 7148
+owner: 43385797@N08
+title: 2011 Nieman Lecture
+originalsecret: bff6fe96be
+originalformat: jpg
+o_height: 400
+o_width: 599
+datetaken: 2011-12-07 07:21:55
+dateupload: 1323445459
+tags: reporter journalism 2011 collegeofcommunication jamesfoley photographerbensmidt niemanlecture collegeofcomm 2011niemanlecture
+license: 0
+latitude: 43.039893
+longitude: -87.931846
+accuracy: 15
+views: 1
+interestingness: 76 out of 20
+
+photo: 6482154229 8361b02d06 7170
+owner: 43385797@N08
+title: 2011 Nieman Lecture
+originalsecret: a920f5aef3
+originalformat: jpg
+o_height: 400
+o_width: 622
+datetaken: 2011-12-07 07:19:28
+dateupload: 1323445457
+tags: 2011 2011niemanlecture collegeofcomm collegeofcommunication jamesfoley journalism niemanlecture photographerbensmidt reporter
+license: 0
+latitude: 43.039893
+longitude: -87.931846
+accuracy: 15
+views: 2
+interestingness: 77 out of 20
+
+photo: 6482153979 e416b492b7 7023
+owner: 43385797@N08
+title: 2011 Nieman Lecture
+originalsecret: 34f8ae88c3
+originalformat: jpg
+o_height: 400
+o_width: 577
+datetaken: 2011-12-07 07:00:48
+dateupload: 1323445454
+tags: reporter journalism 2011 collegeofcommunication jamesfoley photographerbensmidt niemanlecture collegeofcomm 2011niemanlecture
+license: 0
+latitude: 43.039893
+longitude: -87.931846
+accuracy: 15
+views: 3
+interestingness: 78 out of 20
+
+photo: 6477638005 e9d0843851 7019
+owner: 43385797@N08
+title: Diederich Ideas
+originalsecret: d3c5127b21
+originalformat: jpg
+o_height: 600
+o_width: 399
+datetaken: 2011-12-07 03:03:40
+dateupload: 1323364902
+tags: reporters 2011 collegeofcommunication jamesfoley jpad photographerbensmidt niemanlecture collegeofcomm niemanlectureseries
+license: 0
+latitude: 43.038559
+longitude: -87.927832
+accuracy: 16
+views: 26
+interestingness: 79 out of 20
+
+photo: 6477637849 0565f350e3 7162
+owner: 43385797@N08
+title: Diederich Ideas
+originalsecret: e74782f279
+originalformat: jpg
+o_height: 600
+o_width: 418
+datetaken: 2011-12-07 03:03:07
+dateupload: 1323364900
+tags: reporters 2011 collegeofcommunication jamesfoley jpad photographerbensmidt niemanlecture collegeofcomm niemanlectureseries
+license: 0
+latitude: 43.038559
+longitude: -87.927832
+accuracy: 16
+views: 26
+interestingness: 80 out of 20
+
+photo: 6477637779 9b04e85771 7015
+owner: 43385797@N08
+title: Diederich Ideas
+originalsecret: 47356d61ff
+originalformat: jpg
+o_height: 600
+o_width: 417
+datetaken: 2011-12-07 02:51:15
+dateupload: 1323364899
+tags: reporters 2011 collegeofcommunication jamesfoley jpad photographerbensmidt niemanlecture collegeofcomm niemanlectureseries
+license: 0
+latitude: 43.038559
+longitude: -87.927832
+accuracy: 16
+views: 24
+interestingness: 81 out of 20
+
+photo: 6477637563 f50de0b644 7004
+owner: 43385797@N08
+title: Diederich Ideas
+originalsecret: 9d1958f10e
+originalformat: jpg
+o_height: 600
+o_width: 400
+datetaken: 2011-12-07 02:35:26
+dateupload: 1323364896
+tags: reporters 2011 collegeofcommunication jamesfoley jpad photographerbensmidt niemanlecture collegeofcomm niemanlectureseries
+license: 0
+latitude: 43.038559
+longitude: -87.927832
+accuracy: 16
+views: 22
+interestingness: 82 out of 20
+
+photo: 6477637313 6b32c72f15 7164
+owner: 43385797@N08
+title: Diederich Ideas
+originalsecret: 484938b2d0
+originalformat: jpg
+o_height: 600
+o_width: 411
+datetaken: 2011-12-07 02:29:30
+dateupload: 1323364893
+tags: reporters 2011 collegeofcommunication jamesfoley jpad photographerbensmidt niemanlecture collegeofcomm niemanlectureseries
+license: 0
+latitude: 43.038559
+longitude: -87.927832
+accuracy: 16
+views: 27
+interestingness: 83 out of 20
+
+photo: 6477637167 0747180026 7009
+owner: 43385797@N08
+title: Diederich Ideas
+originalsecret: 82c829be62
+originalformat: jpg
+o_height: 600
+o_width: 432
+datetaken: 2011-12-07 02:19:43
+dateupload: 1323364891
+tags: reporters 2011 collegeofcommunication jamesfoley jpad photographerbensmidt niemanlecture collegeofcomm niemanlectureseries
+license: 0
+latitude: 43.038559
+longitude: -87.927832
+accuracy: 16
+views: 22
+interestingness: 84 out of 20
+
+photo: 6477636913 d487921c46 7022
+owner: 43385797@N08
+title: Diederich Ideas
+originalsecret: 5c0629c99a
+originalformat: jpg
+o_height: 400
+o_width: 613
+datetaken: 2011-12-07 03:02:49
+dateupload: 1323364888
+tags: reporters 2011 collegeofcommunication jamesfoley jpad photographerbensmidt niemanlecture collegeofcomm niemanlectureseries
+license: 0
+latitude: 43.038559
+longitude: -87.927832
+accuracy: 16
+views: 28
+interestingness: 85 out of 20
+
+photo: 6477636679 c2fa1a73e0 7151
+owner: 43385797@N08
+title: Diederich Ideas
+originalsecret: 3d34d47688
+originalformat: jpg
+o_height: 400
+o_width: 613
+datetaken: 2011-12-07 02:58:49
+dateupload: 1323364885
+tags: reporters 2011 collegeofcommunication jamesfoley jpad photographerbensmidt niemanlecture collegeofcomm niemanlectureseries
+license: 0
+latitude: 43.038559
+longitude: -87.927832
+accuracy: 16
+views: 24
+interestingness: 86 out of 20
+
+photo: 6477636327 f8dc7ff645 7033
+owner: 43385797@N08
+title: Diederich Ideas
+originalsecret: 93826b579d
+originalformat: jpg
+o_height: 400
+o_width: 624
+datetaken: 2011-12-07 02:52:39
+dateupload: 1323364881
+tags: reporters 2011 collegeofcommunication jamesfoley jpad photographerbensmidt niemanlecture collegeofcomm niemanlectureseries
+license: 0
+latitude: 43.038559
+longitude: -87.927832
+accuracy: 16
+views: 47
+interestingness: 87 out of 20
+
+photo: 6477636121 b856bcf586 7025
+owner: 43385797@N08
+title: Diederich Ideas
+originalsecret: 58ac201710
+originalformat: jpg
+o_height: 400
+o_width: 577
+datetaken: 2011-12-07 02:48:06
+dateupload: 1323364879
+tags: reporters 2011 collegeofcommunication jamesfoley jpad photographerbensmidt niemanlecture collegeofcomm niemanlectureseries
+license: 0
+latitude: 43.038559
+longitude: -87.927832
+accuracy: 16
+views: 33
+interestingness: 88 out of 20
+
+photo: 6477635975 91bd473620 7004
+owner: 43385797@N08
+title: Diederich Ideas
+originalsecret: 34baac6191
+originalformat: jpg
+o_height: 400
+o_width: 600
+datetaken: 2011-12-07 02:47:14
+dateupload: 1323364876
+tags: reporters 2011 collegeofcommunication jamesfoley jpad photographerbensmidt niemanlecture collegeofcomm niemanlectureseries
+license: 0
+latitude: 43.038559
+longitude: -87.927832
+accuracy: 16
+views: 32
+interestingness: 89 out of 20
+
+photo: 6477635937 023b4d975e 7021
+owner: 43385797@N08
+title: Diederich Ideas
+originalsecret: 07322317e1
+originalformat: jpg
+o_height: 400
+o_width: 587
+datetaken: 2011-12-07 02:45:25
+dateupload: 1323364876
+tags: reporters 2011 collegeofcommunication jamesfoley jpad photographerbensmidt niemanlecture collegeofcomm niemanlectureseries
+license: 0
+latitude: 43.038559
+longitude: -87.927832
+accuracy: 16
+views: 25
+interestingness: 90 out of 20
+
+photo: 6477635639 d110772d49 7143
+owner: 43385797@N08
+title: Diederich Ideas
+originalsecret: b8f0da6c34
+originalformat: jpg
+o_height: 400
+o_width: 600
+datetaken: 2011-12-07 02:39:42
+dateupload: 1323364872
+tags: reporters 2011 collegeofcommunication jamesfoley jpad photographerbensmidt niemanlecture collegeofcomm niemanlectureseries
+license: 0
+latitude: 43.038559
+longitude: -87.927832
+accuracy: 16
+views: 40
+interestingness: 91 out of 20
+
+photo: 6477635537 54b64a1306 7167
+owner: 43385797@N08
+title: Diederich Ideas
+originalsecret: 0e8fb6efca
+originalformat: jpg
+o_height: 400
+o_width: 600
+datetaken: 2011-12-07 02:39:30
+dateupload: 1323364871
+tags: reporters 2011 collegeofcommunication jamesfoley jpad photographerbensmidt niemanlecture collegeofcomm niemanlectureseries
+license: 0
+latitude: 43.038559
+longitude: -87.927832
+accuracy: 16
+views: 33
+interestingness: 92 out of 20
+
+photo: 6477634411 d65f278f21 7167
+owner: 43385797@N08
+title: Diederich Ideas
+originalsecret: 67107bedd3
+originalformat: jpg
+o_height: 400
+o_width: 617
+datetaken: 2011-12-07 02:03:25
+dateupload: 1323364855
+tags: reporters 2011 collegeofcommunication jamesfoley jpad photographerbensmidt niemanlecture
+license: 0
+latitude: 43.038559
+longitude: -87.927832
+accuracy: 16
+views: 37
+interestingness: 93 out of 20
+
+photo: 6467835615 e76d436dcd 7172
+owner: 39982573@N02
+title: 6442879565_82fb23ee90_b
+originalsecret: cfd347923d
+originalformat: jpg
+o_height: 683
+o_width: 1024
+datetaken: 2011-12-06 14:52:23
+dateupload: 1323204743
+tags: milwaukee kickoff groundbreaking newsreporter marriotthotel constrution wallsmashing aldermanbobbauman
+license: 0
+latitude: 43.038599
+longitude: -87.907104
+accuracy: 16
+views: 0
+interestingness: 94 out of 20
+
+photo: 6456929605 0a96819726 7153
+owner: 70323761@N00
+title: NYC - Queens - Astoria: Museum of the Moving Image - Script with Correction insert for Citizen Kane
+originalsecret: d53cd92402
+originalformat: jpg
+o_height: 2836
+o_width: 4249
+datetaken: 2011-04-02 17:59:08
+dateupload: 1323051840
+tags: script screenplay orsonwelles citizenkane hermanmankiewicz correctioninsert
+license: 3
+latitude: 40.755994
+longitude: -73.924319
+accuracy: 16
+views: 1
+interestingness: 95 out of 20
+
+photo: 6471514011 7dce153102 7170
+owner: 35753377@N08
+title: Sapeurs-Pompiers et flammes au Fort de Domont
+originalsecret: 48254eb357
+originalformat: jpg
+o_height: 852
+o_width: 1280
+datetaken: 2011-12-06 16:05:21
+dateupload: 1323265988
+tags: bei flammes sapeurspompiers bureauenqu?teincendie fortdedomont
+license: 0
+latitude: 49.031115
+longitude: 2.320003
+accuracy: 13
+views: 110
+interestingness: 96 out of 20
+
+photo: 6477762467 aee858e241 7007
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 13:09:17
+dateupload: 1323366695
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 9.000916
+longitude: 38.745336
+accuracy: 16
+views: 4
+interestingness: 97 out of 20
+
+photo: 6477639939 c67104fc4c 7011
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 13:08:10
+dateupload: 1323364928
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 9.0008
+longitude: 38.74535
+accuracy: 16
+views: 6
+interestingness: 98 out of 20
+
+photo: 6477577261 e713b201a0 7020
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 13:07:50
+dateupload: 1323364131
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 9.000766
+longitude: 38.74535
+accuracy: 16
+views: 1
+interestingness: 99 out of 20
+
+photo: 6477522081 68099d0ca9 7008
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 12:57:00
+dateupload: 1323363384
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 8.999916
+longitude: 38.74535
+accuracy: 16
+views: 3
+interestingness: 100 out of 20
+
+photo: 6477478991 fd461710ac 7016
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 12:56:35
+dateupload: 1323362775
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 8.999916
+longitude: 38.74535
+accuracy: 16
+views: 4
+interestingness: 101 out of 20
+
+photo: 6477361945 d11cdf4449 7007
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 12:45:31
+dateupload: 1323361078
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 8.999866
+longitude: 38.745363
+accuracy: 16
+views: 2
+interestingness: 102 out of 20
+
+photo: 6477312951 eb6976c8c2 7033
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 12:53:23
+dateupload: 1323360418
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 8.999883
+longitude: 38.745386
+accuracy: 16
+views: 1
+interestingness: 103 out of 20
+
+photo: 6477270991 5f0cbf1eb6 7028
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 12:46:03
+dateupload: 1323359841
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 8.999866
+longitude: 38.745363
+accuracy: 16
+views: 1
+interestingness: 104 out of 20
+
+photo: 6477182667 bdd5107369 7004
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 12:52:02
+dateupload: 1323358665
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 8.999866
+longitude: 38.745363
+accuracy: 16
+views: 1
+interestingness: 105 out of 20
+
+photo: 6477125093 3824f26dc7 7017
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 12:38:00
+dateupload: 1323357832
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 8.999699
+longitude: 38.745583
+accuracy: 16
+views: 1
+interestingness: 106 out of 20
+
+photo: 6477028511 f1be708121 7148
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 12:40:48
+dateupload: 1323356413
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 8.999649
+longitude: 38.745602
+accuracy: 16
+views: 2
+interestingness: 107 out of 20
+
+photo: 6476940143 c036cebd04 7169
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 12:45:12
+dateupload: 1323355055
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 8.999866
+longitude: 38.745363
+accuracy: 16
+views: 4
+interestingness: 108 out of 20
+
+photo: 6476892055 0473a74ca1 7163
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 12:45:10
+dateupload: 1323354347
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 8.999866
+longitude: 38.745363
+accuracy: 16
+views: 9
+interestingness: 109 out of 20
+
+photo: 6473731293 75195875ff 7170
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 12:37:20
+dateupload: 1323295565
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 8.999716
+longitude: 38.74563
+accuracy: 16
+views: 5
+interestingness: 110 out of 20
+
+photo: 6473703411 443e4c4027 7013
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 12:37:17
+dateupload: 1323295157
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 8.999716
+longitude: 38.745616
+accuracy: 16
+views: 3
+interestingness: 111 out of 20
+
+photo: 6473642087 ec998fea4d 7029
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 12:37:13
+dateupload: 1323294260
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 8.999716
+longitude: 38.745616
+accuracy: 16
+views: 5
+interestingness: 112 out of 20
+
+photo: 6473413269 d8aab02215 7175
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 12:33:34
+dateupload: 1323291148
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 8.999899
+longitude: 38.745286
+accuracy: 16
+views: 3
+interestingness: 113 out of 20
+
+photo: 6473367481 493809ba89 7006
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 12:36:58
+dateupload: 1323290514
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 8.999716
+longitude: 38.745616
+accuracy: 16
+views: 2
+interestingness: 114 out of 20
+
+photo: 6473225849 987e2115bd 7173
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 12:16:02
+dateupload: 1323288630
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 8.999166
+longitude: 38.744363
+accuracy: 16
+views: 3
+interestingness: 115 out of 20
+
+photo: 6473181987 3fb09324f3 7141
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 12:20:37
+dateupload: 1323288034
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 8.99925
+longitude: 38.744302
+accuracy: 16
+views: 4
+interestingness: 116 out of 20
+
+photo: 6473121563 7f3160b95e 7003
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 12:13:04
+dateupload: 1323287214
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 8.99955
+longitude: 38.744336
+accuracy: 16
+views: 3
+interestingness: 117 out of 20
+
+photo: 6473016485 f85d728b0e 7021
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 12:06:23
+dateupload: 1323285845
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 8.999683
+longitude: 38.744413
+accuracy: 16
+views: 6
+interestingness: 118 out of 20
+
+photo: 6472959789 9c7768f095 7145
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 12:07:35
+dateupload: 1323285100
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 8.999833
+longitude: 38.744119
+accuracy: 16
+views: 2
+interestingness: 119 out of 20
+
+photo: 6472911323 6db6dd1bb0 7005
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 12:03:55
+dateupload: 1323284448
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 8.999616
+longitude: 38.744533
+accuracy: 16
+views: 2
+interestingness: 120 out of 20
+
+photo: 6472853497 ac0c0c19e8 7175
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 12:01:26
+dateupload: 1323283695
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 8.9996
+longitude: 38.744336
+accuracy: 16
+views: 4
+interestingness: 121 out of 20
+
+photo: 6472788805 1ea2685c88 7016
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 11:58:44
+dateupload: 1323282854
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 8.999799
+longitude: 38.744133
+accuracy: 16
+views: 3
+interestingness: 122 out of 20
+
+photo: 6472712171 151033e450 7151
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 11:53:54
+dateupload: 1323281786
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 9.00005
+longitude: 38.743697
+accuracy: 16
+views: 2
+interestingness: 123 out of 20
+
+photo: 6472619341 cefccc979c 7013
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 11:46:21
+dateupload: 1323280507
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 8.999933
+longitude: 38.7448
+accuracy: 16
+views: 2
+interestingness: 124 out of 20
+
+photo: 6472515183 247ff59cd4 7159
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 11:40:33
+dateupload: 1323279194
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 9.000616
+longitude: 38.744436
+accuracy: 16
+views: 3
+interestingness: 125 out of 20
+
+photo: 6472449183 e33097806f 7009
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 11:29:08
+dateupload: 1323278390
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 8.999849
+longitude: 38.744216
+accuracy: 16
+views: 2
+interestingness: 126 out of 20
+
+photo: 6472423033 8c3e5aa21b 7016
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 11:27:37
+dateupload: 1323278066
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 8.999855
+longitude: 38.744225
+accuracy: 16
+views: 3
+interestingness: 127 out of 20
+
+photo: 6472395761 9b13d6228b 7150
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 11:40:03
+dateupload: 1323277745
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 9.000658
+longitude: 38.744302
+accuracy: 16
+views: 6
+interestingness: 128 out of 20
+
+photo: 6472340745 dd4bb0321e 7003
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 11:37:34
+dateupload: 1323277038
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 9.000916
+longitude: 38.74428
+accuracy: 16
+views: 3
+interestingness: 129 out of 20
+
+photo: 6472261819 3e20748792 7031
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 11:30:01
+dateupload: 1323276043
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 8.999766
+longitude: 38.74423
+accuracy: 16
+views: 3
+interestingness: 130 out of 20
+
+photo: 6472132225 75daf30ef9 7034
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 11:24:00
+dateupload: 1323274401
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 9.000088
+longitude: 38.744363
+accuracy: 16
+views: 6
+interestingness: 131 out of 20
+
+photo: 6472061473 4bd90b270f 7020
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 11:23:53
+dateupload: 1323273537
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 9.0002
+longitude: 38.74435
+accuracy: 16
+views: 3
+interestingness: 132 out of 20
+
+photo: 6471857605 4895cd9738 7163
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 11:21:32
+dateupload: 1323270970
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 9.000733
+longitude: 38.74435
+accuracy: 16
+views: 4
+interestingness: 133 out of 20
+
+photo: 6471763287 a3ca93228e 7002
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 11:21:10
+dateupload: 1323269694
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 9.000966
+longitude: 38.744363
+accuracy: 16
+views: 4
+interestingness: 134 out of 20
+
+photo: 6471574271 b1ed03f0e5 7147
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 11:18:04
+dateupload: 1323266875
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 9.0013
+longitude: 38.745336
+accuracy: 16
+views: 7
+interestingness: 135 out of 20
+
+photo: 6471500043 55169ecf5a 7023
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 11:20:50
+dateupload: 1323265794
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 9.001033
+longitude: 38.744519
+accuracy: 16
+views: 3
+interestingness: 136 out of 20
+
+photo: 6457125553 0cb09de6b1 7155
+owner: 90807129@N00
+title: LAFD Responds to Street Flooding in Toluca Lake
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-30 13:20:27
+dateupload: 1323053949
+tags: lafd losangelesfiredepartment mikemeadows
+license: 0
+latitude: 34.151596
+longitude: -118.352729
+accuracy: 15
+views: 389
+interestingness: 137 out of 20
+
+photo: 6471002467 8e9a845826 7003
+owner: 71482332@N04
+title: 'A Drift' Exhibit
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2007-06-09 11:51:19
+dateupload: 1323256762
+tags: 
+license: 0
+latitude: 12.14943
+longitude: -68.253593
+accuracy: 11
+views: 0
+interestingness: 138 out of 20
+
+photo: 6471769359 192c11bcfa 7167
+owner: 63839496@N08
+title: Anne Laymond - Issue 47 of The Circuit
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-07-12 00:51:49
+dateupload: 1323269780
+tags: camera vegas woman girl rio female fence magazine us garbage nikon parkinglot media photographer lasvegas nevada unitedstatesofamerica reporter blogger player bin tournament poker cover tanktop brunette wsop innit magazinecover framewithinaframe thecircuit worldseriesofpoker frameinaframe pokerlistings magazinestyle lecircuit boxinabox alexanderjebradley annelaymond
+license: 0
+latitude: 36.120576
+longitude: -115.184735
+accuracy: 16
+views: 11
+interestingness: 139 out of 20
+
+photo: 6449854503 a8df12caf6 7021
+owner: 8189456@N02
+title: Inc?ndio
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2006-11-18 23:35:27
+dateupload: 1322962527
+tags: fire ventura inc?ndio ceasa contagem concursofotoclubebh
+license: 0
+latitude: -19.898558
+longitude: -44.046962
+accuracy: 15
+views: 14
+interestingness: 140 out of 20
+
+photo: 6473495263 cfa203d32e 7174
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 12:28:04
+dateupload: 1323292254
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 8.999316
+longitude: 38.744766
+accuracy: 16
+views: 10
+interestingness: 141 out of 20
+
+photo: 6473291309 09f8ccdc34 7160
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 12:05:19
+dateupload: 1323289503
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 8.999683
+longitude: 38.744463
+accuracy: 16
+views: 5
+interestingness: 142 out of 20
+
+photo: 6472679087 015e36798d 7142
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 11:49:54
+dateupload: 1323281327
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 9.000094
+longitude: 38.744133
+accuracy: 16
+views: 5
+interestingness: 143 out of 20
+
+photo: 6472579737 87a6ec80b3 7027
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 11:45:29
+dateupload: 1323279991
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 9.000066
+longitude: 38.744583
+accuracy: 16
+views: 2
+interestingness: 144 out of 20
+
+photo: 6472546627 79d4440155 7026
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 11:41:01
+dateupload: 1323279582
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 9.00035
+longitude: 38.744302
+accuracy: 16
+views: 2
+interestingness: 145 out of 20
+
+photo: 6471447371 e2c027bdf0 7033
+owner: 99425225@N00
+title: China & the African Drought: Part 4 ? an African union
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-02 11:18:47
+dateupload: 1323265027
+tags: ethiopia addisababa eth oromia
+license: 0
+latitude: 9.0014
+longitude: 38.74518
+accuracy: 16
+views: 2
+interestingness: 146 out of 20
+
+Total images queried: 20

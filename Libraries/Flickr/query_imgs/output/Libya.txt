@@ -1,0 +1,465 @@
+
+mintime: 1322697600 maxtime: 1324512427.5
+numimgs: 4
+total pages: 1
+visiting only 1 pages ( up to 250 images)
+photo: 6436974579 d2f99a7bf2 7013
+owner: 46038965@N03
+title: Some seem to smile...
+originalsecret: 0184774c45
+originalformat: jpg
+o_height: 506
+o_width: 770
+datetaken: 2011-12-01 19:39:08
+dateupload: 1322758159
+tags: flowers flower beauty rose insect spring insects libya altaher altabet
+license: 0
+latitude: 32.874108
+longitude: 13.170547
+accuracy: 10
+views: 94
+interestingness: 1 out of 4
+
+photo: 6478793787 4e0e32a0a2 7165
+owner: 41631222@N00
+title: Owo Benghazi  . . . Owo Benghazi
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-08 16:24:46
+dateupload: 1323380949
+tags: an libya benghazi owo libia libye ??????? libi ????? libyen ???? ????? ????? l?bia libi? ???? ??? ?????? ?????? libija geogr ??? ????? n???c ????? ????? ??????? ??? ??? ????? ????? ?????? l?bija ?????? liib?a ????? ????? ?????? l?b?a ????????? ???????? ?????????? ??? ?????? ?????
+license: 0
+latitude: 32.110059
+longitude: 20.083866
+accuracy: 11
+views: 51
+interestingness: 2 out of 4
+
+photo: 6465258251 67d0d4ba16 7017
+owner: 32568909@N05
+title: Sunset at Tripoli ! | ???? ????? ?? ??????
+originalsecret: b867dd8583
+originalformat: jpg
+o_height: 3159
+o_width: 5616
+datetaken: 2011-12-06 18:19:19
+dateupload: 1323169620
+tags: city canon eos mark capital ii western 5d libya tripoli largest taha 2011 ????? algharb ?????? ????? ????? ?ar?bulus elraaid tahaphotography
+license: 0
+latitude: 32.870936
+longitude: 13.199386
+accuracy: 9
+views: 82
+interestingness: 3 out of 4
+
+photo: 6458517439 fba77b3059 7164
+owner: 30069870@N08
+title: .
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-05 09:28:41
+dateupload: 1323073728
+tags: street lyon trix400 leicam4p grainesdimages
+license: 0
+latitude: 45.736844
+longitude: 4.81509
+accuracy: 16
+views: 63
+interestingness: 4 out of 4
+
+photo: 6455063421 bb61225b4a 7160
+owner: 32568909@N05
+title: Sunset at Lectis Magna | ???? ????? ?? ????? ???? ???????
+originalsecret: b951fd1012
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-12-05 17:44:19
+dateupload: 1323032441
+tags: sunset photography libya ?? magna taha | ???? ????? ????? ?? ???? lectis ?????? ???????
+license: 0
+latitude: 32.649782
+longitude: 14.27742
+accuracy: 9
+views: 42
+interestingness: 5 out of 4
+
+photo: 6470729353 95dee0485d 7008
+owner: 49707497@N06
+title: The Military Wives Choir
+originalsecret: 4681eb5021
+originalformat: jpg
+o_height: 2592
+o_width: 3258
+datetaken: 2011-12-06 13:15:18
+dateupload: 1323250866
+tags: thechoir garethmalone militarywiveschoir
+license: 3
+latitude: 51.503166
+longitude: -0.127544
+accuracy: 16
+views: 233
+interestingness: 6 out of 4
+
+photo: 6472945029 12ba727def 7155
+owner: 10246637@N04
+title: Mr Burt "I Love Libya"
+originalsecret: 665d38e2af
+originalformat: jpg
+o_height: 2304
+o_width: 3456
+datetaken: 2011-12-07 23:55:03
+dateupload: 1323284906
+tags: prison oil council british saleem clinic abu libya tripoli burt alistair fco
+license: 6
+latitude: 32.838058
+longitude: 13.200759
+accuracy: 11
+views: 114
+interestingness: 7 out of 4
+
+photo: 6472908573 e48960dfd9 7154
+owner: 10246637@N04
+title: Mr Burt talks to young artist
+originalsecret: 95b21d7732
+originalformat: jpg
+o_height: 2304
+o_width: 3456
+datetaken: 2011-12-07 23:48:57
+dateupload: 1323284409
+tags: prison oil council british saleem clinic abu libya tripoli burt alistair fco
+license: 6
+latitude: 32.838058
+longitude: 13.200759
+accuracy: 11
+views: 67
+interestingness: 8 out of 4
+
+photo: 6472861449 e98f9b9da7 7143
+owner: 10246637@N04
+title: Abu Saleem
+originalsecret: 12e4b84632
+originalformat: jpg
+o_height: 2304
+o_width: 3456
+datetaken: 2011-12-07 22:51:29
+dateupload: 1323283797
+tags: prison oil council british saleem clinic abu libya tripoli burt alistair fco
+license: 6
+latitude: 32.838058
+longitude: 13.200759
+accuracy: 11
+views: 77
+interestingness: 9 out of 4
+
+photo: 6472821243 c052d14a29 7003
+owner: 10246637@N04
+title: Inside Abu Saleem
+originalsecret: ac980385de
+originalformat: jpg
+o_height: 2304
+o_width: 3456
+datetaken: 2011-12-07 22:34:29
+dateupload: 1323283281
+tags: prison oil council british saleem clinic abu libya tripoli burt alistair fco
+license: 6
+latitude: 32.838058
+longitude: 13.200759
+accuracy: 11
+views: 75
+interestingness: 10 out of 4
+
+photo: 6472769793 a461cc8377 7011
+owner: 10246637@N04
+title: Re-launch of the British Council
+originalsecret: eaab48b7fa
+originalformat: jpg
+o_height: 2304
+o_width: 3456
+datetaken: 2011-12-07 19:26:49
+dateupload: 1323282601
+tags: prison oil council british saleem clinic abu libya tripoli burt alistair fco
+license: 6
+latitude: 32.838058
+longitude: 13.200759
+accuracy: 11
+views: 66
+interestingness: 11 out of 4
+
+photo: 6472719983 5702fd8947 7167
+owner: 10246637@N04
+title: A gift from Suq al-Juma'a
+originalsecret: daf70c2956
+originalformat: jpg
+o_height: 2102
+o_width: 1856
+datetaken: 2011-12-08 00:29:30
+dateupload: 1323281895
+tags: prison oil council british saleem clinic abu libya tripoli burt alistair fco
+license: 6
+latitude: 32.838058
+longitude: 13.200759
+accuracy: 11
+views: 79
+interestingness: 12 out of 4
+
+photo: 6472707377 5cfef7324b 7154
+owner: 10246637@N04
+title: Young artists at Suq al-Juma'a
+originalsecret: 2c02caf4d8
+originalformat: jpg
+o_height: 2304
+o_width: 2949
+datetaken: 2011-12-07 23:54:17
+dateupload: 1323281724
+tags: prison oil council british saleem clinic abu libya tripoli burt alistair fco
+license: 6
+latitude: 32.838058
+longitude: 13.200759
+accuracy: 11
+views: 90
+interestingness: 13 out of 4
+
+photo: 6472689437 4b92b21f69 7157
+owner: 10246637@N04
+title: Graffiti art in Suq al-Juma'a
+originalsecret: e82f709506
+originalformat: jpg
+o_height: 2297
+o_width: 2884
+datetaken: 2011-12-07 23:53:24
+dateupload: 1323281473
+tags: prison oil council british saleem clinic abu libya tripoli burt alistair fco
+license: 6
+latitude: 32.838058
+longitude: 13.200759
+accuracy: 11
+views: 84
+interestingness: 14 out of 4
+
+photo: 6472647943 000c7ba719 7032
+owner: 10246637@N04
+title: Abu Saleem Survivor
+originalsecret: d01b80ee58
+originalformat: jpg
+o_height: 2034
+o_width: 1450
+datetaken: 2011-12-07 22:24:51
+dateupload: 1323280900
+tags: prison oil council british saleem clinic abu libya tripoli burt alistair fco
+license: 6
+latitude: 32.838058
+longitude: 13.200759
+accuracy: 11
+views: 189
+interestingness: 15 out of 4
+
+photo: 6472641321 2c2ac16881 7167
+owner: 10246637@N04
+title: Cutting of the Ribbon
+originalsecret: 150db823ec
+originalformat: jpg
+o_height: 3456
+o_width: 2304
+datetaken: 2011-12-07 19:24:13
+dateupload: 1323280814
+tags: prison oil council british saleem clinic abu libya tripoli burt alistair fco
+license: 6
+latitude: 32.838058
+longitude: 13.200759
+accuracy: 11
+views: 86
+interestingness: 16 out of 4
+
+photo: 6472623921 f6721d006f 7029
+owner: 10246637@N04
+title: The British Community in Tripoli
+originalsecret: b7bf3be0ed
+originalformat: jpg
+o_height: 2304
+o_width: 3456
+datetaken: 2011-12-07 17:04:06
+dateupload: 1323280572
+tags: prison oil council british saleem clinic abu libya tripoli burt alistair fco
+license: 6
+latitude: 32.838058
+longitude: 13.200759
+accuracy: 11
+views: 102
+interestingness: 17 out of 4
+
+photo: 6437274213 d4725fa327 7145
+owner: 29324474@N02
+title: 111130 Libya imposes visas on Mauritanians, Algerians | ????? ???? ?????? ???? ??? ?????? ????????? ???????? | La Libye impose des visas aux Mauritaniens et aux Alg?riens
+originalsecret: d7619db42a
+originalformat: jpg
+o_height: 533
+o_width: 800
+datetaken: 2011-12-01 09:55:13
+dateupload: 1322762113
+tags: algeria tunis libya alg?rie tunisie ???? libye ??????? ?????
+license: 4
+latitude: 18.08406
+longitude: -15.97842
+accuracy: 11
+views: 35
+interestingness: 18 out of 4
+
+photo: 6478432091 f449a5040c 7032
+owner: 99619150@N00
+title: Steps. Leptis Maga. Libya
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2009-02-20 13:25:58
+dateupload: 1323376069
+tags: cameraphone architecture roman ruin classical marble libya xperia
+license: 0
+latitude: 32.64082
+longitude: 14.290466
+accuracy: 10
+views: 6
+interestingness: 19 out of 4
+
+photo: 6464692503 83c910df5e 7146
+owner: 30069870@N08
+title: .
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-06 08:48:18
+dateupload: 1323157716
+tags: street trix400 2011 leicam4p grainesdimages
+license: 0
+latitude: 45.736586
+longitude: 4.81509
+accuracy: 16
+views: 33
+interestingness: 20 out of 4
+
+photo: 6464691825 8e44ef1716 7010
+owner: 30069870@N08
+title: .
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-06 08:48:16
+dateupload: 1323157701
+tags: street trix400 2011 leicam4p grainesdimages
+license: 0
+latitude: 45.736267
+longitude: 4.815208
+accuracy: 16
+views: 29
+interestingness: 21 out of 4
+
+photo: 6478547037 ac096d5efc 7170
+owner: 99619150@N00
+title: Theatre. Leptis Magna. Libya
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2009-02-20 12:39:06
+dateupload: 1323377632
+tags: libya
+license: 0
+latitude: 32.641687
+longitude: 14.289779
+accuracy: 10
+views: 3
+interestingness: 22 out of 4
+
+photo: 6478157049 a2c20b7b9e 7002
+owner: 99619150@N00
+title: Column. Leptis Maga. Libya
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2009-02-20 13:23:14
+dateupload: 1323372292
+tags: libya
+license: 0
+latitude: 32.637784
+longitude: 14.293556
+accuracy: 16
+views: 3
+interestingness: 23 out of 4
+
+photo: 6478156031 20124e677e 7175
+owner: 99619150@N00
+title: Street. Leptis Maga. Libya
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2009-02-20 13:09:41
+dateupload: 1323372277
+tags: libya
+license: 0
+latitude: 32.640169
+longitude: 14.294242
+accuracy: 16
+views: 4
+interestingness: 24 out of 4
+
+photo: 6478155131 7bf48b7f7e 7015
+owner: 99619150@N00
+title: Market. Leptis Maga. Libya
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2009-02-20 13:07:46
+dateupload: 1323372264
+tags: libya
+license: 0
+latitude: 32.641398
+longitude: 14.290466
+accuracy: 10
+views: 4
+interestingness: 25 out of 4
+
+photo: 6437515633 cbde450c40 7168
+owner: 66147955@N05
+title: no comment... Benghazi, Libya
+originalsecret: 37f6c6268d
+originalformat: jpg
+o_height: 1590
+o_width: 2385
+datetaken: 2011-04-14 17:23:23
+dateupload: 1322765456
+tags: 
+license: 0
+latitude: 32.064304
+longitude: 20.059598
+accuracy: 16
+views: 3
+interestingness: 26 out of 4
+
+photo: 6437509395 30f3ef7a7f 7006
+owner: 66147955@N05
+title: Tank destroyed on the road to Ajdabiya by French Air Force. Ajdabiya, Libya
+originalsecret: 1320bd7562
+originalformat: jpg
+o_height: 3456
+o_width: 5184
+datetaken: 2011-04-15 15:27:46
+dateupload: 1322765366
+tags: 
+license: 0
+latitude: 32.064304
+longitude: 20.059598
+accuracy: 16
+views: 1
+interestingness: 27 out of 4
+
+Total images queried: 4

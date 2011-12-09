@@ -1,0 +1,125 @@
+
+mintime: 1322697600 maxtime: 1324512427.5
+numimgs: 2
+total pages: 1
+visiting only 1 pages ( up to 250 images)
+photo: 6471057145 4b88e14909 7025
+owner: 25658675@N04
+title: Poseur
+originalsecret: fd9837a4a1
+originalformat: jpg
+o_height: 2447
+o_width: 3156
+datetaken: 2011-12-03 17:39:28
+dateupload: 1323257874
+tags: street chicago rain walking december gbrearview kodak ukrainianvillage beware fake pump rainy unreal kodakeasyshare trickster poseur gapersblock wbez soaked imposter chicagoillinois shoestore divisionstreet chicagoist scurrying 2011 tooskinny wetsanta telltalesigns itsnotchristmasyet noreindeer reneerendlerkaplan nosleigh mrsclauswouldmakehimtakeanumbrella dontfallforfakesantas santadoesntwearsportshoes andhedoesntcarryasmallgreensack citizensarrestcitizensarrest
+license: 0
+latitude: 41.903171
+longitude: -87.662315
+accuracy: 13
+views: 108
+interestingness: 1 out of 2
+
+photo: 6476294859 9da66fa9f9 7009
+owner: 25658675@N04
+title: J Patrick's Irish Pub & Grill
+originalsecret: ceddb3602f
+originalformat: jpg
+o_height: 2447
+o_width: 3035
+datetaken: 2011-12-03 12:55:31
+dateupload: 1323343388
+tags: people chicago bar lunch pub december sitting gbrearview chairs kodak saturday delicious sit chandeliers kodakeasyshare stools seated pubcrawl gapersblock wbez whatevs chicagoillinois sliders chicagoist 2011 greatservice eriestreet peopletalking peoplestanding peoplesitting gohawks peopledrinking greatfries reneerendlerkaplan jpatricksirishpubgrill reubensandwiches yesthatsgumunderthetables thisisprobablythebrightestlightthatsbeenoninthisplace nowewerentonapubcrawlthecamowearingpeopleallwere yesthestoolsareshabby soarethebooths
+license: 0
+latitude: 41.902069
+longitude: -87.654792
+accuracy: 13
+views: 100
+interestingness: 2 out of 2
+
+photo: 6441228249 583fe5ba71 7172
+owner: 25658675@N04
+title: Peachnami
+originalsecret: 21e22c8285
+originalformat: jpg
+o_height: 2326
+o_width: 2980
+datetaken: 2011-08-21 16:43:35
+dateupload: 1322829315
+tags: trip summer vacation menu table glasses chairs drink outdoor beverage straw august roadtrip delicious alcohol milwaukee condensation icy trippy terrific tous theyard 2011 atoast milwaukeewisconsin hitthespot ohmama theironhorsehotel reneerendlerkaplan andthenthebestpizzaweveeverhadarrived sitandchillaspell listentosomemusic peachnami
+license: 0
+latitude: 43.028745
+longitude: -87.905731
+accuracy: 11
+views: 99
+interestingness: 3 out of 2
+
+photo: 6466809453 3b8c7ec283 7018
+owner: 25658675@N04
+title: The Ever Changing Rock
+originalsecret: 3d64ff91e9
+originalformat: jpg
+o_height: 2447
+o_width: 2721
+datetaken: 2011-12-06 11:14:14
+dateupload: 1323192235
+tags: tree green rock gold lights star paint december gbrearview kodak painted evergreen tinsel rockpaperscissors kodakeasyshare wilmette gapersblock wbez decorated candycanes unlit chicagoist strung ohchristmastree 2011 wilmetteillinois worththewait treetopper withlights wishingyouamerrychristmas reneerendlerkaplan thornwoodandridge jonathanlurie theeverchangingrock nopenotherewasnorockthisyearforthanksgiving httpphotographicendeavorsblogspotcom201109everchangingrockhtml butcapable rocktopper
+license: 0
+latitude: 42.074654
+longitude: -87.722053
+accuracy: 11
+views: 132
+interestingness: 4 out of 2
+
+photo: 6473375827 6a8492e8e6 7166
+owner: 25658675@N04
+title: Yellow Truck
+originalsecret: 41e5f2f5b2
+originalformat: jpg
+o_height: 2395
+o_width: 2428
+datetaken: 2011-08-22 05:31:50
+dateupload: 1323290628
+tags: trip bridge summer vacation yellow wisconsin kodak awesome earlymorning august roadtrip milwaukee kodakeasyshare trippy yellowtruck 2011 vacay milwaukeewisconsin viewfromourwindow reneerendlerkaplan milesandmilesofhighway
+license: 0
+latitude: 43.041809
+longitude: -87.906837
+accuracy: 11
+views: 74
+interestingness: 5 out of 2
+
+photo: 6436248841 22873a7ebf 7170
+owner: 25658675@N04
+title: Stratiformis
+originalsecret: 89253b9a5d
+originalformat: jpg
+o_height: 2448
+o_width: 3264
+datetaken: 2011-08-21 15:45:50
+dateupload: 1322747970
+tags: trip summer vacation sculpture art wisconsin artist kodak outdoor august roadtrip milwaukee summertime publicart kodakeasyshare trippy historicthirdward 2011 milwaukeewisconsin jinsookim catalanosquare stratiformis reneerendlerkaplan salvagedknittingmachines
+license: 0
+latitude: 43.033639
+longitude: -87.905387
+accuracy: 11
+views: 112
+interestingness: 6 out of 2
+
+photo: 6481431033 f50b1f2f66 7163
+owner: 25658675@N04
+title: Exchanging Glances
+originalsecret: 6f0343d30a
+originalformat: jpg
+o_height: 2231
+o_width: 2918
+datetaken: 2011-12-08 12:01:47
+dateupload: 1323432855
+tags: sorry sunglasses him december scaffolding gbrearview kodak working rope dude gloves kodakeasyshare evanston harness windowwasher job thursday dood gapersblock wbez becareful uphigh yoohoo goingup hangingon chicagoist 2011 downtownevanston evanstonillinois coldout idigress exchangingglances reneerendlerkaplan hewasupprettyhigh mustveheardme heychickiechickie nothimme immarriedbutnotdead
+license: 0
+latitude: 42.04789
+longitude: -87.678794
+accuracy: 11
+views: 13
+interestingness: 7 out of 2
+
+Total images queried: 2

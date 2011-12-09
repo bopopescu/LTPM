@@ -1,0 +1,4256 @@
+
+mintime: 1322697600 maxtime: 1324512427.5
+numimgs: 120
+total pages: 1
+visiting only 1 pages ( up to 250 images)
+photo: 612962670 462818ff91 1121
+owner: 99398068@N00
+title: michel petrucciani # 4
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 1998-06-01 00:00:00
+dateupload: 1323437550
+tags: leica blackandwhite bw italy music film musicians 35mm blackwhite concert hands keyboard key braces noiretblanc live piano jazz verona microphone instruments jazzfestival lesdeuxmagots livejazz musicphotography mostexcellent stefanodibattista visualjazz michelpetrucciani anawesomeshot emozioniinbiancoenero views6000 livemusicphotographs manuelcristaldi feltlife saxalto musicaedintorni ?manuelcristaldi mostexcellentinbw
+license: 0
+latitude: 45.442789
+longitude: 10.988845
+accuracy: 11
+views: 6999
+interestingness: 1 out of 120
+
+photo: 1472050025 eaa4975454 1348
+owner: 99398068@N00
+title: jan garbarek # 2
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2007-10-01 09:29:08
+dateupload: 1323189624
+tags: leica blackandwhite bw italy musician music film festival 35mm blackwhite concert hands keyboard noiretblanc bass live trix piano jazz verona instrument score jazzfestival jazzlive jangarbarek views400 saxtenore jangarbarekgroup blackandwhitephotoaward manuelcristaldi citrit feltlife scandinavianmusic coolestphotographers theperfectphotographer blackwhitepeoplesshot ebherhardweber editionsofcontemporarymusic
+license: 0
+latitude: 45.442187
+longitude: 10.989189
+accuracy: 11
+views: 413
+interestingness: 2 out of 120
+
+photo: 6470965103 d956bbb0e1 7148
+owner: 44527406@N02
+title: Street jazz
+originalsecret: 93582e3b93
+originalformat: jpg
+o_height: 682
+o_width: 1024
+datetaken: 2011-12-06 20:54:27
+dateupload: 1323255972
+tags: bw art nikon hand jazz girona streetphoto catalunya saxofon m?sic d700 robertfoto
+license: 0
+latitude: 41.975125
+longitude: 2.818422
+accuracy: 13
+views: 105
+interestingness: 3 out of 120
+
+photo: 6443655833 d439d7795a 7175
+owner: 46544996@N02
+title: CHARME
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-13 14:17:01
+dateupload: 1322864185
+tags: light portrait people bw italy music woman white black beauty smile hat female canon eos photo donna eyes eva italia live jazz occhi singer sorriso 1001nights shining luce charme brownhair 2011 simontacchi 1dmarklll ?chiaralana
+license: 0
+latitude: 45.46894
+longitude: 9.18103
+accuracy: 11
+views: 127
+interestingness: 4 out of 120
+
+photo: 6446006821 4714ac91d5 7014
+owner: 60779584@N00
+title: Can we build it?
+originalsecret: 42b11f3c97
+originalformat: jpg
+o_height: 960
+o_width: 640
+datetaken: 2011-12-03 02:48:28
+dateupload: 1322909308
+tags: bob canwebuildit yeswecan boy kids children jazz hermitage garden festival portrait canon20d 2005 geotagged
+license: 0
+latitude: 55.77125
+longitude: 37.608915
+accuracy: 16
+views: 126
+interestingness: 5 out of 120
+
+photo: 6468633055 ea0f05289a 7169
+owner: 7329976@N02
+title: tutta colpa del jazz
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-09 14:45:02
+dateupload: 1323214830
+tags: street city bw music cinema jazz spit musica contrabass bratislava sarak sputi contrabbasso amanwalking nikond80 sarakhellas tuttacolpadeljazz unuomochecammina flowersinthecontrabass
+license: 0
+latitude: 48.143167
+longitude: 17.108309
+accuracy: 15
+views: 39
+interestingness: 6 out of 120
+
+photo: 6438974279 43a9bf613b 7018
+owner: 60779584@N00
+title: James Spaulding, alto saxophonist
+originalsecret: 40e0816e40
+originalformat: jpg
+o_height: 960
+o_width: 672
+datetaken: 2011-12-01 16:20:27
+dateupload: 1322785227
+tags: 2005 blackandwhite bw musician detail festival garden geotagged james canon20d jazz hermitage saxophone spaulding flautist jamesspaulding altosaxophonist
+license: 0
+latitude: 55.77125
+longitude: 37.608915
+accuracy: 16
+views: 63
+interestingness: 7 out of 120
+
+photo: 6444310425 891275f3f1 7154
+owner: 12634803@N03
+title: An Iced tea for me , please
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-09-30 14:26:46
+dateupload: 1322875153
+tags: cat chat siamese gato ?? jazzthecat gabbcan
+license: 0
+latitude: 43.308582
+longitude: -8.422179
+accuracy: 14
+views: 113
+interestingness: 8 out of 120
+
+photo: 6445015367 af4a97fcf1 7028
+owner: 25355186@N06
+title: E V O L U T I O N
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-30 23:47:03
+dateupload: 1322960040
+tags: november music toronto ontario canada artwork space release jazz evolution celebration ambient electronic cosmic newage 2011 bsquare musicparty julianray katrinray
+license: 0
+latitude: 43.666241
+longitude: -79.378345
+accuracy: 15
+views: 94
+interestingness: 9 out of 120
+
+photo: 6452967761 89102b30ff 7171
+owner: 53584024@N03
+title: Cold Jazz
+originalsecret: fa2638d7ef
+originalformat: jpg
+o_height: 3008
+o_width: 2000
+datetaken: 2011-12-04 11:13:21
+dateupload: 1323011255
+tags: people bw nikon bn persone d100
+license: 0
+latitude: 45.465262
+longitude: 9.19444
+accuracy: 16
+views: 45
+interestingness: 10 out of 120
+
+photo: 6438974411 a9c1b264b4 7142
+owner: 60779584@N00
+title: Vladimir Danilin, accordionist
+originalsecret: cbb23a6a0c
+originalformat: jpg
+o_height: 960
+o_width: 635
+datetaken: 2011-12-01 16:20:29
+dateupload: 1322785229
+tags: 2005 portrait blackandwhite bw musician festival garden geotagged canon20d jazz accordion hermitage vladimir accordionist danilin vladimirdanilin
+license: 0
+latitude: 55.77125
+longitude: 37.608915
+accuracy: 16
+views: 89
+interestingness: 11 out of 120
+
+photo: 6449069573 6bc22f9725 7146
+owner: 7309029@N06
+title: Until The End Of Time ~ Pacific Sunset ~ California ~ MjYj
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2007-12-03 17:06:30
+dateupload: 1322914172
+tags: ocean sanfrancisco california flowers blue sunset paris color colin honeymoon purple spectrum pacific time roman religion violet indigo machine jazz happiness chloe sartre literature jeansolpartre amour foam novel wealthy mariage temps author arrangement surrounding youngman espace alise electromagnetic musique mousse stylish philosopher dukeellington conditions placing ?cume humidit? wavelength borisvian irr?el amourfou moodindigo mar?cage l?cumedesjours lanaus?e shadeofpurple frothonthedaydream foamofthedaze amourimpossible mjyj mjyj? sprayofthedays starsyst?me nonspectral doublezoons dizzyingspeed doublezons zonzonner
+license: 0
+latitude: 37.566351
+longitude: -122.512664
+accuracy: 10
+views: 51
+interestingness: 12 out of 120
+
+photo: 6440742427 9235a8d8f5 7018
+owner: 68474846@N00
+title: Hamid Drake
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-02 10:35:14
+dateupload: 1322818514
+tags: portrait bw jazz 2011 hamiddrake musicistimusiciens ambriajazz
+license: 0
+latitude: 46.158342
+longitude: 9.942755
+accuracy: 13
+views: 43
+interestingness: 13 out of 120
+
+photo: 6468188239 496c50bcd6 7021
+owner: 46544996@N02
+title: COME RAIN OR SHINE
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2010-03-09 23:24:37
+dateupload: 1323209020
+tags: light people blackandwhite bw italy music woman girl beauty lady female night canon eos photo blackwhite donna hands poetry italia hand darkness arm finger live details fingers jazz blues player bn sensual harmony musica mano luce dito billieholiday awarded armonia comerainorshine canon50d ?chiaralana
+license: 0
+latitude: 45.628108
+longitude: 9.045439
+accuracy: 11
+views: 33
+interestingness: 14 out of 120
+
+photo: 6473394053 f01500a079 7143
+owner: 52029125@N07
+title: Saxo's sounds
+originalsecret: 2fbab4023b
+originalformat: jpg
+o_height: 1024
+o_width: 730
+datetaken: 2011-12-06 20:56:20
+dateupload: 1323290884
+tags: jazz girona nocturna saxo vitometodio
+license: 0
+latitude: 41.97353
+longitude: 2.8125
+accuracy: 11
+views: 67
+interestingness: 15 out of 120
+
+photo: 6459037097 8b022ee94e 7158
+owner: 56769181@N08
+title: IMG_1708
+originalsecret: d912bece19
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 14:06:45
+dateupload: 1323083831
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 54
+interestingness: 16 out of 120
+
+photo: 6453318329 6e6b165c64 7149
+owner: 28444588@N08
+title: Vic and Todd
+originalsecret: 91dcf2b1f5
+originalformat: jpg
+o_height: 2848
+o_width: 4288
+datetaken: 2011-12-02 00:00:33
+dateupload: 1323014992
+tags: blackandwhite bw music live performance nj 85mm jazz newbrunswick f18 saxophone apj narratography victornorth toddbayshore
+license: 0
+latitude: 40.49477
+longitude: -74.443809
+accuracy: 11
+views: 60
+interestingness: 17 out of 120
+
+photo: 6450746911 597556754c 7013
+owner: 71978960@N00
+title: Chicago.
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-24 16:57:51
+dateupload: 1322975576
+tags: people musician chicago sign illinois theater jazz saxophone
+license: 0
+latitude: 41.885026
+longitude: -87.625923
+accuracy: 11
+views: 38
+interestingness: 18 out of 120
+
+photo: 6459012849 63374a1faa 7026
+owner: 56769181@N08
+title: IMG_1660
+originalsecret: 6b40d00a93
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 14:05:00
+dateupload: 1323083382
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 32
+interestingness: 19 out of 120
+
+photo: 6441055255 75218d70a6 7174
+owner: 21503482@N06
+title: Newport Jazz Festival
+originalsecret: 94b4cb270e
+originalformat: jpg
+o_height: 2036
+o_width: 3054
+datetaken: 2011-08-07 14:25:24
+dateupload: 1322825717
+tags: 
+license: 0
+latitude: 41.478931
+longitude: -71.33779
+accuracy: 15
+views: 36
+interestingness: 20 out of 120
+
+photo: 6459000909 3bcf6d4259 7016
+owner: 56769181@N08
+title: IMG_1643
+originalsecret: 94b8a95d17
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 14:03:45
+dateupload: 1323083165
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 27
+interestingness: 21 out of 120
+
+photo: 6471380061 fd60a50bc5 7016
+owner: 68474846@N00
+title: Bearzatti-Ottolini
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-07 14:19:18
+dateupload: 1323263958
+tags: music trumpet sax francescobearzatti mauroottolini tremezzojazzfestival
+license: 0
+latitude: 45.981541
+longitude: 9.221735
+accuracy: 15
+views: 13
+interestingness: 22 out of 120
+
+photo: 6467399363 a2a1d3035a 7160
+owner: 68474846@N00
+title: 
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-06 20:23:36
+dateupload: 1323199416
+tags: jazz violin musica ambriajazz2011
+license: 0
+latitude: 46.174045
+longitude: 9.987716
+accuracy: 11
+views: 25
+interestingness: 23 out of 120
+
+photo: 6459087243 75776f031d 7167
+owner: 21503482@N06
+title: Jeff Harshbarger (Jacob Fred Jazz Odyssey)
+originalsecret: a799748029
+originalformat: jpg
+o_height: 2033
+o_width: 3058
+datetaken: 2008-08-09 10:29:01
+dateupload: 1323084738
+tags: raw
+license: 0
+latitude: 41.478963
+longitude: -71.336771
+accuracy: 16
+views: 26
+interestingness: 24 out of 120
+
+photo: 6447688691 d6b5a5f4c9 7030
+owner: 12612202@N04
+title: Bailaora
+originalsecret: 12e0a33c8c
+originalformat: jpg
+o_height: 4558
+o_width: 3527
+datetaken: 2011-12-02 23:44:10
+dateupload: 1322934402
+tags: barcelona blackandwhite bw espa?a woman blancoynegro geotagged dance mujer spain noiretblanc femme bcn dancer danse catalonia nb catalunya elraval espagne esp flamenco barcellona catalu?a barcelone espanya cataluna catalogne bailaora danseuse jazzsi nayaranu?ez geo:lat=4137984964 geo:lon=216406792
+license: 3
+latitude: 41.37985
+longitude: 2.164068
+accuracy: 16
+views: 45
+interestingness: 25 out of 120
+
+photo: 6450085845 cc78682ced 7032
+owner: 28444588@N08
+title: Victor North
+originalsecret: 7b53d7dced
+originalformat: jpg
+o_height: 4288
+o_width: 2848
+datetaken: 2011-12-01 23:51:44
+dateupload: 1322965785
+tags: blackandwhite bw music live nj jazz newbrunswick saxophone makedas victornorth
+license: 0
+latitude: 40.49477
+longitude: -74.443809
+accuracy: 11
+views: 49
+interestingness: 26 out of 120
+
+photo: 6438974343 d4a14ced94 7156
+owner: 60779584@N00
+title: Little Girl Is Listening To The Jazz
+originalsecret: cde5edf9f6
+originalformat: jpg
+o_height: 960
+o_width: 697
+datetaken: 2011-12-01 16:20:28
+dateupload: 1322785228
+tags: 2005 blue portrait blackandwhite bw girl festival garden geotagged doll canon20d jazz hermitage
+license: 0
+latitude: 55.77125
+longitude: 37.608915
+accuracy: 16
+views: 76
+interestingness: 27 out of 120
+
+photo: 6465507051 7c2cf7b502 7163
+owner: 21503482@N06
+title: Newport Jazz Festival
+originalsecret: b09e9c4996
+originalformat: jpg
+o_height: 1058
+o_width: 1587
+datetaken: 2011-08-07 17:57:45
+dateupload: 1323174661
+tags: 
+license: 0
+latitude: 41.479004
+longitude: -71.33764
+accuracy: 15
+views: 33
+interestingness: 28 out of 120
+
+photo: 6441054105 8797bc9edd 7028
+owner: 21503482@N06
+title: Hiromi Uehara
+originalsecret: 9b0954b86e
+originalformat: jpg
+o_height: 2036
+o_width: 3054
+datetaken: 2011-08-07 13:18:05
+dateupload: 1322825694
+tags: 
+license: 0
+latitude: 41.478979
+longitude: -71.337769
+accuracy: 15
+views: 27
+interestingness: 29 out of 120
+
+photo: 6465506695 91f699083f 7170
+owner: 21503482@N06
+title: Newport Jazz Festival
+originalsecret: c3aa247210
+originalformat: jpg
+o_height: 1080
+o_width: 1620
+datetaken: 2011-08-07 17:50:48
+dateupload: 1323174655
+tags: 
+license: 0
+latitude: 41.478979
+longitude: -71.337618
+accuracy: 15
+views: 28
+interestingness: 30 out of 120
+
+photo: 6465505483 8c9e71016a 7019
+owner: 21503482@N06
+title: Newport Jazz Festival
+originalsecret: 52cfabba03
+originalformat: jpg
+o_height: 2036
+o_width: 3054
+datetaken: 2011-08-07 17:15:54
+dateupload: 1323174635
+tags: 
+license: 0
+latitude: 41.478955
+longitude: -71.337811
+accuracy: 15
+views: 25
+interestingness: 31 out of 120
+
+photo: 6458774025 7d1beba7b8 7016
+owner: 56769181@N08
+title: IMG_1273
+originalsecret: da4bdaafba
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 12:50:26
+dateupload: 1323078799
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 74
+interestingness: 32 out of 120
+
+photo: 6447681161 26c19868be 7168
+owner: 12612202@N04
+title: Bailaora
+originalsecret: c5f2940704
+originalformat: jpg
+o_height: 4245
+o_width: 3190
+datetaken: 2011-12-02 23:49:02
+dateupload: 1322934313
+tags: barcelona blackandwhite bw espa?a woman blancoynegro geotagged dance mujer spain noiretblanc femme bcn dancer danse catalonia nb catalunya elraval espagne esp flamenco barcellona catalu?a barcelone espanya cataluna catalogne bailaora danseuse jazzsi nayaranu?ez geo:lat=4137984964 geo:lon=216406792
+license: 3
+latitude: 41.37985
+longitude: 2.164068
+accuracy: 16
+views: 38
+interestingness: 33 out of 120
+
+photo: 6438974021 d917e79042 7157
+owner: 60779584@N00
+title: Michel Marre, trumpeter
+originalsecret: 22915f106a
+originalformat: jpg
+o_height: 853
+o_width: 1280
+datetaken: 2011-12-01 16:20:24
+dateupload: 1322785224
+tags: 2005 portrait blackandwhite bw musician festival garden french geotagged canon20d trumpet jazz hermitage trumpetplayer michelmarre
+license: 0
+latitude: 55.77125
+longitude: 37.608915
+accuracy: 16
+views: 19
+interestingness: 34 out of 120
+
+photo: 6444250471 8e250fc399 7026
+owner: 28444588@N08
+title: Victor North
+originalsecret: 80130a1fe3
+originalformat: jpg
+o_height: 4288
+o_width: 2848
+datetaken: 2011-12-01 22:10:55
+dateupload: 1322873991
+tags: blackandwhite bw music live nj jazz newbrunswick sax saxophone apj makedas narratography victornorth
+license: 0
+latitude: 40.49477
+longitude: -74.443809
+accuracy: 11
+views: 40
+interestingness: 35 out of 120
+
+photo: 6465648947 962ce96da0 7170
+owner: 55398852@N08
+title: Fisher Price Record Player
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-06 15:05:46
+dateupload: 1323177068
+tags: rock price vintage hair moulin zoo portable stones no battery vinyl jazz player turntable lp marc fisher record oh wax fusion samples placebo throw gramophone phonograph dilla galt macdermot
+license: 0
+latitude: 50.874809
+longitude: 3.31044
+accuracy: 11
+views: 30
+interestingness: 36 out of 120
+
+photo: 6451948787 ea07f7fd91 7033
+owner: 21503482@N06
+title: Newport Jazz Festival
+originalsecret: c90dcd6576
+originalformat: jpg
+o_height: 3054
+o_width: 2036
+datetaken: 2011-08-07 15:50:18
+dateupload: 1322997614
+tags: 
+license: 0
+latitude: 41.48037
+longitude: -71.338123
+accuracy: 16
+views: 26
+interestingness: 37 out of 120
+
+photo: 6451948439 4cbc956d57 7162
+owner: 21503482@N06
+title: Newport Jazz Festival
+originalsecret: 22cdb9b08c
+originalformat: jpg
+o_height: 2036
+o_width: 3055
+datetaken: 2011-08-07 15:25:13
+dateupload: 1322997608
+tags: 
+license: 0
+latitude: 41.48002
+longitude: -71.338348
+accuracy: 16
+views: 22
+interestingness: 38 out of 120
+
+photo: 6451923829 020d9064e6 7170
+owner: 12612202@N04
+title: Bailaora
+originalsecret: 4a89ba038d
+originalformat: jpg
+o_height: 4077
+o_width: 3094
+datetaken: 2011-12-02 22:52:06
+dateupload: 1322997174
+tags: bw esp nayaranu?ez bailaora barcellona barcelona barcelone bcn blackandwhite blancoynegro catalogne catalonia cataluna catalunya catalu?a dance dancer danse danseuse elraval espagne espanya espa?a femme flamenco geo:lat=4137984964 geo:lon=216406792 geotagged jazzsi mujer nb noiretblanc spain woman
+license: 3
+latitude: 41.37985
+longitude: 2.164068
+accuracy: 16
+views: 40
+interestingness: 39 out of 120
+
+photo: 6458964389 6bc9e47478 7154
+owner: 56769181@N08
+title: IMG_1568
+originalsecret: f978a26cb9
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 14:00:24
+dateupload: 1323082513
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 46
+interestingness: 40 out of 120
+
+photo: 6458900363 b6f60c84c0 7163
+owner: 56769181@N08
+title: IMG_1440
+originalsecret: 5bbfca2fa4
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 13:51:37
+dateupload: 1323081252
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 32
+interestingness: 41 out of 120
+
+photo: 6446006773 37baeab170 7027
+owner: 60779584@N00
+title: Girl listening to the jazz concert
+originalsecret: f474cbe8a2
+originalformat: jpg
+o_height: 853
+o_width: 1280
+datetaken: 2011-12-03 02:48:27
+dateupload: 1322909307
+tags: 2005 portrait girl festival kids garden children geotagged canon20d jazz hermitage
+license: 0
+latitude: 55.77125
+longitude: 37.608915
+accuracy: 16
+views: 78
+interestingness: 42 out of 120
+
+photo: 6447675949 5027d959e4 7167
+owner: 12612202@N04
+title: Bailaora
+originalsecret: 4d65aac2d3
+originalformat: jpg
+o_height: 3644
+o_width: 3744
+datetaken: 2011-12-02 22:56:08
+dateupload: 1322934248
+tags: barcelona blackandwhite bw espa?a woman blancoynegro geotagged dance mujer spain noiretblanc femme bcn dancer danse catalonia nb catalunya elraval espagne esp flamenco barcellona catalu?a barcelone espanya cataluna catalogne bailaora danseuse jazzsi nayaranu?ez geo:lat=4137984964 geo:lon=216406792
+license: 3
+latitude: 41.37985
+longitude: 2.164068
+accuracy: 16
+views: 50
+interestingness: 43 out of 120
+
+photo: 6448513869 7bc0515fd4 7021
+owner: 41359827@N03
+title: Movimenti ecclesiastici
+originalsecret: 4dfa99a3c6
+originalformat: jpg
+o_height: 1944
+o_width: 2792
+datetaken: 2011-07-16 12:46:17
+dateupload: 1322944707
+tags: longexposure nikon jazz perugia umbria spello d7000 lungsesposizione
+license: 0
+latitude: 42.987571
+longitude: 12.671429
+accuracy: 11
+views: 59
+interestingness: 44 out of 120
+
+photo: 6440354541 bb9233c888 7013
+owner: 66606673@N00
+title: Reeds as Jazz Composition
+originalsecret: 6cb356b863
+originalformat: jpg
+o_height: 1361
+o_width: 1800
+datetaken: 2011-11-20 16:34:36
+dateupload: 1322809373
+tags: arizona bw lake nature water monochrome reflections reeds pond gilbert riparianpreserve riparianpreserveatwaterranch blackandwhitegilbertriparianpreserve
+license: 1
+latitude: 33.364799
+longitude: -111.730529
+accuracy: 16
+views: 26
+interestingness: 45 out of 120
+
+photo: 6438974213 c3ed223d5c 7171
+owner: 60779584@N00
+title: James Spaulding, alto saxophonist
+originalsecret: 806d93a983
+originalformat: jpg
+o_height: 960
+o_width: 699
+datetaken: 2011-12-01 16:20:27
+dateupload: 1322785227
+tags: 2005 portrait blackandwhite bw musician festival garden geotagged james canon20d tag jazz hermitage spaulding flautist jamesspaulding altosaxophonist
+license: 0
+latitude: 55.77125
+longitude: 37.608915
+accuracy: 16
+views: 37
+interestingness: 46 out of 120
+
+photo: 6451949561 e9c9f02f88 7175
+owner: 21503482@N06
+title: Newport Jazz Festival
+originalsecret: 0cc8551267
+originalformat: jpg
+o_height: 2036
+o_width: 3054
+datetaken: 2011-08-07 15:27:33
+dateupload: 1322997625
+tags: 
+license: 0
+latitude: 41.480105
+longitude: -71.338198
+accuracy: 16
+views: 23
+interestingness: 47 out of 120
+
+photo: 6451949209 805e6781b7 7011
+owner: 21503482@N06
+title: Newport Jazz Festival
+originalsecret: fbd1f189a8
+originalformat: jpg
+o_height: 2036
+o_width: 3054
+datetaken: 2011-08-07 15:38:29
+dateupload: 1322997620
+tags: 
+license: 0
+latitude: 41.479988
+longitude: -71.337908
+accuracy: 16
+views: 17
+interestingness: 48 out of 120
+
+photo: 6441054351 235aa8512c 7162
+owner: 21503482@N06
+title: Newport Jazz Festival
+originalsecret: 61c13a1c2c
+originalformat: jpg
+o_height: 2036
+o_width: 3054
+datetaken: 2011-08-07 13:05:16
+dateupload: 1322825699
+tags: 
+license: 0
+latitude: 41.478988
+longitude: -71.337704
+accuracy: 15
+views: 17
+interestingness: 49 out of 120
+
+photo: 6458828863 9c907f17c0 7005
+owner: 56769181@N08
+title: IMG_1348
+originalsecret: 3fa49e8354
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 13:11:10
+dateupload: 1323079850
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 57
+interestingness: 50 out of 120
+
+photo: 6458776333 0f4c14a003 7018
+owner: 66586883@N04
+title: Street Music
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-13 09:48:12
+dateupload: 1323078840
+tags: street november portrait bw italy music torino paolo bass jazz player bn musica turin ritratto mariani 2011 contrabbasso
+license: 0
+latitude: 45.070179
+longitude: 7.686717
+accuracy: 15
+views: 11
+interestingness: 51 out of 120
+
+photo: 6454108223 31c9beb36b 7145
+owner: 68474846@N00
+title: Francesco Bearzatti
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-04 19:23:54
+dateupload: 1323023034
+tags: musician festival jazz sax francescobearzatti musicistimusiciens tremezzofestivaljazz
+license: 0
+latitude: 45.981541
+longitude: 9.221735
+accuracy: 15
+views: 42
+interestingness: 52 out of 120
+
+photo: 6438974149 e6bbc8c49c 7146
+owner: 60779584@N00
+title: Michel Marre On The Break
+originalsecret: 2e1d3ea5d7
+originalformat: jpg
+o_height: 960
+o_width: 721
+datetaken: 2011-12-01 16:20:25
+dateupload: 1322785225
+tags: 2005 portrait blackandwhite bw musician festival garden french geotagged break canon20d trumpet jazz hermitage trumpetplayer michelmarre
+license: 0
+latitude: 55.77125
+longitude: 37.608915
+accuracy: 16
+views: 42
+interestingness: 53 out of 120
+
+photo: 6475280863 c41819ec01 7017
+owner: 61144358@N02
+title: New Orleans: Big Bass
+originalsecret: 0def081c49
+originalformat: jpg
+o_height: 704
+o_width: 1128
+datetaken: 2011-12-07 21:05:42
+dateupload: 1323320604
+tags: street leica city musician music man color classic film vintage downtown fuji bass neworleans grain jazz rangefinder 400 frenchquarter 40mm m3 nokton crescentcity pro400
+license: 0
+latitude: 29.950621
+longitude: -90.077247
+accuracy: 11
+views: 25
+interestingness: 54 out of 120
+
+photo: 6441054645 a1d63de5c7 7034
+owner: 21503482@N06
+title: Newport Jazz Festival
+originalsecret: 20dfce01e1
+originalformat: jpg
+o_height: 2036
+o_width: 3054
+datetaken: 2011-08-07 14:25:58
+dateupload: 1322825705
+tags: 
+license: 0
+latitude: 41.478931
+longitude: -71.33779
+accuracy: 15
+views: 18
+interestingness: 55 out of 120
+
+photo: 6459098129 deb3265b5c 7025
+owner: 56769181@N08
+title: IMG_1838
+originalsecret: 2b8657c59a
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 14:13:01
+dateupload: 1323084935
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 60
+interestingness: 56 out of 120
+
+photo: 6458609817 b661fbb589 7173
+owner: 56769181@N08
+title: IMG_1042
+originalsecret: f6f0feeac3
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 12:04:57
+dateupload: 1323075573
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 34
+interestingness: 57 out of 120
+
+photo: 6450139267 b3b971e574 7159
+owner: 9767726@N04
+title: Front Of House - Photoshoot
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-03 13:52:46
+dateupload: 1322966525
+tags: wedding music usa house chicago musicians band jazz front event ensemble metropolitan sophisticated classy rcpopart
+license: 0
+latitude: 41.883624
+longitude: -87.624968
+accuracy: 16
+views: 121
+interestingness: 58 out of 120
+
+photo: 6437568641 31e0f43447 7167
+owner: 54545393@N04
+title: Marcin Wasilewski at the ? Jazz l?F ?
+originalsecret: 5307bf0437
+originalformat: jpg
+o_height: 4066
+o_width: 4099
+datetaken: 2011-11-30 21:35:03
+dateupload: 1322766181
+tags: bw 6x6 club mediumformat square concert live jazz nb mf delta3200 dinant mamiyac220 homedevelopment tmaxdeveloper14 dinantjazznights sekor80 jazz?lf
+license: 0
+latitude: 50.269051
+longitude: 4.90886
+accuracy: 15
+views: 28
+interestingness: 59 out of 120
+
+photo: 6479852879 44a2f67701 7022
+owner: 28444588@N08
+title: Jerome Jennings
+originalsecret: 076de14cfe
+originalformat: jpg
+o_height: 4288
+o_width: 2848
+datetaken: 2011-12-02 00:00:03
+dateupload: 1323398383
+tags: music drums percussion live performance 85mm jazz beat drummer f18 cymbals apj narratography
+license: 0
+latitude: 40.49477
+longitude: -74.443809
+accuracy: 11
+views: 22
+interestingness: 60 out of 120
+
+photo: 6459201013 fa13d6bc2e 7163
+owner: 56769181@N08
+title: IMG_2014
+originalsecret: 72df3f9192
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 15:14:06
+dateupload: 1323086724
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 61
+interestingness: 61 out of 120
+
+photo: 6459107465 ab272da7cf 7010
+owner: 56769181@N08
+title: IMG_1852
+originalsecret: e50f828919
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 14:14:44
+dateupload: 1323085100
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 47
+interestingness: 62 out of 120
+
+photo: 6458987725 2b1311194a 7168
+owner: 56769181@N08
+title: IMG_1606
+originalsecret: 2913428936
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 14:02:06
+dateupload: 1323082933
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 44
+interestingness: 63 out of 120
+
+photo: 6458908809 818ea69110 7146
+owner: 56769181@N08
+title: IMG_1451
+originalsecret: 4e8fdf7fee
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 13:51:57
+dateupload: 1323081410
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 21
+interestingness: 64 out of 120
+
+photo: 6458906273 c5247b9df3 7164
+owner: 56769181@N08
+title: IMG_1448
+originalsecret: 7a5335b667
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 13:51:53
+dateupload: 1323081361
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 32
+interestingness: 65 out of 120
+
+photo: 6458869419 75b57b29bf 7012
+owner: 56769181@N08
+title: IMG_1399
+originalsecret: e15157ac98
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 13:24:48
+dateupload: 1323080656
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 41
+interestingness: 66 out of 120
+
+photo: 6458262693 2eedd15195 7034
+owner: 56769181@N08
+title: IMG_0671
+originalsecret: 61e39f0a71
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 10:09:36
+dateupload: 1323068949
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 52
+interestingness: 67 out of 120
+
+photo: 6450146855 3aec88b5be 7151
+owner: 9767726@N04
+title: Front Of House - Photoshoot
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-03 15:00:44
+dateupload: 1322966635
+tags: wedding music house chicago musicians band jazz front event ensemble metropolitan sophisticated classy rcpopart
+license: 0
+latitude: 41.880856
+longitude: -87.622189
+accuracy: 16
+views: 59
+interestingness: 68 out of 120
+
+photo: 6441054929 159d65502a 7031
+owner: 21503482@N06
+title: Newport Jazz Festival
+originalsecret: d5d7c0faf8
+originalformat: jpg
+o_height: 2036
+o_width: 3055
+datetaken: 2011-08-07 15:00:50
+dateupload: 1322825711
+tags: 
+license: 0
+latitude: 41.478971
+longitude: -71.337769
+accuracy: 15
+views: 21
+interestingness: 69 out of 120
+
+photo: 6438973959 d5efc8b83f 7153
+owner: 60779584@N00
+title: Family Crossfire
+originalsecret: d805b6053c
+originalformat: jpg
+o_height: 960
+o_width: 639
+datetaken: 2011-12-01 16:20:22
+dateupload: 1322785222
+tags: 2005 portrait blackandwhite bw girl festival garden geotagged photographer canon20d father jazz hermitage crossfire takingpicture
+license: 0
+latitude: 55.77125
+longitude: 37.608915
+accuracy: 16
+views: 24
+interestingness: 70 out of 120
+
+photo: 6469768527 0d1d056d5d 7166
+owner: 30195788@N06
+title: "Jazz", Nicoles horse.......
+originalsecret: c8f72dc227
+originalformat: jpg
+o_height: 4752
+o_width: 3168
+datetaken: 2011-12-04 14:55:15
+dateupload: 1323231900
+tags: horses horse dof bokeh jazz equestrian ieljumping bokehstandard
+license: 0
+latitude: 34.270428
+longitude: -118.370003
+accuracy: 14
+views: 29
+interestingness: 71 out of 120
+
+photo: 6465506279 834356ce31 7162
+owner: 21503482@N06
+title: Newport Jazz Festival
+originalsecret: 4f58964702
+originalformat: jpg
+o_height: 2036
+o_width: 3054
+datetaken: 2011-08-07 17:45:52
+dateupload: 1323174648
+tags: 
+license: 0
+latitude: 41.478971
+longitude: -71.337769
+accuracy: 15
+views: 16
+interestingness: 72 out of 120
+
+photo: 6441673121 4b1784a140 7033
+owner: 51035555243@N01
+title: American Music, Plate 2
+originalsecret: c6c2467a8c
+originalformat: jpg
+o_height: 3744
+o_width: 5569
+datetaken: 2010-01-19 10:23:25
+dateupload: 1322836771
+tags: bw usa neon unitedstates memphis tennessee unitedstatesofamerica stax staxrecords staxmuseum staxrecordingstudios staxrecordcompany staxrecordco staxmuseumofamericansoutmusic staxrecordingstudio
+license: 2
+latitude: 35.116083
+longitude: -90.031881
+accuracy: 16
+views: 40
+interestingness: 73 out of 120
+
+photo: 6474396051 649a79a982 7143
+owner: 64620762@N02
+title: C-FABN - Air Canada Jazz - DHC-8-102 Dash 8
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2007-11-22 17:48:17
+dateupload: 1323306008
+tags: canada vancouver plane airplane britishcolumbia aviation air jazz yvr airliner dash8 dehavilland dhc8 cfabn
+license: 0
+latitude: 49.200971
+longitude: -123.163132
+accuracy: 13
+views: 19
+interestingness: 74 out of 120
+
+photo: 6469867279 1e400a60ef 7008
+owner: 82981672@N00
+title: William Prentiss Nr. 2 or Notes Float Above Flute
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-06 19:53:54
+dateupload: 1323233367
+tags: notes fingers jazz flute richmond concertphotography thecamel williamprentiss canonef85f18 canon7d paulchandlermoulton thequintessentialjazzensemble
+license: 0
+latitude: 37.554384
+longitude: -77.457497
+accuracy: 15
+views: 55
+interestingness: 75 out of 120
+
+photo: 6467151615 4bc3f32c55 7025
+owner: 39701001@N05
+title: Jazz Elements #1
+originalsecret: 011ed9e81b
+originalformat: jpg
+o_height: 2000
+o_width: 3000
+datetaken: 2011-12-06 19:33:22
+dateupload: 1323196402
+tags: italy festival fuji iso400 jazz neopan analogue padova fujineopan canon1n
+license: 5
+latitude: 45.409278
+longitude: 11.872839
+accuracy: 11
+views: 11
+interestingness: 76 out of 120
+
+photo: 6459086923 f6770ec0be 7173
+owner: 21503482@N06
+title: Brian Haas (Jacob Fred Jazz Odyssey)
+originalsecret: 8efb282f59
+originalformat: jpg
+o_height: 2036
+o_width: 3055
+datetaken: 2008-08-09 10:31:46
+dateupload: 1323084733
+tags: 
+license: 0
+latitude: 41.478951
+longitude: -71.336728
+accuracy: 16
+views: 13
+interestingness: 77 out of 120
+
+photo: 6480961355 5cb0948a33 7166
+owner: 39414087@N06
+title: Sun Ra Arkestra @ Cafe Oto
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-08 22:13:12
+dateupload: 1323421387
+tags: blur london live gig jazz londonist sunraarkestra charlesdavis
+license: 0
+latitude: 51.546836
+longitude: -0.07468
+accuracy: 15
+views: 12
+interestingness: 78 out of 120
+
+photo: 6448904163 67f7c47f4c 7022
+owner: 68474846@N00
+title: Mauro Ottolini
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-03 23:00:22
+dateupload: 1322949622
+tags: trumpet jazz mauroottolini musicistimusiciens tremezzojazzfestival
+license: 0
+latitude: 45.981541
+longitude: 9.221735
+accuracy: 15
+views: 27
+interestingness: 79 out of 120
+
+photo: 6474803263 b680caf466 7144
+owner: 28444588@N08
+title: Todd Bashore
+originalsecret: bb544270e9
+originalformat: jpg
+o_height: 4288
+o_width: 2848
+datetaken: 2011-12-01 23:56:09
+dateupload: 1323312758
+tags: musician live performance nj 85mm jazz newbrunswick f18 sax saxophone apj narratography toddbashore
+license: 0
+latitude: 40.49477
+longitude: -74.443809
+accuracy: 11
+views: 38
+interestingness: 80 out of 120
+
+photo: 6467143225 57559752e5 7017
+owner: 38976921@N06
+title: Atomic Big Band
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-05 20:36:49
+dateupload: 1323196304
+tags: music canada big montreal band jazz atomic sax section
+license: 0
+latitude: 45.504207
+longitude: -73.571662
+accuracy: 16
+views: 76
+interestingness: 81 out of 120
+
+photo: 6459082351 3d28a224eb 7144
+owner: 56769181@N08
+title: IMG_1801
+originalsecret: e5c570ae77
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 14:11:29
+dateupload: 1323084649
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 41
+interestingness: 82 out of 120
+
+photo: 6458480439 367d68102e 7027
+owner: 56769181@N08
+title: IMG_0867
+originalsecret: fb22bb8bfc
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 11:36:00
+dateupload: 1323073019
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 28
+interestingness: 83 out of 120
+
+photo: 6473699303 4736780d06 7003
+owner: 40289181@N05
+title: Istante musicale
+originalsecret: 43da600a6d
+originalformat: jpg
+o_height: 709
+o_width: 899
+datetaken: 2011-12-07 22:56:53
+dateupload: 1323295096
+tags: blackwhite jazz musica venezia giulia friuli udine
+license: 0
+latitude: 46.06512
+longitude: 13.23736
+accuracy: 11
+views: 19
+interestingness: 84 out of 120
+
+photo: 6459261731 27ef8176a0 7026
+owner: 56769181@N08
+title: IMG_2108
+originalsecret: 9a59ff1854
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 15:58:07
+dateupload: 1323087691
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 76
+interestingness: 85 out of 120
+
+photo: 6459208601 dbe69f29a9 7008
+owner: 56769181@N08
+title: IMG_2021
+originalsecret: f5109515f7
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 15:14:32
+dateupload: 1323086852
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 58
+interestingness: 86 out of 120
+
+photo: 6458786029 d67eb4f922 7146
+owner: 56769181@N08
+title: IMG_1284
+originalsecret: 69f31fdfb8
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 12:53:36
+dateupload: 1323079025
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 27
+interestingness: 87 out of 120
+
+photo: 6458638269 e138cf926e 7035
+owner: 56769181@N08
+title: IMG_1090
+originalsecret: 5f8a7452e3
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 12:14:19
+dateupload: 1323076151
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 18
+interestingness: 88 out of 120
+
+photo: 6470558781 c1f234c92c 7026
+owner: 22309110@N03
+title: Mickey's Soundsational Parade
+originalsecret: a2b55e0ce1
+originalformat: jpg
+o_height: 4348
+o_width: 2899
+datetaken: 2011-10-02 19:07:22
+dateupload: 1323247043
+tags: louis disneyland disney parade disneycharacters disneycastmembers disneyparks princessandthefrog soundsational mickeyssoundsationalparade tianasneworleansjazzjubilee
+license: 0
+latitude: 33.814382
+longitude: -117.917611
+accuracy: 16
+views: 3
+interestingness: 89 out of 120
+
+photo: 6470558559 50ae6bb6f4 7008
+owner: 22309110@N03
+title: Mickey's Soundsational Parade
+originalsecret: d7af931916
+originalformat: jpg
+o_height: 5184
+o_width: 3456
+datetaken: 2011-10-02 19:07:21
+dateupload: 1323247038
+tags: louis disneyland disney parade disneycharacters disneycastmembers disneyparks princessandthefrog soundsational mickeyssoundsationalparade tianasneworleansjazzjubilee
+license: 0
+latitude: 33.814382
+longitude: -117.917611
+accuracy: 16
+views: 4
+interestingness: 90 out of 120
+
+photo: 6459235825 1f4ec4eeaa 7035
+owner: 56769181@N08
+title: IMG_2078
+originalsecret: b2b76ab81f
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 15:44:28
+dateupload: 1323087277
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 43
+interestingness: 91 out of 120
+
+photo: 6459181713 002c60cd51 7009
+owner: 56769181@N08
+title: IMG_1964
+originalsecret: 37681acd48
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 15:00:36
+dateupload: 1323086381
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 47
+interestingness: 92 out of 120
+
+photo: 6459123881 99fec20b43 7160
+owner: 56769181@N08
+title: IMG_1901
+originalsecret: a2d9979152
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 14:41:33
+dateupload: 1323085381
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 36
+interestingness: 93 out of 120
+
+photo: 6459085529 1f2290f2f9 7169
+owner: 56769181@N08
+title: IMG_1810
+originalsecret: 9d1d206df9
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 14:11:45
+dateupload: 1323084707
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 32
+interestingness: 94 out of 120
+
+photo: 6459078827 159ed641d2 7173
+owner: 56769181@N08
+title: IMG_1789
+originalsecret: 5399d1b565
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 14:11:19
+dateupload: 1323084588
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 28
+interestingness: 95 out of 120
+
+photo: 6459056311 9c7529f293 7010
+owner: 56769181@N08
+title: IMG_1744
+originalsecret: 5741601f4f
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 14:09:26
+dateupload: 1323084179
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 35
+interestingness: 96 out of 120
+
+photo: 6459046997 1a9da87a2e 7029
+owner: 56769181@N08
+title: IMG_1735
+originalsecret: 82bd60b5fb
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 14:09:09
+dateupload: 1323084004
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 36
+interestingness: 97 out of 120
+
+photo: 6459044003 7ef8d9577a 7164
+owner: 56769181@N08
+title: IMG_1729
+originalsecret: 8f7b8558f2
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 14:08:50
+dateupload: 1323083951
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 26
+interestingness: 98 out of 120
+
+photo: 6459040827 962839efe8 7152
+owner: 56769181@N08
+title: IMG_1727
+originalsecret: 8a6c7c47db
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 14:08:27
+dateupload: 1323083891
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 27
+interestingness: 99 out of 120
+
+photo: 6459033335 bdbcbb6869 7018
+owner: 56769181@N08
+title: IMG_1705
+originalsecret: bd3042fa13
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 14:06:42
+dateupload: 1323083769
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 21
+interestingness: 100 out of 120
+
+photo: 6459030277 d9e902bfd4 7158
+owner: 56769181@N08
+title: IMG_1699
+originalsecret: 8f553c3ca0
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 14:06:40
+dateupload: 1323083715
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 21
+interestingness: 101 out of 120
+
+photo: 6459027395 bbed98b627 7035
+owner: 56769181@N08
+title: IMG_1690
+originalsecret: 6a393262f0
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 14:06:26
+dateupload: 1323083662
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 32
+interestingness: 102 out of 120
+
+photo: 6459009909 56765de4b8 7017
+owner: 56769181@N08
+title: IMG_1655
+originalsecret: 9b4a6dbac5
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 14:04:53
+dateupload: 1323083325
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 17
+interestingness: 103 out of 120
+
+photo: 6459006979 28ca1c1319 7174
+owner: 56769181@N08
+title: IMG_1651
+originalsecret: 8f9f4d99ab
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 14:04:47
+dateupload: 1323083274
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 16
+interestingness: 104 out of 120
+
+photo: 6459004141 55900a745c 7031
+owner: 56769181@N08
+title: IMG_1647
+originalsecret: 7ddf4cdd07
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 14:03:58
+dateupload: 1323083223
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 31
+interestingness: 105 out of 120
+
+photo: 6458990955 df9091c2d9 7144
+owner: 56769181@N08
+title: IMG_1615
+originalsecret: a86385920a
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 14:02:27
+dateupload: 1323082991
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 19
+interestingness: 106 out of 120
+
+photo: 6458975609 6d745a30bf 7027
+owner: 56769181@N08
+title: IMG_1590
+originalsecret: 9fd048131a
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 14:01:42
+dateupload: 1323082714
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 30
+interestingness: 107 out of 120
+
+photo: 6458969889 04a0ed5860 7151
+owner: 56769181@N08
+title: IMG_1584
+originalsecret: d133e06ef4
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 14:01:10
+dateupload: 1323082611
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 22
+interestingness: 108 out of 120
+
+photo: 6458967429 881249be66 7172
+owner: 56769181@N08
+title: IMG_1570
+originalsecret: 6c318bfa00
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 14:00:37
+dateupload: 1323082568
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 20
+interestingness: 109 out of 120
+
+photo: 6458936339 24f53bb9aa 7143
+owner: 56769181@N08
+title: IMG_1522
+originalsecret: b66a377627
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 13:57:11
+dateupload: 1323081963
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 19
+interestingness: 110 out of 120
+
+photo: 6458919641 cc57b0fc83 7175
+owner: 56769181@N08
+title: IMG_1468
+originalsecret: ab69ca4f00
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 13:53:21
+dateupload: 1323081625
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 25
+interestingness: 111 out of 120
+
+photo: 6458911541 2acf5d7c38 7152
+owner: 56769181@N08
+title: IMG_1452
+originalsecret: a22ec2d419
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 13:52:01
+dateupload: 1323081461
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 21
+interestingness: 112 out of 120
+
+photo: 6458767905 dd085eb7d5 7146
+owner: 56769181@N08
+title: IMG_1270
+originalsecret: 631c82759b
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 12:50:18
+dateupload: 1323078681
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 12
+interestingness: 113 out of 120
+
+photo: 6458748109 2f82686aff 7174
+owner: 56769181@N08
+title: IMG_1245
+originalsecret: 553483663c
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 12:33:19
+dateupload: 1323078290
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 23
+interestingness: 114 out of 120
+
+photo: 6458703571 c2089911ba 7160
+owner: 56769181@N08
+title: IMG_1193
+originalsecret: 8753c38f53
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 12:27:25
+dateupload: 1323077421
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 31
+interestingness: 115 out of 120
+
+photo: 6458688169 9b12066225 7153
+owner: 56769181@N08
+title: IMG_1167
+originalsecret: d7765edeb8
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 12:26:24
+dateupload: 1323077086
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 24
+interestingness: 116 out of 120
+
+photo: 6458656147 c2a4628d09 7155
+owner: 56769181@N08
+title: IMG_1142
+originalsecret: 14f381938c
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 12:23:30
+dateupload: 1323076480
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 13
+interestingness: 117 out of 120
+
+photo: 6458652929 cf9fa95944 7162
+owner: 56769181@N08
+title: IMG_1115
+originalsecret: b18484d1c0
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 12:16:24
+dateupload: 1323076420
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 16
+interestingness: 118 out of 120
+
+photo: 6458646547 6aa15fafdf 7001
+owner: 56769181@N08
+title: IMG_1106
+originalsecret: c5e42b43b7
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 12:16:05
+dateupload: 1323076302
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 22
+interestingness: 119 out of 120
+
+photo: 6458587053 986175ae5f 7015
+owner: 56769181@N08
+title: IMG_1025
+originalsecret: 3100ca0202
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 12:03:26
+dateupload: 1323075107
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 40
+interestingness: 120 out of 120
+
+photo: 6458563199 3fa2c278de 7164
+owner: 56769181@N08
+title: IMG_0986
+originalsecret: 94a4c8b9a6
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 12:00:26
+dateupload: 1323074610
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 28
+interestingness: 121 out of 120
+
+photo: 6458485893 bf7242af9d 7174
+owner: 56769181@N08
+title: IMG_0879
+originalsecret: 300e0c4c0a
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 11:37:06
+dateupload: 1323073128
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 22
+interestingness: 122 out of 120
+
+photo: 6458239371 aa07133f91 7015
+owner: 56769181@N08
+title: IMG_0656
+originalsecret: 9466f6f991
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 10:07:32
+dateupload: 1323068547
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 42
+interestingness: 123 out of 120
+
+photo: 6456948231 3ee70200d2 7146
+owner: 56769181@N08
+title: IMG_9932
+originalsecret: e7fe2ddf4d
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 08:07:50
+dateupload: 1323052038
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 13
+interestingness: 124 out of 120
+
+photo: 6456912141 6045f15880 7165
+owner: 52582628@N05
+title: #094: start a little conversation now, it's alright
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-03 22:46:57
+dateupload: 1323051648
+tags: music piano sheetmusic project365
+license: 0
+latitude: 43.467068
+longitude: -80.521903
+accuracy: 16
+views: 37
+interestingness: 125 out of 120
+
+photo: 6440534461 8e7668fe91 7153
+owner: 22309110@N03
+title: Mickey's Soundsational Parade
+originalsecret: df86f6aef7
+originalformat: jpg
+o_height: 5184
+o_width: 3456
+datetaken: 2011-10-02 16:36:44
+dateupload: 1322813336
+tags: disneyland disney parade disneycharacters disneycastmembers disneyparks princessandthefrog princesstiana soundsational mickeyssoundsationalparade tianasneworleansjazzjubilee
+license: 0
+latitude: 33.810179
+longitude: -117.918915
+accuracy: 16
+views: 8
+interestingness: 126 out of 120
+
+photo: 6465969041 81391772ae 7020
+owner: 7759425@N07
+title: Girls, what are you doing with Dad's St.Nick's gifts?! (ADAD 2011:339)
+originalsecret: d099bce452
+originalformat: jpg
+o_height: 2282
+o_width: 1936
+datetaken: 2011-12-06 13:06:19
+dateupload: 1323181814
+tags: chocolate pda marzipan blythe pupe stnicks punkaholic whiskychocolatebar
+license: 0
+latitude: 57.606128
+longitude: -3.61242
+accuracy: 11
+views: 13
+interestingness: 127 out of 120
+
+photo: 6465505855 6c3163184b 7143
+owner: 21503482@N06
+title: Newport Jazz Festival
+originalsecret: 0bd4767d46
+originalformat: jpg
+o_height: 2036
+o_width: 3054
+datetaken: 2011-08-07 17:55:04
+dateupload: 1323174641
+tags: 
+license: 0
+latitude: 41.479044
+longitude: -71.33764
+accuracy: 15
+views: 19
+interestingness: 128 out of 120
+
+photo: 6460605181 99741a6372 7030
+owner: 46464941@N07
+title: No trellis needed
+originalsecret: c63ecacc08
+originalformat: jpg
+o_height: 1155
+o_width: 1540
+datetaken: 2011-08-26 13:03:22
+dateupload: 1323104395
+tags: sky urban stone vines decay kansascity missouri blight kcmo crossroadsartdistrict outsidesteps ababndoned 18thandvinejazzdistrict
+license: 0
+latitude: 39.090392
+longitude: -94.569132
+accuracy: 16
+views: 12
+interestingness: 129 out of 120
+
+photo: 6463723763 0020e13d6e 7003
+owner: 28444588@N08
+title: Jerome Jennings
+originalsecret: 0f4c1cdfdb
+originalformat: jpg
+o_height: 4288
+o_width: 2848
+datetaken: 2011-12-01 22:30:36
+dateupload: 1323141974
+tags: blackandwhite bw music drums live performance jazz newbrunswick drummer cymbals apj narratography
+license: 0
+latitude: 40.49477
+longitude: -74.443809
+accuracy: 11
+views: 18
+interestingness: 130 out of 120
+
+photo: 6459086299 4d7f0322c4 7169
+owner: 21503482@N06
+title: Josh Raymer & Chris Combs (Jacob Fred Jazz Odyssey)
+originalsecret: a4b1e85998
+originalformat: jpg
+o_height: 2033
+o_width: 3058
+datetaken: 2008-08-09 10:41:56
+dateupload: 1323084721
+tags: raw
+license: 0
+latitude: 41.478943
+longitude: -71.336749
+accuracy: 16
+views: 14
+interestingness: 131 out of 120
+
+photo: 6458689483 f8f3c12c00 7034
+owner: 50224162@N06
+title: 616
+originalsecret: 27d494b908
+originalformat: jpg
+o_height: 1024
+o_width: 1024
+datetaken: 2011-12-03 23:08:57
+dateupload: 1323077114
+tags: music chicago concert guitar jazz blues slide musik konzert gitarre schorndorf louisianared
+license: 0
+latitude: 48.808198
+longitude: 9.53728
+accuracy: 16
+views: 6
+interestingness: 132 out of 120
+
+photo: 6458688935 b2f1f1db3f 7164
+owner: 50224162@N06
+title: 615
+originalsecret: 5f0ecc03ab
+originalformat: jpg
+o_height: 1024
+o_width: 1024
+datetaken: 2011-12-03 23:00:38
+dateupload: 1323077103
+tags: music chicago concert guitar jazz blues slide blurred musik konzert unscharf gitarre schorndorf louisianared
+license: 0
+latitude: 48.808195
+longitude: 9.537302
+accuracy: 16
+views: 9
+interestingness: 133 out of 120
+
+photo: 6458688359 c1f4144711 7155
+owner: 50224162@N06
+title: 614
+originalsecret: c6a5cb3249
+originalformat: jpg
+o_height: 1024
+o_width: 1024
+datetaken: 2011-12-03 23:00:33
+dateupload: 1323077090
+tags: music chicago concert guitar jazz blues slide blurred musik konzert unscharf gitarre schorndorf louisianared
+license: 0
+latitude: 48.808213
+longitude: 9.537355
+accuracy: 16
+views: 13
+interestingness: 134 out of 120
+
+photo: 6452577875 903b75ccc0 7162
+owner: 68474846@N00
+title: Tinissima plays Malcom X
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-04 14:50:23
+dateupload: 1323006623
+tags: jazz malcomx francescobearzatti giovannifalzone zenoderossi musicistimusiciens tinissima danilogallo ambriajazz2011
+license: 0
+latitude: 46.172619
+longitude: 9.866867
+accuracy: 11
+views: 14
+interestingness: 135 out of 120
+
+photo: 6450140311 97de3f1c68 7152
+owner: 9767726@N04
+title: Front Of House - Photoshoot
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-03 13:22:16
+dateupload: 1322966540
+tags: wedding music house chicago musicians band jazz front event ensemble metropolitan sophisticated classy rcpopart
+license: 0
+latitude: 41.883624
+longitude: -87.624968
+accuracy: 16
+views: 28
+interestingness: 136 out of 120
+
+photo: 6446006709 18392ae68e 7033
+owner: 60779584@N00
+title: Boy listening to the jazz concert
+originalsecret: c4cc5f1d61
+originalformat: jpg
+o_height: 861
+o_width: 1280
+datetaken: 2011-12-03 02:48:26
+dateupload: 1322909306
+tags: 2005 boy portrait festival kids garden children geotagged canon20d tag jazz hermitage
+license: 0
+latitude: 55.77125
+longitude: 37.608915
+accuracy: 16
+views: 49
+interestingness: 137 out of 120
+
+photo: 6458687785 215f9a8502 7148
+owner: 50224162@N06
+title: 613
+originalsecret: e2052743ab
+originalformat: jpg
+o_height: 1024
+o_width: 1024
+datetaken: 2011-12-03 22:13:50
+dateupload: 1323077078
+tags: music chicago concert guitar jazz blues slide blurred musik konzert unscharf gitarre schorndorf louisianared
+license: 0
+latitude: 48.808188
+longitude: 9.537227
+accuracy: 16
+views: 8
+interestingness: 138 out of 120
+
+photo: 6450141869 045988d78b 7173
+owner: 9767726@N04
+title: Front Of House - Photoshoot
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-03 13:45:44
+dateupload: 1322966563
+tags: wedding music house chicago musicians band jazz front event ensemble metropolitan sophisticated classy rcpopart
+license: 0
+latitude: 41.883624
+longitude: -87.624968
+accuracy: 16
+views: 30
+interestingness: 139 out of 120
+
+photo: 6448924679 65938f31d2 7158
+owner: 37777824@N00
+title: MARIA VIANA
+originalsecret: 88c6440eef
+originalformat: jpg
+o_height: 2736
+o_width: 3648
+datetaken: 2011-12-03 01:38:29
+dateupload: 1322949879
+tags: portugal jonas cascais mariavieira palmeirim cascaisjazzclub
+license: 4
+latitude: 38.69783
+longitude: -9.42074
+accuracy: 13
+views: 8
+interestingness: 140 out of 120
+
+photo: 6459295251 96f5faf717 7026
+owner: 19815888@N00
+title: 100 baht note 85th birthday
+originalsecret: 2206d159ca
+originalformat: jpg
+o_height: 1844
+o_width: 1764
+datetaken: 2011-12-05 13:19:33
+dateupload: 1323088256
+tags: money baht banknotes thaimoney
+license: 0
+latitude: 13.745898
+longitude: 100.551745
+accuracy: 16
+views: 6
+interestingness: 141 out of 120
+
+photo: 6451948003 3b591a61f5 7021
+owner: 21503482@N06
+title: Newport Jazz Festival
+originalsecret: 59e1d66909
+originalformat: jpg
+o_height: 2036
+o_width: 3054
+datetaken: 2011-08-07 15:48:34
+dateupload: 1322997600
+tags: 
+license: 0
+latitude: 41.480314
+longitude: -71.338262
+accuracy: 16
+views: 3
+interestingness: 142 out of 120
+
+photo: 6441059511 20edea0496 7020
+owner: 28714070@N00
+title: TBP_1878-Edit
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-01 00:53:57
+dateupload: 1322825809
+tags: show music concert guitar gig performance band jazz blues american countryandwestern irishcentre blusegrass buddywhittington leedsscenester
+license: 0
+latitude: 53.797311
+longitude: -1.515287
+accuracy: 16
+views: 13
+interestingness: 143 out of 120
+
+photo: 6441058519 9ae51ce9a6 7025
+owner: 28714070@N00
+title: TBP_1807-Edit
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-01 00:08:28
+dateupload: 1322825786
+tags: show music concert guitar gig performance band jazz blues american countryandwestern irishcentre blusegrass buddywhittington leedsscenester
+license: 0
+latitude: 53.797311
+longitude: -1.515287
+accuracy: 16
+views: 10
+interestingness: 144 out of 120
+
+photo: 6441057839 49ffa05ea5 7001
+owner: 28714070@N00
+title: TBP_1781-Edit
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-01 00:03:53
+dateupload: 1322825772
+tags: show music concert guitar gig performance band jazz blues american countryandwestern irishcentre blusegrass buddywhittington leedsscenester
+license: 0
+latitude: 53.797311
+longitude: -1.515287
+accuracy: 16
+views: 5
+interestingness: 145 out of 120
+
+photo: 6441057365 8a35732aa7 7168
+owner: 28714070@N00
+title: TBP_1761-Edit
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-30 23:45:20
+dateupload: 1322825761
+tags: show music concert guitar gig performance band jazz blues american countryandwestern irishcentre blusegrass buddywhittington leedsscenester
+license: 0
+latitude: 53.797311
+longitude: -1.515287
+accuracy: 16
+views: 5
+interestingness: 146 out of 120
+
+photo: 6441055931 4fe6a7881f 7148
+owner: 28714070@N00
+title: TBP_1688-Edit
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-30 23:08:48
+dateupload: 1322825731
+tags: show music concert guitar gig performance band jazz blues american countryandwestern irishcentre blusegrass buddywhittington leedsscenester
+license: 0
+latitude: 53.797311
+longitude: -1.515287
+accuracy: 16
+views: 3
+interestingness: 147 out of 120
+
+photo: 6441055437 001d7bbcaa 7156
+owner: 28714070@N00
+title: TBP_1682-Edit
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-30 23:07:56
+dateupload: 1322825721
+tags: show music concert guitar gig performance band jazz blues american countryandwestern irishcentre blusegrass buddywhittington leedsscenester
+license: 0
+latitude: 53.797311
+longitude: -1.515287
+accuracy: 16
+views: 9
+interestingness: 148 out of 120
+
+photo: 6437309021 6668b71719 7153
+owner: 29808082@N08
+title: Eric Luter en concert aux Copains d'abord ? Salbris
+originalsecret: 61f97e6377
+originalformat: jpg
+o_height: 2832
+o_width: 4255
+datetaken: 2011-11-19 01:41:16
+dateupload: 1322762586
+tags: concert jazz trompette sologne luter salbris ericluter copainsdabord
+license: 0
+latitude: 47.435722
+longitude: 2.049508
+accuracy: 14
+views: 10
+interestingness: 149 out of 120
+
+photo: 6450143825 31033a0734 7021
+owner: 9767726@N04
+title: Front Of House - Photoshoot
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-03 13:57:53
+dateupload: 1322966590
+tags: wedding music house chicago musicians band jazz front event ensemble metropolitan sophisticated classy rcpopart
+license: 0
+latitude: 41.883624
+longitude: -87.624968
+accuracy: 16
+views: 37
+interestingness: 150 out of 120
+
+photo: 6446006501 f62823d2d6 7022
+owner: 60779584@N00
+title: Can we build it?
+originalsecret: e2c27a30e3
+originalformat: jpg
+o_height: 843
+o_width: 1280
+datetaken: 2011-12-03 02:48:22
+dateupload: 1322909302
+tags: 2005 boy portrait festival kids garden children geotagged canon20d tag bob jazz hermitage yeswecan canwebuildit
+license: 0
+latitude: 55.77125
+longitude: 37.608915
+accuracy: 16
+views: 30
+interestingness: 151 out of 120
+
+photo: 6474498905 4c4d55f803 7156
+owner: 46275416@N04
+title: Sentosa, Palawan Beach
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2010-12-24 10:27:37
+dateupload: 1323307773
+tags: ck
+license: 0
+latitude: 1.248367
+longitude: 103.822957
+accuracy: 16
+views: 14
+interestingness: 152 out of 120
+
+photo: 6470558215 5d35a063c5 7143
+owner: 22309110@N03
+title: Mickey's Soundsational Parade
+originalsecret: 2d9f9ba6d7
+originalformat: jpg
+o_height: 3894
+o_width: 2596
+datetaken: 2011-10-02 19:07:17
+dateupload: 1323247030
+tags: disneyland disney parade disneycharacters disneycastmembers disneyparks princessandthefrog princesstiana soundsational mickeyssoundsationalparade tianasneworleansjazzjubilee
+license: 0
+latitude: 33.814382
+longitude: -117.917611
+accuracy: 16
+views: 7
+interestingness: 153 out of 120
+
+photo: 6458167317 2096e73632 7007
+owner: 56769181@N08
+title: IMG_0615
+originalsecret: 2730f75310
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 09:58:39
+dateupload: 1323067288
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 14
+interestingness: 154 out of 120
+
+photo: 6457143915 63f7820b02 7160
+owner: 56769181@N08
+title: IMG_9982
+originalsecret: d56b88bf22
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 08:12:13
+dateupload: 1323054155
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 18
+interestingness: 155 out of 120
+
+photo: 6456458797 2366136e06 7035
+owner: 15484182@N04
+title: Apricot at the Umi cafe taking in some Jazz
+originalsecret: d1b2652cca
+originalformat: jpg
+o_height: 1224
+o_width: 1632
+datetaken: 2011-12-04 19:56:57
+dateupload: 1323046626
+tags: flickrandroidapp:filter=paris
+license: 0
+latitude: 45.411873
+longitude: -75.703868
+accuracy: 14
+views: 20
+interestingness: 156 out of 120
+
+photo: 6450168135 c3287745d2 7004
+owner: 9767726@N04
+title: Front Of House - Photoshoot
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-03 15:06:22
+dateupload: 1322966931
+tags: wedding music house chicago musicians band jazz front event ensemble metropolitan sophisticated classy rcpopart
+license: 0
+latitude: 41.880856
+longitude: -87.622189
+accuracy: 16
+views: 16
+interestingness: 157 out of 120
+
+photo: 6450164731 508e748a1f 7147
+owner: 9767726@N04
+title: Front Of House - Photoshoot
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-03 15:10:37
+dateupload: 1322966885
+tags: wedding music house chicago musicians band jazz front event ensemble metropolitan sophisticated classy rcpopart
+license: 0
+latitude: 41.880856
+longitude: -87.622189
+accuracy: 16
+views: 17
+interestingness: 158 out of 120
+
+photo: 6450163123 0a44acf60a 7175
+owner: 9767726@N04
+title: Front Of House - Photoshoot
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-03 14:46:14
+dateupload: 1322966862
+tags: wedding music house chicago musicians band jazz front event ensemble metropolitan sophisticated classy rcpopart
+license: 0
+latitude: 41.880856
+longitude: -87.622189
+accuracy: 16
+views: 18
+interestingness: 159 out of 120
+
+photo: 6450161429 4ea64563f5 7164
+owner: 9767726@N04
+title: Front Of House - Photoshoot
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-03 14:44:40
+dateupload: 1322966838
+tags: wedding music house chicago musicians band jazz front event ensemble metropolitan sophisticated classy rcpopart
+license: 0
+latitude: 41.880856
+longitude: -87.622189
+accuracy: 16
+views: 13
+interestingness: 160 out of 120
+
+photo: 6450159765 9bc9085867 7035
+owner: 9767726@N04
+title: Front Of House - Photoshoot
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-03 14:42:39
+dateupload: 1322966816
+tags: wedding music house chicago musicians band jazz front event ensemble metropolitan sophisticated classy rcpopart
+license: 0
+latitude: 41.880856
+longitude: -87.622189
+accuracy: 16
+views: 10
+interestingness: 161 out of 120
+
+photo: 6450158087 8c3193c444 7175
+owner: 9767726@N04
+title: Front Of House - Photoshoot
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-03 14:40:21
+dateupload: 1322966794
+tags: wedding music house chicago musicians band jazz front event ensemble metropolitan sophisticated classy rcpopart
+license: 0
+latitude: 41.880856
+longitude: -87.622189
+accuracy: 16
+views: 12
+interestingness: 162 out of 120
+
+photo: 6450156477 f574aaeb7e 7028
+owner: 9767726@N04
+title: Front Of House - Photoshoot
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-03 14:37:19
+dateupload: 1322966771
+tags: wedding music house chicago musicians band jazz front event ensemble metropolitan sophisticated classy rcpopart
+license: 0
+latitude: 41.880856
+longitude: -87.622189
+accuracy: 16
+views: 10
+interestingness: 163 out of 120
+
+photo: 6450155199 0982c30d98 7021
+owner: 9767726@N04
+title: Front Of House - Photoshoot
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-03 14:36:14
+dateupload: 1322966754
+tags: wedding music house chicago musicians band jazz front event ensemble metropolitan sophisticated classy rcpopart
+license: 0
+latitude: 41.880856
+longitude: -87.622189
+accuracy: 16
+views: 11
+interestingness: 164 out of 120
+
+photo: 6450153609 966a0c2198 7024
+owner: 9767726@N04
+title: Front Of House - Photoshoot
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-03 14:33:52
+dateupload: 1322966733
+tags: wedding music house chicago musicians band jazz front event ensemble metropolitan sophisticated classy rcpopart
+license: 0
+latitude: 41.880856
+longitude: -87.622189
+accuracy: 16
+views: 15
+interestingness: 165 out of 120
+
+photo: 6450151813 e0665428f2 7004
+owner: 9767726@N04
+title: Front Of House - Photoshoot
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-03 14:32:27
+dateupload: 1322966708
+tags: wedding music house chicago musicians band jazz front event ensemble metropolitan sophisticated classy rcpopart
+license: 0
+latitude: 41.880856
+longitude: -87.622189
+accuracy: 16
+views: 13
+interestingness: 166 out of 120
+
+photo: 6450150503 1e17774273 7001
+owner: 9767726@N04
+title: Front Of House - Photoshoot
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-03 14:31:00
+dateupload: 1322966689
+tags: wedding music house chicago musicians band jazz front event ensemble metropolitan sophisticated classy rcpopart
+license: 0
+latitude: 41.880856
+longitude: -87.622189
+accuracy: 16
+views: 13
+interestingness: 167 out of 120
+
+photo: 6450149301 53bc0b4fd9 7145
+owner: 9767726@N04
+title: Front Of House - Photoshoot
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-03 14:29:01
+dateupload: 1322966670
+tags: wedding music house chicago musicians band jazz front event ensemble metropolitan sophisticated classy rcpopart
+license: 0
+latitude: 41.880856
+longitude: -87.622189
+accuracy: 16
+views: 17
+interestingness: 168 out of 120
+
+photo: 6450145521 f67184f89c 7150
+owner: 9767726@N04
+title: Front Of House - Photoshoot
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-03 13:45:53
+dateupload: 1322966615
+tags: wedding music house chicago musicians band jazz front event ensemble metropolitan sophisticated classy rcpopart
+license: 0
+latitude: 41.883624
+longitude: -87.624968
+accuracy: 16
+views: 16
+interestingness: 169 out of 120
+
+photo: 6438974073 d052cd6939 7151
+owner: 60779584@N00
+title: Don Braden, saxophonist
+originalsecret: d24842a16b
+originalformat: jpg
+o_height: 960
+o_width: 679
+datetaken: 2011-12-01 16:20:24
+dateupload: 1322785224
+tags: 2005 portrait blackandwhite bw musician festival garden geotagged canon20d jazz don hermitage sax saxophone braden donbraden
+license: 0
+latitude: 55.77125
+longitude: 37.608915
+accuracy: 16
+views: 14
+interestingness: 170 out of 120
+
+photo: 6459053339 3bc3099de1 7168
+owner: 56769181@N08
+title: IMG_1742
+originalsecret: 1847f73036
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 14:09:21
+dateupload: 1323084121
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 21
+interestingness: 171 out of 120
+
+photo: 6458959107 9e45371436 7141
+owner: 56769181@N08
+title: IMG_1563
+originalsecret: 1de8cf4f52
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 14:00:15
+dateupload: 1323082406
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 25
+interestingness: 172 out of 120
+
+photo: 6458555425 79ae76d54f 7027
+owner: 56769181@N08
+title: IMG_0982
+originalsecret: 90d10859f8
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 12:00:18
+dateupload: 1323074452
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 34
+interestingness: 173 out of 120
+
+photo: 6458343419 4b8bb6486b 7006
+owner: 56769181@N08
+title: IMG_0736
+originalsecret: 03ed22c3bd
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 10:32:56
+dateupload: 1323070406
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 30
+interestingness: 174 out of 120
+
+photo: 6458278703 fc31928d53 7160
+owner: 56769181@N08
+title: IMG_0679
+originalsecret: bcde7f49b7
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 10:10:32
+dateupload: 1323069245
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 42
+interestingness: 175 out of 120
+
+photo: 6456965397 ccfbdaff23 7018
+owner: 56769181@N08
+title: IMG_9935
+originalsecret: ed46dc2f1f
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 08:08:07
+dateupload: 1323052233
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 19
+interestingness: 176 out of 120
+
+photo: 6481014621 9686ae337b 7015
+owner: 39414087@N06
+title: Sun Ra Arkestra @ Cafe Oto
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-08 22:38:58
+dateupload: 1323422697
+tags: london live gig jazz cosmic londonist sunraarkestra cafeoto
+license: 0
+latitude: 51.546836
+longitude: -0.07468
+accuracy: 15
+views: 10
+interestingness: 177 out of 120
+
+photo: 6459246843 544720333b 7144
+owner: 56769181@N08
+title: IMG_2089
+originalsecret: 33b806385d
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 15:55:58
+dateupload: 1323087450
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 46
+interestingness: 178 out of 120
+
+photo: 6459221091 7caa0170be 7142
+owner: 56769181@N08
+title: IMG_2054
+originalsecret: 285c0cb54f
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 15:18:54
+dateupload: 1323087047
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 26
+interestingness: 179 out of 120
+
+photo: 6459167869 f5849d980b 7009
+owner: 56769181@N08
+title: IMG_1947
+originalsecret: 3bf4801b0b
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 14:59:40
+dateupload: 1323086141
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 25
+interestingness: 180 out of 120
+
+photo: 6459161731 15c172e8b3 7032
+owner: 56769181@N08
+title: IMG_1944
+originalsecret: 8768b56771
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 14:59:32
+dateupload: 1323086031
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 27
+interestingness: 181 out of 120
+
+photo: 6459158947 b7190f9827 7008
+owner: 56769181@N08
+title: IMG_1932
+originalsecret: 22e71c128c
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 14:57:00
+dateupload: 1323085980
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 14
+interestingness: 182 out of 120
+
+photo: 6459146883 be2c4f2108 7168
+owner: 56769181@N08
+title: IMG_1915
+originalsecret: a97dfa84a2
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 14:51:51
+dateupload: 1323085783
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 21
+interestingness: 183 out of 120
+
+photo: 6459095043 06675f3754 7169
+owner: 56769181@N08
+title: IMG_1832
+originalsecret: d92d593778
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 14:12:54
+dateupload: 1323084880
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 43
+interestingness: 184 out of 120
+
+photo: 6459073263 81f5ea8a32 7142
+owner: 56769181@N08
+title: IMG_1760
+originalsecret: 56c6e833a2
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 14:10:36
+dateupload: 1323084486
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 82
+interestingness: 185 out of 120
+
+photo: 6459064577 a1fe813ecf 7158
+owner: 56769181@N08
+title: IMG_1750
+originalsecret: 9481cf38aa
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 14:10:12
+dateupload: 1323084329
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 24
+interestingness: 186 out of 120
+
+photo: 6459018581 d6648f8c03 7011
+owner: 56769181@N08
+title: IMG_1675
+originalsecret: db065c794a
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 14:05:43
+dateupload: 1323083492
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 19
+interestingness: 187 out of 120
+
+photo: 6458835877 8e3ea81610 7015
+owner: 56769181@N08
+title: IMG_1359
+originalsecret: f4214c6036
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 13:12:08
+dateupload: 1323079996
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 13
+interestingness: 188 out of 120
+
+photo: 6458789157 7c9a4ea89d 7032
+owner: 56769181@N08
+title: IMG_1293
+originalsecret: 4e7e26e497
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 12:54:18
+dateupload: 1323079080
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 20
+interestingness: 189 out of 120
+
+photo: 6458770817 9bf785416d 7007
+owner: 56769181@N08
+title: IMG_1271
+originalsecret: 9f4af24e25
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 12:50:20
+dateupload: 1323078740
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 18
+interestingness: 190 out of 120
+
+photo: 6458764901 c4eaa8e686 7003
+owner: 56769181@N08
+title: IMG_1267
+originalsecret: a28bea7972
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 12:50:10
+dateupload: 1323078625
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 28
+interestingness: 191 out of 120
+
+photo: 6458750695 5d371777d0 7024
+owner: 56769181@N08
+title: IMG_1246
+originalsecret: 831d70d9b5
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 12:33:22
+dateupload: 1323078343
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 15
+interestingness: 192 out of 120
+
+photo: 6458739731 0fa50c0f8e 7004
+owner: 56769181@N08
+title: IMG_1236
+originalsecret: 59bca892c1
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 12:30:48
+dateupload: 1323078123
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 12
+interestingness: 193 out of 120
+
+photo: 6458674597 b2446ccc60 7004
+owner: 56769181@N08
+title: IMG_1153
+originalsecret: a9f334a15a
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 12:24:07
+dateupload: 1323076828
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 46
+interestingness: 194 out of 120
+
+photo: 6458649791 dcf35942ee 7008
+owner: 56769181@N08
+title: IMG_1108
+originalsecret: 73281db476
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 12:16:13
+dateupload: 1323076363
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 21
+interestingness: 195 out of 120
+
+photo: 6458581919 be1ab39ede 7154
+owner: 56769181@N08
+title: IMG_1017
+originalsecret: b0c6896d43
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 12:03:08
+dateupload: 1323075001
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 31
+interestingness: 196 out of 120
+
+photo: 6458579347 6c8eef4f93 7144
+owner: 56769181@N08
+title: IMG_1008
+originalsecret: bc1f06a498
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 12:02:36
+dateupload: 1323074947
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 21
+interestingness: 197 out of 120
+
+photo: 6458549509 cc1093f2be 7020
+owner: 56769181@N08
+title: IMG_0979
+originalsecret: fc46f768c3
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 12:00:13
+dateupload: 1323074334
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 23
+interestingness: 198 out of 120
+
+photo: 6458446523 812a5911ec 7007
+owner: 56769181@N08
+title: IMG_0828
+originalsecret: 3d00338a93
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 11:28:04
+dateupload: 1323072335
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 19
+interestingness: 199 out of 120
+
+photo: 6458395645 972aa06526 7019
+owner: 56769181@N08
+title: IMG_0789
+originalsecret: 16be85556b
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 11:21:05
+dateupload: 1323071377
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 21
+interestingness: 200 out of 120
+
+photo: 6458340359 de25a1d8a6 7143
+owner: 56769181@N08
+title: IMG_0735
+originalsecret: 10100e8250
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 10:32:55
+dateupload: 1323070348
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 38
+interestingness: 201 out of 120
+
+photo: 6458337165 c69f910230 7026
+owner: 56769181@N08
+title: IMG_0734
+originalsecret: 21fd0314c7
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 10:32:53
+dateupload: 1323070286
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 21
+interestingness: 202 out of 120
+
+photo: 6458333837 d07cb7406e 7013
+owner: 56769181@N08
+title: IMG_0733
+originalsecret: 2be09f6577
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 10:32:51
+dateupload: 1323070223
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 26
+interestingness: 203 out of 120
+
+photo: 6458272181 688d9e7a8c 7157
+owner: 56769181@N08
+title: IMG_0675
+originalsecret: bd32721c1d
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 10:09:45
+dateupload: 1323069124
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 47
+interestingness: 204 out of 120
+
+photo: 6458256405 d436af469b 7033
+owner: 56769181@N08
+title: IMG_0667
+originalsecret: f34f60cac7
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 10:08:51
+dateupload: 1323068838
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 11
+interestingness: 205 out of 120
+
+photo: 6458209511 45612b29e8 7141
+owner: 56769181@N08
+title: IMG_0645
+originalsecret: e6436590b0
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 10:06:39
+dateupload: 1323068022
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 5
+interestingness: 206 out of 120
+
+photo: 6458199913 fe1580f604 7153
+owner: 56769181@N08
+title: IMG_0642
+originalsecret: d0aef2abb8
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 10:06:35
+dateupload: 1323067851
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 11
+interestingness: 207 out of 120
+
+photo: 6458180809 abe2c88f00 7033
+owner: 56769181@N08
+title: IMG_0624
+originalsecret: acb16d0c33
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 09:59:28
+dateupload: 1323067513
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 9
+interestingness: 208 out of 120
+
+photo: 6458177445 87c58d8f4e 7027
+owner: 56769181@N08
+title: IMG_0622
+originalsecret: 6e7dae0a8a
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 09:59:01
+dateupload: 1323067455
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 17
+interestingness: 209 out of 120
+
+photo: 6458124373 9d834abee3 7022
+owner: 56769181@N08
+title: IMG_0574
+originalsecret: a56e334e73
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 09:50:07
+dateupload: 1323066543
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 35
+interestingness: 210 out of 120
+
+photo: 6458099101 11bc481e0f 7002
+owner: 56769181@N08
+title: IMG_0556
+originalsecret: 6e78c02e68
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 09:49:10
+dateupload: 1323066135
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 3
+interestingness: 211 out of 120
+
+photo: 6458025501 8b4864d76c 7150
+owner: 56769181@N08
+title: IMG_0486
+originalsecret: 41a23e5750
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 09:35:50
+dateupload: 1323064980
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 7
+interestingness: 212 out of 120
+
+photo: 6457804311 509735941e 7007
+owner: 56769181@N08
+title: IMG_0331
+originalsecret: 1f924baa09
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 09:09:50
+dateupload: 1323061906
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 26
+interestingness: 213 out of 120
+
+photo: 6457794691 45e367e2b2 7022
+owner: 56769181@N08
+title: IMG_0327
+originalsecret: 54a1d2e06a
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 09:09:29
+dateupload: 1323061780
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 9
+interestingness: 214 out of 120
+
+photo: 6457766773 c1b8819e8c 7153
+owner: 56769181@N08
+title: IMG_0304
+originalsecret: d24dcd0334
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 09:00:28
+dateupload: 1323061403
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 21
+interestingness: 215 out of 120
+
+photo: 6457762163 962d4b3ac9 7141
+owner: 56769181@N08
+title: IMG_0300
+originalsecret: cfa1938333
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 09:00:04
+dateupload: 1323061340
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 15
+interestingness: 216 out of 120
+
+photo: 6457726071 024d2fd5c6 7011
+owner: 56769181@N08
+title: IMG_0266
+originalsecret: 1bdbf6f14e
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 08:58:30
+dateupload: 1323060864
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 8
+interestingness: 217 out of 120
+
+photo: 6457573489 80666b7e87 7161
+owner: 56769181@N08
+title: IMG_0150
+originalsecret: 2ccd0bcee5
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 08:25:39
+dateupload: 1323059046
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 7
+interestingness: 218 out of 120
+
+photo: 6457539435 a8a6c0e36b 7146
+owner: 56769181@N08
+title: IMG_0129
+originalsecret: de7153e360
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 08:24:45
+dateupload: 1323058641
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 11
+interestingness: 219 out of 120
+
+photo: 6457534209 b86e668ced 7030
+owner: 56769181@N08
+title: IMG_0127
+originalsecret: ab141b6ae2
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 08:23:48
+dateupload: 1323058573
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 38
+interestingness: 220 out of 120
+
+photo: 6457523715 09144a1f3e 7016
+owner: 56769181@N08
+title: IMG_0122
+originalsecret: 417c537ab3
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 08:23:11
+dateupload: 1323058444
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 11
+interestingness: 221 out of 120
+
+photo: 6457507499 ef5f09f217 7151
+owner: 56769181@N08
+title: IMG_0118
+originalsecret: 199e48fdff
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 08:22:58
+dateupload: 1323058241
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 26
+interestingness: 222 out of 120
+
+photo: 6457463137 1fc09aea31 7165
+owner: 56769181@N08
+title: IMG_0097
+originalsecret: 8341279967
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 08:21:31
+dateupload: 1323057690
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 9
+interestingness: 223 out of 120
+
+photo: 6457442235 f2314cde3c 7033
+owner: 56769181@N08
+title: IMG_0087
+originalsecret: 1e0d48051b
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 08:20:46
+dateupload: 1323057447
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 20
+interestingness: 224 out of 120
+
+photo: 6457419683 9cf56960e8 7026
+owner: 56769181@N08
+title: IMG_0080
+originalsecret: fa09cd6e36
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 08:20:33
+dateupload: 1323057185
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 7
+interestingness: 225 out of 120
+
+photo: 6457371475 f12cc24ea5 7158
+owner: 56769181@N08
+title: IMG_0044
+originalsecret: 59e357371d
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 08:18:40
+dateupload: 1323056622
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 24
+interestingness: 226 out of 120
+
+photo: 6457198025 79e939bec7 7012
+owner: 56769181@N08
+title: IMG_9991
+originalsecret: b82114125e
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 08:12:38
+dateupload: 1323054737
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 10
+interestingness: 227 out of 120
+
+photo: 6457191827 e4b72bcdbe 7161
+owner: 56769181@N08
+title: IMG_9990
+originalsecret: b45a80eaaa
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 08:12:36
+dateupload: 1323054672
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 16
+interestingness: 228 out of 120
+
+photo: 6457165133 70cde6b3d3 7023
+owner: 56769181@N08
+title: IMG_9985
+originalsecret: 70d3b6c6aa
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 08:12:22
+dateupload: 1323054386
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 12
+interestingness: 229 out of 120
+
+photo: 6457131581 cb52859f38 7003
+owner: 56769181@N08
+title: IMG_9980
+originalsecret: 1b2720522f
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 08:10:33
+dateupload: 1323054015
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 13
+interestingness: 230 out of 120
+
+photo: 6457117961 d22e0f9965 7015
+owner: 56769181@N08
+title: IMG_9977
+originalsecret: 7220ca0c5c
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 08:10:29
+dateupload: 1323053865
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 15
+interestingness: 231 out of 120
+
+photo: 6457080245 be5ef91c6e 7035
+owner: 56769181@N08
+title: IMG_9956
+originalsecret: 5bddfa75f7
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 08:09:15
+dateupload: 1323053466
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 19
+interestingness: 232 out of 120
+
+photo: 6457062129 34e82f8971 7016
+owner: 56769181@N08
+title: IMG_9953
+originalsecret: 43516980be
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 08:09:11
+dateupload: 1323053277
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 43
+interestingness: 233 out of 120
+
+photo: 6450166497 afcab21ab8 7007
+owner: 9767726@N04
+title: Front Of House - Photoshoot
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-03 15:06:31
+dateupload: 1322966909
+tags: wedding music house chicago musicians band jazz front event ensemble metropolitan sophisticated classy rcpopart
+license: 0
+latitude: 41.880856
+longitude: -87.622189
+accuracy: 16
+views: 19
+interestingness: 234 out of 120
+
+photo: 6437331759 97459272f7 7017
+owner: 29808082@N08
+title: Eric Luter en concert aux Copains d'abord ? Salbris
+originalsecret: 301d006b92
+originalformat: jpg
+o_height: 3056
+o_width: 4345
+datetaken: 2011-11-19 01:02:06
+dateupload: 1322762894
+tags: concert jazz trompette sologne luter salbris ericluter copainsdabord
+license: 0
+latitude: 47.435722
+longitude: 2.049508
+accuracy: 14
+views: 12
+interestingness: 235 out of 120
+
+photo: 6478786695 e2c80a3b7f 7144
+owner: 57089370@N00
+title: Schradinova _Q5I0980
+originalsecret: cd8158e62b
+originalformat: jpg
+o_height: 1000
+o_width: 1500
+datetaken: 2011-12-07 23:08:07
+dateupload: 1323380848
+tags: availablelight livemusic jazz pop concertphotography singersongwriter kjguch fileundernl janneschra dutchmusicscene kjguchcom schradinova lastfm:event=2062622
+license: 0
+latitude: 53.217021
+longitude: 6.570167
+accuracy: 15
+views: 1
+interestingness: 236 out of 120
+
+photo: 6478786031 52cea8d6de 7154
+owner: 57089370@N00
+title: Schradinova _Q5I0961
+originalsecret: 97509bf5c9
+originalformat: jpg
+o_height: 1000
+o_width: 1500
+datetaken: 2011-12-07 23:05:46
+dateupload: 1323380839
+tags: availablelight livemusic jazz pop concertphotography singersongwriter kjguch fileundernl janneschra dutchmusicscene kjguchcom schradinova lastfm:event=2062622
+license: 0
+latitude: 53.217021
+longitude: 6.570167
+accuracy: 15
+views: 0
+interestingness: 237 out of 120
+
+photo: 6478785601 81e5921fef 7160
+owner: 57089370@N00
+title: Schradinova _Q5I0947
+originalsecret: c64a59b285
+originalformat: jpg
+o_height: 1000
+o_width: 1500
+datetaken: 2011-12-07 23:02:44
+dateupload: 1323380833
+tags: availablelight livemusic jazz pop concertphotography singersongwriter kjguch fileundernl janneschra dutchmusicscene kjguchcom schradinova lastfm:event=2062622
+license: 0
+latitude: 53.217021
+longitude: 6.570167
+accuracy: 15
+views: 0
+interestingness: 238 out of 120
+
+photo: 6478785141 f9dedd9874 7166
+owner: 57089370@N00
+title: Schradinova _Q5I0939
+originalsecret: 95e6a8c8b5
+originalformat: jpg
+o_height: 1063
+o_width: 1500
+datetaken: 2011-12-07 22:51:46
+dateupload: 1323380825
+tags: availablelight livemusic jazz pop concertphotography singersongwriter kjguch fileundernl janneschra dutchmusicscene kjguchcom schradinova lastfm:event=2062622
+license: 0
+latitude: 53.217021
+longitude: 6.570167
+accuracy: 15
+views: 0
+interestingness: 239 out of 120
+
+photo: 6478784555 0790b7666c 7008
+owner: 57089370@N00
+title: Schradinova _MG_9652
+originalsecret: 0e211e9d51
+originalformat: jpg
+o_height: 1000
+o_width: 1500
+datetaken: 2011-12-07 23:32:42
+dateupload: 1323380817
+tags: availablelight livemusic jazz pop concertphotography singersongwriter kjguch fileundernl janneschra dutchmusicscene kjguchcom schradinova lastfm:event=2062622
+license: 0
+latitude: 53.217021
+longitude: 6.570167
+accuracy: 15
+views: 0
+interestingness: 240 out of 120
+
+photo: 6478784177 153cc34f17 7173
+owner: 57089370@N00
+title: Schradinova _MG_9641
+originalsecret: a0a283f386
+originalformat: jpg
+o_height: 1000
+o_width: 1500
+datetaken: 2011-12-07 23:32:21
+dateupload: 1323380812
+tags: availablelight livemusic jazz pop concertphotography singersongwriter kjguch fileundernl janneschra dutchmusicscene kjguchcom schradinova lastfm:event=2062622
+license: 0
+latitude: 53.217021
+longitude: 6.570167
+accuracy: 15
+views: 3
+interestingness: 241 out of 120
+
+photo: 6478783779 303fda8423 7006
+owner: 57089370@N00
+title: Schradinova _MG_9618
+originalsecret: bd01bbae1a
+originalformat: jpg
+o_height: 1501
+o_width: 1000
+datetaken: 2011-12-07 23:28:34
+dateupload: 1323380807
+tags: availablelight livemusic jazz pop concertphotography singersongwriter kjguch fileundernl janneschra dutchmusicscene kjguchcom schradinova lastfm:event=2062622
+license: 0
+latitude: 53.217021
+longitude: 6.570167
+accuracy: 15
+views: 0
+interestingness: 242 out of 120
+
+photo: 6478783205 9873aef3c0 7016
+owner: 57089370@N00
+title: Schradinova _MG_9609
+originalsecret: 5d239aa5ff
+originalformat: jpg
+o_height: 1500
+o_width: 1000
+datetaken: 2011-12-07 23:27:17
+dateupload: 1323380799
+tags: availablelight livemusic jazz pop concertphotography singersongwriter kjguch fileundernl janneschra dutchmusicscene kjguchcom schradinova lastfm:event=2062622
+license: 0
+latitude: 53.217021
+longitude: 6.570167
+accuracy: 15
+views: 0
+interestingness: 243 out of 120
+
+photo: 6478782521 dae97db3be 7162
+owner: 57089370@N00
+title: Schradinova _MG_9603
+originalsecret: acda967300
+originalformat: jpg
+o_height: 1500
+o_width: 1000
+datetaken: 2011-12-07 23:25:17
+dateupload: 1323380789
+tags: availablelight livemusic jazz pop concertphotography singersongwriter kjguch fileundernl janneschra dutchmusicscene kjguchcom schradinova lastfm:event=2062622
+license: 0
+latitude: 53.217021
+longitude: 6.570167
+accuracy: 15
+views: 0
+interestingness: 244 out of 120
+
+photo: 6451949927 e3d4e2bd12 7153
+owner: 21503482@N06
+title: Newport Jazz Festival
+originalsecret: ba6c41cde9
+originalformat: jpg
+o_height: 2036
+o_width: 3054
+datetaken: 2011-08-07 15:33:50
+dateupload: 1322997631
+tags: 
+license: 0
+latitude: 41.479884
+longitude: -71.337575
+accuracy: 16
+views: 34
+interestingness: 245 out of 120
+
+photo: 6459086609 3c0d09be3f 7026
+owner: 21503482@N06
+title: Josh Raymer & Chris Combs (Jacob Fred Jazz Odyssey)
+originalsecret: 4a7e18d2a6
+originalformat: jpg
+o_height: 2033
+o_width: 3058
+datetaken: 2008-08-09 11:01:21
+dateupload: 1323084727
+tags: raw
+license: 0
+latitude: 41.478988
+longitude: -71.336771
+accuracy: 16
+views: 12
+interestingness: 246 out of 120
+
+photo: 6450148049 a8870bafe1 7029
+owner: 9767726@N04
+title: Front Of House - Photoshoot
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-03 14:28:12
+dateupload: 1322966653
+tags: wedding music house chicago musicians band jazz front event ensemble metropolitan sophisticated classy rcpopart
+license: 0
+latitude: 41.880856
+longitude: -87.622189
+accuracy: 16
+views: 18
+interestingness: 247 out of 120
+
+photo: 6462364473 4174684707 7019
+owner: 97838286@N00
+title: Left the Jazz Club
+originalsecret: 0258d7b724
+originalformat: jpg
+o_height: 612
+o_width: 612
+datetaken: 2011-12-05 22:26:47
+dateupload: 1323124007
+tags: square squareformat iphoneography instagramapp xproii uploaded:by=instagram foursquare:venue=4b0588a1f964a520cdd022e3
+license: 4
+latitude: 38.709517
+longitude: -9.130939
+accuracy: 16
+views: 2
+interestingness: 248 out of 120
+
+photo: 6453402033 b091a827ec 7161
+owner: 37155192@N00
+title: 2011-11-27 - 07-14-09 - USA
+originalsecret: 070d9d9563
+originalformat: jpg
+o_height: 2848
+o_width: 4288
+datetaken: 2011-11-27 14:14:14
+dateupload: 1323015880
+tags: sundayjazzbrunchmemphisusamisicmusiciandianesablehanksable
+license: 0
+latitude: 35.1171
+longitude: -90.065231
+accuracy: 9
+views: 2
+interestingness: 249 out of 120
+
+photo: 6457264513 18fc486468 7008
+owner: 56769181@N08
+title: IMG_0009
+originalsecret: b006b6dfcb
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 08:13:45
+dateupload: 1323055453
+tags: boy ballet girl dance concert babies rehearsal contemporary character jazz dressrehearsal newcastledanceacademy
+license: 0
+latitude: -32.923041
+longitude: 151.732478
+accuracy: 14
+views: 8
+interestingness: 250 out of 120
+
+Total images queried: 120

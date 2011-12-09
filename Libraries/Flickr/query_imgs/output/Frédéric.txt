@@ -1,0 +1,1672 @@
+
+mintime: 1322697600 maxtime: 1324512427.5
+numimgs: 24
+total pages: 1
+visiting only 1 pages ( up to 250 images)
+photo: 6435806671 5c00fafb6b 7162
+owner: 10948723@N02
+title: Statue of Liberty
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-26 16:51:10
+dateupload: 1322739701
+tags: nyc newyorkcity sculpture usa newyork lady america canon unitedstates batterypark statueofliberty independance libertyisland ladyliberty newyorkharbor newyorksunset supershot topshots professionalphotograph abigfave fr?d?ricbartholdi colorphotoaward batteryparksunset statueoflibertysunset flickrsportal xmaxprocessing romangodessoffreedom americandeclaration xmax32331 mostbeautifulnewyorksunset mostbeautifulstatueoflibertysunset
+license: 0
+latitude: 40.701723
+longitude: -74.016122
+accuracy: 16
+views: 1620
+interestingness: 1 out of 24
+
+photo: 6444635475 786c3783f0 7024
+owner: 9828874@N02
+title: Bartholdi Park Views
+originalsecret: 7969bac99c
+originalformat: jpg
+o_height: 719
+o_width: 1111
+datetaken: 2011-08-22 21:47:54
+dateupload: 1322880986
+tags: park blue fountain garden washingtondc dc washington uscapitol capitol botanic usbotanicgarden bartholdi bartholdipark dwoodphotography dwoodphotographycom
+license: 0
+latitude: 38.886816
+longitude: -77.012705
+accuracy: 16
+views: 96
+interestingness: 2 out of 24
+
+photo: 6462896315 a2dc07710d 7156
+owner: 61765951@N03
+title: IMG_4209 Lone Sailboart On The Willamette
+originalsecret: 2da32792a5
+originalformat: jpg
+o_height: 2501
+o_width: 4000
+datetaken: 2011-09-04 21:08:46
+dateupload: 1323130999
+tags: night oregon sailboat portland boats rivers willametteriver canont2i netartii terryfrederic amisphotographesphotographersfriends
+license: 0
+latitude: 45.511391
+longitude: -122.67291
+accuracy: 15
+views: 26
+interestingness: 3 out of 24
+
+photo: 6441723745 a66c586cf3 7005
+owner: 50812418@N06
+title: F?lix-Antoine (III)
+originalsecret: 4920b5b041
+originalformat: jpg
+o_height: 1024
+o_width: 683
+datetaken: 2011-12-02 09:51:29
+dateupload: 1322837489
+tags: canon studio flash 85mm 5d canon5d fullframe canoneos softbox strobe strobes canon85mmf18 canon50mm promaster canonef85mm canonef85mmf18 85mmf18 canoneos5d beautydish strobist canondlsr canoneos5dmarkii stripbox canon5dmkii 5dmarkii 5dmkii canoneos5dmkii canon5dmarkii lumahawk pleincapteur canonsld flashpromaster beautydishlumahawk lumahawkbeautydish
+license: 0
+latitude: 46.358213
+longitude: -72.568001
+accuracy: 16
+views: 82
+interestingness: 4 out of 24
+
+photo: 6438032459 fc6b402890 7171
+owner: 50812418@N06
+title: F?lix-Antoine (II)
+originalsecret: 8ffb95849f
+originalformat: jpg
+o_height: 1024
+o_width: 683
+datetaken: 2011-12-01 15:47:02
+dateupload: 1322772422
+tags: canon studio flash 85mm 5d canon5d fullframe canoneos softbox strobe strobes canon85mmf18 canon50mm promaster canonef85mm canonef85mmf18 85mmf18 canoneos5d beautydish strobist canondlsr canoneos5dmarkii stripbox canon5dmkii 5dmarkii 5dmkii canoneos5dmkii canon5dmarkii lumahawk ?flash pleincapteur canonsld flashpromaster beautydishlumahawk lumahawkbeautydish
+license: 0
+latitude: 46.35832
+longitude: -72.567991
+accuracy: 16
+views: 60
+interestingness: 5 out of 24
+
+photo: 6438032121 dbd718f49a 7010
+owner: 50812418@N06
+title: F?lix-Antoine (I)
+originalsecret: bddd2e5ca3
+originalformat: jpg
+o_height: 1024
+o_width: 683
+datetaken: 2011-12-01 15:46:58
+dateupload: 1322772418
+tags: beauty canon studio soft dish box flash 85mm strip 5d canon5d fullframe canoneos softbox strobe strobes canon85mmf18 canon50mm promaster canonef85mm canonef85mmf18 85mmf18 canoneos5d beautydish strobist canondlsr canoneos5dmarkii stripbox canon5dmkii 5dmarkii 5dmkii canoneos5dmkii canon5dmarkii lumahawk pleincapteur canonsld flashpromaster beautydishlumahawk lumahawkbeautydish
+license: 0
+latitude: 46.358339
+longitude: -72.567883
+accuracy: 16
+views: 57
+interestingness: 6 out of 24
+
+photo: 6454846711 f187d25c1e 7172
+owner: 99117185@N00
+title: Frederic Bazille - The Artist's Studio, Rue Visconti Paris, 1867 at the Virginia Museum of Fine Arts (VMFA) Richmond VA
+originalsecret: c4629149ce
+originalformat: jpg
+o_height: 4288
+o_width: 2848
+datetaken: 2011-11-24 11:57:59
+dateupload: 1323030388
+tags: paris art museum painting studio french virginia us gallery fine arts richmond va artists impressionism rue impression impressionist frederic the visconti 1867 vmfa bazille
+license: 0
+latitude: 37.555805
+longitude: -77.475028
+accuracy: 16
+views: 19
+interestingness: 7 out of 24
+
+photo: 6469562419 bbd208e913 7141
+owner: 15175220@N05
+title: Un noche me encontr? a Chopin...
+originalsecret: d90c2d945d
+originalformat: jpg
+o_height: 2640
+o_width: 1980
+datetaken: 2010-01-10 07:16:26
+dateupload: 1323228766
+tags: muro pared graffiti calle poland polska warsaw m?sica polonia sonido varsovia rayar fr?d?ricchopin caminarsola
+license: 4
+latitude: 52.235351
+longitude: 21.009389
+accuracy: 11
+views: 76
+interestingness: 8 out of 24
+
+photo: 6435997561 266a47e6b2 7164
+owner: 8026096@N04
+title: Salem Witch House
+originalsecret: 8887b7663c
+originalformat: jpg
+o_height: 499
+o_width: 810
+datetaken: 2011-12-01 07:30:18
+dateupload: 1322743542
+tags: house unitedstates witch massachusetts civilwar cdv cartedevisite salem apothecary coddington facesofwar fredericfogg
+license: 0
+latitude: 42.521822
+longitude: -70.896019
+accuracy: 14
+views: 72
+interestingness: 9 out of 24
+
+photo: 6468555629 13f15e715d 7157
+owner: 61765951@N03
+title: IMG_4910 Up And Away
+originalsecret: 779d4699ae
+originalformat: jpg
+o_height: 2368
+o_width: 4000
+datetaken: 2011-11-02 16:07:49
+dateupload: 1323213689
+tags: sky mountains oregon portland airplanes mthood pdx airports marinedrive northeastportland portlandinternationalairport canont2i terryfrederic
+license: 0
+latitude: 45.59357
+longitude: -122.585692
+accuracy: 13
+views: 14
+interestingness: 10 out of 24
+
+photo: 6474147533 9c34ef59d7 7170
+owner: 61765951@N03
+title: IMG_4715 Hawthorne Bridge Over The Willamette River
+originalsecret: 188578baf2
+originalformat: jpg
+o_height: 2569
+o_width: 4000
+datetaken: 2011-10-27 16:35:08
+dateupload: 1323301868
+tags: oregon portland bridges rivers hawthornebridge willametteriver canont2i terryfrederic
+license: 0
+latitude: 45.513692
+longitude: -122.673318
+accuracy: 15
+views: 8
+interestingness: 11 out of 24
+
+photo: 6434638331 c61730e9bf 7169
+owner: 61765951@N03
+title: IMG_5140 Curvaceous
+originalsecret: 20d2ce003e
+originalformat: jpg
+o_height: 4000
+o_width: 2667
+datetaken: 2011-11-25 16:41:59
+dateupload: 1322714413
+tags: new architecture oregon buildings portland westbank johnslanding southwaterfront canont2i terryfrederic
+license: 0
+latitude: 45.49802
+longitude: -122.669017
+accuracy: 15
+views: 16
+interestingness: 12 out of 24
+
+photo: 6468553663 a1e8743543 7164
+owner: 61765951@N03
+title: IMG_4912 Columbia Night Clouds
+originalsecret: c2e46d0c9b
+originalformat: jpg
+o_height: 2389
+o_width: 4000
+datetaken: 2011-11-02 16:10:34
+dateupload: 1323213662
+tags: sky clouds oregon portland columbiariver rivers northeast canont2i terryfrederic
+license: 0
+latitude: 45.594201
+longitude: -122.586722
+accuracy: 13
+views: 7
+interestingness: 13 out of 24
+
+photo: 6438287021 40c5e65b23 7146
+owner: 61765951@N03
+title: IMG_4777 Yellow Sky Over The Encore
+originalsecret: a759e68d22
+originalformat: jpg
+o_height: 2100
+o_width: 4000
+datetaken: 2011-10-29 15:06:27
+dateupload: 1322775600
+tags: architecture oregon buildings portland pearldistrict encore northwestportland canont2i terryfrederic
+license: 0
+latitude: 45.532514
+longitude: -122.680803
+accuracy: 15
+views: 16
+interestingness: 14 out of 24
+
+photo: 6443843025 ac88f46123 7167
+owner: 61765951@N03
+title: IMG_4738 The Almost Invisible Door
+originalsecret: b7c94ebef3
+originalformat: jpg
+o_height: 3320
+o_width: 5169
+datetaken: 2011-10-27 16:51:35
+dateupload: 1322867028
+tags: oregon portland westbank riverplace westbankesplanade canont2i terryfrederic
+license: 0
+latitude: 45.50791
+longitude: -122.671909
+accuracy: 14
+views: 7
+interestingness: 15 out of 24
+
+photo: 6450985151 dd6f30b104 7028
+owner: 61765951@N03
+title: IMG_4900 Private Commuter Jet
+originalsecret: 4b661f5aeb
+originalformat: jpg
+o_height: 2049
+o_width: 4000
+datetaken: 2011-11-02 15:59:47
+dateupload: 1322979564
+tags: oregon portland airplanes pdx airports marinedrive northeastportland portlandinternationalairport canont2i terryfrederic
+license: 0
+latitude: 45.600861
+longitude: -122.617517
+accuracy: 16
+views: 12
+interestingness: 16 out of 24
+
+photo: 6450982029 c6f7845fd5 7143
+owner: 61765951@N03
+title: IMG_4906 Clouding The Columbia
+originalsecret: 8a71975d77
+originalformat: jpg
+o_height: 2421
+o_width: 4000
+datetaken: 2011-11-02 16:03:41
+dateupload: 1322979509
+tags: clouds oregon portland columbiariver rivers marinedrive northeastportland canont2i terryfrederic
+license: 0
+latitude: 45.600242
+longitude: -122.613387
+accuracy: 14
+views: 10
+interestingness: 17 out of 24
+
+photo: 6443843403 07522c1449 7166
+owner: 61765951@N03
+title: IMG_4737 Lloyd Center Afar
+originalsecret: 62b3491e52
+originalformat: jpg
+o_height: 2543
+o_width: 4000
+datetaken: 2011-10-27 16:51:12
+dateupload: 1322867035
+tags: oregon portland westbank riverplace westbankesplanade canont2i terryfrederic
+license: 0
+latitude: 45.50784
+longitude: -122.671909
+accuracy: 14
+views: 13
+interestingness: 18 out of 24
+
+photo: 6462892163 f7f3f31dfa 7032
+owner: 61765951@N03
+title: IMG_4251 River Place Marina North End
+originalsecret: bdff06583b
+originalformat: jpg
+o_height: 2530
+o_width: 4000
+datetaken: 2011-09-04 22:05:01
+dateupload: 1323130945
+tags: night oregon marina portland boats bridges rivers willametteriver marquambridge riverplacemarina canont2i terryfrederic
+license: 0
+latitude: 45.511429
+longitude: -122.67349
+accuracy: 15
+views: 12
+interestingness: 19 out of 24
+
+photo: 6468548471 f0042522c9 7163
+owner: 61765951@N03
+title: IMG_4914 Darken Breaker
+originalsecret: e8bf7d61ca
+originalformat: jpg
+o_height: 2440
+o_width: 4000
+datetaken: 2011-11-02 16:12:47
+dateupload: 1323213597
+tags: oregon portland columbiariver rivers northeastportland canont2i terryfrederic
+license: 0
+latitude: 45.595492
+longitude: -122.590141
+accuracy: 13
+views: 5
+interestingness: 20 out of 24
+
+photo: 6474148391 e44a6af067 7166
+owner: 61765951@N03
+title: IMG_4712 Riverplace Garden
+originalsecret: 8e3d642b51
+originalformat: jpg
+o_height: 2569
+o_width: 4000
+datetaken: 2011-10-27 16:33:27
+dateupload: 1323301882
+tags: oregon portland riverplace eastbankesplanade eastbank canont2i terryfrederic
+license: 0
+latitude: 45.513549
+longitude: -122.674133
+accuracy: 15
+views: 7
+interestingness: 21 out of 24
+
+photo: 6452154627 3dd5390270 7033
+owner: 7260939@N04
+title: IMG_9763.jpg
+originalsecret: f3637e1023
+originalformat: jpg
+o_height: 3456
+o_width: 5184
+datetaken: 2011-11-27 15:19:09
+dateupload: 1323000854
+tags: gris novembre clio vert renault rallye 131 f212 2011 fenouill?des 29e c?driclantermino fr?d?ricalazabert
+license: 0
+latitude: 42.728699
+longitude: 2.581014
+accuracy: 13
+views: 9
+interestingness: 22 out of 24
+
+photo: 6434635845 ba70bdb7ab 7163
+owner: 61765951@N03
+title: IMG_5134 John's Landing Condos
+originalsecret: 3d91fa0256
+originalformat: jpg
+o_height: 2667
+o_width: 4000
+datetaken: 2011-11-25 16:38:26
+dateupload: 1322714374
+tags: new architecture oregon buildings portland westbank johnslanding canont2i terryfrederic
+license: 0
+latitude: 45.498102
+longitude: -122.670733
+accuracy: 15
+views: 9
+interestingness: 23 out of 24
+
+photo: 6479237709 f9c9fff7ff 7152
+owner: 61765951@N03
+title: IMG_4708 Goose Goose-Goose Duck Duck
+originalsecret: 1557ca5daf
+originalformat: jpg
+o_height: 2274
+o_width: 4000
+datetaken: 2011-10-27 16:31:12
+dateupload: 1323387738
+tags: oregon portland geese waterfoul westbank rivers willametteriver westbankesplanade canont2i terryfrederic
+license: 0
+latitude: 45.512504
+longitude: -122.673768
+accuracy: 15
+views: 4
+interestingness: 24 out of 24
+
+photo: 6479236889 7bed3c7a62 7159
+owner: 61765951@N03
+title: IMG_4710 PECI Building
+originalsecret: cd36f484a1
+originalformat: jpg
+o_height: 2536
+o_width: 4000
+datetaken: 2011-10-27 16:32:14
+dateupload: 1323387724
+tags: new architecture oregon buildings portland westbank tommccallwaterfrontpark westbankesplanade canont2i terryfrederic
+license: 0
+latitude: 45.513339
+longitude: -122.67512
+accuracy: 15
+views: 3
+interestingness: 25 out of 24
+
+photo: 6474145629 a788b2f2fb 7162
+owner: 61765951@N03
+title: IMG_4707 Three Degrees
+originalsecret: 1f486754d5
+originalformat: jpg
+o_height: 2549
+o_width: 4000
+datetaken: 2011-10-27 16:30:23
+dateupload: 1323301832
+tags: oregon portland westbank riverplace tommccallwaterfrontpark threedegrees westbankesplanade canont2i terryfrederic
+license: 0
+latitude: 45.511925
+longitude: -122.674198
+accuracy: 15
+views: 3
+interestingness: 26 out of 24
+
+photo: 6468544685 f64cd5b12d 7147
+owner: 61765951@N03
+title: IMG_4911 Lewis & Clark Discovery Greenway
+originalsecret: 9567a146ec
+originalformat: jpg
+o_height: 2667
+o_width: 4000
+datetaken: 2011-11-02 16:08:58
+dateupload: 1323213548
+tags: oregon portland columbiariver rivers greenway marinedrive lewisclark northeastportland canont2i terryfrederic
+license: 0
+latitude: 45.599606
+longitude: -122.613573
+accuracy: 13
+views: 6
+interestingness: 27 out of 24
+
+photo: 6452148433 5e96e3dac4 7023
+owner: 7260939@N04
+title: IMG_9762.jpg
+originalsecret: f3a7ca680a
+originalformat: jpg
+o_height: 3456
+o_width: 5184
+datetaken: 2011-11-27 15:19:08
+dateupload: 1323000764
+tags: gris novembre clio vert renault rallye 131 f212 2011 fenouill?des 29e c?driclantermino fr?d?ricalazabert
+license: 0
+latitude: 42.728699
+longitude: 2.581014
+accuracy: 13
+views: 8
+interestingness: 28 out of 24
+
+photo: 6438285429 7121944098 7161
+owner: 61765951@N03
+title: IMG_4867 Boxcar Graffiti And Fog
+originalsecret: a760b3b2e0
+originalformat: jpg
+o_height: 2548
+o_width: 4000
+datetaken: 2011-10-29 16:36:51
+dateupload: 1322775580
+tags: oregon portland graffiti trains railroads northwestportland canont2i terryfrederic
+license: 0
+latitude: 45.55124
+longitude: -122.713766
+accuracy: 15
+views: 9
+interestingness: 29 out of 24
+
+photo: 6434636505 a74bc68262 7147
+owner: 61765951@N03
+title: IMG_5136 Reflecting Pond At Condo
+originalsecret: 9b77d8c6d2
+originalformat: jpg
+o_height: 2578
+o_width: 4000
+datetaken: 2011-11-25 16:40:13
+dateupload: 1322714384
+tags: new architecture oregon buildings portland westbank johnslanding southwaterfront canont2i terryfrederic
+license: 0
+latitude: 45.496879
+longitude: -122.670571
+accuracy: 15
+views: 5
+interestingness: 30 out of 24
+
+photo: 6438286195 c2dd896818 7013
+owner: 61765951@N03
+title: IMG_4869 Miki Miki
+originalsecret: 9383c95d49
+originalformat: jpg
+o_height: 2548
+o_width: 4000
+datetaken: 2011-10-29 16:43:14
+dateupload: 1322775590
+tags: oregon river portland boats willametteriver northwestportland mikimiki canont2i terryfrederic
+license: 0
+latitude: 45.549116
+longitude: -122.705622
+accuracy: 15
+views: 8
+interestingness: 31 out of 24
+
+photo: 6479236321 3d9593d696 7031
+owner: 61765951@N03
+title: IMG_4729 Newport Seafood Grill
+originalsecret: 23f2c1190b
+originalformat: jpg
+o_height: 2413
+o_width: 4000
+datetaken: 2011-10-27 16:44:37
+dateupload: 1323387714
+tags: oregon marina portland boats westbank rivers willametteriver newportseafoodgrill riverplacemarina westbankesplanade canont2i terryfrederic
+license: 0
+latitude: 45.509271
+longitude: -122.672567
+accuracy: 15
+views: 0
+interestingness: 32 out of 24
+
+photo: 6462999979 b6ba3166d7 7162
+owner: 50812418@N06
+title: "Nou, les ?crivins" : Yannick
+originalsecret: 6da28bbf0f
+originalformat: jpg
+o_height: 1024
+o_width: 683
+datetaken: 2011-12-05 19:45:59
+dateupload: 1323132359
+tags: film histoire livre documentaire analphab?te analphab?tisme ill?trisme noules?crivins simontr?panier abrahamlifshitz analphab?tisation ill?tr?
+license: 0
+latitude: 45.550519
+longitude: -73.542394
+accuracy: 15
+views: 5
+interestingness: 33 out of 24
+
+photo: 6462999815 275fb5d69d 7161
+owner: 50812418@N06
+title: "Nou, les ?crivins" : R?jean
+originalsecret: f5cde61847
+originalformat: jpg
+o_height: 1024
+o_width: 683
+datetaken: 2011-12-05 19:45:57
+dateupload: 1323132357
+tags: film histoire livre documentaire analphab?te analphab?tisme ill?trisme noules?crivins simontr?panier abrahamlifshitz analphab?tisation ill?tr?
+license: 0
+latitude: 45.550519
+longitude: -73.542394
+accuracy: 15
+views: 6
+interestingness: 34 out of 24
+
+photo: 6462999723 ddc830ebb7 7008
+owner: 50812418@N06
+title: "Nou, les ?crivins" : Domingos
+originalsecret: 0320743ca5
+originalformat: jpg
+o_height: 1024
+o_width: 683
+datetaken: 2011-12-05 19:45:56
+dateupload: 1323132356
+tags: film histoire livre documentaire analphab?te analphab?tisme ill?trisme noules?crivins simontr?panier abrahamlifshitz analphab?tisation ill?tr?
+license: 0
+latitude: 45.550519
+longitude: -73.542394
+accuracy: 15
+views: 6
+interestingness: 35 out of 24
+
+photo: 6462999551 9a55921392 7021
+owner: 50812418@N06
+title: "Nou, les ?crivins" : Jacques
+originalsecret: 353fe85926
+originalformat: jpg
+o_height: 1024
+o_width: 683
+datetaken: 2011-12-05 19:45:54
+dateupload: 1323132354
+tags: film histoire livre documentaire analphab?te analphab?tisme ill?trisme noules?crivins simontr?panier abrahamlifshitz analphab?tisation ill?tr?
+license: 0
+latitude: 45.550519
+longitude: -73.542394
+accuracy: 15
+views: 5
+interestingness: 36 out of 24
+
+photo: 6462999391 6c26caac0c 7160
+owner: 50812418@N06
+title: "Nou, les ?crivins" : Michel
+originalsecret: 226b1b1427
+originalformat: jpg
+o_height: 1024
+o_width: 683
+datetaken: 2011-12-05 19:45:52
+dateupload: 1323132352
+tags: film histoire livre documentaire analphab?te analphab?tisme ill?trisme noules?crivins simontr?panier abrahamlifshitz analphab?tisation ill?tr?
+license: 0
+latitude: 45.550519
+longitude: -73.542394
+accuracy: 15
+views: 6
+interestingness: 37 out of 24
+
+photo: 6462999073 19c102fd76 7143
+owner: 50812418@N06
+title: "Nou, les ?crivins" : Guido
+originalsecret: 83f64e77da
+originalformat: jpg
+o_height: 1024
+o_width: 683
+datetaken: 2011-12-05 19:45:48
+dateupload: 1323132348
+tags: film histoire livre documentaire analphab?te analphab?tisme ill?trisme noules?crivins simontr?panier abrahamlifshitz analphab?tisation ill?tr?
+license: 0
+latitude: 45.550519
+longitude: -73.542394
+accuracy: 15
+views: 2
+interestingness: 38 out of 24
+
+photo: 6462998943 9462ffe4e3 7007
+owner: 50812418@N06
+title: "Nou, les ?crivins" : Clodie
+originalsecret: af4d4d3554
+originalformat: jpg
+o_height: 1024
+o_width: 683
+datetaken: 2011-12-05 19:45:47
+dateupload: 1323132347
+tags: film histoire livre documentaire analphab?te analphab?tisme ill?trisme noules?crivins simontr?panier abrahamlifshitz analphab?tisation ill?tr?
+license: 0
+latitude: 45.550519
+longitude: -73.542394
+accuracy: 15
+views: 5
+interestingness: 39 out of 24
+
+photo: 6462998819 77e17b8ba4 7016
+owner: 50812418@N06
+title: "Nou, les ?crivins" : Patrick
+originalsecret: d03ddc0ce8
+originalformat: jpg
+o_height: 1024
+o_width: 683
+datetaken: 2011-12-05 19:45:45
+dateupload: 1323132345
+tags: film histoire livre documentaire analphab?te analphab?tisme ill?trisme noules?crivins simontr?panier abrahamlifshitz analphab?tisation ill?tr?
+license: 0
+latitude: 45.550519
+longitude: -73.542394
+accuracy: 15
+views: 4
+interestingness: 40 out of 24
+
+photo: 6462981467 972ac68722 7018
+owner: 50812418@N06
+title: "Nou, les ?crivins" : Francine
+originalsecret: af6b7e4602
+originalformat: jpg
+o_height: 1024
+o_width: 683
+datetaken: 2011-12-05 19:42:20
+dateupload: 1323132140
+tags: film histoire livre documentaire analphab?te analphab?tisme ill?trisme noules?crivins simontr?panier abrahamlifshitz analphab?tisation ill?tr?
+license: 0
+latitude: 45.550519
+longitude: -73.542394
+accuracy: 15
+views: 7
+interestingness: 41 out of 24
+
+photo: 6462981293 f95b608605 7144
+owner: 50812418@N06
+title: "Nou, les ?crivins" : Jisl?ne
+originalsecret: 00a9ed2ca9
+originalformat: jpg
+o_height: 1024
+o_width: 683
+datetaken: 2011-12-05 19:42:18
+dateupload: 1323132138
+tags: film histoire livre documentaire analphab?te analphab?tisme ill?trisme noules?crivins simontr?panier abrahamlifshitz analphab?tisation ill?tr?
+license: 0
+latitude: 45.550519
+longitude: -73.542394
+accuracy: 15
+views: 4
+interestingness: 42 out of 24
+
+photo: 6462981041 1a58cf592b 7141
+owner: 50812418@N06
+title: "Nou, les ?crivins" : St?phane
+originalsecret: cae0922c0c
+originalformat: jpg
+o_height: 1024
+o_width: 683
+datetaken: 2011-12-05 19:42:15
+dateupload: 1323132135
+tags: film histoire livre documentaire analphab?te analphab?tisme ill?trisme noules?crivins simontr?panier abrahamlifshitz analphab?tisation ill?tr?
+license: 0
+latitude: 45.550519
+longitude: -73.542394
+accuracy: 15
+views: 5
+interestingness: 43 out of 24
+
+photo: 6462980919 bc1b61a464 7010
+owner: 50812418@N06
+title: "Nou, les ?crivins" : Diane
+originalsecret: 9ffe86c01c
+originalformat: jpg
+o_height: 1024
+o_width: 683
+datetaken: 2011-12-05 19:42:13
+dateupload: 1323132133
+tags: film histoire livre documentaire analphab?te analphab?tisme ill?trisme noules?crivins simontr?panier abrahamlifshitz analphab?tisation ill?tr?
+license: 0
+latitude: 45.550519
+longitude: -73.542394
+accuracy: 15
+views: 4
+interestingness: 44 out of 24
+
+photo: 6462974277 8511f0eb6c 7142
+owner: 50812418@N06
+title: "Nou, les ?crivains" : Abraham Lifshitz, r?alisateur
+originalsecret: 3773b682f2
+originalformat: jpg
+o_height: 1024
+o_width: 683
+datetaken: 2011-12-05 19:40:50
+dateupload: 1323132050
+tags: film histoire livre documentaire analphab?te analphab?tisme ill?trisme noules?crivins simontr?panier abrahamlifshitz analphab?tisation ill?tr?
+license: 0
+latitude: 45.550519
+longitude: -73.542394
+accuracy: 15
+views: 8
+interestingness: 45 out of 24
+
+photo: 6462974149 20c6c7a1ea 7023
+owner: 50812418@N06
+title: "Nou, les ?crivins" : Simon Tr?panier, r?alisateur
+originalsecret: c05fde0bcd
+originalformat: jpg
+o_height: 1024
+o_width: 683
+datetaken: 2011-12-05 19:40:48
+dateupload: 1323132048
+tags: film histoire livre documentaire analphab?te analphab?tisme ill?trisme noules?crivins simontr?panier abrahamlifshitz analphab?tisation ill?tr?
+license: 0
+latitude: 45.550519
+longitude: -73.542394
+accuracy: 15
+views: 6
+interestingness: 46 out of 24
+
+photo: 6462963935 741537fff2 7018
+owner: 50812418@N06
+title: "Nou, les ?crivins" : Martine Fillion, responsable p?dagogique ? l'Atelier des lettres,
+originalsecret: 8622198238
+originalformat: jpg
+o_height: 1024
+o_width: 683
+datetaken: 2011-12-05 19:38:35
+dateupload: 1323131915
+tags: film histoire livre documentaire analphab?te analphab?tisme ill?trisme noules?crivins simontr?panier abrahamlifshitz analphab?tisation ill?tr?
+license: 0
+latitude: 45.550519
+longitude: -73.542394
+accuracy: 15
+views: 7
+interestingness: 47 out of 24
+
+photo: 6462963781 1f39078f44 7016
+owner: 50812418@N06
+title: "Nou, les ?crivins" : Francine Lefebvre, coordonnatrice ? l'Atelier des lettres
+originalsecret: 9ef9ee963b
+originalformat: jpg
+o_height: 1024
+o_width: 683
+datetaken: 2011-12-05 19:38:33
+dateupload: 1323131913
+tags: film histoire livre documentaire analphab?te analphab?tisme ill?trisme noules?crivins simontr?panier abrahamlifshitz analphab?tisation ill?tr?
+license: 0
+latitude: 45.550519
+longitude: -73.542394
+accuracy: 15
+views: 5
+interestingness: 48 out of 24
+
+photo: 6462963603 93cf23f75b 7022
+owner: 50812418@N06
+title: "Nou, les ?crivins" : Henriette Thiaw, stagiaire du S?n?gal
+originalsecret: 2cfbf207e0
+originalformat: jpg
+o_height: 1024
+o_width: 683
+datetaken: 2011-12-05 19:38:31
+dateupload: 1323131911
+tags: film histoire livre documentaire analphab?te analphab?tisme ill?trisme noules?crivins simontr?panier abrahamlifshitz analphab?tisation ill?tr?
+license: 0
+latitude: 45.550519
+longitude: -73.542394
+accuracy: 15
+views: 4
+interestingness: 49 out of 24
+
+photo: 6452134543 b635dbe1c0 7172
+owner: 7260939@N04
+title: IMG_9356.jpg
+originalsecret: aa513c0176
+originalformat: jpg
+o_height: 3456
+o_width: 5184
+datetaken: 2011-11-27 12:36:07
+dateupload: 1323000555
+tags: gris novembre clio vert renault rallye 131 f212 2011 fenouill?des 29e c?driclantermino fr?d?ricalazabert
+license: 0
+latitude: 42.728699
+longitude: 2.581014
+accuracy: 13
+views: 4
+interestingness: 50 out of 24
+
+photo: 6452128513 463b8a024c 7150
+owner: 7260939@N04
+title: IMG_9355.jpg
+originalsecret: d9aa3fb6e7
+originalformat: jpg
+o_height: 3456
+o_width: 5184
+datetaken: 2011-11-27 12:36:07
+dateupload: 1323000468
+tags: gris novembre clio vert renault rallye 131 f212 2011 fenouill?des 29e c?driclantermino fr?d?ricalazabert
+license: 0
+latitude: 42.728699
+longitude: 2.581014
+accuracy: 13
+views: 6
+interestingness: 51 out of 24
+
+photo: 6452108405 7741f05cc8 7161
+owner: 7260939@N04
+title: IMG_8535.jpg
+originalsecret: 11e9a336fb
+originalformat: jpg
+o_height: 3456
+o_width: 5184
+datetaken: 2011-11-26 15:25:49
+dateupload: 1323000161
+tags: gris novembre clio vert renault rallye 131 f212 2011 fenouill?des 29e c?driclantermino fr?d?ricalazabert
+license: 0
+latitude: 42.720281
+longitude: 2.597923
+accuracy: 12
+views: 2
+interestingness: 52 out of 24
+
+photo: 6452102919 6bdbc5f46a 7144
+owner: 7260939@N04
+title: IMG_8534.jpg
+originalsecret: ec89a478f7
+originalformat: jpg
+o_height: 3456
+o_width: 5184
+datetaken: 2011-11-26 15:25:49
+dateupload: 1323000074
+tags: gris novembre clio vert renault rallye 131 f212 2011 fenouill?des 29e c?driclantermino fr?d?ricalazabert
+license: 0
+latitude: 42.720281
+longitude: 2.597923
+accuracy: 12
+views: 3
+interestingness: 53 out of 24
+
+photo: 6452097013 7ac3db9de8 7012
+owner: 7260939@N04
+title: IMG_8533.jpg
+originalsecret: 63ec7f6773
+originalformat: jpg
+o_height: 2589
+o_width: 3604
+datetaken: 2011-11-26 15:25:49
+dateupload: 1322999985
+tags: gris novembre clio vert renault rallye 131 f212 2011 fenouill?des 29e c?driclantermino fr?d?ricalazabert
+license: 0
+latitude: 42.720281
+longitude: 2.597923
+accuracy: 12
+views: 5
+interestingness: 54 out of 24
+
+photo: 6448681505 8a968c0280 7174
+owner: 61765951@N03
+title: IMG_4747 Big Foot
+originalsecret: eb8b6dd647
+originalformat: jpg
+o_height: 2499
+o_width: 4000
+datetaken: 2011-10-27 16:56:24
+dateupload: 1322946887
+tags: oregon portland rivers willametteriver canont2i terryfrederic
+license: 0
+latitude: 45.506577
+longitude: -122.670965
+accuracy: 14
+views: 3
+interestingness: 55 out of 24
+
+photo: 6448680601 a44b9041ef 7015
+owner: 61765951@N03
+title: IMG_4677 Floating Pier
+originalsecret: 7c7ffab710
+originalformat: jpg
+o_height: 2414
+o_width: 4000
+datetaken: 2011-10-27 16:09:58
+dateupload: 1322946874
+tags: oregon marina river portland westbank bridges willametteriver marquambridge riverplacemarina westbankesplanade canont2i terryfrederic
+license: 0
+latitude: 45.510006
+longitude: -122.671644
+accuracy: 14
+views: 3
+interestingness: 56 out of 24
+
+photo: 6441723905 e66ccfbf58 7003
+owner: 50812418@N06
+title: ?mile (I)
+originalsecret: 82df5ccab8
+originalformat: jpg
+o_height: 1024
+o_width: 683
+datetaken: 2011-12-02 09:51:31
+dateupload: 1322837491
+tags: canon studio 85mm 5d canon5d fullframe canoneos softbox strobe strobes canon85mmf18 canon50mm promaster canonef85mm canonef85mmf18 85mmf18 canoneos5d beautydish strobist canondlsr canoneos5dmarkii stripbox canon5dmkii 5dmarkii 5dmkii canoneos5dmkii canon5dmarkii lumahawk pleincapteur canonsld flashpromaster beautydishlumahawk lumahawkbeautydish
+license: 0
+latitude: 46.358213
+longitude: -72.568001
+accuracy: 16
+views: 54
+interestingness: 57 out of 24
+
+photo: 6438283645 bac87b0a1a 7169
+owner: 61765951@N03
+title: IMG_4862_Boxcarffiti
+originalsecret: d08d3cf178
+originalformat: jpg
+o_height: 2498
+o_width: 4000
+datetaken: 2011-10-29 16:27:47
+dateupload: 1322775557
+tags: oregon portland graffiti trains hdr railroads northwestportland photomatixpro canont2i terryfrederic
+license: 0
+latitude: 45.550774
+longitude: -122.713701
+accuracy: 15
+views: 8
+interestingness: 58 out of 24
+
+photo: 6434637779 42f33f09b0 7146
+owner: 61765951@N03
+title: IMG_5138 The Sky Is The Limit
+originalsecret: 513cc23f9c
+originalformat: jpg
+o_height: 2592
+o_width: 4000
+datetaken: 2011-11-25 16:41:14
+dateupload: 1322714403
+tags: new architecture oregon buildings portland westbank johnslanding southwaterfront canont2i terryfrederic
+license: 0
+latitude: 45.497411
+longitude: -122.669167
+accuracy: 15
+views: 11
+interestingness: 59 out of 24
+
+photo: 6434637063 91afe38033 7006
+owner: 61765951@N03
+title: IMG_5139 Condo At John's Landing
+originalsecret: 413c074cd7
+originalformat: jpg
+o_height: 2667
+o_width: 4000
+datetaken: 2011-11-25 16:41:45
+dateupload: 1322714393
+tags: new architecture oregon buildings portland westbank johnslanding southwaterfront canont2i terryfrederic
+license: 0
+latitude: 45.49826
+longitude: -122.669553
+accuracy: 15
+views: 9
+interestingness: 60 out of 24
+
+photo: 6474146921 1f558439fb 7022
+owner: 61765951@N03
+title: IMG_4717 Oak And Hawthorne
+originalsecret: ebfa24459e
+originalformat: jpg
+o_height: 2667
+o_width: 4000
+datetaken: 2011-10-27 16:35:37
+dateupload: 1323301856
+tags: oregon portland westbank bridges hawthornebridge tommccallwaterfrontpark westbankesplanade canont2i terryfrederic
+license: 0
+latitude: 45.513745
+longitude: -122.673296
+accuracy: 15
+views: 4
+interestingness: 61 out of 24
+
+photo: 6468554919 362b28c016 7008
+owner: 61765951@N03
+title: IMG_4907 Mixed Clouds Over Columbia
+originalsecret: f07395e4b1
+originalformat: jpg
+o_height: 2390
+o_width: 4000
+datetaken: 2011-11-02 16:03:57
+dateupload: 1323213679
+tags: sky clouds oregon portland columbiariver rivers northeastportland canont2i terryfrederic
+license: 0
+latitude: 45.595012
+longitude: -122.588968
+accuracy: 13
+views: 3
+interestingness: 62 out of 24
+
+photo: 6468546719 fc1537bd21 7006
+owner: 61765951@N03
+title: IMG_4915 Columbia Boathouses
+originalsecret: ac6f0459f7
+originalformat: jpg
+o_height: 2584
+o_width: 4000
+datetaken: 2011-11-02 16:12:58
+dateupload: 1323213574
+tags: oregon portland columbiariver rivers marinas marinedrive northeastportland canont2i terryfrederic
+license: 0
+latitude: 45.595482
+longitude: -122.589926
+accuracy: 13
+views: 3
+interestingness: 63 out of 24
+
+photo: 6443841265 58956c8945 7003
+owner: 61765951@N03
+title: IMG_4748 Under Belly Of Marquam B&W
+originalsecret: d7458f29a0
+originalformat: jpg
+o_height: 2564
+o_width: 4000
+datetaken: 2011-10-27 16:56:46
+dateupload: 1322867000
+tags: bw oregon portland westbank bridges marquambridge westbankesplanade canont2i terryfrederic
+license: 0
+latitude: 45.506437
+longitude: -122.671501
+accuracy: 14
+views: 9
+interestingness: 64 out of 24
+
+photo: 6443840825 4fce9f8f14 7032
+owner: 61765951@N03
+title: IMG_4749 Marquam Bridge
+originalsecret: 5aea8823b4
+originalformat: jpg
+o_height: 2490
+o_width: 4000
+datetaken: 2011-10-27 16:57:16
+dateupload: 1322866993
+tags: bridge oregon river portland westbank willametteriver marquambridge canont2i terryfrederic
+license: 0
+latitude: 45.506798
+longitude: -122.671129
+accuracy: 14
+views: 7
+interestingness: 65 out of 24
+
+photo: 6441775373 7b9910f3d4 7006
+owner: 69705439@N02
+title: Literatura itinerant. Una ruta pel centre hist?ric d?Andorra la Vella. 26-11-2011
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-26 13:56:26
+dateupload: 1322838215
+tags: ruta biblioteca nacional andorra activitats liter?ria difusi?
+license: 2
+latitude: 42.506804
+longitude: 1.520082
+accuracy: 16
+views: 10
+interestingness: 66 out of 24
+
+photo: 6438284915 0507d65ed5 7154
+owner: 61765951@N03
+title: IMG_4866 Rail Graffiti
+originalsecret: 164ccbb5d0
+originalformat: jpg
+o_height: 2548
+o_width: 4000
+datetaken: 2011-10-29 16:36:21
+dateupload: 1322775573
+tags: oregon portland graffiti trains railroads northwestportland canont2i terryfrederic
+license: 0
+latitude: 45.551984
+longitude: -122.716101
+accuracy: 15
+views: 6
+interestingness: 67 out of 24
+
+photo: 6438279617 bc07a693b2 7026
+owner: 61765951@N03
+title: IMG_4860 Tankerffiti
+originalsecret: 2da7904cdc
+originalformat: jpg
+o_height: 2551
+o_width: 4000
+datetaken: 2011-10-29 16:25:53
+dateupload: 1322775506
+tags: oregon portland graffiti northwest trains railroads canont2i terryfrederic
+license: 0
+latitude: 45.550454
+longitude: -122.711799
+accuracy: 15
+views: 7
+interestingness: 68 out of 24
+
+photo: 6479234897 593002a08d 7009
+owner: 61765951@N03
+title: IMG_4733 Sushi & River
+originalsecret: 88235865fb
+originalformat: jpg
+o_height: 2565
+o_width: 4000
+datetaken: 2011-10-27 16:47:59
+dateupload: 1323387691
+tags: oregon portland westbank riverplace westbankesplanade canont2i terryfrederic
+license: 0
+latitude: 45.509083
+longitude: -122.673597
+accuracy: 16
+views: 0
+interestingness: 69 out of 24
+
+photo: 6441113909 1d237446d8 7158
+owner: 51586552@N05
+title: D?ner de gala Jean-Marie Baudic - J?r?me Faure
+originalsecret: 1bb5be458b
+originalformat: jpg
+o_height: 5616
+o_width: 3744
+datetaken: 2011-11-26 22:40:58
+dateupload: 1322826977
+tags: d?nerdegala jeanmariebaudic c?tesdarmortourisme youpalabistrot j?romefaure
+license: 0
+latitude: 48.512386
+longitude: -2.77639
+accuracy: 16
+views: 5
+interestingness: 70 out of 24
+
+photo: 6460420103 32cda96444 7035
+owner: 59439223@N00
+title: Tot venent n?meros
+originalsecret: 2ba13bc2a1
+originalformat: jpg
+o_height: 3000
+o_width: 4000
+datetaken: 2011-12-04 14:26:14
+dateupload: 1323102387
+tags: fira lallacuna santandreu matan?adelporc
+license: 1
+latitude: 41.472305
+longitude: 1.532548
+accuracy: 16
+views: 17
+interestingness: 71 out of 24
+
+photo: 6460409119 082f719e62 7142
+owner: 59439223@N00
+title: La Panera del Senyor Andreu
+originalsecret: ba252dff5b
+originalformat: jpg
+o_height: 3000
+o_width: 4000
+datetaken: 2011-12-04 10:31:32
+dateupload: 1323102270
+tags: fira lallacuna santandreu matan?adelporc
+license: 1
+latitude: 41.472305
+longitude: 1.532548
+accuracy: 16
+views: 16
+interestingness: 72 out of 24
+
+photo: 6440816595 257fa33eb2 7014
+owner: 51586552@N05
+title: Cours de cuisine avec Jean-Marie Baudic
+originalsecret: 26781896ca
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-26 11:37:33
+dateupload: 1322820450
+tags: c?tesdarmor concourscuisine jeanmariebaudic del?puisette?lassiette
+license: 0
+latitude: 48.510173
+longitude: -2.759489
+accuracy: 16
+views: 5
+interestingness: 73 out of 24
+
+photo: 6471540481 82da84ce52 7159
+owner: 87563933@N00
+title: Helene Frederic-Moreau - Omar des Frettes
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-06 14:21:09
+dateupload: 1323266367
+tags: dressage salonducheval masterschevalib?rique
+license: 0
+latitude: 48.972456
+longitude: 2.519645
+accuracy: 14
+views: 3
+interestingness: 74 out of 24
+
+photo: 6471539669 c73a0b460f 7147
+owner: 87563933@N00
+title: Helene Frederic-Moreau - Omar des Frettes
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-06 14:16:06
+dateupload: 1323266355
+tags: dressage salonducheval masterschevalib?rique
+license: 0
+latitude: 48.972456
+longitude: 2.519645
+accuracy: 14
+views: 0
+interestingness: 75 out of 24
+
+photo: 6446875369 db57b7d5f9 7014
+owner: 67219822@N07
+title: Anneaux Ile de Nantes
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2010-10-21 11:20:48
+dateupload: 1322924298
+tags: france fredericguerineau
+license: 0
+latitude: 47.201198
+longitude: -1.573458
+accuracy: 16
+views: 3
+interestingness: 76 out of 24
+
+photo: 6446924201 86342361b4 7146
+owner: 67219822@N07
+title: Grue
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2010-10-21 11:58:54
+dateupload: 1322924959
+tags: fredericguerineau
+license: 0
+latitude: 47.204759
+longitude: -1.569725
+accuracy: 16
+views: 3
+interestingness: 77 out of 24
+
+photo: 6446901769 0701a974e9 7004
+owner: 67219822@N07
+title: Les bl?s
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2010-06-15 13:32:08
+dateupload: 1322924658
+tags: fredericguerineau
+license: 0
+latitude: 47.301133
+longitude: -1.526885
+accuracy: 16
+views: 3
+interestingness: 78 out of 24
+
+photo: 6459124437 295a1f2785 7010
+owner: 55554715@N07
+title: Christ Church's first Principal
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-05 11:43:13
+dateupload: 1323085393
+tags: 
+license: 0
+latitude: 51.279125
+longitude: 1.089792
+accuracy: 13
+views: 3
+interestingness: 79 out of 24
+
+photo: 6459123563 288e16c5e7 7001
+owner: 55554715@N07
+title: Unveiling a plaque to mark the opening of Christ Church, 1964
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-05 11:42:55
+dateupload: 1323085375
+tags: 
+license: 0
+latitude: 51.279125
+longitude: 1.089792
+accuracy: 13
+views: 3
+interestingness: 80 out of 24
+
+photo: 6479791685 f15f597633 7003
+owner: 61765951@N03
+title: Broadway Bridge Opens
+originalsecret: 3889d1b95e
+originalformat: jpg
+o_height: 2572
+o_width: 4000
+datetaken: 2001-06-06 14:33:57
+dateupload: 1323397324
+tags: oregon portland ships bridges rivers fleet naval willametteriver portlandrosefestival broadwaybridge topazadjust terryfrederic
+license: 0
+latitude: 45.527185
+longitude: -122.669895
+accuracy: 16
+views: 7
+interestingness: 81 out of 24
+
+photo: 6450981545 3342edd19f 7168
+owner: 61765951@N03
+title: IMG_4904 Mt Hood
+originalsecret: 3b0c7fbff4
+originalformat: jpg
+o_height: 2286
+o_width: 4000
+datetaken: 2011-11-02 16:02:00
+dateupload: 1322979501
+tags: mountains oregon portland columbiariver mthood marinedrive northeastportland canont2i terryfrederic
+license: 0
+latitude: 45.600016
+longitude: -122.6127
+accuracy: 14
+views: 4
+interestingness: 82 out of 24
+
+photo: 6448682585 38d74fe30c 7011
+owner: 61765951@N03
+title: IMG_4742 West Bank
+originalsecret: bcbb9eba71
+originalformat: jpg
+o_height: 2465
+o_width: 4000
+datetaken: 2011-10-27 16:53:17
+dateupload: 1322946901
+tags: architecture oregon buildings portland westbank riverplace westbankesplanade canont2i terryfrederic
+license: 0
+latitude: 45.507444
+longitude: -122.672052
+accuracy: 14
+views: 5
+interestingness: 83 out of 24
+
+photo: 6462886665 91115b7b0e 7014
+owner: 61765951@N03
+title: IMG_4223 Placid Marina
+originalsecret: d1b16c9e4a
+originalformat: jpg
+o_height: 2469
+o_width: 4000
+datetaken: 2011-09-04 21:24:51
+dateupload: 1323130875
+tags: city night oregon marina portland westbank riverplace riverplacemarina westbankesplanade canont2i terryfrederic
+license: 0
+latitude: 45.509557
+longitude: -122.673189
+accuracy: 15
+views: 16
+interestingness: 84 out of 24
+
+photo: 6448684249 bb353c5cd6 7150
+owner: 61765951@N03
+title: IMG_4703 River Place Marina
+originalsecret: fb717326f6
+originalformat: jpg
+o_height: 2549
+o_width: 4000
+datetaken: 2011-10-27 16:28:57
+dateupload: 1322946922
+tags: oregon marina portland westbank bridges rivers willametteriver marquambridge riverplacemarina westbankesplanade canont2i terryfrederic
+license: 0
+latitude: 45.513158
+longitude: -122.673625
+accuracy: 14
+views: 6
+interestingness: 85 out of 24
+
+photo: 6450985051 23a681a055 7006
+owner: 61765951@N03
+title: IMG_4901 River Barrier
+originalsecret: 29dbdd3c26
+originalformat: jpg
+o_height: 2431
+o_width: 4000
+datetaken: 2011-11-02 16:00:18
+dateupload: 1322979562
+tags: oregon portland columbiariver rivers marinedrive northportland northeastportland canont2i terryfrederic
+license: 0
+latitude: 45.600887
+longitude: -122.618322
+accuracy: 14
+views: 5
+interestingness: 86 out of 24
+
+photo: 6462999233 a5948534c9 7172
+owner: 50812418@N06
+title: "Nou, les ?crivins" : St?phane
+originalsecret: 630d9dbec1
+originalformat: jpg
+o_height: 1024
+o_width: 683
+datetaken: 2011-12-05 19:45:50
+dateupload: 1323132350
+tags: film histoire livre documentaire analphab?te analphab?tisme ill?trisme noules?crivins simontr?panier abrahamlifshitz analphab?tisation ill?tr?
+license: 0
+latitude: 45.550519
+longitude: -73.542394
+accuracy: 15
+views: 4
+interestingness: 87 out of 24
+
+photo: 6462981177 66b18d109b 7002
+owner: 50812418@N06
+title: "Nou, les ?crivins" : Mario
+originalsecret: a13c56f243
+originalformat: jpg
+o_height: 1024
+o_width: 683
+datetaken: 2011-12-05 19:42:16
+dateupload: 1323132136
+tags: film histoire livre documentaire analphab?te analphab?tisme ill?trisme noules?crivins simontr?panier abrahamlifshitz analphab?tisation ill?tr?
+license: 0
+latitude: 45.550519
+longitude: -73.542394
+accuracy: 15
+views: 7
+interestingness: 88 out of 24
+
+photo: 6450237451 9e094f6ef6 7156
+owner: 71349167@N07
+title: Place Vend?me
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-06-26 17:05:45
+dateupload: 1322968084
+tags: urban music paris france building stone republic apartment culture sunny second chopin arrondisement
+license: 0
+latitude: 48.867841
+longitude: 2.329423
+accuracy: 16
+views: 0
+interestingness: 89 out of 24
+
+photo: 6468543891 042487ce4c 7015
+owner: 61765951@N03
+title: IMG_4909 Cloud Draw
+originalsecret: 73eabe2ffd
+originalformat: jpg
+o_height: 2421
+o_width: 4000
+datetaken: 2011-11-02 16:07:11
+dateupload: 1323213539
+tags: sky clouds oregon portland pdx marinedrive northeastportland canont2i terryfrederic
+license: 0
+latitude: 45.594341
+longitude: -122.587251
+accuracy: 13
+views: 4
+interestingness: 90 out of 24
+
+photo: 6448683161 f26ae5d919 7153
+owner: 61765951@N03
+title: IMG_4741 River Motor Home
+originalsecret: db4a71c233
+originalformat: jpg
+o_height: 2392
+o_width: 4000
+datetaken: 2011-10-27 16:52:39
+dateupload: 1322946908
+tags: oregon portland boats westbank rivers willametteriver westbankesplanade canont2i terryfrederic
+license: 0
+latitude: 45.508051
+longitude: -122.671909
+accuracy: 14
+views: 5
+interestingness: 91 out of 24
+
+photo: 6450981053 d98d29d451 7144
+owner: 61765951@N03
+title: IMG_4903 Breaker Birds
+originalsecret: 90d1b90c1d
+originalformat: jpg
+o_height: 2370
+o_width: 4000
+datetaken: 2011-11-02 16:01:34
+dateupload: 1322979492
+tags: oregon portland columbiariver rivers marinedrive northeastportland canont2i terryfrederic
+license: 0
+latitude: 45.600872
+longitude: -122.618279
+accuracy: 14
+views: 4
+interestingness: 92 out of 24
+
+photo: 6460414559 98b96183d9 7151
+owner: 59439223@N00
+title: El guanyador
+originalsecret: 5fbe30633c
+originalformat: jpg
+o_height: 3000
+o_width: 4000
+datetaken: 2011-12-04 14:37:33
+dateupload: 1323102327
+tags: fira lallacuna santandreu matan?adelporc
+license: 1
+latitude: 41.472305
+longitude: 1.532548
+accuracy: 16
+views: 19
+interestingness: 93 out of 24
+
+photo: 6458713241 d85b7325f8 7163
+owner: 16482030@N00
+title: California State Capitol
+originalsecret: 5a848dfa14
+originalformat: jpg
+o_height: 3483
+o_width: 2480
+datetaken: 2011-12-04 05:13:12
+dateupload: 1323077619
+tags: california capitol sacramento mfredericbutler
+license: 2
+latitude: 38.576117
+longitude: -121.493494
+accuracy: 15
+views: 4
+interestingness: 94 out of 24
+
+photo: 6446925929 5fc4ff8c6b 7035
+owner: 67219822@N07
+title: New york downtown
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2010-05-13 15:35:10
+dateupload: 1322924984
+tags: fredericguerineau
+license: 0
+latitude: 40.699771
+longitude: -74.027252
+accuracy: 13
+views: 5
+interestingness: 95 out of 24
+
+photo: 6451758119 6da9df5d23 7031
+owner: 14822775@N04
+title: Concert, Conservatoire Fr?d?ric Chopin, 15e, Paris
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-03 18:59:14
+dateupload: 1322994214
+tags: paris conservatoirefr?d?ricchopin
+license: 0
+latitude: 48.837913
+longitude: 2.308966
+accuracy: 16
+views: 10
+interestingness: 96 out of 24
+
+photo: 6446925655 38632a73ea 7001
+owner: 67219822@N07
+title: Miroir fluvial
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2010-09-26 08:40:04
+dateupload: 1322924980
+tags: fredericguerineau
+license: 0
+latitude: 47.303301
+longitude: -1.524524
+accuracy: 14
+views: 3
+interestingness: 97 out of 24
+
+photo: 6446930065 8b53250683 7173
+owner: 67219822@N07
+title: Rougeoyant
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2010-09-20 20:31:57
+dateupload: 1322925043
+tags: fredericguerineau
+license: 0
+latitude: 47.293275
+longitude: -2.546768
+accuracy: 14
+views: 3
+interestingness: 98 out of 24
+
+Total images queried: 24

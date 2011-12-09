@@ -1,0 +1,125 @@
+
+mintime: 1322697600 maxtime: 1324512427.5
+numimgs: 1
+total pages: 1
+visiting only 1 pages ( up to 250 images)
+photo: 6441166853 3715361045 7008
+owner: 64829840@N00
+title: "My school was so tough the school newspaper had an obituary section".Norm Crosby
+originalsecret: 32ab6139fe
+originalformat: jpg
+o_height: 1680
+o_width: 2399
+datetaken: 2011-11-15 23:01:52
+dateupload: 1322828097
+tags: school students kids digital photography support classroom candid teacher canonpowershot
+license: 3
+latitude: 45.502857
+longitude: 9.947433
+accuracy: 11
+views: 32
+interestingness: 1 out of 1
+
+photo: 6451029927 37d7ba9950 7154
+owner: 28277802@N00
+title: Julies Tri-Circle Restaurant
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-04 01:32:19
+dateupload: 1322980339
+tags: christmas xmas ny church syracuse happynewyear matchbook matchcover adventcalendar2011 juliestricirclerestaurant
+license: 0
+latitude: 43.090296
+longitude: -76.091952
+accuracy: 15
+views: 13
+interestingness: 2 out of 1
+
+photo: 6468982351 d10ef6b8cc 7014
+owner: 9167196@N07
+title: George William Pettit
+originalsecret: 62e03c9c75
+originalformat: jpg
+o_height: 3000
+o_width: 4000
+datetaken: 2011-12-06 14:07:29
+dateupload: 1323220035
+tags: tennessee union hobby obituary civilwarveteran tombstonephoto georgewilliampettit 2ndtennesseecavalrycsa
+license: 6
+latitude: 37.441524
+longitude: -95.687978
+accuracy: 15
+views: 37
+interestingness: 3 out of 1
+
+photo: 6468959825 7280d8fe8d 7174
+owner: 9167196@N07
+title: Church B. Rinard
+originalsecret: 3476f00a21
+originalformat: jpg
+o_height: 3000
+o_width: 4000
+datetaken: 2011-12-06 13:25:35
+dateupload: 1323219669
+tags: union iowa hobby obituary civilwarveteran tombstonephoto churchbrinard companyk4thiowacavalry
+license: 6
+latitude: 37.439258
+longitude: -95.68875
+accuracy: 15
+views: 20
+interestingness: 4 out of 1
+
+photo: 6468931871 a801237222 7013
+owner: 9167196@N07
+title: William Wesley Basore
+originalsecret: 22f063e565
+originalformat: jpg
+o_height: 3000
+o_width: 4000
+datetaken: 2011-12-06 13:18:27
+dateupload: 1323219255
+tags: union indiana hobby obituary civilwarveteran tombstonephoto williamwesleybasore companye138thindianainfantry
+license: 6
+latitude: 37.439258
+longitude: -95.68875
+accuracy: 15
+views: 15
+interestingness: 5 out of 1
+
+photo: 6468787235 967939f7bf 7158
+owner: 9167196@N07
+title: William J. Brittain
+originalsecret: 733b536509
+originalformat: jpg
+o_height: 3000
+o_width: 4000
+datetaken: 2011-12-06 15:50:19
+dateupload: 1323217084
+tags: union hobby missouri obituary civilwarveteran tombstonephoto williamjbrittain companya23rdmissouriinfantry
+license: 6
+latitude: 37.404596
+longitude: -95.706861
+accuracy: 15
+views: 13
+interestingness: 6 out of 1
+
+photo: 6471336431 7163888e60 7163
+owner: 9167196@N07
+title: James Madison Keck
+originalsecret: b5327f57ea
+originalformat: jpg
+o_height: 2597
+o_width: 1915
+datetaken: 2011-12-07 03:44:41
+dateupload: 1323263232
+tags: pennsylvania union photograph obituary civilwarveteran companya105thpennsylvaniainfantry jamesmadisonkeck
+license: 6
+latitude: 37.440621
+longitude: -95.687141
+accuracy: 15
+views: 16
+interestingness: 7 out of 1
+
+Total images queried: 1

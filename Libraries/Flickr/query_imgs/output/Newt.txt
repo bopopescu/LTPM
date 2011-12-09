@@ -1,0 +1,142 @@
+
+mintime: 1322697600 maxtime: 1324512427.5
+numimgs: 1
+total pages: 1
+visiting only 1 pages ( up to 250 images)
+photo: 6479943679 aedb11c889 7023
+owner: 29671464@N02
+title: Newt Gingrich
+originalsecret: e0cb632af3
+originalformat: jpg
+o_height: 1473
+o_width: 2200
+datetaken: 2011-09-06 07:38:29
+dateupload: 1323399933
+tags: california blackandwhite america politics rally iowa communism radical anarchy capitalism republican campaign primary radicals newt republicans teaparty socialism polls johnbolton conservatives newtgingrich communists indoctrination socialists conservatism gingrich presidentialcandidate radicalism speakerofthehouse attackonamerica republicanpolitics americansforprosperity allpoliticsislocal contractwithamerica washingtonweek marclangsam marclangsamphotography teapartyrally teapartymovement mlangsam photobymarclangsam photosbymarclangsam marclangsamphotosonflickr teapac mlangsam2004 photographyczar professionalphotographermarclangsam conservativephotographer clowardandpiven
+license: 0
+latitude: 34.144238
+longitude: -118.081741
+accuracy: 13
+views: 34
+interestingness: 1 out of 1
+
+photo: 6449871805 ce643faf39 7165
+owner: 8324361@N07
+title: Red-spotted Newt
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-08-28 18:14:06
+dateupload: 1322962824
+tags: ontario canada 20d nature canon eos bokeh wildlife salamander newt lakesimcoe hollandlanding redspottednewt yorkregion dandemczuk
+license: 0
+latitude: 44.096685
+longitude: -79.40301
+accuracy: 15
+views: 19
+interestingness: 2 out of 1
+
+photo: 6467083467 9d097c677c 7171
+owner: 36655799@N06
+title: Calotriton asper
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-04 14:44:05
+dateupload: 1323195624
+tags: mountain fauna newt pirinees pirineus pirineo trit?n anfibios amphibia triturus trit? calotritonasper euproctusasper
+license: 1
+latitude: 42.220636
+longitude: 2.156753
+accuracy: 10
+views: 11
+interestingness: 3 out of 1
+
+photo: 6442871695 6e03a4816a 7152
+owner: 52559257@N02
+title: 4261
+originalsecret: 8a4a776475
+originalformat: jpg
+o_height: 2011
+o_width: 2232
+datetaken: 2011-04-09 14:31:51
+dateupload: 1322853198
+tags: road old uk england flower nature hole unitedkingdom wildlife reserve lincolnshire ridge naturereserve trust lincoln quarry hollow newt burton midlands wildlifetrust eastmidlands burtonroad oldquarry lincolnshirewildlifetrust hobblers newthollow burtonridge hobblershole
+license: 0
+latitude: 53.242702
+longitude: -0.550239
+accuracy: 15
+views: 8
+interestingness: 4 out of 1
+
+photo: 6465040255 7299b5bf0d 7146
+owner: 34841061@N02
+title: 2011_12_06_10519-Notophthalmus viridescens
+originalsecret: a49ed56f5a
+originalformat: jpg
+o_height: 3456
+o_width: 5184
+datetaken: 2011-12-06 03:01:26
+dateupload: 1323165039
+tags: salamander newt notophthalmusviridescens redspottednewt easternnewt
+license: 0
+latitude: 33.689674
+longitude: -84.863076
+accuracy: 13
+views: 2
+interestingness: 5 out of 1
+
+photo: 6477277175 a0f9740c5b 7030
+owner: 25259934@N07
+title: Newt Gingrich speaking at event at Occidental Restaurant in Washington DC
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-07 19:16:58
+dateupload: 1323359924
+tags: 
+license: 0
+latitude: 38.897166
+longitude: -77.032667
+accuracy: 16
+views: 28
+interestingness: 6 out of 1
+
+photo: 6447312889 b65295889e 7167
+owner: 37692561@N02
+title: Newt
+originalsecret: 0e629ba873
+originalformat: jpg
+o_height: 1200
+o_width: 1600
+datetaken: 2008-08-19 23:30:04
+dateupload: 1322929984
+tags: 
+license: 0
+latitude: 43.672838
+longitude: -72.004394
+accuracy: 9
+views: 0
+interestingness: 7 out of 1
+
+photo: 6465024493 158d2bdb27 7033
+owner: 34841061@N02
+title: Notophthalmus viridescens-2011_12_06_10528
+originalsecret: 44328441a5
+originalformat: jpg
+o_height: 2571
+o_width: 3786
+datetaken: 2011-12-06 03:25:31
+dateupload: 1323164718
+tags: notophthalmusviridescens redspottednewt easternnewt
+license: 0
+latitude: 33.689567
+longitude: -84.86299
+accuracy: 13
+views: 0
+interestingness: 8 out of 1
+
+Total images queried: 1

@@ -1,0 +1,550 @@
+
+mintime: 1322697600 maxtime: 1324512427.5
+numimgs: 10
+total pages: 1
+visiting only 1 pages ( up to 250 images)
+photo: 6473396127 f4631bc535 7031
+owner: 36621592@N06
+title: Puente Viejo - Ponte Vecchio
+originalsecret: 8da436f5ec
+originalformat: jpg
+o_height: 1200
+o_width: 1200
+datetaken: 2011-10-21 19:46:39
+dateupload: 1323290912
+tags: canon florence europa italia nocturna firenze pontevecchio puenteviejo abigfave r?oarno florecia 100commentgroup pilaraza?a coloresm?gicos
+license: 0
+latitude: 43.76708
+longitude: 11.253991
+accuracy: 14
+views: 570
+interestingness: 1 out of 10
+
+photo: 6449282115 a881cdf4ee 7029
+owner: 22966172@N03
+title: Munic Hofbr?uhaus
+originalsecret: 22de0eb38a
+originalformat: jpg
+o_height: 2848
+o_width: 4288
+datetaken: 2011-10-15 12:54:23
+dateupload: 1322954518
+tags: 
+license: 0
+latitude: 48.137897
+longitude: 11.580061
+accuracy: 16
+views: 102
+interestingness: 2 out of 10
+
+photo: 6466205477 43de99996f 7150
+owner: 47746028@N02
+title: auschwitz #14
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-02 12:59:39
+dateupload: 1323184859
+tags: street light shadow people bw lens eos holocaust zoom hitler 100mm 5d auschwitz f4 birkenau frankl ???? ef70200 ef70200f4
+license: 0
+latitude: 50.036251
+longitude: 19.253499
+accuracy: 11
+views: 89
+interestingness: 3 out of 10
+
+photo: 6447603539 10bce9905a 7002
+owner: 58628800@N05
+title: Adolf Hitler's Eagles Nest.
+originalsecret: d158838594
+originalformat: jpg
+o_height: 685
+o_width: 1024
+datetaken: 2011-07-06 09:19:05
+dateupload: 1322933397
+tags: mountains alps bavaria photo foto nest hitler kehlsteinhaus adolf eagles bavarian obersalzburg berchtesgarden
+license: 0
+latitude: 47.630748
+longitude: 13.00133
+accuracy: 16
+views: 92
+interestingness: 4 out of 10
+
+photo: 6435356395 00d6f881fe 7171
+owner: 71042056@N08
+title: Equipo de Hockey femenino The Fernie Swastikas (Fernie, 1922)
+originalsecret: 6563e3dc0b
+originalformat: jpg
+o_height: 1403
+o_width: 1600
+datetaken: 1922-01-01 00:00:00
+dateupload: 1322729307
+tags: hockey canad? esv?stica
+license: 5
+latitude: 49.509479
+longitude: -115.06295
+accuracy: 11
+views: 3095
+interestingness: 5 out of 10
+
+photo: 6472402553 6dfbd0e7d3 7141
+owner: 61020729@N04
+title: Soviet War Memorial in Tiergarten, Berlin, Germany
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2010-03-08 16:45:38
+dateupload: 1323277830
+tags: park berlin monument germany memorial day cloudy worldwarii alemania warmemorial tyskland allemagne tiergarten berlim germania alemanha duitsland worldwartwo warmonument strassedes17juni berlijn berliini westberlin berlino sovietwarmemorial ?? berl?n urbanpark ??? ?? sovietmemorial ?? ????? ?????? alemanya berliin berlyn almanya niemcy bolin barl?n barli? beirl?n berlien berl?ne berlynas berurin verol?no ??? ???? ?????? alema?a ??? ???????? ?????? sovietwarmemorialtiergarten ???????? strasedes17juni grosertiergarten ????????? 17junestreet levkerbel mikhailgorvits vladimirtsigal ?????? bereullin per?llin ????? ?ep?a??? sovietwarmemorialintiergarten britishsectorofberlin formerwestberlin
+license: 0
+latitude: 52.516145
+longitude: 13.372024
+accuracy: 16
+views: 95
+interestingness: 6 out of 10
+
+photo: 6476772435 e90977bd47 7160
+owner: 44219144@N06
+title: Monumento al holocausto jud?o
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-07-08 11:01:41
+dateupload: 1323352508
+tags: berlin deutschland monumento nazi bn fisheye b2 hormigon judio ojodepez asesinados dorotheenstadt behrenstrase dorotheenstadtberlin eliasgonzalezphotography holocauso
+license: 0
+latitude: 52.514588
+longitude: 13.379394
+accuracy: 16
+views: 64
+interestingness: 7 out of 10
+
+photo: 6439499705 1a70b88ed8 7156
+owner: 11185080@N03
+title: Incensed Heckler led away from  #n30 #strike Pensions Protest Preston Flag Market  - Too much of the  Daily Mail & that Murdoch comic The S** resulting in the long arm of the law
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-30 04:27:25
+dateupload: 1322794060
+tags: uk england bw english monochrome digital photoshop nikon zoom north wide sigma lancashire adobe 400 preston british 400asa lenses nikond1x black7white d1x alienskinexposure nikonsigma sigma1835mmf3545dasphericalautofocuszoom
+license: 0
+latitude: 53.758752
+longitude: -2.699149
+accuracy: 16
+views: 81
+interestingness: 8 out of 10
+
+photo: 6434266629 b597695d52 7173
+owner: 36524915@N05
+title: St. Adolf Catholic Church
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2010-11-08 22:40:25
+dateupload: 1322708964
+tags: poverty africa road street church sign funny catholic sad african faith hitler religion poor belief badsign irony uganda ironic catholicism kampala fortportal adolf funnysign funnyafrica sthitler
+license: 0
+latitude: 0.685942
+longitude: 30.264587
+accuracy: 9
+views: 139
+interestingness: 9 out of 10
+
+photo: 6471302349 4c446af949 7162
+owner: 11185080@N03
+title: Public Sector Strikes in Preston #strike #n30 : Video Cameraman filming : UNISON Union : Rally Flag Market :
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-30 04:24:04
+dateupload: 1323262623
+tags: uk england people english digital photoshop nikon zoom north wide sigma lancashire adobe 400 preston british 400asa lenses nikond1x d1x alienskinexposure nikonsigma sigma1835mmf3545dasphericalautofocuszoom solidarityandworkers
+license: 0
+latitude: 53.759072
+longitude: -2.698012
+accuracy: 16
+views: 66
+interestingness: 10 out of 10
+
+photo: 6462873803 ce4b91c2a0 7020
+owner: 11185080@N03
+title: Preston #strike #n30 : UNISON Union : Pensions Protest Rally : Flag Market :
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-30 04:22:09
+dateupload: 1323130716
+tags: uk england people english digital photoshop nikon zoom north wide sigma lancashire adobe 400 preston british 400asa lenses nikond1x ???? alienskinexposure nikonsigma sigma1835mmf3545dasphericalautofocuszoom ??????????????????? solidarityandworkers
+license: 0
+latitude: 53.759281
+longitude: -2.698369
+accuracy: 16
+views: 48
+interestingness: 11 out of 10
+
+photo: 6453477673 d969c52dd8 7170
+owner: 11185080@N03
+title: #strike #n30 : UNISON Lancashire Police Branch Banner : Protest March : Cheapside : Preston :
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-30 03:10:13
+dateupload: 1323016656
+tags: uk england people english digital photoshop nikon zoom flash north lancashire adobe preston british nikkor lenses nikond1x d1x alienskinexposure 70210mmf4af metz54mz3 nikonzoom70210mmf4series nikkor70210mmf4afzoom solidarityandworkers
+license: 0
+latitude: 53.758359
+longitude: -2.699124
+accuracy: 16
+views: 29
+interestingness: 12 out of 10
+
+photo: 6292122151 0b4f3cccde 6091
+owner: 8704943@N07
+title: Grand Hotel
+originalsecret: ec9c1e1fd4
+originalformat: jpg
+o_height: 2112
+o_width: 2816
+datetaken: 2011-09-21 16:31:10
+dateupload: 1323190130
+tags: building architecture hotel poland polska sopot architektura budynek pomorze pomorskie
+license: 3
+latitude: 54.447848
+longitude: 18.567141
+accuracy: 16
+views: 19
+interestingness: 13 out of 10
+
+photo: 6459471559 2af94f9c06 7145
+owner: 11185080@N03
+title: Preston #strike #N30 : UNISON Union : Pensions Protest Rally Preston Flagmarket :
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-30 03:20:32
+dateupload: 1323090970
+tags: uk england people english digital photoshop workers nikon zoom flash north lancashire solidarity adobe preston british nikkor lenses nikond1x d1x alienskinexposure 70210mmf4af metz54mz3 nikonzoom70210mmf4series nikkor70210mmf4afzoom
+license: 0
+latitude: 53.759281
+longitude: -2.698369
+accuracy: 16
+views: 24
+interestingness: 14 out of 10
+
+photo: 6453294715 a730dc9e35 7175
+owner: 11185080@N03
+title: #strike #n30 : Pensions Protest Rally : Alan Dent Associate Secretary for South Ribble National Union of Teachers ,: Flag Market : Preston : Monochrome :
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-30 04:09:31
+dateupload: 1323014745
+tags: uk england people bw english monochrome digital photoshop nikon zoom north wide sigma lancashire adobe 400 preston british 400asa lenses nikond1x black7white d1x alienskinexposure nikonsigma sigma1835mmf3545dasphericalautofocuszoom solidarityandworkers
+license: 0
+latitude: 53.758796
+longitude: -2.699199
+accuracy: 16
+views: 72
+interestingness: 15 out of 10
+
+photo: 6459397083 905f4a5750 7003
+owner: 11185080@N03
+title: Preston #strike #n30 : UNISON Union Pensions Protest Day of Action : Preston Flag Market :
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-30 03:24:39
+dateupload: 1323089866
+tags: digital photoshop workers nikon zoom flash solidarity adobe nikkor lenses nikond1x d1x alienskinexposure 70210mmf4af metz54mz3 nikonzoom70210mmf4series nikkor70210mmf4afzoom
+license: 0
+latitude: 53.758822
+longitude: -2.698823
+accuracy: 16
+views: 42
+interestingness: 16 out of 10
+
+photo: 6459029907 5c8cec228f 7163
+owner: 11185080@N03
+title: #n30 #strike #pcs : PCS Union Preston Group Shot : Pensions Protest Rally Flag Market Preston
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-30 03:18:56
+dateupload: 1323083708
+tags: uk england people english digital photoshop nikon zoom flash north lancashire adobe preston british nikkor lenses nikond1x d1x alienskinexposure 70210mmf4af metz54mz3 nikonzoom70210mmf4series nikkor70210mmf4afzoom solidarityandworkers
+license: 0
+latitude: 53.759091
+longitude: -2.699171
+accuracy: 16
+views: 51
+interestingness: 17 out of 10
+
+photo: 6455249869 688fb16204 7001
+owner: 11185080@N03
+title: #strike #n30  " Wanted Cameron The Great Pensions Robbery "  T - Shirt :  NASUWT Teachers Union Banners " Standing up for Public Services "   : Pensions Protest March : Cheapside / Fishergate Junc Preston :
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-30 03:11:33
+dateupload: 1323034228
+tags: uk england people english digital photoshop nikon zoom flash north lancashire adobe preston british nikkor lenses nikond1x d1x alienskinexposure 70210mmf4af metz54mz3 nikonzoom70210mmf4series nikkor70210mmf4afzoom solidarityandworkers
+license: 0
+latitude: 53.758311
+longitude: -2.699096
+accuracy: 16
+views: 33
+interestingness: 18 out of 10
+
+photo: 6462793881 ea433a1aa2 7164
+owner: 11185080@N03
+title: Preston #strike #n30 : Rally On Flag Market : UNISON & PCS Union : #pcs :
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-30 04:07:07
+dateupload: 1323129657
+tags: uk england people english digital photoshop nikon zoom north wide sigma lancashire adobe 400 preston british 400asa lenses nikond1x d1x alienskinexposure nikonsigma sigma1835mmf3545dasphericalautofocuszoom
+license: 0
+latitude: 53.758873
+longitude: -2.698935
+accuracy: 16
+views: 31
+interestingness: 19 out of 10
+
+photo: 6449200991 e7544578fd 7142
+owner: 11185080@N03
+title: #strike #n30 CWU Union Central & West Lancs Branch Banner  : Chorley Trades Council Banner : Pensions Protest : Fishergate : Preston :
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-30 03:15:27
+dateupload: 1322953423
+tags: uk england people english digital photoshop nikon zoom flash north lancashire adobe preston british nikkor lenses nikond1x d1x alienskinexposure 70210mmf4af metz54mz3 nikonzoom70210mmf4series nikkor70210mmf4afzoom solidarityandworkers
+license: 0
+latitude: 53.758222
+longitude: -2.699632
+accuracy: 16
+views: 41
+interestingness: 20 out of 10
+
+photo: 6471412283 bc7652a29b 7161
+owner: 82362654@N00
+title: Graffiti
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-05 21:14:44
+dateupload: 1323264482
+tags: graffiti december athens greece monday iphone koukaki 2011 dec2011 05dec2011
+license: 0
+latitude: 37.966666
+longitude: 23.727166
+accuracy: 16
+views: 6
+interestingness: 21 out of 10
+
+photo: 6452117059 1838f883a2 7158
+owner: 11185080@N03
+title: #strike #n30 " Everyone deserves a decent pension " UNISON Union : Protest March Cheapside Preston :
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-30 03:10:51
+dateupload: 1323000294
+tags: uk england people english digital photoshop nikon zoom flash north lancashire adobe preston british nikkor lenses nikond1x d1x alienskinexposure 70210mmf4af metz54mz3 nikonzoom70210mmf4series nikkor70210mmf4afzoom solidarityandworkers
+license: 0
+latitude: 53.758467
+longitude: -2.699203
+accuracy: 16
+views: 57
+interestingness: 22 out of 10
+
+photo: 6446833517 d620610681 7002
+owner: 70668581@N03
+title: Communist ruins
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-28 15:34:31
+dateupload: 1322923709
+tags: field germany europe saxony suburb geography stories landforms riesa saxonystory cityareas
+license: 0
+latitude: 51.30615
+longitude: 13.312339
+accuracy: 11
+views: 5
+interestingness: 23 out of 10
+
+photo: 6434165635 c8c77f6da6 7027
+owner: 8348059@N02
+title: P1260766a
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-03 08:53:39
+dateupload: 1322707410
+tags: germany bayern deutschland bavaria berchtesgaden eaglesnest kehlsteinhaus picnik
+license: 0
+latitude: 47.610806
+longitude: 13.050127
+accuracy: 14
+views: 1
+interestingness: 24 out of 10
+
+photo: 6434170119 f68d286e32 7160
+owner: 8348059@N02
+title: P1260788
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-03 09:16:34
+dateupload: 1322707474
+tags: germany bayern deutschland bavaria berchtesgaden eaglesnest kehlsteinhaus
+license: 0
+latitude: 47.610806
+longitude: 13.050127
+accuracy: 14
+views: 3
+interestingness: 25 out of 10
+
+photo: 6443905087 5e86e9c51d 7006
+owner: 14112399@N00
+title: Space Hitler orders you to enjoy the Smart City!
+originalsecret: 0a476ab684
+originalformat: jpg
+o_height: 1936
+o_width: 2592
+datetaken: 2011-12-02 18:19:48
+dateupload: 1322867994
+tags: barcelona spain catalunya 2011 spacehitler smartcityexpo
+license: 1
+latitude: 41.353478
+longitude: 2.12337
+accuracy: 16
+views: 23
+interestingness: 26 out of 10
+
+photo: 6437018345 af970e5a56 7142
+owner: 69459652@N08
+title: Sieg Heil!
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-04-01 13:19:54
+dateupload: 1322758745
+tags: heritage factory hitler
+license: 0
+latitude: 52.629148
+longitude: -2.474762
+accuracy: 16
+views: 3
+interestingness: 27 out of 10
+
+photo: 6435382893 29c2484aa3 7029
+owner: 71042056@N08
+title: Equipo de Hockey femenino The Edmonton Swastikas (Edmonton, 1916)
+originalsecret: 59765459ab
+originalformat: jpg
+o_height: 820
+o_width: 1024
+datetaken: 1916-01-01 00:00:00
+dateupload: 1322729934
+tags: hockey canad? esv?stica
+license: 5
+latitude: 53.546218
+longitude: -113.490371
+accuracy: 11
+views: 1161
+interestingness: 28 out of 10
+
+photo: 6443803491 5d50a8a1c4 7167
+owner: 32118478@N03
+title: 5_Nurnberg_03
+originalsecret: 7a5517afac
+originalformat: jpg
+o_height: 1024
+o_width: 768
+datetaken: 2008-07-06 12:17:30
+dateupload: 1322866421
+tags: nazis nurnberg
+license: 0
+latitude: 49.432502
+longitude: 11.11258
+accuracy: 16
+views: 1
+interestingness: 29 out of 10
+
+photo: 6457117897 11e4c2a58f 7022
+owner: 50145710@N05
+title: Hitler Bunny Fuck
+originalsecret: 8939c765d5
+originalformat: jpg
+o_height: 3456
+o_width: 5184
+datetaken: 2011-12-04 14:24:10
+dateupload: 1323053864
+tags: 
+license: 0
+latitude: 34.083738
+longitude: -118.354983
+accuracy: 15
+views: 0
+interestingness: 30 out of 10
+
+photo: 6436742539 84e753ddc5 7003
+owner: 78791698@N00
+title: Ook #Hitler heeft wifi. #busted #hijleeftdusnog
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-01 07:58:19
+dateupload: 1322755099
+tags: 
+license: 0
+latitude: 52.349435
+longitude: 5.006129
+accuracy: 16
+views: 18
+interestingness: 31 out of 10
+
+photo: 6479418003 2899ea9427 7147
+owner: 23759021@N07
+title: we tamed the hitler tasche by turning it in to a dusting brush
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-09 00:35:34
+dateupload: 1323390934
+tags: square squareformat rise iphoneography instagramapp uploaded:by=instagram
+license: 0
+latitude: 50.83417
+longitude: -0.165666
+accuracy: 16
+views: 0
+interestingness: 32 out of 10
+
+Total images queried: 10

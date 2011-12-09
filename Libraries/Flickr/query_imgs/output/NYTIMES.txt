@@ -1,0 +1,125 @@
+
+mintime: 1322697600 maxtime: 1324512427.5
+numimgs: 2
+total pages: 1
+visiting only 1 pages ( up to 250 images)
+photo: 6477433449 dcb060204e 7162
+owner: 39649515@N00
+title: IAC
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-18 16:25:47
+dateupload: 1323362135
+tags: newyorkcity usa newyork architecture manhattan gehry meatpackingdistrict frankgehry iac interactivecorp iacbuilding
+license: 0
+latitude: 40.745013
+longitude: -74.007682
+accuracy: 13
+views: 112
+interestingness: 1 out of 2
+
+photo: 6433543545 cabd0e2d06 7005
+owner: 67968452@N00
+title: PhotonQ-John Bohannon Dance Your Ph.D
+originalsecret: ccf271a5c9
+originalformat: jpg
+o_height: 684
+o_width: 912
+datetaken: 2011-12-01 01:10:20
+dateupload: 1322698400
+tags: brussels ted black john fun creativity dance movement europe belgium belgique label bruxelles danse your conference vs phd powerpoint bohannon palaisdesbeauxarts bozar 2011 photonquantique tedx danceyourphd johnbohannon
+license: 3
+latitude: 50.843982
+longitude: 4.358519
+accuracy: 16
+views: 98
+interestingness: 2 out of 2
+
+photo: 6435254867 da65465c8c 7163
+owner: 15969227@N04
+title: McBurney YMCA - 215 West 23rd Street, New York
+originalsecret: c0ce5c3bf9
+originalformat: jpg
+o_height: 3456
+o_width: 4608
+datetaken: 2011-10-21 09:45:58
+dateupload: 1322726864
+tags: door nyc newyorkcity ny newyork detail building architecture chelsea arch architecturaldetail manhattan doorway ymca fixture gym robertrossmcburney
+license: 0
+latitude: 40.744354
+longitude: -73.996032
+accuracy: 15
+views: 21
+interestingness: 3 out of 2
+
+photo: 6479210479 f186497786 7160
+owner: 33472394@N00
+title: Solar energy
+originalsecret: 175885dc60
+originalformat: jpg
+o_height: 3000
+o_width: 3000
+datetaken: 2011-12-08 14:31:19
+dateupload: 1323387292
+tags: autumn sky tree energy nj solarpanel infrastructure highlandpark utilitypole solarenergy greenenergy pseg middlesexcounty donaldsonpark petrasolar solar4all
+license: 4
+latitude: 40.488888
+longitude: -74.423865
+accuracy: 16
+views: 43
+interestingness: 4 out of 2
+
+photo: 6449911205 918c725b5d 7173
+owner: 15969227@N04
+title: McBurney YMCA - 215 West 23rd Street, New York
+originalsecret: feae887334
+originalformat: jpg
+o_height: 4203
+o_width: 3100
+datetaken: 2011-10-21 10:05:49
+dateupload: 1322963393
+tags: nyc newyorkcity ny newyork building window architecture chelsea manhattan beauxarts
+license: 0
+latitude: 40.744354
+longitude: -73.996032
+accuracy: 16
+views: 7
+interestingness: 5 out of 2
+
+photo: 6479209685 50746a4f5d 7174
+owner: 33472394@N00
+title: Solar energy
+originalsecret: 5b1ab03e28
+originalformat: jpg
+o_height: 3000
+o_width: 3000
+datetaken: 2011-12-08 14:30:15
+dateupload: 1323387279
+tags: autumn sky tree energy nj solarpanel infrastructure highlandpark utilitypole solarenergy greenenergy pseg middlesexcounty donaldsonpark petrasolar solar4all
+license: 4
+latitude: 40.488888
+longitude: -74.423865
+accuracy: 16
+views: 3
+interestingness: 6 out of 2
+
+photo: 6463756693 72f27f659b 7022
+owner: 89932500@N00
+title: The Tao Of Wu
+originalsecret: 58c10245cb
+originalformat: jpg
+o_height: 2736
+o_width: 3648
+datetaken: 2011-12-05 16:39:22
+dateupload: 1323142403
+tags: nyc newyorkcity blackandwhite food ny cup monochrome canon table reading book blackwhite village drink chocolate coffeecup westvillage coffeeshop books hotchocolate nytimes bestseller currentlyreading wutangclan canonpowershotg11 thetaoofwu ocoffee
+license: 1
+latitude: 40.735884
+longitude: -73.997769
+accuracy: 15
+views: 36
+interestingness: 7 out of 2
+
+Total images queried: 2

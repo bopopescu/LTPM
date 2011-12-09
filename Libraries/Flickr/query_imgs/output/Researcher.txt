@@ -1,0 +1,380 @@
+
+mintime: 1322697600 maxtime: 1324512427.5
+numimgs: 1
+total pages: 1
+visiting only 1 pages ( up to 250 images)
+photo: 6440558071 1b2ace63b7 7161
+owner: 12570393@N08
+title: Stranger #66: Kirsty
+originalsecret: 659c9eec0d
+originalformat: jpg
+o_height: 2320
+o_width: 3417
+datetaken: 2011-12-01 12:50:36
+dateupload: 1322813871
+tags: 100 100strangers strangersportrait
+license: 3
+latitude: 51.240167
+longitude: -0.168539
+accuracy: 16
+views: 181
+interestingness: 1 out of 1
+
+photo: 6473434807 3a3e633a27 7141
+owner: 66858236@N00
+title: Topography of Terror
+originalsecret: 9431cb9949
+originalformat: jpg
+o_height: 3180
+o_width: 4779
+datetaken: 2011-10-16 15:52:24
+dateupload: 1323291431
+tags: berlin berlijn topographyofterror topographiedesterrors robhogeslagberlijn
+license: 0
+latitude: 52.507869
+longitude: 13.381648
+accuracy: 15
+views: 65
+interestingness: 2 out of 1
+
+photo: 6469761171 174f2978b1 7008
+owner: 41475189@N02
+title: Wolf Park Resident "Kiri"
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-19 14:53:02
+dateupload: 1323231791
+tags: animals wolf indiana wolves wolfpark canon60d canoneos60d fwfg
+license: 0
+latitude: 40.534627
+longitude: -86.830444
+accuracy: 14
+views: 20
+interestingness: 3 out of 1
+
+photo: 6453325075 92ae0d89a6 7165
+owner: 51909246@N00
+title: Driveway to The School of Visual Arts with imperial palms
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-10 10:55:22
+dateupload: 1323015064
+tags: brazil brasil riodejaneiro canon geotagged rj bra hdr canonpowershotg1 parquelage powershotg1 ptgui jardimbot?nico photomatix 3exp imperialpalm vertorama exposurefusion geo:lat=2296041478 geo:lon=4321121202
+license: 0
+latitude: -22.960414
+longitude: -43.211212
+accuracy: 16
+views: 11
+interestingness: 4 out of 1
+
+photo: 6453194285 03398fd371 7009
+owner: 68824346@N02
+title: Eastern Namibia Sand Dunes
+originalsecret: e9a1d165a9
+originalformat: jpg
+o_height: 480
+o_width: 720
+datetaken: 2007-05-07 00:00:00
+dateupload: 1323013706
+tags: sand dunes nasa namibia kalahari aster
+license: 4
+latitude: -24.013852
+longitude: 19.275512
+accuracy: 7
+views: 24
+interestingness: 5 out of 1
+
+photo: 6469751059 f6ab0da280 7016
+owner: 41475189@N02
+title: Wolf Park Resident "Marion"
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-19 14:56:39
+dateupload: 1323231639
+tags: animals wolf indiana wolves wolfpark canon60d canoneos60d fwfg
+license: 0
+latitude: 40.534627
+longitude: -86.830444
+accuracy: 14
+views: 13
+interestingness: 6 out of 1
+
+photo: 6474533913 774e8b5d2d 7149
+owner: 64865925@N07
+title: UCSF Researcher Srikantan Nagarajan Maps the Brain to Predict Surgery Outcomes
+originalsecret: 091d2064f3
+originalformat: jpg
+o_height: 205
+o_width: 285
+datetaken: 2011-12-05 15:27:54
+dateupload: 1323308368
+tags: support map grant brain surgery health research impact medicine sos strategic ucsf opportunities universityofcalifornia funding universityofcaliforniasanfrancisco outcomes ctsi translationalresearch ctsiatucsf srikantannagarajan
+license: 3
+latitude: 37.763034
+longitude: -122.459492
+accuracy: 16
+views: 10
+interestingness: 7 out of 1
+
+photo: 6461892573 3b599844dc 7144
+owner: 64865925@N07
+title: UCSF Researcher Michael Page Works on Early Blood Clot Detection in Human Diseases
+originalsecret: 8037ebe4b3
+originalformat: jpg
+o_height: 683
+o_width: 1024
+datetaken: 2011-09-06 11:04:58
+dateupload: 1323118630
+tags: training michael grant award health impact page service ucsf t1 catalyst universityofcalifornia consultation funding universityofcaliforniasanfrancisco translationalresearch clinicalandtranslationalscienceinstitutectsiatucsf clinicalandtranslationalscienceinstitute
+license: 3
+latitude: 37.763319
+longitude: -122.458934
+accuracy: 16
+views: 28
+interestingness: 8 out of 1
+
+photo: 6453820557 626512b873 7031
+owner: 51909246@N00
+title: Escola de Artes Visuais do Parque Lage
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-10 10:15:09
+dateupload: 1323020113
+tags: brazil brasil riodejaneiro canon geotagged rj bra hdr eav canonpowershotg1 parquelage powershotg1 jardimbot?nico photomatix 3exp escoladeartesvisuaisdoparquelage escoladeartesvisuais exposurefusion geo:lat=2296071363 geo:lon=4321208238
+license: 0
+latitude: -22.960714
+longitude: -43.212084
+accuracy: 16
+views: 4
+interestingness: 9 out of 1
+
+photo: 6445603769 daf60a3ffd 7019
+owner: 31864021@N08
+title: Koror?  - Little Penguin - Eudyptula minor
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-14 09:02:19
+dateupload: 1322900019
+tags: cruise bird nature canon penguin wildlife littlebluepenguin eudyptulaminor fairypenguin littlepenguin spheniscidae eudyptula
+license: 0
+latitude: -43.889851
+longitude: 172.959136
+accuracy: 12
+views: 2
+interestingness: 10 out of 1
+
+photo: 6445603103 d6d601a140 7155
+owner: 31864021@N08
+title: Koror?  - Little Penguin - Eudyptula minor
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-14 08:33:04
+dateupload: 1322900002
+tags: cruise bird nature canon penguin wildlife littlebluepenguin eudyptulaminor fairypenguin littlepenguin spheniscidae eudyptula
+license: 0
+latitude: -43.889851
+longitude: 172.959136
+accuracy: 12
+views: 2
+interestingness: 11 out of 1
+
+photo: 6445602575 de5ab9b25d 7013
+owner: 31864021@N08
+title: Koror?  - Little Penguin - Eudyptula minor
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-14 08:32:58
+dateupload: 1322899989
+tags: cruise bird nature canon penguin wildlife littlebluepenguin eudyptulaminor fairypenguin littlepenguin spheniscidae eudyptula
+license: 0
+latitude: -43.889851
+longitude: 172.959136
+accuracy: 12
+views: 1
+interestingness: 12 out of 1
+
+photo: 6453793471 f472097f4f 7147
+owner: 51909246@N00
+title: Escola de Artes Visuais do Parque Lage
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-10 10:21:54
+dateupload: 1323019844
+tags: brazil brasil riodejaneiro canon geotagged rj bra hdr eav canonpowershotg1 parquelage powershotg1 ptgui jardimbot?nico photomatix tonemap 3exp escoladeartesvisuaisdoparquelage escoladeartesvisuais geo:lat=2296067533 geo:lon=4321227953
+license: 0
+latitude: -22.960675
+longitude: -43.212281
+accuracy: 16
+views: 5
+interestingness: 13 out of 1
+
+photo: 6453777155 f0846456bb 7031
+owner: 51909246@N00
+title: Escola de Artes Visuais do Parque Lage
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-10 12:08:51
+dateupload: 1323019687
+tags: brazil brasil riodejaneiro canon geotagged ir rj bra infrared hdr eav canonpowershotg1 parquelage powershotg1 jardimbot?nico photomatix 3exp hdrir escoladeartesvisuaisdoparquelage escoladeartesvisuais exposurefusion hdrinfrared geo:lat=2296012707 geo:lon=4321217090
+license: 0
+latitude: -22.960128
+longitude: -43.212173
+accuracy: 16
+views: 2
+interestingness: 14 out of 1
+
+photo: 6453765553 4bb76dd19f 7017
+owner: 51909246@N00
+title: Escola de Artes Visuais do Parque Lage
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-10 12:21:05
+dateupload: 1323019574
+tags: brazil brasil riodejaneiro canon geotagged rj bra hdr eav canonpowershotg1 parquelage powershotg1 jardimbot?nico photomatix tonemap 3exp escoladeartesvisuaisdoparquelage escoladeartesvisuais geo:lat=2296085193 geo:lon=4321217492
+license: 0
+latitude: -22.960853
+longitude: -43.212175
+accuracy: 16
+views: 4
+interestingness: 15 out of 1
+
+photo: 6453750861 cb29c80cfb 7001
+owner: 51909246@N00
+title: Escola de Artes Visuais do Parque Lage
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-10 12:21:28
+dateupload: 1323019432
+tags: brazil brasil riodejaneiro canon geotagged rj bra hdr eav canonpowershotg1 parquelage powershotg1 jardimbot?nico photomatix tonemap 3exp escoladeartesvisuaisdoparquelage escoladeartesvisuais geo:lat=2296081612 geo:lon=4321229293
+license: 0
+latitude: -22.960817
+longitude: -43.212292
+accuracy: 16
+views: 3
+interestingness: 16 out of 1
+
+photo: 6453724939 0bd59b8c53 7160
+owner: 51909246@N00
+title: Escola de Artes Visuais do Parque Lage
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-10 12:14:45
+dateupload: 1323019173
+tags: brazil brasil riodejaneiro canon geotagged rj bra hdr eav canonpowershotg1 parquelage powershotg1 jardimbot?nico photomatix 3exp escoladeartesvisuaisdoparquelage escoladeartesvisuais exposurefusion geo:lat=2296065188 geo:lon=4321199387
+license: 0
+latitude: -22.960653
+longitude: -43.211995
+accuracy: 16
+views: 1
+interestingness: 17 out of 1
+
+photo: 6453714757 ee76dca129 7003
+owner: 51909246@N00
+title: Escola de Artes Visuais do Parque Lage
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-10 12:13:52
+dateupload: 1323019068
+tags: brazil brasil riodejaneiro canon geotagged ir rj bra infrared hdr eav canonpowershotg1 parquelage powershotg1 jardimbot?nico photomatix tonemap 3exp hdrir escoladeartesvisuaisdoparquelage escoladeartesvisuais hdrinfrared geo:lat=2296065188 geo:lon=4321199387
+license: 0
+latitude: -22.960653
+longitude: -43.211995
+accuracy: 16
+views: 1
+interestingness: 18 out of 1
+
+photo: 6453704359 a7d09e77c4 7005
+owner: 51909246@N00
+title: Escola de Artes Visuais do Parque Lage
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-10 10:24:24
+dateupload: 1323018967
+tags: brazil brasil riodejaneiro canon geotagged rj bra hdr eav canonpowershotg1 parquelage powershotg1 jardimbot?nico photomatix tonemap 3exp escoladeartesvisuaisdoparquelage escoladeartesvisuais geo:lat=2296066917 geo:lon=4321209043
+license: 0
+latitude: -22.96067
+longitude: -43.212092
+accuracy: 16
+views: 3
+interestingness: 19 out of 1
+
+photo: 6453294507 c4d38a1001 7164
+owner: 51909246@N00
+title: Driveway to The School of Visual Arts with imperial palms
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-10 10:54:12
+dateupload: 1323014742
+tags: brazil brasil riodejaneiro canon geotagged ir rj bra infrared hdr canonpowershotg1 parquelage powershotg1 ptgui jardimbot?nico photomatix 3exp imperialpalm hdrir vertorama exposurefusion hdrinfrared geo:lat=2296041357 geo:lon=4321121872
+license: 0
+latitude: -22.960414
+longitude: -43.21122
+accuracy: 16
+views: 7
+interestingness: 20 out of 1
+
+photo: 6476418625 92864cd670 7152
+owner: 51472459@N07
+title: Tine Ningal, PhD Candidate UCD School of Geography and Planning
+originalsecret: 3ae0438399
+originalformat: jpg
+o_height: 450
+o_width: 600
+datetaken: 2011-12-08 12:05:33
+dateupload: 1323345933
+tags: phd ucd tine researcher ningal
+license: 0
+latitude: 53.341738
+longitude: -6.277656
+accuracy: 16
+views: 3
+interestingness: 21 out of 1
+
+photo: 6446229741 abcfffd293 7024
+owner: 40342256@N08
+title: Olomouc Museum of Art, Olomouc Region, Czech Republic
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2010-02-28 13:19:06
+dateupload: 1322913922
+tags: art museum olomouc
+license: 0
+latitude: 49.595134
+longitude: 17.248535
+accuracy: 11
+views: 2
+interestingness: 22 out of 1
+
+Total images queried: 1

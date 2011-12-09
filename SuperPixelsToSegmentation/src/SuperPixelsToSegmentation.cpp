@@ -12,7 +12,7 @@
 
 #include <Types.h>
 
-#define SEGMENT_COLOR_SIMILARITY_THRESHOLD 25
+#define SEGMENT_COLOR_SIMILARITY_THRESHOLD 50
 
 Segmentation segFile2Vector(string segFilename)
 {
@@ -265,6 +265,11 @@ int SuperPixelsToSegmentation::run(){
 		//     << "Pixel Count: " << (*s).second.size() << endl;
 	}
 
+
+
+// FIXME
+#warning fix real segment color calculation! not waiting superpixel colors by superpixel size! currently low pass filtering!!!! aaaaaaaggggghh1hhhhhh!!11!111
+// FIXME
 	// merge similar adjacent segments
 	bool updatedGraph = true;
 	while(updatedGraph)
@@ -320,10 +325,10 @@ int SuperPixelsToSegmentation::run(){
 	for(std::set<Edge>::iterator e = edges.begin(); e != edges.end(); e++)
 	{
 		
-		cvDrawContours(image, (*e).a->contour, CV_RGB(255,0,0), CV_RGB(0,255,0), 10, 1, CV_AA, cvPoint(0,0));
+		//cvDrawContours(segImage, (*e).a->contour, CV_RGB(255,0,0), CV_RGB(0,255,0), 10, 1, CV_AA, cvPoint(0,0));
 
 		//for(std::set<int>::iterator other_seg = (*e).second.begin(); other_seg != (*e).second.end(); other_seg++)
-		cvLine(image, (*e).a->centroid, (*e).b->centroid, CV_RGB(0, 0, 255), 1, CV_AA); // FIXME centroid is bad sometimes (when segment is small. we blame OpenCV)
+		//cvLine(mergedSegmentsImage, (*e).a->centroid, (*e).b->centroid, CV_RGB(0, 0, 255), 1, CV_AA); // FIXME centroid is bad sometimes (when segment is small. we blame OpenCV)
 		//cerr << "a centroid: " << (*e).a->centroid.x << " b centroid: " << (*e).b->centroid.x << endl;
 
 	}
