@@ -1,0 +1,669 @@
+
+mintime: 1322697600 maxtime: 1324512427.5
+numimgs: 18
+total pages: 1
+visiting only 1 pages ( up to 250 images)
+photo: 6441919485 239bcd776a 7024
+owner: 61440293@N06
+title: Masked parader
+originalsecret: 90c60907a0
+originalformat: jpg
+o_height: 1583
+o_width: 1287
+datetaken: 2011-08-06 12:41:05
+dateupload: 1322840230
+tags: girl sweden stockholm stockholmpride 2011 bor?s eoshe rfsl
+license: 0
+latitude: 59.314452
+longitude: 18.050451
+accuracy: 11
+views: 150
+interestingness: 1 out of 18
+
+photo: 6471293463 c32dc44dcd 7147
+owner: 51393599@N03
+title: ~ Que venha 2012 ~
+originalsecret: f4fde64c05
+originalformat: jpg
+o_height: 615
+o_width: 615
+datetaken: 2011-12-07 10:54:12
+dateupload: 1323262452
+tags: dog toy fdsflickrtoys doll tommy plastic co blythe uc takara sbl fbl rdp picca ebl rbl pdpa
+license: 0
+latitude: -15.778459
+longitude: -47.928661
+accuracy: 16
+views: 110
+interestingness: 2 out of 18
+
+photo: 6450937509 2091579658 7011
+owner: 64446555@N07
+title: VW Bora GLI Wolfsburg Edition 2010
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-07-23 20:39:27
+dateupload: 1322978738
+tags: red vw del volkswagen mexico riviera maya playa german jetta gli gti edition saloon carmen bora wolfsburg 2010 mk5
+license: 0
+latitude: 20.636961
+longitude: -87.074718
+accuracy: 11
+views: 15
+interestingness: 3 out of 18
+
+photo: 6474498905 4c4d55f803 7156
+owner: 46275416@N04
+title: Sentosa, Palawan Beach
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2010-12-24 10:27:37
+dateupload: 1323307773
+tags: ck
+license: 0
+latitude: 1.248367
+longitude: 103.822957
+accuracy: 16
+views: 9
+interestingness: 4 out of 18
+
+photo: 6473153325 6365b6e1b1 7161
+owner: 11832221@N00
+title: B?ck?ng dansafton 13
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-07 18:24:03
+dateupload: 1323287641
+tags: show dance sweden sverige dans iphone 2011 bor?s b?ck?ng b?ck?ngsgymnasiet dansafton
+license: 0
+latitude: 57.722167
+longitude: 12.948833
+accuracy: 16
+views: 5
+interestingness: 5 out of 18
+
+photo: 6473148477 84725bea74 7169
+owner: 11832221@N00
+title: B?ck?ng dansafton 12
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-07 18:46:28
+dateupload: 1323287571
+tags: show dance sweden sverige dans iphone 2011 bor?s b?ck?ng b?ck?ngsgymnasiet dansafton
+license: 0
+latitude: 57.722167
+longitude: 12.948833
+accuracy: 16
+views: 4
+interestingness: 6 out of 18
+
+photo: 6473142187 cae27220b3 7016
+owner: 11832221@N00
+title: B?ck?ng dansafton 11
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-07 19:32:22
+dateupload: 1323287485
+tags: show dance sweden sverige dans iphone 2011 bor?s b?ck?ng b?ck?ngsgymnasiet dansafton
+license: 0
+latitude: 57.722
+longitude: 12.948833
+accuracy: 16
+views: 2
+interestingness: 7 out of 18
+
+photo: 6473134017 f19fb8d5c6 7141
+owner: 11832221@N00
+title: B?ck?ng dansafton 10
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-07 19:44:54
+dateupload: 1323287378
+tags: show dance sweden sverige dans iphone 2011 bor?s b?ck?ng b?ck?ngsgymnasiet dansafton
+license: 0
+latitude: 57.722167
+longitude: 12.948833
+accuracy: 16
+views: 2
+interestingness: 8 out of 18
+
+photo: 6473118891 ed483ac81a 7002
+owner: 11832221@N00
+title: B?ck?ng dansafton 9
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-07 19:24:36
+dateupload: 1323287178
+tags: show dance sweden sverige dans iphone 2011 bor?s b?ck?ng b?ck?ngsgymnasiet dansafton
+license: 0
+latitude: 57.722
+longitude: 12.948833
+accuracy: 16
+views: 2
+interestingness: 9 out of 18
+
+photo: 6473111871 51208fddb5 7001
+owner: 11832221@N00
+title: B?ck?ng dansafton 8
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-07 18:46:34
+dateupload: 1323287093
+tags: show dance sweden sverige dans iphone 2011 bor?s b?ck?ng b?ck?ngsgymnasiet dansafton
+license: 0
+latitude: 57.722167
+longitude: 12.948833
+accuracy: 16
+views: 2
+interestingness: 10 out of 18
+
+photo: 6473106781 0ba647838f 7026
+owner: 11832221@N00
+title: B?ck?ng dansafton 7
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-07 18:43:03
+dateupload: 1323287027
+tags: show dance sweden sverige dans iphone 2011 bor?s b?ck?ng b?ck?ngsgymnasiet dansafton
+license: 0
+latitude: 57.722167
+longitude: 12.948833
+accuracy: 16
+views: 2
+interestingness: 11 out of 18
+
+photo: 6473098593 c88c2f9628 7148
+owner: 11832221@N00
+title: B?ck?ng dansafton 6
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-07 18:41:30
+dateupload: 1323286923
+tags: show dance sweden sverige dans iphone 2011 bor?s b?ck?ng b?ck?ngsgymnasiet dansafton
+license: 0
+latitude: 57.722
+longitude: 12.948667
+accuracy: 16
+views: 2
+interestingness: 12 out of 18
+
+photo: 6473093099 0ac60033d6 7031
+owner: 11832221@N00
+title: B?ck?ng dansafton 5
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-07 18:33:22
+dateupload: 1323286853
+tags: show dance sweden sverige dans iphone 2011 bor?s b?ck?ng b?ck?ngsgymnasiet dansafton
+license: 0
+latitude: 57.722167
+longitude: 12.948667
+accuracy: 16
+views: 3
+interestingness: 13 out of 18
+
+photo: 6473085865 690b4c31bd 7011
+owner: 11832221@N00
+title: B?ck?ng dansafton 4
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-07 18:33:26
+dateupload: 1323286761
+tags: show dance sweden sverige dans iphone 2011 bor?s b?ck?ng b?ck?ngsgymnasiet dansafton
+license: 0
+latitude: 57.722167
+longitude: 12.948667
+accuracy: 16
+views: 4
+interestingness: 14 out of 18
+
+photo: 6472713359 3d119db48a 7024
+owner: 11832221@N00
+title: B?ck?ng dansafton 3
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-07 19:14:44
+dateupload: 1323281802
+tags: show dance sweden sverige dans iphone 2011 bor?s b?ck?ng b?ck?ngsgymnasiet dansafton
+license: 0
+latitude: 57.721685
+longitude: 12.948324
+accuracy: 16
+views: 7
+interestingness: 15 out of 18
+
+photo: 6472388903 d1b8e131b0 7014
+owner: 11832221@N00
+title: Dansafton B?ck?ng 1
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-07 18:05:46
+dateupload: 1323277660
+tags: show dance sweden sverige dans iphone 2011 bor?s b?ck?ng b?ck?ngsgymnasiet dansafton
+license: 0
+latitude: 57.721889
+longitude: 12.948802
+accuracy: 16
+views: 5
+interestingness: 16 out of 18
+
+photo: 6453336829 7d2062114e 7018
+owner: 8733637@N04
+title: Maserati Bora
+originalsecret: bfbe4dbc66
+originalformat: jpg
+o_height: 634
+o_width: 901
+datetaken: 2007-08-31 16:54:47
+dateupload: 1323015189
+tags: auto old italy paris france classic car vintage italian automobile italia super voiture frankrijk bora supercar maserati ancienne italienne
+license: 0
+latitude: 48.850907
+longitude: 2.333854
+accuracy: 16
+views: 2
+interestingness: 17 out of 18
+
+photo: 6443458527 3fb085e072 7017
+owner: 8341165@N05
+title: Sunset over Br?mhult
+originalsecret: d9ff74d16a
+originalformat: jpg
+o_height: 3648
+o_width: 2736
+datetaken: 2011-09-16 18:45:31
+dateupload: 1322861354
+tags: church cemetery sweden sverige kyrka kyrkog?rd 2011 bor?s br?mhult pilsnerjohan
+license: 0
+latitude: 57.735807
+longitude: 13.027489
+accuracy: 16
+views: 0
+interestingness: 18 out of 18
+
+photo: 6443455489 74fc60ed12 7014
+owner: 8341165@N05
+title: The Church of Br?mhult
+originalsecret: dab798fa6d
+originalformat: jpg
+o_height: 2736
+o_width: 3648
+datetaken: 2011-09-16 18:40:18
+dateupload: 1322861308
+tags: white church cemetery wooden sweden sverige kyrka kyrkog?rd 2011 bor?s br?mhult pilsnerjohan
+license: 0
+latitude: 57.735807
+longitude: 13.027489
+accuracy: 16
+views: 0
+interestingness: 19 out of 18
+
+photo: 6443452007 552aecb120 7010
+owner: 8341165@N05
+title: Cross
+originalsecret: 9d9427b27d
+originalformat: jpg
+o_height: 3648
+o_width: 2736
+datetaken: 2011-09-16 18:37:22
+dateupload: 1322861260
+tags: church cemetery grave cross sweden sverige kyrka kyrkog?rd 2011 bor?s br?mhult pilsnerjohan
+license: 0
+latitude: 57.735807
+longitude: 13.027489
+accuracy: 16
+views: 0
+interestingness: 20 out of 18
+
+photo: 6443449059 1401ab58f6 7167
+owner: 8341165@N05
+title: Tombstone
+originalsecret: 37bec8a455
+originalformat: jpg
+o_height: 3648
+o_width: 2736
+datetaken: 2011-09-16 18:32:50
+dateupload: 1322861213
+tags: church cemetery grave rust cross sweden tombstone rusty sverige kyrka kyrkog?rd 2011 bor?s br?mhult pilsnerjohan
+license: 0
+latitude: 57.735807
+longitude: 13.027489
+accuracy: 16
+views: 0
+interestingness: 21 out of 18
+
+photo: 6443445493 de4c4fb866 7154
+owner: 8341165@N05
+title: Window
+originalsecret: b6a6746d70
+originalformat: jpg
+o_height: 3648
+o_width: 2736
+datetaken: 2011-09-16 18:31:34
+dateupload: 1322861164
+tags: white reflection church window cemetery wooden sweden sverige leaded kyrka kyrkog?rd 2011 bor?s br?mhult pilsnerjohan
+license: 0
+latitude: 57.735807
+longitude: 13.027489
+accuracy: 16
+views: 0
+interestingness: 22 out of 18
+
+photo: 6443441853 912b015b00 7154
+owner: 8341165@N05
+title: The Church of Br?mhult
+originalsecret: 90bef08533
+originalformat: jpg
+o_height: 3648
+o_width: 2736
+datetaken: 2011-09-16 18:30:58
+dateupload: 1322861112
+tags: white reflection church window cemetery wooden sweden sverige leaded kyrka kyrkog?rd 2011 bor?s br?mhult pilsnerjohan
+license: 0
+latitude: 57.735807
+longitude: 13.027489
+accuracy: 16
+views: 0
+interestingness: 23 out of 18
+
+photo: 6443438679 51e23fcf27 7156
+owner: 8341165@N05
+title: The Church of Br?mhult
+originalsecret: 0af8a676c8
+originalformat: jpg
+o_height: 2736
+o_width: 3648
+datetaken: 2011-09-16 18:29:23
+dateupload: 1322861065
+tags: white church cemetery wooden sweden sverige kyrka kyrkog?rd 2011 bor?s br?mhult pilsnerjohan
+license: 0
+latitude: 57.735807
+longitude: 13.027489
+accuracy: 16
+views: 0
+interestingness: 24 out of 18
+
+photo: 6443435373 49da6aa81f 7164
+owner: 8341165@N05
+title: The Church of Br?mhult
+originalsecret: 574157f92e
+originalformat: jpg
+o_height: 3648
+o_width: 2736
+datetaken: 2011-09-16 18:28:14
+dateupload: 1322861016
+tags: white church cemetery wooden sweden sverige kyrka kyrkog?rd 2011 bor?s br?mhult pilsnerjohan
+license: 0
+latitude: 57.735878
+longitude: 13.027371
+accuracy: 16
+views: 0
+interestingness: 25 out of 18
+
+photo: 6434294767 ed0570bbc5 7149
+owner: 68034860@N03
+title: xICT0710
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-17 09:30:01
+dateupload: 1322709376
+tags: scuba diving bora manta plong?e raie
+license: 0
+latitude: -16.480946
+longitude: -151.717157
+accuracy: 13
+views: 1
+interestingness: 26 out of 18
+
+photo: 6461827421 2d098b85c6 7007
+owner: 9452319@N06
+title: Lindormsgatan
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-05 21:45:08
+dateupload: 1323117908
+tags: sweden sverige 4s iphone bor?s iphoneography
+license: 0
+latitude: 57.752166
+longitude: 12.940833
+accuracy: 16
+views: 3
+interestingness: 27 out of 18
+
+photo: 6434292933 8ebccd4a5b 7024
+owner: 68034860@N03
+title: xICT0709
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-17 09:30:02
+dateupload: 1322709351
+tags: scuba diving bora manta plong?e raie
+license: 0
+latitude: -16.480946
+longitude: -151.717157
+accuracy: 13
+views: 0
+interestingness: 28 out of 18
+
+photo: 6434288753 4ebae18ae6 7145
+owner: 68034860@N03
+title: xICT0706
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-17 09:30:04
+dateupload: 1322709294
+tags: scuba diving bora manta plong?e
+license: 0
+latitude: -16.480946
+longitude: -151.717157
+accuracy: 13
+views: 0
+interestingness: 29 out of 18
+
+photo: 6473509749 05cb7e4cc3 7022
+owner: 11832221@N00
+title: Dansafton Bor?s 14
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-07 18:42:55
+dateupload: 1323292448
+tags: sweden sverige iphone bor?s
+license: 0
+latitude: 57.722167
+longitude: 12.948833
+accuracy: 16
+views: 8
+interestingness: 30 out of 18
+
+photo: 6434286757 bc3e160674 7014
+owner: 68034860@N03
+title: xICT0705
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-17 09:30:05
+dateupload: 1322709267
+tags: scuba diving bora plong?e
+license: 0
+latitude: -16.480946
+longitude: -151.717157
+accuracy: 13
+views: 0
+interestingness: 31 out of 18
+
+photo: 6434284403 59f50c63a8 7174
+owner: 68034860@N03
+title: xICT0703
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-17 09:30:06
+dateupload: 1322709232
+tags: scuba diving bora plong?e
+license: 0
+latitude: -16.480946
+longitude: -151.717157
+accuracy: 13
+views: 1
+interestingness: 32 out of 18
+
+photo: 6434282131 7765937bab 7033
+owner: 68034860@N03
+title: xICT0702
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-17 09:30:07
+dateupload: 1322709200
+tags: scuba diving bora plong?e
+license: 0
+latitude: -16.480946
+longitude: -151.717157
+accuracy: 13
+views: 1
+interestingness: 33 out of 18
+
+photo: 6453635939 743b41898e 7162
+owner: 40359244@N02
+title: Fair 05
+originalsecret: 6c33586e45
+originalformat: jpg
+o_height: 750
+o_width: 1000
+datetaken: 2011-12-04 13:39:12
+dateupload: 1323018261
+tags: fair autumnleaves trieste
+license: 0
+latitude: 45.652478
+longitude: 13.783657
+accuracy: 14
+views: 0
+interestingness: 34 out of 18
+
+photo: 6439318387 e4085a2635 7145
+owner: 25509741@N03
+title: Bora Bora Pearl Beach Resort
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-01 19:52:52
+dateupload: 1322790772
+tags: borabora
+license: 0
+latitude: -16.50457
+longitude: -151.743362
+accuracy: 1
+views: 29
+interestingness: 35 out of 18
+
+photo: 6434297043 5c0526577d 7005
+owner: 68034860@N03
+title: xICT0721
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-17 09:30:00
+dateupload: 1322709410
+tags: bora
+license: 0
+latitude: -16.480946
+longitude: -151.717157
+accuracy: 13
+views: 0
+interestingness: 36 out of 18
+
+photo: 6471565329 65c712e10d 7025
+owner: 24301861@N08
+title: Bora descer um toboagua de 14 andares?
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-07 12:05:33
+dateupload: 1323266733
+tags: square squareformat rise iphoneography instagramapp uploaded:by=instagram foursquare:venue=4bc341a3b492d13ab673a860
+license: 0
+latitude: -3.844558
+longitude: -38.390715
+accuracy: 16
+views: 3
+interestingness: 37 out of 18
+
+photo: 6453801287 48f0c9f05f 7022
+owner: 41780848@N08
+title: O musical da @comshalom vai come?ar!  bora prestigiar o trampo da galera e da produ??o do brother @duardocruz
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-04 15:32:00
+dateupload: 1323019920
+tags: valencia square squareformat iphoneography instagramapp uploaded:by=instagram foursquare:venue=4c1995d6f551ef3bff384768
+license: 0
+latitude: -23.650335
+longitude: -46.668289
+accuracy: 16
+views: 0
+interestingness: 38 out of 18
+
+photo: 6462632955 c47f796bfd 7011
+owner: 49348781@N05
+title: Castillo de Bib-Bora (Martos)
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-03 18:38:13
+dateupload: 1323127575
+tags: 
+license: 0
+latitude: 37.640878
+longitude: -4.029579
+accuracy: 16
+views: 8
+interestingness: 39 out of 18
+
+Total images queried: 18

@@ -1,0 +1,4256 @@
+
+mintime: 1322697600 maxtime: 1324512427.5
+numimgs: 53
+total pages: 1
+visiting only 1 pages ( up to 250 images)
+photo: 6436659619 f529575898 7028
+owner: 46345924@N06
+title: ?????????
+originalsecret: afa6e6d678
+originalformat: jpg
+o_height: 3744
+o_width: 5616
+datetaken: 2011-11-30 21:34:56
+dateupload: 1322754001
+tags: church saint canon lens greek mark 15 andrew noflash christian fisheye holy indoors greece ii l 5d mm orthodox ef 815 dimitris patras patra christianism dimitrios ???????? ????? ????? ??????? 815mm tsortanidis
+license: 0
+latitude: 38.240337
+longitude: 21.727695
+accuracy: 14
+views: 174
+interestingness: 1 out of 53
+
+photo: 6439338863 4b0944c8f7 7175
+owner: 43730339@N04
+title: We Need Snow
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-01-01 22:44:59
+dateupload: 1322791100
+tags: winter snow pacificnorthwest frozenstream moscowid thepalouse moscowarboretum
+license: 0
+latitude: 46.714885
+longitude: -117.01435
+accuracy: 13
+views: 165
+interestingness: 2 out of 53
+
+photo: 6444977071 1f6418775f 7020
+owner: 40531740@N08
+title: Have I Got a Present for You! (Elf on a Shelf)
+originalsecret: 68547bea23
+originalformat: jpg
+o_height: 1024
+o_width: 722
+datetaken: 2011-12-02 22:19:46
+dateupload: 1322886946
+tags: 2005 christmas family winter light holiday night canon festive season children 50mm lights book bokeh outdoor iowa shelf story elf 7d present santaclaus tradition f18 desmoines selfpublished northpole narrowdof amazingstory 2011 niftyfifty bokehballs elfonashelf chandabell carolaebersold coesteinwart
+license: 3
+latitude: 41.59009
+longitude: -93.461723
+accuracy: 16
+views: 146
+interestingness: 3 out of 53
+
+photo: 6441988497 35c5f8df2c 7008
+owner: 25830494@N04
+title: Corbiere Lightouse
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-02 15:53:32
+dateupload: 1322841212
+tags: jersey channelislands corbierelighthouse jamesroughley
+license: 0
+latitude: 49.180805
+longitude: -2.246875
+accuracy: 11
+views: 102
+interestingness: 4 out of 53
+
+photo: 6459460479 2c52e8688a 7005
+owner: 7739390@N07
+title: Frigid falls
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-04 16:10:58
+dateupload: 1323092280
+tags: uk longexposure chris water southwales wales river landscape waterfall hammerton pontardawe lowerclydach
+license: 0
+latitude: 51.726097
+longitude: -3.864226
+accuracy: 14
+views: 59
+interestingness: 5 out of 53
+
+photo: 6458400687 ce9f893ef5 7029
+owner: 63933727@N06
+title: Kleiner Frostspanner / Winter moth / Operophtera brumata
+originalsecret: bef34497d8
+originalformat: jpg
+o_height: 2796
+o_width: 3896
+datetaken: 2011-12-05 07:55:25
+dateupload: 1323071464
+tags: winter macro male eye closeup compound moth stack matthias geometridae makro auge antenne antenna pest kleiner schmetterling spanner motte f?hler operophtera lenke sch?dling zerene facettenauge saugr?ssel brumata frostspanner
+license: 0
+latitude: 50.978375
+longitude: 11.308761
+accuracy: 16
+views: 137
+interestingness: 6 out of 53
+
+photo: 6436389527 c9cb76b667 7026
+owner: 21202660@N00
+title: "I Only Go for the Cars"
+originalsecret: d7470484e2
+originalformat: jpg
+o_height: 2000
+o_width: 2000
+datetaken: 2011-12-01 07:34:29
+dateupload: 1322750069
+tags: show ranch ladies girls hot car colorado db loveland bailey rod don custom budweiser goodguys
+license: 0
+latitude: 40.445183
+longitude: -104.986896
+accuracy: 12
+views: 168
+interestingness: 7 out of 53
+
+photo: 6441424849 2080babcd3 7011
+owner: 35942475@N05
+title: Columbia under Fire(works) - Disneyland
+originalsecret: 783f445d72
+originalformat: jpg
+o_height: 3589
+o_width: 5400
+datetaken: 2011-11-30 20:41:09
+dateupload: 1322832862
+tags: night fireworks disneyland columbia disney hdr neworleanssquare riversofamerica canoneos7d
+license: 0
+latitude: 33.810353
+longitude: -117.921109
+accuracy: 13
+views: 199
+interestingness: 8 out of 53
+
+photo: 6465331505 695efdc2dd 7146
+owner: 80516886@N00
+title: Monumento aos Mortos na 2? Guerra Mundial - Rio de Janeiro
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2009-06-20 14:50:15
+dateupload: 1323216840
+tags: 
+license: 0
+latitude: -22.916539
+longitude: -43.173608
+accuracy: 15
+views: 181
+interestingness: 9 out of 53
+
+photo: 6435414805 b236acb4c7 7016
+owner: 44257486@N05
+title: Canadian Pacific Holiday Train 2011
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-01 04:07:55
+dateupload: 1322730701
+tags: trains cp cpr lightroom cprail christmastrain railroadphotography cs5 nikond80 canadianpacificholidaytrain hamiltonphotographer canadianpacificrailwaychristmastrain ?michaelwhrysko2011allrightsreserved mwhphotography TGAM:photodesk=details TGAM:photodesk=architecture
+license: 0
+latitude: 43.252189
+longitude: -79.91131
+accuracy: 14
+views: 123
+interestingness: 10 out of 53
+
+photo: 6458249817 fab516c0d9 7025
+owner: 7455207@N05
+title: El bunquer del llarg coll / A bunker with a long neck
+originalsecret: 46e17f8a5e
+originalformat: jpg
+o_height: 1441
+o_width: 957
+datetaken: 2011-08-11 11:34:39
+dateupload: 1323068726
+tags: france concrete big frankreich marine fran?a rangefinder bunker german huge artillery gran cemento francia kora r? ileder? batterie charente ciment aleman deutsche blockhaus karola artilleria atlanticwall atlantikwall artillerie korala charentemaritime inmens observaci? bunquer korakarola xarenta
+license: 0
+latitude: 46.218824
+longitude: -1.533644
+accuracy: 15
+views: 72
+interestingness: 11 out of 53
+
+photo: 6449272443 73d61cdccb 7160
+owner: 8343129@N07
+title: Lego Crimbo tree at St Pancras International, London
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-03 14:20:27
+dateupload: 1322954362
+tags: roof winter london architecture nikon bars december colours lego eurostar camden restaurants trains christmastree railwaystation trainstation shops stpancras hdr crimbo christmassy photomatix stpancrasinternational stpancrasinternationalstation nikkor18105mmvr nikond7000 theworldstallestlegochristmastree
+license: 0
+latitude: 51.530846
+longitude: -0.125731
+accuracy: 16
+views: 164
+interestingness: 12 out of 53
+
+photo: 6449697241 0ea24a2209 7172
+owner: 26084125@N08
+title: Marmelade
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-18 19:38:00
+dateupload: 1322960241
+tags: countdown marmalade bosl bestofsecondlifemagazine
+license: 0
+latitude: -31.900695
+longitude: 115.775856
+accuracy: 14
+views: 63
+interestingness: 13 out of 53
+
+photo: 6465847865 a15397b38c 7013
+owner: 27397197@N06
+title: Chestnut-Collared Longspur--North Dakota- Published Bird Watching Magazine Dec 2011
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2008-06-18 22:57:28
+dateupload: 1323180105
+tags: northdakota chestnutcollaredlongspur dec2011 birdwatchingmagazine
+license: 0
+latitude: 48.371181
+longitude: -100.001602
+accuracy: 11
+views: 50
+interestingness: 14 out of 53
+
+photo: 6435014307 6138a02975 7155
+owner: 24284053@N08
+title: Never look back ! Never...?
+originalsecret: 7f7eabaf69
+originalformat: jpg
+o_height: 3371
+o_width: 3268
+datetaken: 2011-05-29 13:24:30
+dateupload: 1322721432
+tags: street uk pink england urban london girl garden eos back raw candid covent jungle londres british streetphoto fille londonist rawstreet pitvanmeeffe pierremallien
+license: 0
+latitude: 51.513015
+longitude: -0.124111
+accuracy: 14
+views: 119
+interestingness: 15 out of 53
+
+photo: 6468082403 bc9c47a247 7001
+owner: 32454422@N00
+title: left side, ten governors turkey, Edgefield, South Carolina
+originalsecret: b84460401a
+originalformat: jpg
+o_height: 2774
+o_width: 3052
+datetaken: 2011-10-28 13:00:40
+dateupload: 1323207707
+tags: lake history turkey southcarolina governor stromthurmond peaches fiberglass decorated edgefield governors slade civicpride edgefieldcounty paintedturkey sladelake tengovernors
+license: 2
+latitude: 33.789372
+longitude: -81.92767
+accuracy: 13
+views: 47
+interestingness: 16 out of 53
+
+photo: 6466255479 d6a115fe17 7169
+owner: 54401149@N02
+title: Lights -  Triptych
+originalsecret: 29e7487aac
+originalformat: jpg
+o_height: 600
+o_width: 1800
+datetaken: 2011-12-06 10:28:59
+dateupload: 1323185478
+tags: abstract photoshop lights random iphone iphonehipstamatic
+license: 0
+latitude: 39.088918
+longitude: -74.820735
+accuracy: 15
+views: 63
+interestingness: 17 out of 53
+
+photo: 6464023649 934b888caf 7019
+owner: 84264049@N00
+title: Furchgott's    ODC3   "Free"
+originalsecret: 605c9fe0f7
+originalformat: jpg
+o_height: 2640
+o_width: 1980
+datetaken: 2011-12-05 23:33:23
+dateupload: 1323146003
+tags: november abandoned tile for store closed downtown florida sale empty postoffice free 1984 storefront jacksonville demolished department expansion group3 terrazzo historicdistrict artmoderne 1868 2011 194041 ourdailychallenge furchgotts 131westadamsstreet northhoganstreet
+license: 0
+latitude: 30.328305
+longitude: -81.659842
+accuracy: 16
+views: 27
+interestingness: 18 out of 53
+
+photo: 6444630271 9ae8b859a8 7026
+owner: 86877667@N00
+title: Ghost Train
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-27 23:57:43
+dateupload: 1322880888
+tags: bridge waterfall sad geneseeriver upperfalls letchworthsp bridgecomingdown
+license: 0
+latitude: 42.577734
+longitude: -78.04779
+accuracy: 11
+views: 67
+interestingness: 19 out of 53
+
+photo: 6451880451 952090e2bd 7015
+owner: 26084125@N08
+title: Boulevard
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-20 00:00:00
+dateupload: 1322996392
+tags: boulevard countdown bosl bestofsecondlife
+license: 0
+latitude: -31.900714
+longitude: 115.775899
+accuracy: 14
+views: 51
+interestingness: 20 out of 53
+
+photo: 6451882367 bcbc9fd707 7169
+owner: 26084125@N08
+title: Edith
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-04 08:44:14
+dateupload: 1322996427
+tags: countdown bosl bestofsecondlife wdith
+license: 0
+latitude: -31.900768
+longitude: 115.775771
+accuracy: 14
+views: 61
+interestingness: 21 out of 53
+
+photo: 6469074981 8f25a8b28b 7142
+owner: 35581435@N07
+title: Escadaria Selaron - Rio de Janeiro
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-02-24 22:18:04
+dateupload: 1323221488
+tags: leica brazil brasil riodejaneiro lumix steps gloria panasonic convento santateresa copa lapa escadariaselaron lx3 jorgeselaron nacinovic marcelonacinovic
+license: 0
+latitude: -22.917695
+longitude: -43.17776
+accuracy: 16
+views: 65
+interestingness: 22 out of 53
+
+photo: 6437359721 ec60a212d9 7142
+owner: 28328732@N00
+title: Castor 2011: Fight back
+originalsecret: acc340c115
+originalformat: jpg
+o_height: 651
+o_width: 968
+datetaken: 2011-11-27 12:49:10
+dateupload: 1322763284
+tags: germany raw alemania tamron deustchland castor 30d acciones protestas antiatom castor2011
+license: 5
+latitude: 53.161284
+longitude: 10.944099
+accuracy: 11
+views: 159
+interestingness: 23 out of 53
+
+photo: 6441618995 9f358c0817 7034
+owner: 59811348@N05
+title: 4. desember - December 4.
+originalsecret: f2611ff17a
+originalformat: jpg
+o_height: 1265
+o_width: 1417
+datetaken: 2011-12-02 15:23:03
+dateupload: 1322835986
+tags: 
+license: 7
+latitude: 59.912281
+longitude: 10.749979
+accuracy: 11
+views: 446
+interestingness: 24 out of 53
+
+photo: 6449691037 10a548d845 7170
+owner: 26084125@N08
+title: Fashion Still Life
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-24 21:00:00
+dateupload: 1322960139
+tags: bosl fashionstilllife bestofsecondlifemagazine shoesandhat
+license: 0
+latitude: -31.900732
+longitude: 115.775942
+accuracy: 14
+views: 42
+interestingness: 25 out of 53
+
+photo: 6437187265 42158088da 7163
+owner: 28328732@N00
+title: Wald, Bullen und Gleis
+originalsecret: 776a4f8292
+originalformat: jpg
+o_height: 651
+o_width: 968
+datetaken: 2011-11-25 14:17:59
+dateupload: 1322760991
+tags: germany raw cops police alemania tamron polizei deustchland policia castor 30d bullen wendland acciones protestas antiatom g?hrde castor2011
+license: 5
+latitude: 53.161593
+longitude: 10.943756
+accuracy: 11
+views: 175
+interestingness: 26 out of 53
+
+photo: 6450269815 a6d0933123 7152
+owner: 98684031@N00
+title: 49/52 Weeks
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-03 22:16:28
+dateupload: 1322968588
+tags: christmas parenthood navidad samuel 52weeks 52semanas
+license: 0
+latitude: 45.512279
+longitude: -73.554389
+accuracy: 11
+views: 37
+interestingness: 27 out of 53
+
+photo: 6448186813 08bebd16c5 7168
+owner: 64085688@N00
+title: Our Lady of Grace
+originalsecret: 64479d2623
+originalformat: jpg
+o_height: 1280
+o_width: 802
+datetaken: 2011-12-03 10:23:58
+dateupload: 1322940549
+tags: art montreal artnouveau nouveau notredamedegrace ndg musha
+license: 1
+latitude: 45.465833
+longitude: -73.624445
+accuracy: 16
+views: 75
+interestingness: 28 out of 53
+
+photo: 6435465757 db8c0c3dc5 7145
+owner: 49562769@N03
+title: Halictidae: Lasioglossum m?le
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-01 10:32:04
+dateupload: 1322731924
+tags: 
+license: 1
+latitude: 43.838736
+longitude: 1.462383
+accuracy: 11
+views: 26
+interestingness: 29 out of 53
+
+photo: 6449720563 50eb022c64 7174
+owner: 60488531@N05
+title: Amber Fortune 01
+originalsecret: fe05c73b97
+originalformat: jpg
+o_height: 720
+o_width: 1080
+datetaken: 2011-12-02 13:21:49
+dateupload: 1322960586
+tags: philadelphia paamberfortunemodelmodelingshootchrisadvalcanondslrportraitportraitsstrobsstrobistspeedlightspeedlightsstudiolightportraiturepeoplewomenwomanladypersongirlyoungadobephotoshopcs5lightroomlightroom3mayhemmmproductionst2i55
+license: 0
+latitude: 39.961332
+longitude: -75.16983
+accuracy: 9
+views: 89
+interestingness: 30 out of 53
+
+photo: 6438428355 8552ef2194 7013
+owner: 39793483@N03
+title: NGC2244 (The AstroTech RC setup saga continues ...)
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-01 16:38:40
+dateupload: 1322777419
+tags: rc paramount paramountme ha3nm astrotech10 fstl6303moagnarrowbandastrondon
+license: 0
+latitude: 40.769215
+longitude: -73.903012
+accuracy: 15
+views: 46
+interestingness: 31 out of 53
+
+photo: 6309902387 10d03122b2 6054
+owner: 9842362@N04
+title: Be Careful What You Wish For....
+originalsecret: 36ae61d233
+originalformat: jpg
+o_height: 1798
+o_width: 2724
+datetaken: 2011-11-03 21:19:03
+dateupload: 1322868640
+tags: 
+license: 0
+latitude: 52.975211
+longitude: 0.843257
+accuracy: 16
+views: 93
+interestingness: 32 out of 53
+
+photo: 6451840215 3419e9b793 7145
+owner: 26084125@N08
+title: Lila
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-20 00:00:00
+dateupload: 1322995674
+tags: lila countdown bosl bestofsecondlife
+license: 0
+latitude: -31.900714
+longitude: 115.775899
+accuracy: 14
+views: 33
+interestingness: 33 out of 53
+
+photo: 6439499705 1a70b88ed8 7156
+owner: 11185080@N03
+title: Incensed Heckler led away from  #n30 #strike Pensions Protest Preston Flag Market  - Too much of the  Daily Mail & that Murdoch comic The S** resulting in the long arm of the law
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-30 04:27:25
+dateupload: 1322794060
+tags: uk england bw english monochrome digital photoshop nikon zoom north wide sigma lancashire adobe 400 preston british 400asa lenses nikond1x black7white d1x alienskinexposure nikonsigma sigma1835mmf3545dasphericalautofocuszoom
+license: 0
+latitude: 53.758752
+longitude: -2.699149
+accuracy: 16
+views: 79
+interestingness: 34 out of 53
+
+photo: 6464695209 f267d8c39d 7163
+owner: 30888227@N08
+title: Welcoming public house
+originalsecret: ef600dc39d
+originalformat: jpg
+o_height: 1000
+o_width: 1333
+datetaken: 2011-09-06 15:50:08
+dateupload: 1323157770
+tags: uk greatbritain england house building sign restaurant pub inn europe cornwall unitedkingdom ale eu haus crab schild tavern seafood bier truro geb?ude ales reklame kneipe gasthaus pubsign krabbe cornish krebs publichouse zunftschild whitehart meeresfr?chte gastst?tte newbridgestreet hotelschild kneipenschild traditionalales gasthausschild grosbritannien ancientinn 18thcenturyinn thecrabale thecrabalehouse
+license: 0
+latitude: 50.263664
+longitude: -5.049419
+accuracy: 16
+views: 29
+interestingness: 35 out of 53
+
+photo: 6458195501 06b8f36bd1 7156
+owner: 62425933@N04
+title: Crushed for the Holidays
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-03 15:52:01
+dateupload: 1323067779
+tags: coke cocacola cans odc ourdailychallenge
+license: 0
+latitude: 42.053881
+longitude: -87.947959
+accuracy: 11
+views: 39
+interestingness: 36 out of 53
+
+photo: 6447997743 a3008b37e6 7026
+owner: 36102477@N04
+title: 7] Albissola Marina (SV): ceramica e vele
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-03 16:14:40
+dateupload: 1322938164
+tags: italia liguria sv savona albissolamarina anticando absolutamentebello historymistery arteitaliamondo
+license: 0
+latitude: 44.324352
+longitude: 8.499704
+accuracy: 15
+views: 25
+interestingness: 37 out of 53
+
+photo: 6449721671 3564538c29 7007
+owner: 60488531@N05
+title: Khimaira 01
+originalsecret: cf287da9a5
+originalformat: jpg
+o_height: 1080
+o_width: 720
+datetaken: 2011-12-02 19:13:35
+dateupload: 1322960603
+tags: philadelphia pakhimairamodelmodelingshootchrisadvalcanondslrportraitportraitsstrobsstrobistspeedlightspeedlightsstudiolightportraiturepeoplewomenwomanladypersongirlyoungadobephotoshopcs5lightroomlightroom3mayhemmmproductionst2i550d
+license: 0
+latitude: 39.961332
+longitude: -75.16983
+accuracy: 9
+views: 89
+interestingness: 38 out of 53
+
+photo: 6449693949 8a036d963c 7168
+owner: 26084125@N08
+title: Dream
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-20 02:25:00
+dateupload: 1322960185
+tags: dream countdown bosl bestofsecondlifemagazine
+license: 0
+latitude: -31.900714
+longitude: 115.775899
+accuracy: 14
+views: 27
+interestingness: 39 out of 53
+
+photo: 6462692325 f0200b1380 7153
+owner: 60488531@N05
+title: H. Love 07
+originalsecret: 59fc423b91
+originalformat: jpg
+o_height: 1080
+o_width: 720
+datetaken: 2011-10-26 17:36:18
+dateupload: 1323128356
+tags: chris light portrait people woman black love girl lady photoshop portraits canon paper studio person model women shoot modeling young indoors h adobe portraiture hazleton inside mm dslr speedlight mayhem productions seamless lightroom strobs 550d speedlights cs5 strobist t2i lightroom3 adval
+license: 0
+latitude: 40.933876
+longitude: -76.047191
+accuracy: 12
+views: 66
+interestingness: 40 out of 53
+
+photo: 6451838521 d7139141fa 7019
+owner: 26084125@N08
+title: Cameron
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-18 00:00:00
+dateupload: 1322995642
+tags: countdown bosl camerson bestofsecondlife
+license: 0
+latitude: -31.900805
+longitude: 115.775814
+accuracy: 14
+views: 33
+interestingness: 41 out of 53
+
+photo: 6449167423 91d026a4f6 7012
+owner: 84264049@N00
+title: Klutho and the Trio
+originalsecret: 54f3e88951
+originalformat: jpg
+o_height: 1903
+o_width: 1429
+datetaken: 2011-12-03 17:55:50
+dateupload: 1322952950
+tags: november downtown florida architect jacksonville restoration trio 1912 possible 2011 lauratrio henryjohnklutho floridalifebuilding 117northlaurastreet
+license: 0
+latitude: 30.327642
+longitude: -81.658877
+accuracy: 16
+views: 14
+interestingness: 42 out of 53
+
+photo: 6463862465 994141ff0e 7172
+owner: 43931507@N00
+title: The Little Mermaid, Copenhagen
+originalsecret: bd87dbdac3
+originalformat: jpg
+o_height: 2580
+o_width: 3613
+datetaken: 2011-08-24 02:49:41
+dateupload: 1323143776
+tags: statue copenhagen thelittlemermaid elementsorganizer
+license: 4
+latitude: 55.679133
+longitude: 12.573852
+accuracy: 7
+views: 30
+interestingness: 43 out of 53
+
+photo: 6448286379 0d10f61a2f 7166
+owner: 59371508@N07
+title: Radio Telescope Dwingeloo
+originalsecret: 1c7379d0c7
+originalformat: jpg
+o_height: 1219
+o_width: 1219
+datetaken: 2010-03-24 13:58:54
+dateupload: 1322941824
+tags: netherlands radio for nederland ham institute telescope astronomy amateur antenne antenna drenthe radiotelescope disch hamradio amateurradio telescoop dwingeloo camras astron radiotelescoop pe1gvk wwwcamrasnl
+license: 0
+latitude: 52.812372
+longitude: 6.397368
+accuracy: 15
+views: 24
+interestingness: 44 out of 53
+
+photo: 6442135551 8917114181 7026
+owner: 20154996@N00
+title: search/rescue operation
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2008-10-21 23:25:23
+dateupload: 1322843218
+tags: coastguard us chopper marine saipan searchandrescue retrieval kagman marinebeach lostfisherman
+license: 0
+latitude: 15.21226
+longitude: 145.724334
+accuracy: 11
+views: 42
+interestingness: 45 out of 53
+
+photo: 6453915851 470b5e2350 7172
+owner: 29056926@N02
+title: US Assay Office on First Hill, Seattle, 1905 and 2011
+originalsecret: 5350699cc0
+originalformat: jpg
+o_height: 1200
+o_width: 1600
+datetaken: 2011-11-29 20:40:27
+dateupload: 1323021069
+tags: seattle james beforeandafter 9th preservation nowandthen rephotography firsthill historicbuildings pastandpresent thomasprosch kafeberlin
+license: 1
+latitude: 47.606654
+longitude: -122.325865
+accuracy: 15
+views: 70
+interestingness: 46 out of 53
+
+photo: 6448287081 38bb00d66d 7159
+owner: 59371508@N07
+title: Radio Telescope Dwingeloo
+originalsecret: 5b36c52f38
+originalformat: jpg
+o_height: 638
+o_width: 838
+datetaken: 2006-03-04 14:19:02
+dateupload: 1322941833
+tags: netherlands radio for nederland ham institute telescope astronomy amateur antenne antenna drenthe radiotelescope disch hamradio amateurradio telescoop dwingeloo camras astron radiotelescoop pe1gvk wwwcamrasnl
+license: 0
+latitude: 52.812372
+longitude: 6.397368
+accuracy: 15
+views: 17
+interestingness: 47 out of 53
+
+photo: 6450291843 3a1a2a2571 7162
+owner: 57688684@N02
+title: 337/365 shopping
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-03 17:33:48
+dateupload: 1322968862
+tags: baby blur girl speed canon project mall shopping point aj photo dress north stripe gap rack 365 quick photoproject nyla brustein 50d threesixfive
+license: 0
+latitude: 34.047899
+longitude: -84.295152
+accuracy: 16
+views: 35
+interestingness: 48 out of 53
+
+photo: 6435176753 5c3dc8dda4 7162
+owner: 64667396@N00
+title: State Historical Museum, Moscow
+originalsecret: dd682431ac
+originalformat: jpg
+o_height: 4068
+o_width: 2702
+datetaken: 2011-11-17 16:06:48
+dateupload: 1322724998
+tags: bw museum state nb historical moscou nikonians nikoniste moscounikond300
+license: 1
+latitude: 55.755791
+longitude: 37.616028
+accuracy: 15
+views: 78
+interestingness: 49 out of 53
+
+photo: 6451363931 19a8f9b917 7167
+owner: 55080792@N04
+title: The House that Moved
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-04 08:16:19
+dateupload: 1322986579
+tags: building vintage ancient village antique gothic cottage grand devon exeter legend hdr delapidated tonemapped
+license: 0
+latitude: 50.717547
+longitude: -3.528671
+accuracy: 16
+views: 15
+interestingness: 50 out of 53
+
+photo: 6464694587 d572163a2b 7031
+owner: 30888227@N08
+title: Down the hatch
+originalsecret: 6f05a194a8
+originalformat: jpg
+o_height: 1000
+o_width: 1333
+datetaken: 2011-09-06 15:50:20
+dateupload: 1323157757
+tags: uk greatbritain england sign restaurant pub inn europe cornwall unitedkingdom ale eu crab schild tavern seafood bier truro ales reklame kneipe gasthaus pubsign krabbe cornish krebs publichouse zunftschild whitehart meeresfr?chte gastst?tte newbridgestreet hotelschild kneipenschild traditionalales gasthausschild grosbritannien ancientinn 18thcenturyinn thecrabale thecrabalehouse
+license: 0
+latitude: 50.263664
+longitude: -5.049419
+accuracy: 16
+views: 20
+interestingness: 51 out of 53
+
+photo: 6475825131 882c8a38e1 7009
+owner: 66606673@N00
+title: Snowball Simpson, the Family Cat at Christmas
+originalsecret: baced8a06d
+originalformat: jpg
+o_height: 1800
+o_width: 1475
+datetaken: 2011-12-04 19:05:54
+dateupload: 1323332387
+tags: christmas arizona phoenix cat decoration simpsons skateboard snowball santahat simpson christmasy ontheroof familypet snowballii familycat snowballsimpson
+license: 1
+latitude: 33.497434
+longitude: -111.986759
+accuracy: 15
+views: 10
+interestingness: 52 out of 53
+
+photo: 6448285619 21fda55e72 7174
+owner: 59371508@N07
+title: Radio Telescope Dwingeloo
+originalsecret: d2f9531235
+originalformat: jpg
+o_height: 1219
+o_width: 1219
+datetaken: 2010-03-24 13:49:55
+dateupload: 1322941815
+tags: netherlands radio for nederland ham institute telescope astronomy amateur antenne antenna drenthe radiotelescope disch hamradio amateurradio telescoop dwingeloo camras astron radiotelescoop pe1gvk wwwcamrasnl
+license: 0
+latitude: 52.812372
+longitude: 6.397368
+accuracy: 15
+views: 20
+interestingness: 53 out of 53
+
+photo: 6448283301 67fcd01a52 7017
+owner: 59371508@N07
+title: Radio Telescope Dwingeloo
+originalsecret: 4546976855
+originalformat: jpg
+o_height: 570
+o_width: 838
+datetaken: 2011-12-03 20:49:44
+dateupload: 1322941784
+tags: netherlands radio for nederland ham institute telescope astronomy amateur antenne antenna drenthe radiotelescope disch hamradio amateurradio telescoop dwingeloo camras astron radiotelescoop pe1gvk wwwcamrasnl
+license: 0
+latitude: 52.812372
+longitude: 6.397368
+accuracy: 15
+views: 21
+interestingness: 54 out of 53
+
+photo: 6471658469 026516f225 7169
+owner: 49188819@N03
+title: Piazza San Marco
+originalsecret: 62256084c4
+originalformat: jpg
+o_height: 600
+o_width: 1200
+datetaken: 2011-12-02 13:35:54
+dateupload: 1323268124
+tags: madrid travel venice italy espa?a naturaleza seascape nature fauna landscape puerto puente photography mar canal photo spain flora agua europa europe flickr italia foto basilica edificio iglesia paisaje viajes ave gondola academia fotografia venecia gaviota mundo rialto gondolier elmundo elpais nationalgeographic piazzasanmarco viajar stmarkssquare veneto grancanal corbo dzoom santamariadelasalute puentedelaacademia puentederialto canonistas xatakafoto eos7d canoneos7d puentedelosdescalzos javiercorbo
+license: 6
+latitude: 45.433492
+longitude: 12.339888
+accuracy: 16
+views: 12
+interestingness: 55 out of 53
+
+photo: 6451805437 b216b91832 7147
+owner: 59371508@N07
+title: Radio Telescope Dwingeloo
+originalsecret: 76d5433915
+originalformat: jpg
+o_height: 1000
+o_width: 678
+datetaken: 2008-07-21 14:45:01
+dateupload: 1322995050
+tags: netherlands radio for nederland ham institute telescope astronomy amateur antenne antenna drenthe radiotelescope disch hamradio amateurradio telescoop dwingeloo camras astron radiotelescoop pe1gvk wwwcamrasnl
+license: 0
+latitude: 52.812372
+longitude: 6.397368
+accuracy: 15
+views: 16
+interestingness: 56 out of 53
+
+photo: 6442004539 2b7655e222 7012
+owner: 11146274@N00
+title: Why is Cleanliness Confined Only to Our Home?
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-08-24 13:07:09
+dateupload: 1322841452
+tags: our home is newspaper education worship muslim islam text dirty article malaysia rubbish only letter customer why kualalumpur ramadan bacteria hygiene ramadhan mecca ourhome kotabaru confined ignorant kelantan trader contamination cleanliness purification poisoning healthdepartment standardofliving azan 2261 foodbazaar lettertoeditor saith rezeki ramadanbazaar kombizz wuduk islamicritual whyiscleanlinessconfinedonlytoourhome kelantanhealthdepartment malkut verandahofmecca
+license: 0
+latitude: 3.170339
+longitude: 101.701169
+accuracy: 13
+views: 20
+interestingness: 57 out of 53
+
+photo: 6441063649 bfcc015872 7021
+owner: 45034356@N03
+title: ? la fontaine ... dans le jardin... ?le de Chongming
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2008-11-29 05:45:40
+dateupload: 1322825905
+tags: chine chongming
+license: 0
+latitude: 31.61655
+longitude: 121.411972
+accuracy: 9
+views: 10
+interestingness: 58 out of 53
+
+photo: 6448284921 4b3384db8e 7031
+owner: 59371508@N07
+title: Radio Telescope Dwingeloo
+originalsecret: 9b1f144e85
+originalformat: jpg
+o_height: 1263
+o_width: 1671
+datetaken: 2006-03-04 12:57:20
+dateupload: 1322941805
+tags: netherlands radio for nederland ham institute telescope astronomy amateur antenne antenna drenthe radiotelescope disch hamradio amateurradio telescoop dwingeloo camras astron radiotelescoop pe1gvk wwwcamrasnl
+license: 0
+latitude: 52.812372
+longitude: 6.397368
+accuracy: 15
+views: 23
+interestingness: 59 out of 53
+
+photo: 6437543935 c658d4dec5 7010
+owner: 7891209@N04
+title: Christmas Windows Event (day 1)
+originalsecret: 589aa79514
+originalformat: jpg
+o_height: 1287
+o_width: 1932
+datetaken: 2011-12-01 16:48:51
+dateupload: 1322765848
+tags: xmas advent adventszeit weihnachtsmarkt hallesaale christmaswindow xmasmarket adventsfenster
+license: 1
+latitude: 51.486393
+longitude: 11.974668
+accuracy: 15
+views: 37
+interestingness: 60 out of 53
+
+photo: 6462326317 9a35c8e49f 7153
+owner: 48193279@N08
+title: Re-creation
+originalsecret: a9d7d9c81d
+originalformat: jpg
+o_height: 3168
+o_width: 4752
+datetaken: 2011-12-03 10:39:46
+dateupload: 1323123538
+tags: lancaster 20mm gh2
+license: 0
+latitude: 54.05183
+longitude: -2.794593
+accuracy: 16
+views: 40
+interestingness: 61 out of 53
+
+photo: 6475390779 1ed6a6c963 7025
+owner: 60488531@N05
+title: Philadelphia, PA Trip - 2011 - 02
+originalsecret: 2d1afb060d
+originalformat: jpg
+o_height: 720
+o_width: 1080
+datetaken: 2011-12-02 13:57:32
+dateupload: 1323322649
+tags: philadelphia pamodelmodelingshootchrisadvalcanondslrportraitportraitsstrobsstrobistspeedlightspeedlightsstudiolightportraiturepeoplewomenwomanladypersongirlyoungadobephotoshopcs5lightroomlightroom3mayhemmmproductionst2i55
+license: 0
+latitude: 39.961332
+longitude: -75.16983
+accuracy: 9
+views: 20
+interestingness: 62 out of 53
+
+photo: 6461493541 09d1e4326c 7022
+owner: 53725087@N08
+title: Quinta da Boa Vista (18)
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2010-07-24 13:13:14
+dateupload: 1323114266
+tags: naturalhistory palaeontology thequintadaboavistaenglishparkoftheniceviewisapublicparkofgreathistoricalimportanceinthecityofriodejaneiro braziltheparkwaspartofthegardensofthes?ocrist?v?opalace theresidenceoftheemperorsofbrazilinthe19thcenturythebuildingoftheoldpalacehostsnowthenationalmuseum withcollectionsonnaturalhistory ethnologyandarchaeologytheparkisalsothehomeofthezoologicalgardenofriodejaneiro withover2000speciesofanimalsthequintadaboavistaislocatedinthes?ocrist?v?oneighbourhood inthenorthzoneofriodejaneirocontentshide1history11origins12imperialpalace2thequintatoday21nationalmuseum22zoologicalgarden3references4externallinksedithistoryeditoriginsth whenthejesuitswereexpelledfromcolonialbrazil thelandwasdividedandgiventoprivatelandlordsintheearly19thcentury partofthefarmbelongedtoeliasant?niolopes arichportuguesemerchant whoaround1803builtamanorhouseontopofahillfromthishillonecouldappreciateawonderfulviewoftheguanabarabay hencethenameboavistaniceviewofthequintawhenprinceregentjohnviandtheportuguesecourtarrivedinriodejaneiro in1808 eliasant?niolopesdonatedhisfarmtotheprincejohnviappreciatedverymuchthegift andstayedlongperiodsinthemanorhouseatthetime thefarmwaslocatedrelativelyfarfromthecityofriodejaneiro andwassurroundedbymangrovesandswampslaterthesehadtobeeliminatedtofacilitatetheaccesstothecityeditimperialpalacemainarticlepa?odes?ocrist?v?otobetteraccommodatetheportugueseroyalfamily thehousewentthrougharenovationbetween1816and1821 directedbyenglisharchitectjohnjohnstoninfrontofthepalace johnstoninstalledadecorativegate agiftsentfromenglandtobrazilbyhughpercy 2nddukeofnorthumberlandthegatewaslatertransferredtotheentranceofthezoologicalgardenofthequintathehousebecameknownasthepa?odes?ocrist?v?oenglishpalaceofsaintchristopherafterthedeclarationoftherepublicofbrazil theimperialfamilyleftthecountryandthepalaceanditssurroundinggardensbecameemptyeditthequintatodaythequintadaboavistaisaverypopularattractionforlocalsandalsotouriststhefactthatthenorthzoneofriodejaneiro wherethequintaislocated hasveryfewpublicparksonlycontributestoitspopularitythemainattractionsaretheparkitself withitsgreenareas centenarytreesandlakes aswellasthenationalmuseumandthezoologicalgardeneditnationalmuseumneoclassicalfa?adeoftheformerimperialpalacethatcurrentlyhousesthenationalmuseumofbrazilmainarticlenationalmuseumofbrazilfoundedin1818bykingjohnviofp thenationalmuseumwastransferredtotheoldimperialpalaceofthequintain1892duringitslonghistory itscollectionshavebeengreatlyexpandedbyacquisitionsanddonations includingbyemperorpedroii agreatsponsorofthesciencesthecollectionsincludeastronomymostlymeteorites ethnologyincludingmanyinterestingworksbybrazilianindigenouspeoplesandarchaeologymostlyantiquesfromancientegyptmuchofthecollectiondisplayedbythemuseumstillconsistsofwhatwasgatheredbytheemperorpedroiihimselfinthism itreflects19thcenturyviewsofanthropology archeologyandsciencesingeneraladditionally asisthecasewiththebuilding thecollectionispoorlypreserveditreflectsthelackofpublicinvestmentineducationandsciencesinbrazilandisinnowaycomparabletomuseumsinthedevelopedwesternworldvisitorscanalsoseeafewroomsoftheancientpalacewithitsorigin likethethroneroom thecollectionsofbrazilianmonkeysandbirdsareparticularlyimportant
+license: 0
+latitude: -22.905495
+longitude: -43.225139
+accuracy: 16
+views: 2
+interestingness: 63 out of 53
+
+photo: 6467491999 c55e3e6f6d 7009
+owner: 90365334@N00
+title: freedom versus confinement #1  --  "libert? ou d?tention"
+originalsecret: 8142c9c8f7
+originalformat: jpg
+o_height: 696
+o_width: 1200
+datetaken: 2010-12-04 10:52:17
+dateupload: 1323200537
+tags: liberty prison libert? scull sanquentin p1020298 d?tention
+license: 3
+latitude: 37.936981
+longitude: -122.489853
+accuracy: 16
+views: 8
+interestingness: 64 out of 53
+
+photo: 6450270347 0dd508ee2e 7004
+owner: 98684031@N00
+title: Lorenzo
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-03 22:16:34
+dateupload: 1322968594
+tags: christmas navidad lorenzo
+license: 0
+latitude: 45.512279
+longitude: -73.554389
+accuracy: 11
+views: 33
+interestingness: 65 out of 53
+
+photo: 6474566839 3482569abb 7021
+owner: 28905536@N00
+title: IMG_7327 Orquidias no Caminho Claudio Coutinho, Rio de Janeiro, Brasil.
+originalsecret: 21df39c94c
+originalformat: jpg
+o_height: 804
+o_width: 537
+datetaken: 2011-12-07 23:47:56
+dateupload: 1323308924
+tags: brazil orchid brasil riodejaneiro orquidia baiadaguanabara praiavermelha caminhodobemtevi wilfredpaulse caminhocl?udiocoutinho
+license: 3
+latitude: -22.95445
+longitude: -43.162422
+accuracy: 11
+views: 1
+interestingness: 66 out of 53
+
+photo: 6456506235 e76dac733c 7141
+owner: 28905536@N00
+title: IMG_7315 Black-tufted Marmoset (Callithrix penicillata) - Mico-Estrela , Caminho Claudio Coutinho, Rio de Janeiro, Brasil
+originalsecret: 47e5baa529
+originalformat: jpg
+o_height: 537
+o_width: 804
+datetaken: 2011-12-05 22:58:43
+dateupload: 1323047175
+tags: brasil riodejaneiro praiavermelha micoestrela caminhoclaudiocoutinho wilfredpaulse blacktuftedmarmosetcallithrixpenicillata
+license: 3
+latitude: -22.957278
+longitude: -43.163995
+accuracy: 11
+views: 8
+interestingness: 67 out of 53
+
+photo: 6440243259 0294642ebb 7171
+owner: 50400298@N04
+title: Ft Stevens, Oregon
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-01 22:25:01
+dateupload: 1322807101
+tags: oregon crust concrete wire rust decay bunker abandon pacificnorthwest mold fortstevens dilapidated westbatteries
+license: 0
+latitude: 46.206774
+longitude: -123.977966
+accuracy: 13
+views: 9
+interestingness: 68 out of 53
+
+photo: 6440200533 2dfbf78bf1 7148
+owner: 58419032@N00
+title: Las Vegas Convention Center from the Las Vegas Hilton
+originalsecret: f322a6f731
+originalformat: jpg
+o_height: 782
+o_width: 3360
+datetaken: 2007-05-02 07:33:08
+dateupload: 1322806151
+tags: las vegas brown man hilton joe resort convention colony mortgage sachs
+license: 0
+latitude: 36.135656
+longitude: -115.151224
+accuracy: 13
+views: 4
+interestingness: 69 out of 53
+
+photo: 6471120883 cb24105eba 7147
+owner: 71526382@N08
+title: An Indian in Berlin
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-07 13:00:01
+dateupload: 1323259201
+tags: 
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 1
+interestingness: 70 out of 53
+
+photo: 6475814105 c35c0dd4ee 7167
+owner: 71453924@N00
+title: GSDF begins Fukushima cleanup work #1219
+originalsecret: 06746cec24
+originalformat: jpg
+o_height: 2800
+o_width: 2100
+datetaken: 2011-12-08 06:00:00
+dateupload: 1323332135
+tags: geotagged tokyo earthquake ?? ???? setagayaku ?????? geo:lat=38352426 geo:long=142366676
+license: 1
+latitude: 38.352426
+longitude: 142.366676
+accuracy: 16
+views: 3
+interestingness: 71 out of 53
+
+photo: 6451756427 f6a112522e 7029
+owner: 59371508@N07
+title: Radio Telescope Dwingeloo - Close-up feed
+originalsecret: c90a722fd0
+originalformat: jpg
+o_height: 918
+o_width: 1204
+datetaken: 2011-08-04 16:38:19
+dateupload: 1322994183
+tags: netherlands radio for nederland ham institute telescope astronomy amateur antenne antenna drenthe radiotelescope disch hamradio amateurradio telescoop dwingeloo camras astron radiotelescoop pe1gvk wwwcamrasnl
+license: 0
+latitude: 52.812372
+longitude: 6.397368
+accuracy: 15
+views: 9
+interestingness: 72 out of 53
+
+photo: 6451756183 d30c6a57a0 7150
+owner: 59371508@N07
+title: Radio Telescope Dwingeloo - Fulsize (3046 x 2038)
+originalsecret: 80cc94fddc
+originalformat: jpg
+o_height: 2038
+o_width: 3046
+datetaken: 2011-08-04 16:38:19
+dateupload: 1322994179
+tags: netherlands radio for nederland ham institute telescope astronomy amateur antenne antenna drenthe radiotelescope disch hamradio amateurradio telescoop dwingeloo camras astron radiotelescoop pe1gvk wwwcamrasnl
+license: 0
+latitude: 52.812372
+longitude: 6.397368
+accuracy: 15
+views: 13
+interestingness: 73 out of 53
+
+photo: 6451755021 82c6b3e929 7166
+owner: 59371508@N07
+title: Radio Telescope Dwingeloo - Backside
+originalsecret: 2a28dd79c6
+originalformat: jpg
+o_height: 1235
+o_width: 1838
+datetaken: 2011-08-04 17:00:37
+dateupload: 1322994159
+tags: netherlands radio for nederland ham institute telescope astronomy amateur antenne antenna drenthe radiotelescope disch hamradio amateurradio telescoop dwingeloo camras astron radiotelescoop pe1gvk wwwcamrasnl
+license: 0
+latitude: 52.812372
+longitude: 6.397368
+accuracy: 15
+views: 11
+interestingness: 74 out of 53
+
+photo: 6449719885 db82d35bb9 7145
+owner: 60488531@N05
+title: Onyx Sunkiss 01
+originalsecret: 5e1a3ce326
+originalformat: jpg
+o_height: 720
+o_width: 480
+datetaken: 2011-12-02 16:40:08
+dateupload: 1322960576
+tags: philadelphia paonyxsunkissmodelmodelingshootchrisadvalcanondslrportraitportraitsstrobsstrobistspeedlightspeedlightsstudiolightportraiturepeoplewomenwomanladypersongirlyoungadobephotoshopcs5lightroomlightroom3mayhemmmproductionst2i550
+license: 0
+latitude: 39.961332
+longitude: -75.16983
+accuracy: 9
+views: 132
+interestingness: 75 out of 53
+
+photo: 6448284181 8a104c2762 7004
+owner: 59371508@N07
+title: Radio Telescope Dwingeloo - Close-up feed
+originalsecret: 174c50bd18
+originalformat: jpg
+o_height: 913
+o_width: 1436
+datetaken: 2008-07-21 14:45:01
+dateupload: 1322941796
+tags: netherlands radio for nederland ham institute telescope astronomy amateur antenne antenna drenthe radiotelescope disch hamradio amateurradio telescoop dwingeloo camras astron radiotelescoop pe1gvk wwwcamrasnl
+license: 0
+latitude: 52.812372
+longitude: 6.397368
+accuracy: 15
+views: 22
+interestingness: 76 out of 53
+
+photo: 6448282795 857bf8e145 7148
+owner: 59371508@N07
+title: Radio Telescope Dwingeloo
+originalsecret: 4bc44b5eb2
+originalformat: jpg
+o_height: 1585
+o_width: 1731
+datetaken: 2011-06-26 11:29:48
+dateupload: 1322941777
+tags: netherlands radio for nederland ham institute telescope astronomy amateur antenne antenna drenthe radiotelescope disch hamradio amateurradio telescoop dwingeloo camras astron radiotelescoop pe1gvk wwwcamrasnl
+license: 0
+latitude: 52.812372
+longitude: 6.397368
+accuracy: 15
+views: 8
+interestingness: 77 out of 53
+
+photo: 6474104941 9ddf524f5c 7154
+owner: 68909435@N05
+title: baby_david_baby_steven_0006
+originalsecret: ec3978c8f5
+originalformat: jpg
+o_height: 2422
+o_width: 2246
+datetaken: 2011-12-07 11:35:04
+dateupload: 1323301165
+tags: wedding usa geotagged newspaper unitedstates september article arkansas miles janey 1980 ralph pavillion lucaspark crossett slemko geo:lat=3311550641 geo:lon=9197544158
+license: 0
+latitude: 33.115505
+longitude: -91.975442
+accuracy: 16
+views: 1
+interestingness: 78 out of 53
+
+photo: 6474101103 502dfd8819 7034
+owner: 68909435@N05
+title: baby_david_baby_steven_0002
+originalsecret: 7d5d50e0ed
+originalformat: jpg
+o_height: 1834
+o_width: 2180
+datetaken: 2011-12-07 11:35:02
+dateupload: 1323301101
+tags: wedding usa geotagged newspaper unitedstates september announcement article pavilion arkansas miles janey 1980 ralph lucaspark crossett slemko geo:lat=3311550641 geo:lon=9197544158
+license: 0
+latitude: 33.115505
+longitude: -91.975442
+accuracy: 16
+views: 3
+interestingness: 79 out of 53
+
+photo: 6473158789 0a5b003eef 7002
+owner: 59371508@N07
+title: Radio Telescope Dwingeloo
+originalsecret: 41c64c3b17
+originalformat: jpg
+o_height: 882
+o_width: 1024
+datetaken: 2011-12-07 20:55:18
+dateupload: 1323287718
+tags: netherlands radio for nederland ham institute telescope astronomy amateur antenne antenna drenthe radiotelescope disch hamradio amateurradio telescoop dwingeloo camras astron radiotelescoop pe1gvk wwwcamrasnl
+license: 0
+latitude: 52.812372
+longitude: 6.397368
+accuracy: 15
+views: 2
+interestingness: 80 out of 53
+
+photo: 6473152191 7bcd6d1449 7021
+owner: 59371508@N07
+title: Radio Telescope Dwingeloo
+originalsecret: d277c33ff7
+originalformat: jpg
+o_height: 722
+o_width: 1062
+datetaken: 2011-12-07 20:53:44
+dateupload: 1323287624
+tags: netherlands radio for nederland ham institute telescope astronomy amateur antenne antenna drenthe radiotelescope disch hamradio amateurradio telescoop dwingeloo camras astron radiotelescoop pe1gvk wwwcamrasnl
+license: 0
+latitude: 52.812372
+longitude: 6.397368
+accuracy: 15
+views: 3
+interestingness: 81 out of 53
+
+photo: 6472190747 2045c5781a 7146
+owner: 54564271@N03
+title: Catherine Choi  ?2011 6
+originalsecret: 00b100c0d1
+originalformat: jpg
+o_height: 504
+o_width: 472
+datetaken: 2011-12-01 11:43:41
+dateupload: 1323275127
+tags: art public nashville visualarts arts ap ib hhs internationalbaccalaureate art? commission? ?photography? ?fine ?advanced ?tennessee ?nashville hillsborohighschool ?ap? catherinechoi ?metro placement? tennessee? schools? carolhagen nashvillearts chagenstudio martiprofittstreuli hhsvisualarttechnologygrant visualarticle artbyinternationalbaccalaureatestudents
+license: 0
+latitude: 36.107482
+longitude: -86.812806
+accuracy: 15
+views: 3
+interestingness: 82 out of 53
+
+photo: 6472190681 e691c4a1d4 7143
+owner: 54564271@N03
+title: Catherine Choi  ?2011 5
+originalsecret: c6dcfba529
+originalformat: jpg
+o_height: 504
+o_width: 308
+datetaken: 2011-12-01 12:08:42
+dateupload: 1323275126
+tags: art public nashville visualarts arts ap ib hhs internationalbaccalaureate art? commission? ?photography? ?fine ?advanced ?tennessee ?nashville hillsborohighschool ?ap? catherinechoi ?metro placement? tennessee? schools? carolhagen nashvillearts chagenstudio martiprofittstreuli hhsvisualarttechnologygrant visualarticle artbyinternationalbaccalaureatestudents
+license: 0
+latitude: 36.107482
+longitude: -86.812806
+accuracy: 15
+views: 2
+interestingness: 83 out of 53
+
+photo: 6472190595 83487c6155 7146
+owner: 54564271@N03
+title: Catherine Choi  ?2011 04
+originalsecret: 4130ba3252
+originalformat: jpg
+o_height: 370
+o_width: 504
+datetaken: 2011-12-01 12:11:31
+dateupload: 1323275125
+tags: hillsborohighschool visualarts internationalbaccalaureate ?photography? martiprofittstreuli nashvillearts ?nashville tennessee? ?advanced placement? ?ap? ?metro nashville public schools? arts commission? ?tennessee ?fine art? visualarticle carolhagen hhsvisualarttechnologygrant chagenstudio hhs ap ib art artbyinternationalbaccalaureatestudents catherinechoi
+license: 0
+latitude: 36.107482
+longitude: -86.812806
+accuracy: 15
+views: 0
+interestingness: 84 out of 53
+
+photo: 6472190543 b64a52c9a1 7025
+owner: 54564271@N03
+title: Catherine Choi  ?2011 03
+originalsecret: 870739166c
+originalformat: jpg
+o_height: 504
+o_width: 339
+datetaken: 2011-12-01 12:12:51
+dateupload: 1323275124
+tags: art public nashville visualarts arts ap ib hhs internationalbaccalaureate art? commission? ?photography? ?fine ?advanced ?tennessee ?nashville hillsborohighschool ?ap? catherinechoi ?metro placement? tennessee? schools? carolhagen nashvillearts chagenstudio martiprofittstreuli hhsvisualarttechnologygrant visualarticle artbyinternationalbaccalaureatestudents
+license: 0
+latitude: 36.107482
+longitude: -86.812806
+accuracy: 15
+views: 3
+interestingness: 85 out of 53
+
+photo: 6472190483 927f213a72 7014
+owner: 54564271@N03
+title: Catherine Choi  ?2011 02
+originalsecret: d166fb3e0b
+originalformat: jpg
+o_height: 504
+o_width: 391
+datetaken: 2011-12-01 12:50:12
+dateupload: 1323275124
+tags: art public nashville visualarts arts ap ib hhs internationalbaccalaureate art? commission? ?photography? ?fine ?advanced ?tennessee ?nashville hillsborohighschool ?ap? catherinechoi ?metro placement? tennessee? schools? carolhagen nashvillearts chagenstudio martiprofittstreuli hhsvisualarttechnologygrant visualarticle artbyinternationalbaccalaureatestudents
+license: 0
+latitude: 36.107482
+longitude: -86.812806
+accuracy: 15
+views: 5
+interestingness: 86 out of 53
+
+photo: 6472190409 2262c29222 7146
+owner: 54564271@N03
+title: Catherine Choi  ?2011 01a
+originalsecret: 7797026587
+originalformat: jpg
+o_height: 504
+o_width: 401
+datetaken: 2011-12-01 12:57:32
+dateupload: 1323275123
+tags: art public nashville visualarts arts ap ib hhs internationalbaccalaureate art? commission? ?photography? ?fine ?advanced ?tennessee ?nashville hillsborohighschool ?ap? catherinechoi ?metro placement? tennessee? schools? carolhagen nashvillearts chagenstudio martiprofittstreuli hhsvisualarttechnologygrant visualarticle artbyinternationalbaccalaureatestudents
+license: 0
+latitude: 36.107482
+longitude: -86.812806
+accuracy: 15
+views: 2
+interestingness: 87 out of 53
+
+photo: 6472190309 58308879d4 7162
+owner: 54564271@N03
+title: Catherine Choi  ?2011 7
+originalsecret: 835744e071
+originalformat: jpg
+o_height: 415
+o_width: 504
+datetaken: 2011-12-01 11:34:58
+dateupload: 1323275122
+tags: art public nashville visualarts arts ap ib hhs internationalbaccalaureate art? commission? ?photography? ?fine ?advanced ?tennessee ?nashville hillsborohighschool ?ap? catherinechoi ?metro placement? tennessee? schools? carolhagen nashvillearts chagenstudio martiprofittstreuli hhsvisualarttechnologygrant visualarticle artbyinternationalbaccalaureatestudents
+license: 0
+latitude: 36.107482
+longitude: -86.812806
+accuracy: 15
+views: 3
+interestingness: 88 out of 53
+
+photo: 6472164931 d290a1f610 7024
+owner: 54564271@N03
+title: Amiei Glawkins ?2011 01
+originalsecret: 98be6fe051
+originalformat: jpg
+o_height: 504
+o_width: 635
+datetaken: 2011-11-30 05:45:27
+dateupload: 1323274799
+tags: art public nashville visualarts arts ap ib hhs internationalbaccalaureate art? commission? ?photography? ?fine ?advanced ?tennessee ?nashville hillsborohighschool ?ap? ?metro placement? tennessee? schools? carolhagen nashvillearts chagenstudio martiprofittstreuli hhsvisualarttechnologygrant visualarticle artbyinternationalbaccalaureatestudents amieiglawkins
+license: 0
+latitude: 36.107482
+longitude: -86.812806
+accuracy: 15
+views: 2
+interestingness: 89 out of 53
+
+photo: 6472164859 4a115ecd0d 7013
+owner: 54564271@N03
+title: Amiei Glawkins ?2011 03
+originalsecret: 1f6e925d5b
+originalformat: jpg
+o_height: 504
+o_width: 617
+datetaken: 2011-12-01 13:06:16
+dateupload: 1323274798
+tags: art public nashville visualarts arts ap ib hhs internationalbaccalaureate art? commission? ?photography? ?fine ?advanced ?tennessee ?nashville hillsborohighschool ?ap? ?metro placement? tennessee? schools? carolhagen nashvillearts chagenstudio martiprofittstreuli hhsvisualarttechnologygrant visualarticle artbyinternationalbaccalaureatestudents amieiglawkins
+license: 0
+latitude: 36.107482
+longitude: -86.812806
+accuracy: 15
+views: 1
+interestingness: 90 out of 53
+
+photo: 6472107487 6990ff7063 7028
+owner: 54564271@N03
+title: Joyce Yoo ?2011 09
+originalsecret: 6f44040112
+originalformat: jpg
+o_height: 504
+o_width: 387
+datetaken: 2011-12-01 11:40:35
+dateupload: 1323274093
+tags: art public nashville arts ap joyce ib hhs yoo art? commission? ?photography? ?fine ?advanced ?tennessee ?nashville hillsborohighschool ?ap? ?metro placement? tennessee? schools? carolhagen nashvillearts chagenstudio martiprofittstreuli hhsvisualarttechnologygrant visualarticle artbyinternationalbaccalaureatestudents internationalbaccalaureatevisualarts
+license: 0
+latitude: 36.107482
+longitude: -86.812806
+accuracy: 15
+views: 0
+interestingness: 91 out of 53
+
+photo: 6472107443 658643a353 7161
+owner: 54564271@N03
+title: Joyce Yoo ?2011 08
+originalsecret: dc79be4fe6
+originalformat: jpg
+o_height: 504
+o_width: 350
+datetaken: 2011-12-01 11:29:17
+dateupload: 1323274092
+tags: art public nashville visualarts arts ap ib hhs internationalbaccalaureate art? commission? ?photography? ?fine ?advanced ?tennessee ?nashville hillsborohighschool ?ap? ?metro placement? tennessee? schools? carolhagen nashvillearts chagenstudio martiprofittstreuli hhsvisualarttechnologygrant visualarticle artbyinternationalbaccalaureatestudents joyceyoo
+license: 0
+latitude: 36.107482
+longitude: -86.812806
+accuracy: 15
+views: 0
+interestingness: 92 out of 53
+
+photo: 6472107385 c3aaca6044 7169
+owner: 54564271@N03
+title: Joyce Yoo ?2011 07
+originalsecret: e1024692b2
+originalformat: jpg
+o_height: 433
+o_width: 504
+datetaken: 2011-12-01 11:32:17
+dateupload: 1323274092
+tags: art public nashville visualarts arts ap ib hhs internationalbaccalaureate art? commission? ?photography? ?fine ?advanced ?tennessee ?nashville hillsborohighschool ?ap? ?metro placement? tennessee? schools? carolhagen nashvillearts chagenstudio martiprofittstreuli hhsvisualarttechnologygrant visualarticle artbyinternationalbaccalaureatestudents joyceyoo
+license: 0
+latitude: 36.107482
+longitude: -86.812806
+accuracy: 15
+views: 1
+interestingness: 93 out of 53
+
+photo: 6472107303 f35fd2a655 7149
+owner: 54564271@N03
+title: Joyce Yoo ?2011 06
+originalsecret: 40740a3103
+originalformat: jpg
+o_height: 432
+o_width: 504
+datetaken: 2011-12-01 11:45:59
+dateupload: 1323274091
+tags: art public nashville visualarts arts ap ib hhs internationalbaccalaureate art? commission? ?photography? ?fine ?advanced ?tennessee ?nashville hillsborohighschool ?ap? ?metro placement? tennessee? schools? carolhagen nashvillearts chagenstudio martiprofittstreuli hhsvisualarttechnologygrant visualarticle artbyinternationalbaccalaureatestudents joyceyoo
+license: 0
+latitude: 36.107482
+longitude: -86.812806
+accuracy: 15
+views: 0
+interestingness: 94 out of 53
+
+photo: 6472107231 fe27c1750a 7027
+owner: 54564271@N03
+title: Joyce Yoo ?2011 04
+originalsecret: 475031864d
+originalformat: jpg
+o_height: 471
+o_width: 504
+datetaken: 2011-12-06 06:18:43
+dateupload: 1323274090
+tags: art public nashville visualarts arts ap ib hhs internationalbaccalaureate art? commission? ?photography? ?fine ?advanced ?tennessee ?nashville hillsborohighschool ?ap? ?metro placement? tennessee? schools? carolhagen nashvillearts chagenstudio martiprofittstreuli hhsvisualarttechnologygrant visualarticle artbyinternationalbaccalaureatestudents joyceyoo
+license: 0
+latitude: 36.107482
+longitude: -86.812806
+accuracy: 15
+views: 0
+interestingness: 95 out of 53
+
+photo: 6472107109 47e6c9e0e7 7151
+owner: 54564271@N03
+title: Joyce Yoo ?2011 05
+originalsecret: d09eb11075
+originalformat: jpg
+o_height: 468
+o_width: 504
+datetaken: 2011-12-06 06:18:44
+dateupload: 1323274089
+tags: hillsborohighschool visualarts internationalbaccalaureate ?photography? martiprofittstreuli nashvillearts ?nashville tennessee? ?advanced placement? ?ap? ?metro nashville public schools? arts commission? ?tennessee ?fine art? visualarticle carolhagen hhsvisualarttechnologygrant chagenstudio hhs ap ib art artbyinternationalbaccalaureatestudents joyceyoo
+license: 0
+latitude: 36.107482
+longitude: -86.812806
+accuracy: 15
+views: 0
+interestingness: 96 out of 53
+
+photo: 6472107013 b2b8b994e9 7170
+owner: 54564271@N03
+title: Joyce Yoo ?2011 03
+originalsecret: 659f2fecb9
+originalformat: jpg
+o_height: 504
+o_width: 410
+datetaken: 2011-12-06 06:18:07
+dateupload: 1323274087
+tags: art public nashville visualarts arts ap ib hhs internationalbaccalaureate art? commission? ?photography? ?fine ?advanced ?tennessee ?nashville hillsborohighschool ?ap? ?metro placement? tennessee? schools? carolhagen nashvillearts chagenstudio martiprofittstreuli hhsvisualarttechnologygrant visualarticle artbyinternationalbaccalaureatestudents joyceyoo
+license: 0
+latitude: 36.107482
+longitude: -86.812806
+accuracy: 15
+views: 0
+interestingness: 97 out of 53
+
+photo: 6472106931 983d55a1f8 7148
+owner: 54564271@N03
+title: Joyce Yoo ?2011 02
+originalsecret: 5f44f54697
+originalformat: jpg
+o_height: 440
+o_width: 504
+datetaken: 2011-12-06 06:18:42
+dateupload: 1323274086
+tags: art public nashville visualarts arts ap ib hhs internationalbaccalaureate art? commission? ?photography? ?fine ?advanced ?tennessee ?nashville hillsborohighschool ?ap? ?metro placement? tennessee? schools? carolhagen nashvillearts chagenstudio martiprofittstreuli hhsvisualarttechnologygrant visualarticle artbyinternationalbaccalaureatestudents joyceyoo
+license: 0
+latitude: 36.107482
+longitude: -86.812806
+accuracy: 15
+views: 0
+interestingness: 98 out of 53
+
+photo: 6472106831 c2d27cb23f 7169
+owner: 54564271@N03
+title: Joyce Yoo ?2011 01
+originalsecret: fa18659bc9
+originalformat: jpg
+o_height: 504
+o_width: 356
+datetaken: 2011-12-06 06:18:06
+dateupload: 1323274085
+tags: art public nashville visualarts arts ap ib hhs internationalbaccalaureate art? commission? ?photography? ?fine ?advanced ?tennessee ?nashville hillsborohighschool ?ap? ?metro placement? tennessee? schools? carolhagen nashvillearts chagenstudio martiprofittstreuli hhsvisualarttechnologygrant visualarticle artbyinternationalbaccalaureatestudents joyceyoo
+license: 0
+latitude: 36.107482
+longitude: -86.812806
+accuracy: 15
+views: 1
+interestingness: 99 out of 53
+
+photo: 6472039547 77f623cb8b 7029
+owner: 54564271@N03
+title: Nelly Anaya ?2011 05
+originalsecret: 1bde1c998b
+originalformat: jpg
+o_height: 504
+o_width: 409
+datetaken: 2011-12-06 06:08:40
+dateupload: 1323273261
+tags: art public nashville visualarts arts ap ib hhs internationalbaccalaureate art? commission? ?photography? ?fine ?advanced ?tennessee ?nashville hillsborohighschool ?ap? ?metro placement? tennessee? schools? carolhagen nashvillearts chagenstudio martiprofittstreuli hhsvisualarttechnologygrant visualarticle artbyinternationalbaccalaureatestudents nellyanaya
+license: 0
+latitude: 36.107482
+longitude: -86.812806
+accuracy: 15
+views: 0
+interestingness: 100 out of 53
+
+photo: 6472039491 ef355ab0b1 7006
+owner: 54564271@N03
+title: Nelly Anaya ?2011 04
+originalsecret: 3776f7c714
+originalformat: jpg
+o_height: 405
+o_width: 504
+datetaken: 2011-12-06 06:10:37
+dateupload: 1323273261
+tags: art public nashville visualarts arts ap ib hhs internationalbaccalaureate art? commission? ?photography? ?fine ?advanced ?tennessee ?nashville hillsborohighschool ?ap? ?metro placement? tennessee? schools? carolhagen nashvillearts chagenstudio martiprofittstreuli hhsvisualarttechnologygrant visualarticle artbyinternationalbaccalaureatestudents nellyanaya
+license: 0
+latitude: 36.107482
+longitude: -86.812806
+accuracy: 15
+views: 0
+interestingness: 101 out of 53
+
+photo: 6472039441 48f49c0029 7024
+owner: 54564271@N03
+title: Nelly Anaya ?2011 03
+originalsecret: 5e024a48a2
+originalformat: jpg
+o_height: 413
+o_width: 504
+datetaken: 2011-12-06 06:10:04
+dateupload: 1323273260
+tags: art public nashville visualarts arts ap ib hhs internationalbaccalaureate art? commission? ?photography? ?fine ?advanced ?tennessee ?nashville hillsborohighschool ?ap? ?metro placement? tennessee? schools? carolhagen nashvillearts chagenstudio martiprofittstreuli hhsvisualarttechnologygrant visualarticle artbyinternationalbaccalaureatestudents nellyanaya
+license: 0
+latitude: 36.107482
+longitude: -86.812806
+accuracy: 15
+views: 0
+interestingness: 102 out of 53
+
+photo: 6472039371 3641d04d7b 7019
+owner: 54564271@N03
+title: Nelly Anaya ?2011 02
+originalsecret: 35d87c6bd4
+originalformat: jpg
+o_height: 504
+o_width: 353
+datetaken: 2011-12-06 06:07:35
+dateupload: 1323273259
+tags: art public nashville visualarts arts ap ib hhs internationalbaccalaureate art? commission? ?photography? ?fine ?advanced ?tennessee ?nashville hillsborohighschool ?ap? ?metro placement? tennessee? schools? carolhagen nashvillearts chagenstudio martiprofittstreuli hhsvisualarttechnologygrant visualarticle artbyinternationalbaccalaureatestudents nellyanaya
+license: 0
+latitude: 36.107482
+longitude: -86.812806
+accuracy: 15
+views: 0
+interestingness: 103 out of 53
+
+photo: 6472039317 4004469dbc 7016
+owner: 54564271@N03
+title: Nelly Anaya ?2011 01
+originalsecret: 82036e46eb
+originalformat: jpg
+o_height: 504
+o_width: 393
+datetaken: 2011-12-06 06:08:39
+dateupload: 1323273258
+tags: art public nashville visualarts arts ap ib hhs internationalbaccalaureate art? commission? ?photography? ?fine ?advanced ?tennessee ?nashville hillsborohighschool ?ap? ?metro placement? tennessee? schools? carolhagen nashvillearts chagenstudio martiprofittstreuli hhsvisualarttechnologygrant visualarticle artbyinternationalbaccalaureatestudents nellyanaya
+license: 0
+latitude: 36.107482
+longitude: -86.812806
+accuracy: 15
+views: 0
+interestingness: 104 out of 53
+
+photo: 6472039265 ae91ca7914 7174
+owner: 54564271@N03
+title: Nelly Anaya ?2011 07
+originalsecret: 27c6049a4a
+originalformat: jpg
+o_height: 504
+o_width: 384
+datetaken: 2011-12-01 11:38:42
+dateupload: 1323273258
+tags: art public nashville visualarts arts ap ib hhs internationalbaccalaureate art? commission? ?photography? ?fine ?advanced ?tennessee ?nashville hillsborohighschool ?ap? ?metro placement? tennessee? schools? carolhagen nashvillearts chagenstudio martiprofittstreuli hhsvisualarttechnologygrant visualarticle artbyinternationalbaccalaureatestudents nellyanaya
+license: 0
+latitude: 36.107482
+longitude: -86.812806
+accuracy: 15
+views: 0
+interestingness: 105 out of 53
+
+photo: 6471915551 355558ff4b 7012
+owner: 54564271@N03
+title: Dylan Haywood ?2011 17
+originalsecret: 7e8cf41232
+originalformat: jpg
+o_height: 504
+o_width: 511
+datetaken: 2011-11-30 05:17:17
+dateupload: 1323271709
+tags: art public nashville visualarts arts ap ib hhs internationalbaccalaureate art? commission? ?photography? ?fine ?advanced ?tennessee ?nashville hillsborohighschool ?ap? ?metro placement? tennessee? schools? carolhagen nashvillearts chagenstudio martiprofittstreuli hhsvisualarttechnologygrant visualarticle artbyinternationalbaccalaureatestudents dylanhaywood
+license: 0
+latitude: 36.107482
+longitude: -86.812806
+accuracy: 15
+views: 0
+interestingness: 106 out of 53
+
+photo: 6471642551 0f467a2e68 7143
+owner: 54564271@N03
+title: Naomi Daniel ?2011 14a
+originalsecret: 09e1a89901
+originalformat: jpg
+o_height: 504
+o_width: 396
+datetaken: 2011-11-30 05:58:26
+dateupload: 1323267876
+tags: art public nashville visualarts arts ap ib hhs internationalbaccalaureate art? commission? ?photography? ?fine naomidaniel ?advanced ?tennessee ?nashville hillsborohighschool ?ap? ?metro placement? tennessee? schools? carolhagen nashvillearts chagenstudio martiprofittstreuli hhsvisualarttechnologygrant visualarticle artbyinternationalbaccalaureatestudents
+license: 0
+latitude: 36.107482
+longitude: -86.812806
+accuracy: 15
+views: 0
+interestingness: 107 out of 53
+
+photo: 6471642507 30497a9063 7174
+owner: 54564271@N03
+title: Naomi Daniel ?2011 13
+originalsecret: 12e2691eb7
+originalformat: jpg
+o_height: 406
+o_width: 504
+datetaken: 2011-11-30 05:32:09
+dateupload: 1323267876
+tags: art public nashville visualarts arts ap ib hhs internationalbaccalaureate art? commission? ?photography? ?fine naomidaniel ?advanced ?tennessee ?nashville hillsborohighschool ?ap? ?metro placement? tennessee? schools? carolhagen nashvillearts chagenstudio martiprofittstreuli hhsvisualarttechnologygrant visualarticle artbyinternationalbaccalaureatestudents
+license: 0
+latitude: 36.107482
+longitude: -86.812806
+accuracy: 15
+views: 0
+interestingness: 108 out of 53
+
+photo: 6471642465 7ab14e01e5 7007
+owner: 54564271@N03
+title: Naomi Daniel ?2011 12
+originalsecret: e5dfa47594
+originalformat: jpg
+o_height: 336
+o_width: 504
+datetaken: 2011-11-30 05:28:23
+dateupload: 1323267875
+tags: art public nashville visualarts arts ap ib hhs internationalbaccalaureate art? commission? ?photography? ?fine naomidaniel ?advanced ?tennessee ?nashville hillsborohighschool ?ap? ?metro placement? tennessee? schools? carolhagen nashvillearts chagenstudio martiprofittstreuli hhsvisualarttechnologygrant visualarticle artbyinternationalbaccalaureatestudents
+license: 0
+latitude: 36.107482
+longitude: -86.812806
+accuracy: 15
+views: 2
+interestingness: 109 out of 53
+
+photo: 6471642417 6b2e54d5c8 7142
+owner: 54564271@N03
+title: Naomi Daniel ?2011 11
+originalsecret: bae05e7c89
+originalformat: jpg
+o_height: 339
+o_width: 504
+datetaken: 2011-11-30 05:20:59
+dateupload: 1323267874
+tags: art public nashville visualarts arts ap ib hhs internationalbaccalaureate art? commission? ?photography? ?fine naomidaniel ?advanced ?tennessee ?nashville hillsborohighschool ?ap? ?metro placement? tennessee? schools? carolhagen nashvillearts chagenstudio martiprofittstreuli hhsvisualarttechnologygrant visualarticle artbyinternationalbaccalaureatestudents
+license: 0
+latitude: 36.107482
+longitude: -86.812806
+accuracy: 15
+views: 0
+interestingness: 110 out of 53
+
+photo: 6471642379 8d92093780 7162
+owner: 54564271@N03
+title: Naomi Daniel ?2011 10
+originalsecret: 4e3b820147
+originalformat: jpg
+o_height: 367
+o_width: 504
+datetaken: 2011-11-30 05:13:11
+dateupload: 1323267873
+tags: hillsborohighschool visualarts internationalbaccalaureate ?photography? martiprofittstreuli nashvillearts ?nashville tennessee? ?advanced placement? ?ap? ?metro nashville public schools? arts commission? ?tennessee ?fine art? visualarticle carolhagen hhsvisualarttechnologygrant chagenstudio hhs ap ib art artbyinternationalbaccalaureatestudents naomidaniel
+license: 0
+latitude: 36.107482
+longitude: -86.812806
+accuracy: 15
+views: 0
+interestingness: 111 out of 53
+
+photo: 6471642309 b372acf131 7152
+owner: 54564271@N03
+title: Naomi Daniel ?2011 09
+originalsecret: cb1cb4a50e
+originalformat: jpg
+o_height: 504
+o_width: 388
+datetaken: 2011-11-30 05:10:28
+dateupload: 1323267872
+tags: art public nashville visualarts arts ap ib hhs internationalbaccalaureate art? commission? ?photography? ?fine naomidaniel ?advanced ?tennessee ?nashville hillsborohighschool ?ap? ?metro placement? tennessee? schools? carolhagen nashvillearts chagenstudio martiprofittstreuli hhsvisualarttechnologygrant visualarticle artbyinternationalbaccalaureatestudents
+license: 0
+latitude: 36.107482
+longitude: -86.812806
+accuracy: 15
+views: 0
+interestingness: 112 out of 53
+
+photo: 6461509835 7dee5ede2d 7019
+owner: 53725087@N08
+title: Quinta da Boa Vista (21)
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2010-07-24 13:19:52
+dateupload: 1323114447
+tags: naturalhistory palaeontology thequintadaboavistaenglishparkoftheniceviewisapublicparkofgreathistoricalimportanceinthecityofriodejaneiro braziltheparkwaspartofthegardensofthes?ocrist?v?opalace theresidenceoftheemperorsofbrazilinthe19thcenturythebuildingoftheoldpalacehostsnowthenationalmuseum withcollectionsonnaturalhistory ethnologyandarchaeologytheparkisalsothehomeofthezoologicalgardenofriodejaneiro withover2000speciesofanimalsthequintadaboavistaislocatedinthes?ocrist?v?oneighbourhood inthenorthzoneofriodejaneirocontentshide1history11origins12imperialpalace2thequintatoday21nationalmuseum22zoologicalgarden3references4externallinksedithistoryeditoriginsth whenthejesuitswereexpelledfromcolonialbrazil thelandwasdividedandgiventoprivatelandlordsintheearly19thcentury partofthefarmbelongedtoeliasant?niolopes arichportuguesemerchant whoaround1803builtamanorhouseontopofahillfromthishillonecouldappreciateawonderfulviewoftheguanabarabay hencethenameboavistaniceviewofthequintawhenprinceregentjohnviandtheportuguesecourtarrivedinriodejaneiro in1808 eliasant?niolopesdonatedhisfarmtotheprincejohnviappreciatedverymuchthegift andstayedlongperiodsinthemanorhouseatthetime thefarmwaslocatedrelativelyfarfromthecityofriodejaneiro andwassurroundedbymangrovesandswampslaterthesehadtobeeliminatedtofacilitatetheaccesstothecityeditimperialpalacemainarticlepa?odes?ocrist?v?otobetteraccommodatetheportugueseroyalfamily thehousewentthrougharenovationbetween1816and1821 directedbyenglisharchitectjohnjohnstoninfrontofthepalace johnstoninstalledadecorativegate agiftsentfromenglandtobrazilbyhughpercy 2nddukeofnorthumberlandthegatewaslatertransferredtotheentranceofthezoologicalgardenofthequintathehousebecameknownasthepa?odes?ocrist?v?oenglishpalaceofsaintchristopherafterthedeclarationoftherepublicofbrazil theimperialfamilyleftthecountryandthepalaceanditssurroundinggardensbecameemptyeditthequintatodaythequintadaboavistaisaverypopularattractionforlocalsandalsotouriststhefactthatthenorthzoneofriodejaneiro wherethequintaislocated hasveryfewpublicparksonlycontributestoitspopularitythemainattractionsaretheparkitself withitsgreenareas centenarytreesandlakes aswellasthenationalmuseumandthezoologicalgardeneditnationalmuseumneoclassicalfa?adeoftheformerimperialpalacethatcurrentlyhousesthenationalmuseumofbrazilmainarticlenationalmuseumofbrazilfoundedin1818bykingjohnviofp thenationalmuseumwastransferredtotheoldimperialpalaceofthequintain1892duringitslonghistory itscollectionshavebeengreatlyexpandedbyacquisitionsanddonations includingbyemperorpedroii agreatsponsorofthesciencesthecollectionsincludeastronomymostlymeteorites ethnologyincludingmanyinterestingworksbybrazilianindigenouspeoplesandarchaeologymostlyantiquesfromancientegyptmuchofthecollectiondisplayedbythemuseumstillconsistsofwhatwasgatheredbytheemperorpedroiihimselfinthism itreflects19thcenturyviewsofanthropology archeologyandsciencesingeneraladditionally asisthecasewiththebuilding thecollectionispoorlypreserveditreflectsthelackofpublicinvestmentineducationandsciencesinbrazilandisinnowaycomparabletomuseumsinthedevelopedwesternworldvisitorscanalsoseeafewroomsoftheancientpalacewithitsorigin likethethroneroom thecollectionsofbrazilianmonkeysandbirdsareparticularlyimportant
+license: 0
+latitude: -22.905903
+longitude: -43.223956
+accuracy: 16
+views: 1
+interestingness: 113 out of 53
+
+photo: 6461505899 1de19363e1 7003
+owner: 53725087@N08
+title: Quinta da Boa Vista (20)
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2010-07-24 13:18:23
+dateupload: 1323114406
+tags: naturalhistory palaeontology thequintadaboavistaenglishparkoftheniceviewisapublicparkofgreathistoricalimportanceinthecityofriodejaneiro braziltheparkwaspartofthegardensofthes?ocrist?v?opalace theresidenceoftheemperorsofbrazilinthe19thcenturythebuildingoftheoldpalacehostsnowthenationalmuseum withcollectionsonnaturalhistory ethnologyandarchaeologytheparkisalsothehomeofthezoologicalgardenofriodejaneiro withover2000speciesofanimalsthequintadaboavistaislocatedinthes?ocrist?v?oneighbourhood inthenorthzoneofriodejaneirocontentshide1history11origins12imperialpalace2thequintatoday21nationalmuseum22zoologicalgarden3references4externallinksedithistoryeditoriginsth whenthejesuitswereexpelledfromcolonialbrazil thelandwasdividedandgiventoprivatelandlordsintheearly19thcentury partofthefarmbelongedtoeliasant?niolopes arichportuguesemerchant whoaround1803builtamanorhouseontopofahillfromthishillonecouldappreciateawonderfulviewoftheguanabarabay hencethenameboavistaniceviewofthequintawhenprinceregentjohnviandtheportuguesecourtarrivedinriodejaneiro in1808 eliasant?niolopesdonatedhisfarmtotheprincejohnviappreciatedverymuchthegift andstayedlongperiodsinthemanorhouseatthetime thefarmwaslocatedrelativelyfarfromthecityofriodejaneiro andwassurroundedbymangrovesandswampslaterthesehadtobeeliminatedtofacilitatetheaccesstothecityeditimperialpalacemainarticlepa?odes?ocrist?v?otobetteraccommodatetheportugueseroyalfamily thehousewentthrougharenovationbetween1816and1821 directedbyenglisharchitectjohnjohnstoninfrontofthepalace johnstoninstalledadecorativegate agiftsentfromenglandtobrazilbyhughpercy 2nddukeofnorthumberlandthegatewaslatertransferredtotheentranceofthezoologicalgardenofthequintathehousebecameknownasthepa?odes?ocrist?v?oenglishpalaceofsaintchristopherafterthedeclarationoftherepublicofbrazil theimperialfamilyleftthecountryandthepalaceanditssurroundinggardensbecameemptyeditthequintatodaythequintadaboavistaisaverypopularattractionforlocalsandalsotouriststhefactthatthenorthzoneofriodejaneiro wherethequintaislocated hasveryfewpublicparksonlycontributestoitspopularitythemainattractionsaretheparkitself withitsgreenareas centenarytreesandlakes aswellasthenationalmuseumandthezoologicalgardeneditnationalmuseumneoclassicalfa?adeoftheformerimperialpalacethatcurrentlyhousesthenationalmuseumofbrazilmainarticlenationalmuseumofbrazilfoundedin1818bykingjohnviofp thenationalmuseumwastransferredtotheoldimperialpalaceofthequintain1892duringitslonghistory itscollectionshavebeengreatlyexpandedbyacquisitionsanddonations includingbyemperorpedroii agreatsponsorofthesciencesthecollectionsincludeastronomymostlymeteorites ethnologyincludingmanyinterestingworksbybrazilianindigenouspeoplesandarchaeologymostlyantiquesfromancientegyptmuchofthecollectiondisplayedbythemuseumstillconsistsofwhatwasgatheredbytheemperorpedroiihimselfinthism itreflects19thcenturyviewsofanthropology archeologyandsciencesingeneraladditionally asisthecasewiththebuilding thecollectionispoorlypreserveditreflectsthelackofpublicinvestmentineducationandsciencesinbrazilandisinnowaycomparabletomuseumsinthedevelopedwesternworldvisitorscanalsoseeafewroomsoftheancientpalacewithitsorigin likethethroneroom thecollectionsofbrazilianmonkeysandbirdsareparticularlyimportant
+license: 0
+latitude: -22.905903
+longitude: -43.223956
+accuracy: 16
+views: 1
+interestingness: 114 out of 53
+
+photo: 6461501909 9bdfe52385 7142
+owner: 53725087@N08
+title: Quinta da Boa Vista (19)
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2010-07-24 13:13:41
+dateupload: 1323114361
+tags: naturalhistory palaeontology thequintadaboavistaenglishparkoftheniceviewisapublicparkofgreathistoricalimportanceinthecityofriodejaneiro braziltheparkwaspartofthegardensofthes?ocrist?v?opalace theresidenceoftheemperorsofbrazilinthe19thcenturythebuildingoftheoldpalacehostsnowthenationalmuseum withcollectionsonnaturalhistory ethnologyandarchaeologytheparkisalsothehomeofthezoologicalgardenofriodejaneiro withover2000speciesofanimalsthequintadaboavistaislocatedinthes?ocrist?v?oneighbourhood inthenorthzoneofriodejaneirocontentshide1history11origins12imperialpalace2thequintatoday21nationalmuseum22zoologicalgarden3references4externallinksedithistoryeditoriginsth whenthejesuitswereexpelledfromcolonialbrazil thelandwasdividedandgiventoprivatelandlordsintheearly19thcentury partofthefarmbelongedtoeliasant?niolopes arichportuguesemerchant whoaround1803builtamanorhouseontopofahillfromthishillonecouldappreciateawonderfulviewoftheguanabarabay hencethenameboavistaniceviewofthequintawhenprinceregentjohnviandtheportuguesecourtarrivedinriodejaneiro in1808 eliasant?niolopesdonatedhisfarmtotheprincejohnviappreciatedverymuchthegift andstayedlongperiodsinthemanorhouseatthetime thefarmwaslocatedrelativelyfarfromthecityofriodejaneiro andwassurroundedbymangrovesandswampslaterthesehadtobeeliminatedtofacilitatetheaccesstothecityeditimperialpalacemainarticlepa?odes?ocrist?v?otobetteraccommodatetheportugueseroyalfamily thehousewentthrougharenovationbetween1816and1821 directedbyenglisharchitectjohnjohnstoninfrontofthepalace johnstoninstalledadecorativegate agiftsentfromenglandtobrazilbyhughpercy 2nddukeofnorthumberlandthegatewaslatertransferredtotheentranceofthezoologicalgardenofthequintathehousebecameknownasthepa?odes?ocrist?v?oenglishpalaceofsaintchristopherafterthedeclarationoftherepublicofbrazil theimperialfamilyleftthecountryandthepalaceanditssurroundinggardensbecameemptyeditthequintatodaythequintadaboavistaisaverypopularattractionforlocalsandalsotouriststhefactthatthenorthzoneofriodejaneiro wherethequintaislocated hasveryfewpublicparksonlycontributestoitspopularitythemainattractionsaretheparkitself withitsgreenareas centenarytreesandlakes aswellasthenationalmuseumandthezoologicalgardeneditnationalmuseumneoclassicalfa?adeoftheformerimperialpalacethatcurrentlyhousesthenationalmuseumofbrazilmainarticlenationalmuseumofbrazilfoundedin1818bykingjohnviofp thenationalmuseumwastransferredtotheoldimperialpalaceofthequintain1892duringitslonghistory itscollectionshavebeengreatlyexpandedbyacquisitionsanddonations includingbyemperorpedroii agreatsponsorofthesciencesthecollectionsincludeastronomymostlymeteorites ethnologyincludingmanyinterestingworksbybrazilianindigenouspeoplesandarchaeologymostlyantiquesfromancientegyptmuchofthecollectiondisplayedbythemuseumstillconsistsofwhatwasgatheredbytheemperorpedroiihimselfinthism itreflects19thcenturyviewsofanthropology archeologyandsciencesingeneraladditionally asisthecasewiththebuilding thecollectionispoorlypreserveditreflectsthelackofpublicinvestmentineducationandsciencesinbrazilandisinnowaycomparabletomuseumsinthedevelopedwesternworldvisitorscanalsoseeafewroomsoftheancientpalacewithitsorigin likethethroneroom thecollectionsofbrazilianmonkeysandbirdsareparticularlyimportant
+license: 0
+latitude: -22.905495
+longitude: -43.225139
+accuracy: 16
+views: 2
+interestingness: 115 out of 53
+
+photo: 6461482591 b2bdb71844 7142
+owner: 53725087@N08
+title: Quinta da Boa Vista (15)
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2010-07-24 12:57:48
+dateupload: 1323114145
+tags: naturalhistory palaeontology thequintadaboavistaenglishparkoftheniceviewisapublicparkofgreathistoricalimportanceinthecityofriodejaneiro braziltheparkwaspartofthegardensofthes?ocrist?v?opalace theresidenceoftheemperorsofbrazilinthe19thcenturythebuildingoftheoldpalacehostsnowthenationalmuseum withcollectionsonnaturalhistory ethnologyandarchaeologytheparkisalsothehomeofthezoologicalgardenofriodejaneiro withover2000speciesofanimalsthequintadaboavistaislocatedinthes?ocrist?v?oneighbourhood inthenorthzoneofriodejaneirocontentshide1history11origins12imperialpalace2thequintatoday21nationalmuseum22zoologicalgarden3references4externallinksedithistoryeditoriginsth whenthejesuitswereexpelledfromcolonialbrazil thelandwasdividedandgiventoprivatelandlordsintheearly19thcentury partofthefarmbelongedtoeliasant?niolopes arichportuguesemerchant whoaround1803builtamanorhouseontopofahillfromthishillonecouldappreciateawonderfulviewoftheguanabarabay hencethenameboavistaniceviewofthequintawhenprinceregentjohnviandtheportuguesecourtarrivedinriodejaneiro in1808 eliasant?niolopesdonatedhisfarmtotheprincejohnviappreciatedverymuchthegift andstayedlongperiodsinthemanorhouseatthetime thefarmwaslocatedrelativelyfarfromthecityofriodejaneiro andwassurroundedbymangrovesandswampslaterthesehadtobeeliminatedtofacilitatetheaccesstothecityeditimperialpalacemainarticlepa?odes?ocrist?v?otobetteraccommodatetheportugueseroyalfamily thehousewentthrougharenovationbetween1816and1821 directedbyenglisharchitectjohnjohnstoninfrontofthepalace johnstoninstalledadecorativegate agiftsentfromenglandtobrazilbyhughpercy 2nddukeofnorthumberlandthegatewaslatertransferredtotheentranceofthezoologicalgardenofthequintathehousebecameknownasthepa?odes?ocrist?v?oenglishpalaceofsaintchristopherafterthedeclarationoftherepublicofbrazil theimperialfamilyleftthecountryandthepalaceanditssurroundinggardensbecameemptyeditthequintatodaythequintadaboavistaisaverypopularattractionforlocalsandalsotouriststhefactthatthenorthzoneofriodejaneiro wherethequintaislocated hasveryfewpublicparksonlycontributestoitspopularitythemainattractionsaretheparkitself withitsgreenareas centenarytreesandlakes aswellasthenationalmuseumandthezoologicalgardeneditnationalmuseumneoclassicalfa?adeoftheformerimperialpalacethatcurrentlyhousesthenationalmuseumofbrazilmainarticlenationalmuseumofbrazilfoundedin1818bykingjohnviofp thenationalmuseumwastransferredtotheoldimperialpalaceofthequintain1892duringitslonghistory itscollectionshavebeengreatlyexpandedbyacquisitionsanddonations includingbyemperorpedroii agreatsponsorofthesciencesthecollectionsincludeastronomymostlymeteorites ethnologyincludingmanyinterestingworksbybrazilianindigenouspeoplesandarchaeologymostlyantiquesfromancientegyptmuchofthecollectiondisplayedbythemuseumstillconsistsofwhatwasgatheredbytheemperorpedroiihimselfinthism itreflects19thcenturyviewsofanthropology archeologyandsciencesingeneraladditionally asisthecasewiththebuilding thecollectionispoorlypreserveditreflectsthelackofpublicinvestmentineducationandsciencesinbrazilandisinnowaycomparabletomuseumsinthedevelopedwesternworldvisitorscanalsoseeafewroomsoftheancientpalacewithitsorigin likethethroneroom thecollectionsofbrazilianmonkeysandbirdsareparticularlyimportant
+license: 0
+latitude: -22.905687
+longitude: -43.226306
+accuracy: 16
+views: 1
+interestingness: 116 out of 53
+
+photo: 6461480957 d620678628 7003
+owner: 53725087@N08
+title: Quinta da Boa Vista (14)
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2010-07-24 12:56:53
+dateupload: 1323114124
+tags: naturalhistory palaeontology thequintadaboavistaenglishparkoftheniceviewisapublicparkofgreathistoricalimportanceinthecityofriodejaneiro braziltheparkwaspartofthegardensofthes?ocrist?v?opalace theresidenceoftheemperorsofbrazilinthe19thcenturythebuildingoftheoldpalacehostsnowthenationalmuseum withcollectionsonnaturalhistory ethnologyandarchaeologytheparkisalsothehomeofthezoologicalgardenofriodejaneiro withover2000speciesofanimalsthequintadaboavistaislocatedinthes?ocrist?v?oneighbourhood inthenorthzoneofriodejaneirocontentshide1history11origins12imperialpalace2thequintatoday21nationalmuseum22zoologicalgarden3references4externallinksedithistoryeditoriginsth whenthejesuitswereexpelledfromcolonialbrazil thelandwasdividedandgiventoprivatelandlordsintheearly19thcentury partofthefarmbelongedtoeliasant?niolopes arichportuguesemerchant whoaround1803builtamanorhouseontopofahillfromthishillonecouldappreciateawonderfulviewoftheguanabarabay hencethenameboavistaniceviewofthequintawhenprinceregentjohnviandtheportuguesecourtarrivedinriodejaneiro in1808 eliasant?niolopesdonatedhisfarmtotheprincejohnviappreciatedverymuchthegift andstayedlongperiodsinthemanorhouseatthetime thefarmwaslocatedrelativelyfarfromthecityofriodejaneiro andwassurroundedbymangrovesandswampslaterthesehadtobeeliminatedtofacilitatetheaccesstothecityeditimperialpalacemainarticlepa?odes?ocrist?v?otobetteraccommodatetheportugueseroyalfamily thehousewentthrougharenovationbetween1816and1821 directedbyenglisharchitectjohnjohnstoninfrontofthepalace johnstoninstalledadecorativegate agiftsentfromenglandtobrazilbyhughpercy 2nddukeofnorthumberlandthegatewaslatertransferredtotheentranceofthezoologicalgardenofthequintathehousebecameknownasthepa?odes?ocrist?v?oenglishpalaceofsaintchristopherafterthedeclarationoftherepublicofbrazil theimperialfamilyleftthecountryandthepalaceanditssurroundinggardensbecameemptyeditthequintatodaythequintadaboavistaisaverypopularattractionforlocalsandalsotouriststhefactthatthenorthzoneofriodejaneiro wherethequintaislocated hasveryfewpublicparksonlycontributestoitspopularitythemainattractionsaretheparkitself withitsgreenareas centenarytreesandlakes aswellasthenationalmuseumandthezoologicalgardeneditnationalmuseumneoclassicalfa?adeoftheformerimperialpalacethatcurrentlyhousesthenationalmuseumofbrazilmainarticlenationalmuseumofbrazilfoundedin1818bykingjohnviofp thenationalmuseumwastransferredtotheoldimperialpalaceofthequintain1892duringitslonghistory itscollectionshavebeengreatlyexpandedbyacquisitionsanddonations includingbyemperorpedroii agreatsponsorofthesciencesthecollectionsincludeastronomymostlymeteorites ethnologyincludingmanyinterestingworksbybrazilianindigenouspeoplesandarchaeologymostlyantiquesfromancientegyptmuchofthecollectiondisplayedbythemuseumstillconsistsofwhatwasgatheredbytheemperorpedroiihimselfinthism itreflects19thcenturyviewsofanthropology archeologyandsciencesingeneraladditionally asisthecasewiththebuilding thecollectionispoorlypreserveditreflectsthelackofpublicinvestmentineducationandsciencesinbrazilandisinnowaycomparabletomuseumsinthedevelopedwesternworldvisitorscanalsoseeafewroomsoftheancientpalacewithitsorigin likethethroneroom thecollectionsofbrazilianmonkeysandbirdsareparticularlyimportant
+license: 0
+latitude: -22.905687
+longitude: -43.226306
+accuracy: 16
+views: 1
+interestingness: 117 out of 53
+
+photo: 6461474467 b16b47d953 7156
+owner: 53725087@N08
+title: Quinta da Boa Vista (13)
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2010-07-24 12:54:40
+dateupload: 1323114054
+tags: naturalhistory palaeontology thequintadaboavistaenglishparkoftheniceviewisapublicparkofgreathistoricalimportanceinthecityofriodejaneiro braziltheparkwaspartofthegardensofthes?ocrist?v?opalace theresidenceoftheemperorsofbrazilinthe19thcenturythebuildingoftheoldpalacehostsnowthenationalmuseum withcollectionsonnaturalhistory ethnologyandarchaeologytheparkisalsothehomeofthezoologicalgardenofriodejaneiro withover2000speciesofanimalsthequintadaboavistaislocatedinthes?ocrist?v?oneighbourhood inthenorthzoneofriodejaneirocontentshide1history11origins12imperialpalace2thequintatoday21nationalmuseum22zoologicalgarden3references4externallinksedithistoryeditoriginsth whenthejesuitswereexpelledfromcolonialbrazil thelandwasdividedandgiventoprivatelandlordsintheearly19thcentury partofthefarmbelongedtoeliasant?niolopes arichportuguesemerchant whoaround1803builtamanorhouseontopofahillfromthishillonecouldappreciateawonderfulviewoftheguanabarabay hencethenameboavistaniceviewofthequintawhenprinceregentjohnviandtheportuguesecourtarrivedinriodejaneiro in1808 eliasant?niolopesdonatedhisfarmtotheprincejohnviappreciatedverymuchthegift andstayedlongperiodsinthemanorhouseatthetime thefarmwaslocatedrelativelyfarfromthecityofriodejaneiro andwassurroundedbymangrovesandswampslaterthesehadtobeeliminatedtofacilitatetheaccesstothecityeditimperialpalacemainarticlepa?odes?ocrist?v?otobetteraccommodatetheportugueseroyalfamily thehousewentthrougharenovationbetween1816and1821 directedbyenglisharchitectjohnjohnstoninfrontofthepalace johnstoninstalledadecorativegate agiftsentfromenglandtobrazilbyhughpercy 2nddukeofnorthumberlandthegatewaslatertransferredtotheentranceofthezoologicalgardenofthequintathehousebecameknownasthepa?odes?ocrist?v?oenglishpalaceofsaintchristopherafterthedeclarationoftherepublicofbrazil theimperialfamilyleftthecountryandthepalaceanditssurroundinggardensbecameemptyeditthequintatodaythequintadaboavistaisaverypopularattractionforlocalsandalsotouriststhefactthatthenorthzoneofriodejaneiro wherethequintaislocated hasveryfewpublicparksonlycontributestoitspopularitythemainattractionsaretheparkitself withitsgreenareas centenarytreesandlakes aswellasthenationalmuseumandthezoologicalgardeneditnationalmuseumneoclassicalfa?adeoftheformerimperialpalacethatcurrentlyhousesthenationalmuseumofbrazilmainarticlenationalmuseumofbrazilfoundedin1818bykingjohnviofp thenationalmuseumwastransferredtotheoldimperialpalaceofthequintain1892duringitslonghistory itscollectionshavebeengreatlyexpandedbyacquisitionsanddonations includingbyemperorpedroii agreatsponsorofthesciencesthecollectionsincludeastronomymostlymeteorites ethnologyincludingmanyinterestingworksbybrazilianindigenouspeoplesandarchaeologymostlyantiquesfromancientegyptmuchofthecollectiondisplayedbythemuseumstillconsistsofwhatwasgatheredbytheemperorpedroiihimselfinthism itreflects19thcenturyviewsofanthropology archeologyandsciencesingeneraladditionally asisthecasewiththebuilding thecollectionispoorlypreserveditreflectsthelackofpublicinvestmentineducationandsciencesinbrazilandisinnowaycomparabletomuseumsinthedevelopedwesternworldvisitorscanalsoseeafewroomsoftheancientpalacewithitsorigin likethethroneroom thecollectionsofbrazilianmonkeysandbirdsareparticularlyimportant
+license: 0
+latitude: -22.905687
+longitude: -43.226306
+accuracy: 16
+views: 1
+interestingness: 118 out of 53
+
+photo: 6461470397 0ce6000536 7035
+owner: 53725087@N08
+title: Quinta da Boa Vista (12)
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2010-07-24 12:53:12
+dateupload: 1323114008
+tags: naturalhistory palaeontology thequintadaboavistaenglishparkoftheniceviewisapublicparkofgreathistoricalimportanceinthecityofriodejaneiro braziltheparkwaspartofthegardensofthes?ocrist?v?opalace theresidenceoftheemperorsofbrazilinthe19thcenturythebuildingoftheoldpalacehostsnowthenationalmuseum withcollectionsonnaturalhistory ethnologyandarchaeologytheparkisalsothehomeofthezoologicalgardenofriodejaneiro withover2000speciesofanimalsthequintadaboavistaislocatedinthes?ocrist?v?oneighbourhood inthenorthzoneofriodejaneirocontentshide1history11origins12imperialpalace2thequintatoday21nationalmuseum22zoologicalgarden3references4externallinksedithistoryeditoriginsth whenthejesuitswereexpelledfromcolonialbrazil thelandwasdividedandgiventoprivatelandlordsintheearly19thcentury partofthefarmbelongedtoeliasant?niolopes arichportuguesemerchant whoaround1803builtamanorhouseontopofahillfromthishillonecouldappreciateawonderfulviewoftheguanabarabay hencethenameboavistaniceviewofthequintawhenprinceregentjohnviandtheportuguesecourtarrivedinriodejaneiro in1808 eliasant?niolopesdonatedhisfarmtotheprincejohnviappreciatedverymuchthegift andstayedlongperiodsinthemanorhouseatthetime thefarmwaslocatedrelativelyfarfromthecityofriodejaneiro andwassurroundedbymangrovesandswampslaterthesehadtobeeliminatedtofacilitatetheaccesstothecityeditimperialpalacemainarticlepa?odes?ocrist?v?otobetteraccommodatetheportugueseroyalfamily thehousewentthrougharenovationbetween1816and1821 directedbyenglisharchitectjohnjohnstoninfrontofthepalace johnstoninstalledadecorativegate agiftsentfromenglandtobrazilbyhughpercy 2nddukeofnorthumberlandthegatewaslatertransferredtotheentranceofthezoologicalgardenofthequintathehousebecameknownasthepa?odes?ocrist?v?oenglishpalaceofsaintchristopherafterthedeclarationoftherepublicofbrazil theimperialfamilyleftthecountryandthepalaceanditssurroundinggardensbecameemptyeditthequintatodaythequintadaboavistaisaverypopularattractionforlocalsandalsotouriststhefactthatthenorthzoneofriodejaneiro wherethequintaislocated hasveryfewpublicparksonlycontributestoitspopularitythemainattractionsaretheparkitself withitsgreenareas centenarytreesandlakes aswellasthenationalmuseumandthezoologicalgardeneditnationalmuseumneoclassicalfa?adeoftheformerimperialpalacethatcurrentlyhousesthenationalmuseumofbrazilmainarticlenationalmuseumofbrazilfoundedin1818bykingjohnviofp thenationalmuseumwastransferredtotheoldimperialpalaceofthequintain1892duringitslonghistory itscollectionshavebeengreatlyexpandedbyacquisitionsanddonations includingbyemperorpedroii agreatsponsorofthesciencesthecollectionsincludeastronomymostlymeteorites ethnologyincludingmanyinterestingworksbybrazilianindigenouspeoplesandarchaeologymostlyantiquesfromancientegyptmuchofthecollectiondisplayedbythemuseumstillconsistsofwhatwasgatheredbytheemperorpedroiihimselfinthism itreflects19thcenturyviewsofanthropology archeologyandsciencesingeneraladditionally asisthecasewiththebuilding thecollectionispoorlypreserveditreflectsthelackofpublicinvestmentineducationandsciencesinbrazilandisinnowaycomparabletomuseumsinthedevelopedwesternworldvisitorscanalsoseeafewroomsoftheancientpalacewithitsorigin likethethroneroom thecollectionsofbrazilianmonkeysandbirdsareparticularlyimportant
+license: 0
+latitude: -22.905687
+longitude: -43.226306
+accuracy: 16
+views: 1
+interestingness: 119 out of 53
+
+photo: 6461463335 979dc9a46d 7002
+owner: 53725087@N08
+title: Quinta da Boa Vista (10)
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2010-07-24 12:50:32
+dateupload: 1323113932
+tags: naturalhistory palaeontology thequintadaboavistaenglishparkoftheniceviewisapublicparkofgreathistoricalimportanceinthecityofriodejaneiro braziltheparkwaspartofthegardensofthes?ocrist?v?opalace theresidenceoftheemperorsofbrazilinthe19thcenturythebuildingoftheoldpalacehostsnowthenationalmuseum withcollectionsonnaturalhistory ethnologyandarchaeologytheparkisalsothehomeofthezoologicalgardenofriodejaneiro withover2000speciesofanimalsthequintadaboavistaislocatedinthes?ocrist?v?oneighbourhood inthenorthzoneofriodejaneirocontentshide1history11origins12imperialpalace2thequintatoday21nationalmuseum22zoologicalgarden3references4externallinksedithistoryeditoriginsth whenthejesuitswereexpelledfromcolonialbrazil thelandwasdividedandgiventoprivatelandlordsintheearly19thcentury partofthefarmbelongedtoeliasant?niolopes arichportuguesemerchant whoaround1803builtamanorhouseontopofahillfromthishillonecouldappreciateawonderfulviewoftheguanabarabay hencethenameboavistaniceviewofthequintawhenprinceregentjohnviandtheportuguesecourtarrivedinriodejaneiro in1808 eliasant?niolopesdonatedhisfarmtotheprincejohnviappreciatedverymuchthegift andstayedlongperiodsinthemanorhouseatthetime thefarmwaslocatedrelativelyfarfromthecityofriodejaneiro andwassurroundedbymangrovesandswampslaterthesehadtobeeliminatedtofacilitatetheaccesstothecityeditimperialpalacemainarticlepa?odes?ocrist?v?otobetteraccommodatetheportugueseroyalfamily thehousewentthrougharenovationbetween1816and1821 directedbyenglisharchitectjohnjohnstoninfrontofthepalace johnstoninstalledadecorativegate agiftsentfromenglandtobrazilbyhughpercy 2nddukeofnorthumberlandthegatewaslatertransferredtotheentranceofthezoologicalgardenofthequintathehousebecameknownasthepa?odes?ocrist?v?oenglishpalaceofsaintchristopherafterthedeclarationoftherepublicofbrazil theimperialfamilyleftthecountryandthepalaceanditssurroundinggardensbecameemptyeditthequintatodaythequintadaboavistaisaverypopularattractionforlocalsandalsotouriststhefactthatthenorthzoneofriodejaneiro wherethequintaislocated hasveryfewpublicparksonlycontributestoitspopularitythemainattractionsaretheparkitself withitsgreenareas centenarytreesandlakes aswellasthenationalmuseumandthezoologicalgardeneditnationalmuseumneoclassicalfa?adeoftheformerimperialpalacethatcurrentlyhousesthenationalmuseumofbrazilmainarticlenationalmuseumofbrazilfoundedin1818bykingjohnviofp thenationalmuseumwastransferredtotheoldimperialpalaceofthequintain1892duringitslonghistory itscollectionshavebeengreatlyexpandedbyacquisitionsanddonations includingbyemperorpedroii agreatsponsorofthesciencesthecollectionsincludeastronomymostlymeteorites ethnologyincludingmanyinterestingworksbybrazilianindigenouspeoplesandarchaeologymostlyantiquesfromancientegyptmuchofthecollectiondisplayedbythemuseumstillconsistsofwhatwasgatheredbytheemperorpedroiihimselfinthism itreflects19thcenturyviewsofanthropology archeologyandsciencesingeneraladditionally asisthecasewiththebuilding thecollectionispoorlypreserveditreflectsthelackofpublicinvestmentineducationandsciencesinbrazilandisinnowaycomparabletomuseumsinthedevelopedwesternworldvisitorscanalsoseeafewroomsoftheancientpalacewithitsorigin likethethroneroom thecollectionsofbrazilianmonkeysandbirdsareparticularlyimportant
+license: 0
+latitude: -22.905687
+longitude: -43.226306
+accuracy: 16
+views: 1
+interestingness: 120 out of 53
+
+photo: 6461457617 20d860c95c 7148
+owner: 53725087@N08
+title: Quinta da Boa Vista (8)
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2010-07-24 12:46:51
+dateupload: 1323113875
+tags: naturalhistory palaeontology thequintadaboavistaenglishparkoftheniceviewisapublicparkofgreathistoricalimportanceinthecityofriodejaneiro braziltheparkwaspartofthegardensofthes?ocrist?v?opalace theresidenceoftheemperorsofbrazilinthe19thcenturythebuildingoftheoldpalacehostsnowthenationalmuseum withcollectionsonnaturalhistory ethnologyandarchaeologytheparkisalsothehomeofthezoologicalgardenofriodejaneiro withover2000speciesofanimalsthequintadaboavistaislocatedinthes?ocrist?v?oneighbourhood inthenorthzoneofriodejaneirocontentshide1history11origins12imperialpalace2thequintatoday21nationalmuseum22zoologicalgarden3references4externallinksedithistoryeditoriginsth whenthejesuitswereexpelledfromcolonialbrazil thelandwasdividedandgiventoprivatelandlordsintheearly19thcentury partofthefarmbelongedtoeliasant?niolopes arichportuguesemerchant whoaround1803builtamanorhouseontopofahillfromthishillonecouldappreciateawonderfulviewoftheguanabarabay hencethenameboavistaniceviewofthequintawhenprinceregentjohnviandtheportuguesecourtarrivedinriodejaneiro in1808 eliasant?niolopesdonatedhisfarmtotheprincejohnviappreciatedverymuchthegift andstayedlongperiodsinthemanorhouseatthetime thefarmwaslocatedrelativelyfarfromthecityofriodejaneiro andwassurroundedbymangrovesandswampslaterthesehadtobeeliminatedtofacilitatetheaccesstothecityeditimperialpalacemainarticlepa?odes?ocrist?v?otobetteraccommodatetheportugueseroyalfamily thehousewentthrougharenovationbetween1816and1821 directedbyenglisharchitectjohnjohnstoninfrontofthepalace johnstoninstalledadecorativegate agiftsentfromenglandtobrazilbyhughpercy 2nddukeofnorthumberlandthegatewaslatertransferredtotheentranceofthezoologicalgardenofthequintathehousebecameknownasthepa?odes?ocrist?v?oenglishpalaceofsaintchristopherafterthedeclarationoftherepublicofbrazil theimperialfamilyleftthecountryandthepalaceanditssurroundinggardensbecameemptyeditthequintatodaythequintadaboavistaisaverypopularattractionforlocalsandalsotouriststhefactthatthenorthzoneofriodejaneiro wherethequintaislocated hasveryfewpublicparksonlycontributestoitspopularitythemainattractionsaretheparkitself withitsgreenareas centenarytreesandlakes aswellasthenationalmuseumandthezoologicalgardeneditnationalmuseumneoclassicalfa?adeoftheformerimperialpalacethatcurrentlyhousesthenationalmuseumofbrazilmainarticlenationalmuseumofbrazilfoundedin1818bykingjohnviofp thenationalmuseumwastransferredtotheoldimperialpalaceofthequintain1892duringitslonghistory itscollectionshavebeengreatlyexpandedbyacquisitionsanddonations includingbyemperorpedroii agreatsponsorofthesciencesthecollectionsincludeastronomymostlymeteorites ethnologyincludingmanyinterestingworksbybrazilianindigenouspeoplesandarchaeologymostlyantiquesfromancientegyptmuchofthecollectiondisplayedbythemuseumstillconsistsofwhatwasgatheredbytheemperorpedroiihimselfinthism itreflects19thcenturyviewsofanthropology archeologyandsciencesingeneraladditionally asisthecasewiththebuilding thecollectionispoorlypreserveditreflectsthelackofpublicinvestmentineducationandsciencesinbrazilandisinnowaycomparabletomuseumsinthedevelopedwesternworldvisitorscanalsoseeafewroomsoftheancientpalacewithitsorigin likethethroneroom thecollectionsofbrazilianmonkeysandbirdsareparticularlyimportant
+license: 0
+latitude: -22.905687
+longitude: -43.226306
+accuracy: 16
+views: 1
+interestingness: 121 out of 53
+
+photo: 6461452169 9cc6f3cccd 7141
+owner: 53725087@N08
+title: Quinta da Boa Vista (6)
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2010-07-24 12:38:18
+dateupload: 1323113816
+tags: naturalhistory palaeontology thequintadaboavistaenglishparkoftheniceviewisapublicparkofgreathistoricalimportanceinthecityofriodejaneiro braziltheparkwaspartofthegardensofthes?ocrist?v?opalace theresidenceoftheemperorsofbrazilinthe19thcenturythebuildingoftheoldpalacehostsnowthenationalmuseum withcollectionsonnaturalhistory ethnologyandarchaeologytheparkisalsothehomeofthezoologicalgardenofriodejaneiro withover2000speciesofanimalsthequintadaboavistaislocatedinthes?ocrist?v?oneighbourhood inthenorthzoneofriodejaneirocontentshide1history11origins12imperialpalace2thequintatoday21nationalmuseum22zoologicalgarden3references4externallinksedithistoryeditoriginsth whenthejesuitswereexpelledfromcolonialbrazil thelandwasdividedandgiventoprivatelandlordsintheearly19thcentury partofthefarmbelongedtoeliasant?niolopes arichportuguesemerchant whoaround1803builtamanorhouseontopofahillfromthishillonecouldappreciateawonderfulviewoftheguanabarabay hencethenameboavistaniceviewofthequintawhenprinceregentjohnviandtheportuguesecourtarrivedinriodejaneiro in1808 eliasant?niolopesdonatedhisfarmtotheprincejohnviappreciatedverymuchthegift andstayedlongperiodsinthemanorhouseatthetime thefarmwaslocatedrelativelyfarfromthecityofriodejaneiro andwassurroundedbymangrovesandswampslaterthesehadtobeeliminatedtofacilitatetheaccesstothecityeditimperialpalacemainarticlepa?odes?ocrist?v?otobetteraccommodatetheportugueseroyalfamily thehousewentthrougharenovationbetween1816and1821 directedbyenglisharchitectjohnjohnstoninfrontofthepalace johnstoninstalledadecorativegate agiftsentfromenglandtobrazilbyhughpercy 2nddukeofnorthumberlandthegatewaslatertransferredtotheentranceofthezoologicalgardenofthequintathehousebecameknownasthepa?odes?ocrist?v?oenglishpalaceofsaintchristopherafterthedeclarationoftherepublicofbrazil theimperialfamilyleftthecountryandthepalaceanditssurroundinggardensbecameemptyeditthequintatodaythequintadaboavistaisaverypopularattractionforlocalsandalsotouriststhefactthatthenorthzoneofriodejaneiro wherethequintaislocated hasveryfewpublicparksonlycontributestoitspopularitythemainattractionsaretheparkitself withitsgreenareas centenarytreesandlakes aswellasthenationalmuseumandthezoologicalgardeneditnationalmuseumneoclassicalfa?adeoftheformerimperialpalacethatcurrentlyhousesthenationalmuseumofbrazilmainarticlenationalmuseumofbrazilfoundedin1818bykingjohnviofp thenationalmuseumwastransferredtotheoldimperialpalaceofthequintain1892duringitslonghistory itscollectionshavebeengreatlyexpandedbyacquisitionsanddonations includingbyemperorpedroii agreatsponsorofthesciencesthecollectionsincludeastronomymostlymeteorites ethnologyincludingmanyinterestingworksbybrazilianindigenouspeoplesandarchaeologymostlyantiquesfromancientegyptmuchofthecollectiondisplayedbythemuseumstillconsistsofwhatwasgatheredbytheemperorpedroiihimselfinthism itreflects19thcenturyviewsofanthropology archeologyandsciencesingeneraladditionally asisthecasewiththebuilding thecollectionispoorlypreserveditreflectsthelackofpublicinvestmentineducationandsciencesinbrazilandisinnowaycomparabletomuseumsinthedevelopedwesternworldvisitorscanalsoseeafewroomsoftheancientpalacewithitsorigin likethethroneroom thecollectionsofbrazilianmonkeysandbirdsareparticularlyimportant
+license: 0
+latitude: -22.905687
+longitude: -43.226306
+accuracy: 16
+views: 2
+interestingness: 122 out of 53
+
+photo: 6461443371 1ffbf88dd5 7025
+owner: 53725087@N08
+title: Quinta da Boa Vista (5)
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2010-07-24 12:33:31
+dateupload: 1323113725
+tags: naturalhistory palaeontology thequintadaboavistaenglishparkoftheniceviewisapublicparkofgreathistoricalimportanceinthecityofriodejaneiro braziltheparkwaspartofthegardensofthes?ocrist?v?opalace theresidenceoftheemperorsofbrazilinthe19thcenturythebuildingoftheoldpalacehostsnowthenationalmuseum withcollectionsonnaturalhistory ethnologyandarchaeologytheparkisalsothehomeofthezoologicalgardenofriodejaneiro withover2000speciesofanimalsthequintadaboavistaislocatedinthes?ocrist?v?oneighbourhood inthenorthzoneofriodejaneirocontentshide1history11origins12imperialpalace2thequintatoday21nationalmuseum22zoologicalgarden3references4externallinksedithistoryeditoriginsth whenthejesuitswereexpelledfromcolonialbrazil thelandwasdividedandgiventoprivatelandlordsintheearly19thcentury partofthefarmbelongedtoeliasant?niolopes arichportuguesemerchant whoaround1803builtamanorhouseontopofahillfromthishillonecouldappreciateawonderfulviewoftheguanabarabay hencethenameboavistaniceviewofthequintawhenprinceregentjohnviandtheportuguesecourtarrivedinriodejaneiro in1808 eliasant?niolopesdonatedhisfarmtotheprincejohnviappreciatedverymuchthegift andstayedlongperiodsinthemanorhouseatthetime thefarmwaslocatedrelativelyfarfromthecityofriodejaneiro andwassurroundedbymangrovesandswampslaterthesehadtobeeliminatedtofacilitatetheaccesstothecityeditimperialpalacemainarticlepa?odes?ocrist?v?otobetteraccommodatetheportugueseroyalfamily thehousewentthrougharenovationbetween1816and1821 directedbyenglisharchitectjohnjohnstoninfrontofthepalace johnstoninstalledadecorativegate agiftsentfromenglandtobrazilbyhughpercy 2nddukeofnorthumberlandthegatewaslatertransferredtotheentranceofthezoologicalgardenofthequintathehousebecameknownasthepa?odes?ocrist?v?oenglishpalaceofsaintchristopherafterthedeclarationoftherepublicofbrazil theimperialfamilyleftthecountryandthepalaceanditssurroundinggardensbecameemptyeditthequintatodaythequintadaboavistaisaverypopularattractionforlocalsandalsotouriststhefactthatthenorthzoneofriodejaneiro wherethequintaislocated hasveryfewpublicparksonlycontributestoitspopularitythemainattractionsaretheparkitself withitsgreenareas centenarytreesandlakes aswellasthenationalmuseumandthezoologicalgardeneditnationalmuseumneoclassicalfa?adeoftheformerimperialpalacethatcurrentlyhousesthenationalmuseumofbrazilmainarticlenationalmuseumofbrazilfoundedin1818bykingjohnviofp thenationalmuseumwastransferredtotheoldimperialpalaceofthequintain1892duringitslonghistory itscollectionshavebeengreatlyexpandedbyacquisitionsanddonations includingbyemperorpedroii agreatsponsorofthesciencesthecollectionsincludeastronomymostlymeteorites ethnologyincludingmanyinterestingworksbybrazilianindigenouspeoplesandarchaeologymostlyantiquesfromancientegyptmuchofthecollectiondisplayedbythemuseumstillconsistsofwhatwasgatheredbytheemperorpedroiihimselfinthism itreflects19thcenturyviewsofanthropology archeologyandsciencesingeneraladditionally asisthecasewiththebuilding thecollectionispoorlypreserveditreflectsthelackofpublicinvestmentineducationandsciencesinbrazilandisinnowaycomparabletomuseumsinthedevelopedwesternworldvisitorscanalsoseeafewroomsoftheancientpalacewithitsorigin likethethroneroom thecollectionsofbrazilianmonkeysandbirdsareparticularlyimportant
+license: 0
+latitude: -22.905687
+longitude: -43.226306
+accuracy: 16
+views: 1
+interestingness: 123 out of 53
+
+photo: 6461438625 fd4013a6b3 7014
+owner: 53725087@N08
+title: Quinta da Boa Vista (4)
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2010-07-24 12:33:19
+dateupload: 1323113676
+tags: naturalhistory palaeontology thequintadaboavistaenglishparkoftheniceviewisapublicparkofgreathistoricalimportanceinthecityofriodejaneiro braziltheparkwaspartofthegardensofthes?ocrist?v?opalace theresidenceoftheemperorsofbrazilinthe19thcenturythebuildingoftheoldpalacehostsnowthenationalmuseum withcollectionsonnaturalhistory ethnologyandarchaeologytheparkisalsothehomeofthezoologicalgardenofriodejaneiro withover2000speciesofanimalsthequintadaboavistaislocatedinthes?ocrist?v?oneighbourhood inthenorthzoneofriodejaneirocontentshide1history11origins12imperialpalace2thequintatoday21nationalmuseum22zoologicalgarden3references4externallinksedithistoryeditoriginsth whenthejesuitswereexpelledfromcolonialbrazil thelandwasdividedandgiventoprivatelandlordsintheearly19thcentury partofthefarmbelongedtoeliasant?niolopes arichportuguesemerchant whoaround1803builtamanorhouseontopofahillfromthishillonecouldappreciateawonderfulviewoftheguanabarabay hencethenameboavistaniceviewofthequintawhenprinceregentjohnviandtheportuguesecourtarrivedinriodejaneiro in1808 eliasant?niolopesdonatedhisfarmtotheprincejohnviappreciatedverymuchthegift andstayedlongperiodsinthemanorhouseatthetime thefarmwaslocatedrelativelyfarfromthecityofriodejaneiro andwassurroundedbymangrovesandswampslaterthesehadtobeeliminatedtofacilitatetheaccesstothecityeditimperialpalacemainarticlepa?odes?ocrist?v?otobetteraccommodatetheportugueseroyalfamily thehousewentthrougharenovationbetween1816and1821 directedbyenglisharchitectjohnjohnstoninfrontofthepalace johnstoninstalledadecorativegate agiftsentfromenglandtobrazilbyhughpercy 2nddukeofnorthumberlandthegatewaslatertransferredtotheentranceofthezoologicalgardenofthequintathehousebecameknownasthepa?odes?ocrist?v?oenglishpalaceofsaintchristopherafterthedeclarationoftherepublicofbrazil theimperialfamilyleftthecountryandthepalaceanditssurroundinggardensbecameemptyeditthequintatodaythequintadaboavistaisaverypopularattractionforlocalsandalsotouriststhefactthatthenorthzoneofriodejaneiro wherethequintaislocated hasveryfewpublicparksonlycontributestoitspopularitythemainattractionsaretheparkitself withitsgreenareas centenarytreesandlakes aswellasthenationalmuseumandthezoologicalgardeneditnationalmuseumneoclassicalfa?adeoftheformerimperialpalacethatcurrentlyhousesthenationalmuseumofbrazilmainarticlenationalmuseumofbrazilfoundedin1818bykingjohnviofp thenationalmuseumwastransferredtotheoldimperialpalaceofthequintain1892duringitslonghistory itscollectionshavebeengreatlyexpandedbyacquisitionsanddonations includingbyemperorpedroii agreatsponsorofthesciencesthecollectionsincludeastronomymostlymeteorites ethnologyincludingmanyinterestingworksbybrazilianindigenouspeoplesandarchaeologymostlyantiquesfromancientegyptmuchofthecollectiondisplayedbythemuseumstillconsistsofwhatwasgatheredbytheemperorpedroiihimselfinthism itreflects19thcenturyviewsofanthropology archeologyandsciencesingeneraladditionally asisthecasewiththebuilding thecollectionispoorlypreserveditreflectsthelackofpublicinvestmentineducationandsciencesinbrazilandisinnowaycomparabletomuseumsinthedevelopedwesternworldvisitorscanalsoseeafewroomsoftheancientpalacewithitsorigin likethethroneroom thecollectionsofbrazilianmonkeysandbirdsareparticularlyimportant
+license: 0
+latitude: -22.905687
+longitude: -43.226306
+accuracy: 16
+views: 1
+interestingness: 124 out of 53
+
+photo: 6461434033 5700c192e2 7031
+owner: 53725087@N08
+title: Quinta da Boa Vista (3)
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2010-07-24 12:30:33
+dateupload: 1323113627
+tags: naturalhistory palaeontology thequintadaboavistaenglishparkoftheniceviewisapublicparkofgreathistoricalimportanceinthecityofriodejaneiro braziltheparkwaspartofthegardensofthes?ocrist?v?opalace theresidenceoftheemperorsofbrazilinthe19thcenturythebuildingoftheoldpalacehostsnowthenationalmuseum withcollectionsonnaturalhistory ethnologyandarchaeologytheparkisalsothehomeofthezoologicalgardenofriodejaneiro withover2000speciesofanimalsthequintadaboavistaislocatedinthes?ocrist?v?oneighbourhood inthenorthzoneofriodejaneirocontentshide1history11origins12imperialpalace2thequintatoday21nationalmuseum22zoologicalgarden3references4externallinksedithistoryeditoriginsth whenthejesuitswereexpelledfromcolonialbrazil thelandwasdividedandgiventoprivatelandlordsintheearly19thcentury partofthefarmbelongedtoeliasant?niolopes arichportuguesemerchant whoaround1803builtamanorhouseontopofahillfromthishillonecouldappreciateawonderfulviewoftheguanabarabay hencethenameboavistaniceviewofthequintawhenprinceregentjohnviandtheportuguesecourtarrivedinriodejaneiro in1808 eliasant?niolopesdonatedhisfarmtotheprincejohnviappreciatedverymuchthegift andstayedlongperiodsinthemanorhouseatthetime thefarmwaslocatedrelativelyfarfromthecityofriodejaneiro andwassurroundedbymangrovesandswampslaterthesehadtobeeliminatedtofacilitatetheaccesstothecityeditimperialpalacemainarticlepa?odes?ocrist?v?otobetteraccommodatetheportugueseroyalfamily thehousewentthrougharenovationbetween1816and1821 directedbyenglisharchitectjohnjohnstoninfrontofthepalace johnstoninstalledadecorativegate agiftsentfromenglandtobrazilbyhughpercy 2nddukeofnorthumberlandthegatewaslatertransferredtotheentranceofthezoologicalgardenofthequintathehousebecameknownasthepa?odes?ocrist?v?oenglishpalaceofsaintchristopherafterthedeclarationoftherepublicofbrazil theimperialfamilyleftthecountryandthepalaceanditssurroundinggardensbecameemptyeditthequintatodaythequintadaboavistaisaverypopularattractionforlocalsandalsotouriststhefactthatthenorthzoneofriodejaneiro wherethequintaislocated hasveryfewpublicparksonlycontributestoitspopularitythemainattractionsaretheparkitself withitsgreenareas centenarytreesandlakes aswellasthenationalmuseumandthezoologicalgardeneditnationalmuseumneoclassicalfa?adeoftheformerimperialpalacethatcurrentlyhousesthenationalmuseumofbrazilmainarticlenationalmuseumofbrazilfoundedin1818bykingjohnviofp thenationalmuseumwastransferredtotheoldimperialpalaceofthequintain1892duringitslonghistory itscollectionshavebeengreatlyexpandedbyacquisitionsanddonations includingbyemperorpedroii agreatsponsorofthesciencesthecollectionsincludeastronomymostlymeteorites ethnologyincludingmanyinterestingworksbybrazilianindigenouspeoplesandarchaeologymostlyantiquesfromancientegyptmuchofthecollectiondisplayedbythemuseumstillconsistsofwhatwasgatheredbytheemperorpedroiihimselfinthism itreflects19thcenturyviewsofanthropology archeologyandsciencesingeneraladditionally asisthecasewiththebuilding thecollectionispoorlypreserveditreflectsthelackofpublicinvestmentineducationandsciencesinbrazilandisinnowaycomparabletomuseumsinthedevelopedwesternworldvisitorscanalsoseeafewroomsoftheancientpalacewithitsorigin likethethroneroom thecollectionsofbrazilianmonkeysandbirdsareparticularlyimportant
+license: 0
+latitude: -22.905687
+longitude: -43.226306
+accuracy: 16
+views: 1
+interestingness: 125 out of 53
+
+photo: 6461428371 578228991d 7160
+owner: 53725087@N08
+title: Quinta da Boa Vista (2)
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2010-07-24 12:29:43
+dateupload: 1323113563
+tags: naturalhistory palaeontology thequintadaboavistaenglishparkoftheniceviewisapublicparkofgreathistoricalimportanceinthecityofriodejaneiro braziltheparkwaspartofthegardensofthes?ocrist?v?opalace theresidenceoftheemperorsofbrazilinthe19thcenturythebuildingoftheoldpalacehostsnowthenationalmuseum withcollectionsonnaturalhistory ethnologyandarchaeologytheparkisalsothehomeofthezoologicalgardenofriodejaneiro withover2000speciesofanimalsthequintadaboavistaislocatedinthes?ocrist?v?oneighbourhood inthenorthzoneofriodejaneirocontentshide1history11origins12imperialpalace2thequintatoday21nationalmuseum22zoologicalgarden3references4externallinksedithistoryeditoriginsth whenthejesuitswereexpelledfromcolonialbrazil thelandwasdividedandgiventoprivatelandlordsintheearly19thcentury partofthefarmbelongedtoeliasant?niolopes arichportuguesemerchant whoaround1803builtamanorhouseontopofahillfromthishillonecouldappreciateawonderfulviewoftheguanabarabay hencethenameboavistaniceviewofthequintawhenprinceregentjohnviandtheportuguesecourtarrivedinriodejaneiro in1808 eliasant?niolopesdonatedhisfarmtotheprincejohnviappreciatedverymuchthegift andstayedlongperiodsinthemanorhouseatthetime thefarmwaslocatedrelativelyfarfromthecityofriodejaneiro andwassurroundedbymangrovesandswampslaterthesehadtobeeliminatedtofacilitatetheaccesstothecityeditimperialpalacemainarticlepa?odes?ocrist?v?otobetteraccommodatetheportugueseroyalfamily thehousewentthrougharenovationbetween1816and1821 directedbyenglisharchitectjohnjohnstoninfrontofthepalace johnstoninstalledadecorativegate agiftsentfromenglandtobrazilbyhughpercy 2nddukeofnorthumberlandthegatewaslatertransferredtotheentranceofthezoologicalgardenofthequintathehousebecameknownasthepa?odes?ocrist?v?oenglishpalaceofsaintchristopherafterthedeclarationoftherepublicofbrazil theimperialfamilyleftthecountryandthepalaceanditssurroundinggardensbecameemptyeditthequintatodaythequintadaboavistaisaverypopularattractionforlocalsandalsotouriststhefactthatthenorthzoneofriodejaneiro wherethequintaislocated hasveryfewpublicparksonlycontributestoitspopularitythemainattractionsaretheparkitself withitsgreenareas centenarytreesandlakes aswellasthenationalmuseumandthezoologicalgardeneditnationalmuseumneoclassicalfa?adeoftheformerimperialpalacethatcurrentlyhousesthenationalmuseumofbrazilmainarticlenationalmuseumofbrazilfoundedin1818bykingjohnviofp thenationalmuseumwastransferredtotheoldimperialpalaceofthequintain1892duringitslonghistory itscollectionshavebeengreatlyexpandedbyacquisitionsanddonations includingbyemperorpedroii agreatsponsorofthesciencesthecollectionsincludeastronomymostlymeteorites ethnologyincludingmanyinterestingworksbybrazilianindigenouspeoplesandarchaeologymostlyantiquesfromancientegyptmuchofthecollectiondisplayedbythemuseumstillconsistsofwhatwasgatheredbytheemperorpedroiihimselfinthism itreflects19thcenturyviewsofanthropology archeologyandsciencesingeneraladditionally asisthecasewiththebuilding thecollectionispoorlypreserveditreflectsthelackofpublicinvestmentineducationandsciencesinbrazilandisinnowaycomparabletomuseumsinthedevelopedwesternworldvisitorscanalsoseeafewroomsoftheancientpalacewithitsorigin likethethroneroom thecollectionsofbrazilianmonkeysandbirdsareparticularlyimportant
+license: 0
+latitude: -22.905687
+longitude: -43.226306
+accuracy: 16
+views: 2
+interestingness: 126 out of 53
+
+photo: 6461419653 6970935c1d 7001
+owner: 53725087@N08
+title: Quinta da Boa Vista
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2010-07-24 12:22:53
+dateupload: 1323113471
+tags: naturalhistory palaeontology thequintadaboavistaenglishparkoftheniceviewisapublicparkofgreathistoricalimportanceinthecityofriodejaneiro braziltheparkwaspartofthegardensofthes?ocrist?v?opalace theresidenceoftheemperorsofbrazilinthe19thcenturythebuildingoftheoldpalacehostsnowthenationalmuseum withcollectionsonnaturalhistory ethnologyandarchaeologytheparkisalsothehomeofthezoologicalgardenofriodejaneiro withover2000speciesofanimalsthequintadaboavistaislocatedinthes?ocrist?v?oneighbourhood inthenorthzoneofriodejaneirocontentshide1history11origins12imperialpalace2thequintatoday21nationalmuseum22zoologicalgarden3references4externallinksedithistoryeditoriginsth whenthejesuitswereexpelledfromcolonialbrazil thelandwasdividedandgiventoprivatelandlordsintheearly19thcentury partofthefarmbelongedtoeliasant?niolopes arichportuguesemerchant whoaround1803builtamanorhouseontopofahillfromthishillonecouldappreciateawonderfulviewoftheguanabarabay hencethenameboavistaniceviewofthequintawhenprinceregentjohnviandtheportuguesecourtarrivedinriodejaneiro in1808 eliasant?niolopesdonatedhisfarmtotheprincejohnviappreciatedverymuchthegift andstayedlongperiodsinthemanorhouseatthetime thefarmwaslocatedrelativelyfarfromthecityofriodejaneiro andwassurroundedbymangrovesandswampslaterthesehadtobeeliminatedtofacilitatetheaccesstothecityeditimperialpalacemainarticlepa?odes?ocrist?v?otobetteraccommodatetheportugueseroyalfamily thehousewentthrougharenovationbetween1816and1821 directedbyenglisharchitectjohnjohnstoninfrontofthepalace johnstoninstalledadecorativegate agiftsentfromenglandtobrazilbyhughpercy 2nddukeofnorthumberlandthegatewaslatertransferredtotheentranceofthezoologicalgardenofthequintathehousebecameknownasthepa?odes?ocrist?v?oenglishpalaceofsaintchristopherafterthedeclarationoftherepublicofbrazil theimperialfamilyleftthecountryandthepalaceanditssurroundinggardensbecameemptyeditthequintatodaythequintadaboavistaisaverypopularattractionforlocalsandalsotouriststhefactthatthenorthzoneofriodejaneiro wherethequintaislocated hasveryfewpublicparksonlycontributestoitspopularitythemainattractionsaretheparkitself withitsgreenareas centenarytreesandlakes aswellasthenationalmuseumandthezoologicalgardeneditnationalmuseumneoclassicalfa?adeoftheformerimperialpalacethatcurrentlyhousesthenationalmuseumofbrazilmainarticlenationalmuseumofbrazilfoundedin1818bykingjohnviofp thenationalmuseumwastransferredtotheoldimperialpalaceofthequintain1892duringitslonghistory itscollectionshavebeengreatlyexpandedbyacquisitionsanddonations includingbyemperorpedroii agreatsponsorofthesciencesthecollectionsincludeastronomymostlymeteorites ethnologyincludingmanyinterestingworksbybrazilianindigenouspeoplesandarchaeologymostlyantiquesfromancientegyptmuchofthecollectiondisplayedbythemuseumstillconsistsofwhatwasgatheredbytheemperorpedroiihimselfinthism itreflects19thcenturyviewsofanthropology archeologyandsciencesingeneraladditionally asisthecasewiththebuilding thecollectionispoorlypreserveditreflectsthelackofpublicinvestmentineducationandsciencesinbrazilandisinnowaycomparabletomuseumsinthedevelopedwesternworldvisitorscanalsoseeafewroomsoftheancientpalacewithitsorigin likethethroneroom theembassadorsroomandtheroomofempressteresacristinatheseroomsstilldisplayacoupleoriginalpiecesbutareoverallemptyeditzoologicalgardenmainarticlezoologicalgardenriodejaneirothezooofrioisperhapsthemostpopularattr thecollectionsofbrazilianmonkeysandbirdsareparticularlyimportant
+license: 0
+latitude: -22.905687
+longitude: -43.226306
+accuracy: 16
+views: 2
+interestingness: 127 out of 53
+
+photo: 6458447465 18bdf233ca 7168
+owner: 15969227@N04
+title: The Humboldt Bank Building - 785 Market Street, San Francisco
+originalsecret: 0a985ae08b
+originalformat: jpg
+o_height: 3728
+o_width: 2485
+datetaken: 2011-11-26 13:20:22
+dateupload: 1323072354
+tags: sanfrancisco detail building northerncalifornia architecture skyscraper downtown architecturaldetail sanfranciscobayarea soma southofmarket beauxarts earlyskyscraper meyerandobrien frederickhermanmeyer smithobrien
+license: 0
+latitude: 37.78601
+longitude: -122.405532
+accuracy: 15
+views: 18
+interestingness: 128 out of 53
+
+photo: 6456010365 e285232d8f 7006
+owner: 9415748@N04
+title: Nikon D5100 unboxing
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-04-18 10:54:34
+dateupload: 1323041765
+tags: camera nikon howto vs manual dslr unpacking fordummies unpack choose unboxing whichone autofocus decide userguide unbox d5100 nikond5100experience
+license: 0
+latitude: 42.352054
+longitude: -71.207665
+accuracy: 16
+views: 9
+interestingness: 129 out of 53
+
+photo: 6453638237 d9a9371c59 7018
+owner: 53003768@N06
+title: Hayley Crowell of Boca Raton, FL
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-04 09:04:44
+dateupload: 1323018284
+tags: sun florida soccer bocaraton sunsentinel sentinel sabr soccerassociationofbocaraton hayleycrowell snetinel
+license: 4
+latitude: 26.373257
+longitude: -80.139781
+accuracy: 16
+views: 15
+interestingness: 130 out of 53
+
+photo: 6450871843 16f7ac6d9e 7154
+owner: 38902313@N04
+title: After Work
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-04 00:46:28
+dateupload: 1322977588
+tags: travel autumn newzealand sky house nature clouds wanaka aroundtheworld gavinfirkser ubertrippy
+license: 0
+latitude: -44.691403
+longitude: 169.14604
+accuracy: 15
+views: 18
+interestingness: 131 out of 53
+
+photo: 6449127435 987c2363c4 7022
+owner: 29312235@N00
+title: Bryan Mc Cormack ? Beaubourg
+originalsecret: 618ef11822
+originalformat: jpg
+o_height: 768
+o_width: 1024
+datetaken: 2011-12-02 16:51:33
+dateupload: 1322952373
+tags: installation pompidou artcontemporain sida beaubourg pr?servatifs bryanmccormack ?ph?m?re capoteanglaise
+license: 1
+latitude: 48.860254
+longitude: 2.35205
+accuracy: 15
+views: 7
+interestingness: 132 out of 53
+
+photo: 6446871071 5518f626a6 7021
+owner: 80154053@N00
+title: lemur feast
+originalsecret: 89e603d385
+originalformat: jpg
+o_height: 3264
+o_width: 2448
+datetaken: 2011-11-25 18:07:06
+dateupload: 1322924235
+tags: cameraphone thanksgiving holiday feast paper newspaper illinois lemur article clipping iphone freeburg metroeast
+license: 0
+latitude: 38.428999
+longitude: -89.935
+accuracy: 16
+views: 12
+interestingness: 133 out of 53
+
+photo: 6442045983 601240516e 7163
+owner: 95413346@N00
+title: PeaceOnEarth.RamirezShrine.SligoCreek.27November2011.Flyer
+originalsecret: 870138e70d
+originalformat: jpg
+o_height: 1500
+o_width: 2100
+datetaken: 2011-12-02 14:06:58
+dateupload: 1322842018
+tags: autumn trees maryland thanksgivingweekend 2011 nicholsonstreet lateautumn hyattsvillemaryland publicmemorials princegeorgescountymaryland streetshrines marylandnationalcapitalparkandplanningcommission sligocreektrail november2011 treesplantsflowersherbs autumn2011 md2011 trees2011 lateautumn2011 treesplantsflowersherbs2011 princegeorgescountymd2011 nicholsonstreethyattsvillemaryland nicholsonstreethyattsvillemd2011 hyattsvillemd2011 nicholsonstreet2011 tyrellfoglepublicmemorial publicshrines publicshrines2011 publicmemorials2011 streetshrines2011 thanksgivingweekend2011 27november2011 kirkwoodparkhyattsvillemaryland kirkwoodparkhyattsvillemd kirkwoodparkneighborhoodparkhyattsvillemaryland kirkwoodpark2601nicholsonstreethyattsvillemd thanksgivingsunday27november2011 erlinalexisromeroramirezshrine erlinalexisromeroramirezshrinesligocreektrailbridgekirkwoodparkhyattsvillemd
+license: 5
+latitude: 38.961652
+longitude: -76.972446
+accuracy: 15
+views: 4
+interestingness: 134 out of 53
+
+photo: 6441063831 23c99da6c5 7161
+owner: 45034356@N03
+title: ?le de Chongming
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2008-11-30 03:48:00
+dateupload: 1322825910
+tags: chine chongming
+license: 0
+latitude: 31.606609
+longitude: 121.460037
+accuracy: 9
+views: 13
+interestingness: 135 out of 53
+
+photo: 6440932141 9b7293cd6d 7148
+owner: 72746018@N00
+title: Pavillon du V?n?zuela (Giardini, Venise)
+originalsecret: 3821295071
+originalformat: jpg
+o_height: 1024
+o_width: 1363
+datetaken: 2011-09-08 16:24:43
+dateupload: 1322823130
+tags: venice italy italia biennale venise venezia italie carloscarpa dalbera anniedalbera
+license: 4
+latitude: 45.429087
+longitude: 12.358224
+accuracy: 16
+views: 14
+interestingness: 136 out of 53
+
+photo: 6440401431 dfd6c32396 7169
+owner: 8981098@N07
+title: Em-Habbanim Foundation
+originalsecret: 3a653a3985
+originalformat: jpg
+o_height: 2516
+o_width: 1887
+datetaken: 2011-10-12 10:16:32
+dateupload: 1322810408
+tags: africa travel cemetery canon geotagged morocco fez maroc jewish fes peregrin mellah alma?rib ???????????? lindadevolder powershotsx30 f?seldjedid f?zeldjedid emhabbanimfoundation
+license: 0
+latitude: 34.039858
+longitude: -5.007019
+accuracy: 11
+views: 28
+interestingness: 137 out of 53
+
+photo: 6439470701 747daaef09 7162
+owner: 76458974@N00
+title: Part #2 of the article about the Holiday Tournement, Dec. 1981
+originalsecret: 04a702dc3f
+originalformat: jpg
+o_height: 2552
+o_width: 2663
+datetaken: 1981-12-01 00:00:00
+dateupload: 1322793599
+tags: ohio holiday mike wrestling 1981 todd dickie bha brookville brookvillestar
+license: 0
+latitude: 39.779848
+longitude: -84.064378
+accuracy: 15
+views: 12
+interestingness: 138 out of 53
+
+photo: 6436434327 cbcdbe1c35 7141
+owner: 57048464@N00
+title: NASCAR FANFEST 2011 - Jeff Gordon - Las Vegas, NV
+originalsecret: 579fbfb5aa
+originalformat: jpg
+o_height: 3456
+o_width: 5184
+datetaken: 2011-11-30 15:14:52
+dateupload: 1322902528
+tags: street las vegas red white rot st carpet downtown strasse nevada fremont nv autograph experience nascar driver motorsports sleeve signing meet greet fanfest 2011 tossmeanote
+license: 0
+latitude: 36.17026
+longitude: -115.143032
+accuracy: 16
+views: 15
+interestingness: 139 out of 53
+
+photo: 6434871871 c4b566cc47 7008
+owner: 71162608@N04
+title: KyotoShinbunNov29cutout
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-01 14:49:07
+dateupload: 1322718547
+tags: people eric university open lecture november26 seibi hawkinson 2011 fukuchiyama ??? ???????????people ???? ??????????? ??????????? ????
+license: 0
+latitude: 35.28446
+longitude: 135.128391
+accuracy: 15
+views: 0
+interestingness: 140 out of 53
+
+photo: 6473410787 f8ba4586b7 7152
+owner: 44124466908@N01
+title: #ows @raeabileah @CodePink on Market st #occupusf #occupywallstreet
+originalsecret: 847b86a253
+originalformat: jpg
+o_height: 1936
+o_width: 2592
+datetaken: 2011-12-07 12:42:25
+dateupload: 1323291115
+tags: sanfrancisco california ca iphone 2011 iphone4 iphonephoto iphone4camera iphone4photo
+license: 3
+latitude: 37.793
+longitude: -122.397167
+accuracy: 16
+views: 74
+interestingness: 141 out of 53
+
+photo: 6449128607 af37020823 7030
+owner: 29312235@N00
+title: Bryan Mc Cormack ? Beaubourg
+originalsecret: ae76d428c0
+originalformat: jpg
+o_height: 768
+o_width: 1024
+datetaken: 2011-12-02 16:59:43
+dateupload: 1322952388
+tags: installation pompidou artcontemporain sida beaubourg pr?servatifs bryanmccormack ?ph?m?re capoteanglaise
+license: 1
+latitude: 48.860254
+longitude: 2.35205
+accuracy: 15
+views: 5
+interestingness: 142 out of 53
+
+photo: 6449128187 de2226cfc4 7151
+owner: 29312235@N00
+title: Bryan Mc Cormack ? Beaubourg
+originalsecret: d685d9d490
+originalformat: jpg
+o_height: 621
+o_width: 1024
+datetaken: 2011-12-02 19:26:44
+dateupload: 1322952383
+tags: installation pompidou artcontemporain sida beaubourg pr?servatifs bryanmccormack ?ph?m?re capoteanglaise
+license: 1
+latitude: 48.860254
+longitude: 2.35205
+accuracy: 15
+views: 5
+interestingness: 143 out of 53
+
+photo: 6449127831 655bf1e720 7175
+owner: 29312235@N00
+title: Bryan Mc Cormack ? Beaubourg
+originalsecret: 94d92644ee
+originalformat: jpg
+o_height: 768
+o_width: 1024
+datetaken: 2011-12-02 16:36:58
+dateupload: 1322952378
+tags: installation pompidou artcontemporain sida beaubourg pr?servatifs bryanmccormack ?ph?m?re capoteanglaise
+license: 1
+latitude: 48.860254
+longitude: 2.35205
+accuracy: 15
+views: 5
+interestingness: 144 out of 53
+
+photo: 6443010289 8bb244e74d 7014
+owner: 47809596@N00
+title: PUBLISHED! The time-lapse article I wrote for Digital Photo Magazine's December 2011 issue has been released.
+originalsecret: d27db66893
+originalformat: jpg
+o_height: 612
+o_width: 612
+datetaken: 2011-12-02 14:43:57
+dateupload: 1322855037
+tags: square timelapse squareformat article normal iphoneography instagramapp uploaded:by=instagram foursquare:venue=4a04ba93f964a52023721fe3
+license: 0
+latitude: 40.715614
+longitude: -74.011545
+accuracy: 16
+views: 5
+interestingness: 145 out of 53
+
+photo: 6439645009 12d9e32f68 7025
+owner: 31067552@N00
+title: My grandmother gets her picture in the paper
+originalsecret: ba3592e351
+originalformat: png
+o_height: 3000
+o_width: 2142
+datetaken: 1948-07-25 07:26:00
+dateupload: 1322796362
+tags: fashion wisconsin newspaper journal exposition 1940s milwaukee gowns durand
+license: 1
+latitude: 43.041809
+longitude: -87.906837
+accuracy: 11
+views: 5
+interestingness: 146 out of 53
+
+photo: 6439492929 8429d08e88 7009
+owner: 76458974@N00
+title: 1981 Holiday Tournement Article Part #1
+originalsecret: b813b7f55b
+originalformat: jpg
+o_height: 1462
+o_width: 3145
+datetaken: 1981-12-01 00:00:00
+dateupload: 1322793954
+tags: ohio holiday wrestling wsu 1981 bhs brookville
+license: 0
+latitude: 39.779873
+longitude: -84.0644
+accuracy: 15
+views: 7
+interestingness: 147 out of 53
+
+photo: 6433982741 3741922e77 7011
+owner: 42016209@N08
+title: Cedar Waxwing Variant
+originalsecret: ff4f667c16
+originalformat: jpg
+o_height: 982
+o_width: 929
+datetaken: 2011-11-30 14:46:22
+dateupload: 1322704787
+tags: 
+license: 0
+latitude: 38.793262
+longitude: -75.211801
+accuracy: 13
+views: 62
+interestingness: 148 out of 53
+
+photo: 6475972369 912122f7be 7015
+owner: 20169731@N00
+title: Occupy San Francisco encampment cleared and cordoned
+originalsecret: 9971f26a02
+originalformat: png
+o_height: 1068
+o_width: 1365
+datetaken: 2011-12-07 16:31:23
+dateupload: 1323335984
+tags: sanfrancisco 99 demonstrations protests sfpd policehorse ows occupysanfrancisco
+license: 3
+latitude: 37.794618
+longitude: -122.394379
+accuracy: 15
+views: 0
+interestingness: 149 out of 53
+
+photo: 6473663965 55f09c66d7 7150
+owner: 14299517@N05
+title: Ch?teau de l'Isle (1)
+originalsecret: 739458f0e6
+originalformat: jpg
+o_height: 4824
+o_width: 3256
+datetaken: 2011-11-04 12:34:53
+dateupload: 1323294594
+tags: loire isle ruines loiret checy monumenthistorique saintdenisenval chateaudelisle
+license: 3
+latitude: 47.888595
+longitude: 1.994715
+accuracy: 13
+views: 4
+interestingness: 150 out of 53
+
+photo: 6468982351 d10ef6b8cc 7014
+owner: 9167196@N07
+title: George William Pettit
+originalsecret: 62e03c9c75
+originalformat: jpg
+o_height: 3000
+o_width: 4000
+datetaken: 2011-12-06 14:07:29
+dateupload: 1323220035
+tags: tennessee union hobby obituary civilwarveteran tombstonephoto georgewilliampettit 2ndtennesseecavalrycsa
+license: 6
+latitude: 37.441524
+longitude: -95.687978
+accuracy: 15
+views: 25
+interestingness: 151 out of 53
+
+photo: 6468931871 a801237222 7013
+owner: 9167196@N07
+title: William Wesley Basore
+originalsecret: 22f063e565
+originalformat: jpg
+o_height: 3000
+o_width: 4000
+datetaken: 2011-12-06 13:18:27
+dateupload: 1323219255
+tags: union indiana hobby obituary civilwarveteran tombstonephoto williamwesleybasore companye138thindianainfantry
+license: 6
+latitude: 37.439258
+longitude: -95.68875
+accuracy: 15
+views: 15
+interestingness: 152 out of 53
+
+photo: 6463049181 a4647af113 7163
+owner: 9428166@N03
+title: Irene Hixon Whitney Bridge
+originalsecret: 45a62c2139
+originalformat: jpg
+o_height: 3312
+o_width: 4416
+datetaken: 2011-10-08 16:08:09
+dateupload: 1323133059
+tags: minneapolis sandyrichard sandrarichard
+license: 2
+latitude: 44.969958
+longitude: -93.287981
+accuracy: 16
+views: 13
+interestingness: 153 out of 53
+
+photo: 6443364337 f5bfe38fde 7025
+owner: 26395922@N00
+title: Lion of Budapest
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-09-09 12:21:08
+dateupload: 1322859997
+tags: sculpture d50 hungary budapest lion chainbridge sz?chenyil?nch?d marschalkoj?nos
+license: 0
+latitude: 47.49856
+longitude: 19.041409
+accuracy: 16
+views: 11
+interestingness: 154 out of 53
+
+photo: 6473346801 dae3d7dd4d 7155
+owner: 82733052@N00
+title: Cud B... +?
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-07 21:37:06
+dateupload: 1323290226
+tags: france cafe frenchpress strasbourg fr attilio 25placecath?drale67000strasbourg
+license: 0
+latitude: 48.581943
+longitude: 7.750135
+accuracy: 16
+views: 10
+interestingness: 155 out of 53
+
+photo: 6466502983 5a112552eb 7007
+owner: 38582811@N04
+title: smuggling article
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2010-11-24 02:37:23
+dateupload: 1323188458
+tags: article packed smuggling
+license: 0
+latitude: 25.797109
+longitude: 56.326217
+accuracy: 11
+views: 6
+interestingness: 156 out of 53
+
+photo: 6463441489 7af42ca7b3 7013
+owner: 8736322@N08
+title: United States Flag & California State Flag
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-26 09:51:32
+dateupload: 1323138344
+tags: ca riverside usflag unitedstatesflag californiaflag californiastateflag elph300hs
+license: 0
+latitude: 33.967175
+longitude: -117.467217
+accuracy: 16
+views: 1
+interestingness: 157 out of 53
+
+photo: 6460226295 ddb9aa6a08 7020
+owner: 71526382@N08
+title: Nacht und Nebel
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-05 16:52:00
+dateupload: 1323100320
+tags: berlin art neuk?lln nachtundnebel
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 7
+interestingness: 158 out of 53
+
+photo: 6460202791 f9280103a4 7025
+owner: 71526382@N08
+title: having a break
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-05 16:47:26
+dateupload: 1323100046
+tags: berlin art falaffel dadafalaffel
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 3
+interestingness: 159 out of 53
+
+photo: 6440496005 916b066025 7017
+owner: 42660520@N03
+title: RIPE Community articles
+originalsecret: b6b35b04d6
+originalformat: jpg
+o_height: 768
+o_width: 1040
+datetaken: 2011-12-02 08:54:39
+dateupload: 1322812479
+tags: logo internet identity website profit branding redesign
+license: 0
+latitude: 50.850204
+longitude: 5.678493
+accuracy: 16
+views: 1
+interestingness: 160 out of 53
+
+photo: 6464922989 c9f6819c87 7024
+owner: 10758109@N04
+title: John Edward SOUTHAM - died at his mothers residence
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2010-06-04 11:50:36
+dateupload: 1323162513
+tags: 1800s divorce motherwell southam 4june2010 linwoodcemeteryfotlc
+license: 0
+latitude: -43.529617
+longitude: 172.68289
+accuracy: 15
+views: 22
+interestingness: 161 out of 53
+
+photo: 6464922823 64873a0619 7016
+owner: 10758109@N04
+title: John Edward SOUTHAM - died at his mothers residence
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2010-06-04 11:50:55
+dateupload: 1323162508
+tags: 1800s divorce motherwell southam 4june2010 linwoodcemeteryfotlc
+license: 0
+latitude: -43.529999
+longitude: 172.683019
+accuracy: 15
+views: 20
+interestingness: 162 out of 53
+
+photo: 6464922633 95137bde69 7006
+owner: 10758109@N04
+title: John Edward SOUTHAM - died at his mothers residence
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2010-06-04 11:50:25
+dateupload: 1323162504
+tags: 1800s divorce motherwell southam 4june2010 linwoodcemeteryfotlc
+license: 0
+latitude: -43.530489
+longitude: 172.684049
+accuracy: 15
+views: 19
+interestingness: 163 out of 53
+
+photo: 6454596207 4348f464dc 7175
+owner: 12468126@N00
+title: Christmas House, Hove
+originalsecret: 757edced32
+originalformat: jpg
+o_height: 3000
+o_width: 4000
+datetaken: 2011-12-04 20:10:45
+dateupload: 1323027982
+tags: christmas xmas brighton hove christmasdecoration
+license: 0
+latitude: 50.849686
+longitude: -0.190415
+accuracy: 13
+views: 12
+interestingness: 164 out of 53
+
+photo: 6453601283 1a0e296966 7151
+owner: 53003768@N06
+title: Finalist Hayley Crowell @ Boca Raton Rotary Club's Future Stars Performing Arts Competition
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-04 08:58:28
+dateupload: 1323017908
+tags: bocaraton miznerpark rotaryclub futurestars hayleycrowell
+license: 0
+latitude: 26.356333
+longitude: -80.0853
+accuracy: 16
+views: 5
+interestingness: 165 out of 53
+
+photo: 6475941759 65c9798033 7142
+owner: 37996578526@N01
+title: 7 jours chez les moines trappistes / tr?s bel article de @vinvin dans Cl?s.  "accro ? twiiter, je me suis reconnect? a moi-m?me."
+originalsecret: 7f7769f24b
+originalformat: jpg
+o_height: 1224
+o_width: 1632
+datetaken: 2011-12-08 10:07:19
+dateupload: 1323335239
+tags: geo:lon=234978675842285 uploaded:by=flicksquare foursquare:venue=4ba1e085f964a52029d037e3 geo:lat=488855451949143
+license: 1
+latitude: 48.885545
+longitude: 2.349786
+accuracy: 16
+views: 4
+interestingness: 166 out of 53
+
+photo: 6469142085 2f736005b7 7144
+owner: 11438926@N00
+title: Change in Inflation-Adjusted Home Prices Since November 2005:  San Diego County
+originalsecret: c15ca3f4d6
+originalformat: jpg
+o_height: 326
+o_width: 448
+datetaken: 2011-12-06 17:48:50
+dateupload: 1323222530
+tags: real estate bubble housing
+license: 6
+latitude: 32.715679
+longitude: -117.16172
+accuracy: 11
+views: 14
+interestingness: 167 out of 53
+
+photo: 6468813331 e609b5a06d 7143
+owner: 36221010@N03
+title: The Kitchen Brothers temple: Entry arch
+originalsecret: c474e847c8
+originalformat: jpg
+o_height: 691
+o_width: 1000
+datetaken: 2011-12-05 16:51:04
+dateupload: 1323217478
+tags: california santacruz canonp bw400cn
+license: 2
+latitude: 36.954774
+longitude: -122.044994
+accuracy: 16
+views: 2
+interestingness: 168 out of 53
+
+photo: 6468812803 8a471ae2ca 7142
+owner: 36221010@N03
+title: The Kitchen Brothers temple: Inner buildings
+originalsecret: 1aae3cfe48
+originalformat: jpg
+o_height: 599
+o_width: 1000
+datetaken: 2011-12-05 17:36:45
+dateupload: 1323217470
+tags: california santacruz canonp bw400cn
+license: 2
+latitude: 36.954774
+longitude: -122.044994
+accuracy: 16
+views: 2
+interestingness: 169 out of 53
+
+photo: 6468812263 ca04360032 7143
+owner: 36221010@N03
+title: The Kitchen Brothers temple: Signs of early Dalek worship
+originalsecret: 6201a07831
+originalformat: jpg
+o_height: 1000
+o_width: 667
+datetaken: 2011-12-05 18:01:00
+dateupload: 1323217462
+tags: california santacruz canonp bw400cn
+license: 2
+latitude: 36.954774
+longitude: -122.044994
+accuracy: 16
+views: 2
+interestingness: 170 out of 53
+
+photo: 6468811687 d530a5037e 7006
+owner: 36221010@N03
+title: The Kitchen Brothers temple: UFO beacon
+originalsecret: 9e394bb361
+originalformat: jpg
+o_height: 1000
+o_width: 667
+datetaken: 2011-12-05 17:19:22
+dateupload: 1323217454
+tags: california santacruz canonp bw400cn
+license: 2
+latitude: 36.954774
+longitude: -122.044994
+accuracy: 16
+views: 2
+interestingness: 171 out of 53
+
+photo: 6460253557 7ae929a554 7151
+owner: 71526382@N08
+title: Thomas Sicre - Inside Galleries
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-05 16:56:58
+dateupload: 1323100618
+tags: berlin art cell63 thomassicre
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 0
+interestingness: 172 out of 53
+
+photo: 6460195233 35452dabf2 7166
+owner: 71526382@N08
+title: "the" banana
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-05 16:45:53
+dateupload: 1323099953
+tags: berlin art banana galleries
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 2
+interestingness: 173 out of 53
+
+photo: 6454794779 ec777043a8 7014
+owner: 23121631@N08
+title: Metro Concorde, Paris
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-07-20 15:33:49
+dateupload: 1323029891
+tags: paris metro concorde
+license: 0
+latitude: 48.86657
+longitude: 2.322438
+accuracy: 15
+views: 2
+interestingness: 174 out of 53
+
+photo: 6440775213 3a9c28d37c 7150
+owner: 25849529@N04
+title: Missouri Headwaters State Park
+originalsecret: d6806612c9
+originalformat: jpg
+o_height: 3456
+o_width: 5184
+datetaken: 2011-04-10 14:27:55
+dateupload: 1322819381
+tags: lewis missouri clark headwaters
+license: 3
+latitude: 45.919908
+longitude: -111.499139
+accuracy: 16
+views: 2
+interestingness: 175 out of 53
+
+photo: 6473713115 4d0cbf523d 7152
+owner: 33170436@N03
+title: Pryor's Hut - Notice
+originalsecret: 8dd45bd4a9
+originalformat: jpg
+o_height: 768
+o_width: 1024
+datetaken: 2011-12-08 09:01:45
+dateupload: 1323295305
+tags: cotterriver pryorshut archivesact
+license: 2
+latitude: -35.555691
+longitude: 148.777198
+accuracy: 11
+views: 3
+interestingness: 176 out of 53
+
+photo: 6473713103 bfe87d8044 7009
+owner: 33170436@N03
+title: Pryor's Hut
+originalsecret: 57f8690020
+originalformat: jpg
+o_height: 768
+o_width: 1024
+datetaken: 2011-12-08 09:01:45
+dateupload: 1323295305
+tags: cotterriver pryorshut archivesact
+license: 2
+latitude: -35.555691
+longitude: 148.777198
+accuracy: 11
+views: 2
+interestingness: 177 out of 53
+
+photo: 6471188883 a7cd6a68a0 7011
+owner: 7955903@N06
+title: Why?
+originalsecret: 24a52c083e
+originalformat: jpg
+o_height: 587
+o_width: 887
+datetaken: 2011-12-07 07:21:28
+dateupload: 1323260488
+tags: sticker countrymusic davidnail
+license: 0
+latitude: 40.713744
+longitude: -73.949468
+accuracy: 15
+views: 2
+interestingness: 178 out of 53
+
+photo: 6463047683 f12f7ef7d3 7026
+owner: 9428166@N03
+title: Irene Hixon Whitney Bridge
+originalsecret: 7d92bfac21
+originalformat: jpg
+o_height: 3094
+o_width: 3898
+datetaken: 2011-10-08 16:09:15
+dateupload: 1323133038
+tags: minneapolis sandyrichard sandrarichard
+license: 2
+latitude: 44.969963
+longitude: -93.287217
+accuracy: 16
+views: 0
+interestingness: 179 out of 53
+
+photo: 6463046457 b3a0de3917 7158
+owner: 9428166@N03
+title: Irene Hixon Whitney Bridge
+originalsecret: 1396a7a685
+originalformat: jpg
+o_height: 2576
+o_width: 4056
+datetaken: 2011-10-08 16:07:07
+dateupload: 1323133021
+tags: minneapolis sandyrichard sandrarichard
+license: 2
+latitude: 44.969947
+longitude: -93.288037
+accuracy: 16
+views: 1
+interestingness: 180 out of 53
+
+photo: 6463045487 6174bbd41b 7150
+owner: 9428166@N03
+title: Irene Hixon Whitney Bridge
+originalsecret: 971f67218f
+originalformat: jpg
+o_height: 3273
+o_width: 4239
+datetaken: 2011-10-08 16:09:38
+dateupload: 1323133007
+tags: minneapolis sandyrichard sandrarichard
+license: 2
+latitude: 44.969955
+longitude: -93.287053
+accuracy: 16
+views: 0
+interestingness: 181 out of 53
+
+photo: 6463044179 00d4f7b2ea 7169
+owner: 9428166@N03
+title: Irene Hixon Whitney Bridge
+originalsecret: c157daeabc
+originalformat: jpg
+o_height: 2727
+o_width: 3351
+datetaken: 2011-10-08 16:10:16
+dateupload: 1323132986
+tags: minneapolis sandyrichard sandrarichard
+license: 2
+latitude: 44.969586
+longitude: -93.287114
+accuracy: 16
+views: 0
+interestingness: 182 out of 53
+
+photo: 6460345693 5ea29b413a 7001
+owner: 71526382@N08
+title: artparasites going through Berlin
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-05 17:13:41
+dateupload: 1323101621
+tags: berlin art artparasites
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 1
+interestingness: 183 out of 53
+
+photo: 6439647193 3f1b4f98f5 7030
+owner: 78263773@N00
+title: Hong Kong Magazine 2005 -Page 1
+originalsecret: 6b75337820
+originalformat: jpg
+o_height: 1500
+o_width: 2100
+datetaken: 2005-10-21 09:58:18
+dateupload: 1322796401
+tags: 
+license: 0
+latitude: 35.694981
+longitude: 139.792356
+accuracy: 14
+views: 4
+interestingness: 184 out of 53
+
+photo: 6436004305 326f9a5378 7168
+owner: 45034356@N03
+title: ?le de Chongming
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2008-11-30 03:40:52
+dateupload: 1322743665
+tags: chine chongming ?cologie
+license: 0
+latitude: 31.62001
+longitude: 121.395317
+accuracy: 9
+views: 5
+interestingness: 185 out of 53
+
+photo: 6475391149 5e780e74b3 7151
+owner: 60488531@N05
+title: Philadelphia, PA Trip - 2011 - 01
+originalsecret: 00e0b5b05d
+originalformat: jpg
+o_height: 720
+o_width: 1080
+datetaken: 2011-12-02 20:02:33
+dateupload: 1323322657
+tags: philadelphia pamodelmodelingshootchrisadvalcanondslrportraitportraitsstrobsstrobistspeedlightspeedlightsstudiolightportraiturepeoplewomenwomanladypersongirlyoungadobephotoshopcs5lightroomlightroom3mayhemmmproductionst2i55
+license: 0
+latitude: 39.961332
+longitude: -75.16983
+accuracy: 9
+views: 11
+interestingness: 186 out of 53
+
+photo: 6475390059 2eb6d04cba 7033
+owner: 60488531@N05
+title: Philadelphia, PA Trip - 2011 - 03
+originalsecret: 4f4557a666
+originalformat: jpg
+o_height: 667
+o_width: 1000
+datetaken: 2011-12-02 18:35:05
+dateupload: 1323322632
+tags: philadelphia pamodelmodelingshootchrisadvalcanondslrportraitportraitsstrobsstrobistspeedlightspeedlightsstudiolightportraiturepeoplewomenwomanladypersongirlyoungadobephotoshopcs5lightroomlightroom3mayhemmmproductionst2i55
+license: 0
+latitude: 39.961332
+longitude: -75.16983
+accuracy: 9
+views: 6
+interestingness: 187 out of 53
+
+photo: 6475389687 5eb6b930a6 7020
+owner: 60488531@N05
+title: Philadelphia, PA Trip - 2011 - 04
+originalsecret: 1bb6ba1be9
+originalformat: jpg
+o_height: 667
+o_width: 1000
+datetaken: 2011-12-02 15:41:17
+dateupload: 1323322624
+tags: philadelphia pamodelmodelingshootchrisadvalcanondslrportraitportraitsstrobsstrobistspeedlightspeedlightsstudiolightportraiturepeoplewomenwomanladypersongirlyoungadobephotoshopcs5lightroomlightroom3mayhemmmproductionst2i55
+license: 0
+latitude: 39.961332
+longitude: -75.16983
+accuracy: 9
+views: 1
+interestingness: 188 out of 53
+
+photo: 6475389259 76e9cae261 7029
+owner: 60488531@N05
+title: Philadelphia, PA Trip - 2011 - 05
+originalsecret: 0588fa108b
+originalformat: jpg
+o_height: 667
+o_width: 1000
+datetaken: 2011-12-02 13:58:10
+dateupload: 1323322615
+tags: philadelphia pamodelmodelingshootchrisadvalcanondslrportraitportraitsstrobsstrobistspeedlightspeedlightsstudiolightportraiturepeoplewomenwomanladypersongirlyoungadobephotoshopcs5lightroomlightroom3mayhemmmproductionst2i55
+license: 0
+latitude: 39.961332
+longitude: -75.16983
+accuracy: 9
+views: 6
+interestingness: 189 out of 53
+
+photo: 6475388625 f3cdcac12e 7152
+owner: 60488531@N05
+title: Philadelphia, PA Trip - 2011 - 06
+originalsecret: 0cfcd8a086
+originalformat: jpg
+o_height: 667
+o_width: 1000
+datetaken: 2011-12-02 13:57:40
+dateupload: 1323322601
+tags: philadelphia pamodelmodelingshootchrisadvalcanondslrportraitportraitsstrobsstrobistspeedlightspeedlightsstudiolightportraiturepeoplewomenwomanladypersongirlyoungadobephotoshopcs5lightroomlightroom3mayhemmmproductionst2i55
+license: 0
+latitude: 39.961332
+longitude: -75.16983
+accuracy: 9
+views: 5
+interestingness: 190 out of 53
+
+photo: 6475387673 205fd0f917 7030
+owner: 60488531@N05
+title: Philadelphia, PA Trip - 2011 - 07
+originalsecret: cd917a2aa4
+originalformat: jpg
+o_height: 1000
+o_width: 667
+datetaken: 2011-12-02 13:13:06
+dateupload: 1323322581
+tags: philadelphia pamodelmodelingshootchrisadvalcanondslrportraitportraitsstrobsstrobistspeedlightspeedlightsstudiolightportraiturepeoplewomenwomanladypersongirlyoungadobephotoshopcs5lightroomlightroom3mayhemmmproductionst2i55
+license: 0
+latitude: 39.961332
+longitude: -75.16983
+accuracy: 9
+views: 0
+interestingness: 191 out of 53
+
+photo: 6475387151 0690105af6 7002
+owner: 60488531@N05
+title: Philadelphia, PA Trip - 2011 - 08
+originalsecret: ed7d3586e1
+originalformat: jpg
+o_height: 667
+o_width: 1000
+datetaken: 2011-12-02 13:11:43
+dateupload: 1323322569
+tags: philadelphia pamodelmodelingshootchrisadvalcanondslrportraitportraitsstrobsstrobistspeedlightspeedlightsstudiolightportraiturepeoplewomenwomanladypersongirlyoungadobephotoshopcs5lightroomlightroom3mayhemmmproductionst2i55
+license: 0
+latitude: 39.961332
+longitude: -75.16983
+accuracy: 9
+views: 2
+interestingness: 192 out of 53
+
+photo: 6475386537 f25b883de6 7159
+owner: 60488531@N05
+title: Philadelphia, PA Trip - 2011 - 09
+originalsecret: e6f3a5ce14
+originalformat: jpg
+o_height: 667
+o_width: 1000
+datetaken: 2011-12-02 13:10:46
+dateupload: 1323322557
+tags: philadelphia pamodelmodelingshootchrisadvalcanondslrportraitportraitsstrobsstrobistspeedlightspeedlightsstudiolightportraiturepeoplewomenwomanladypersongirlyoungadobephotoshopcs5lightroomlightroom3mayhemmmproductionst2i55
+license: 0
+latitude: 39.961332
+longitude: -75.16983
+accuracy: 9
+views: 1
+interestingness: 193 out of 53
+
+photo: 6465555343 ee90480da2 7031
+owner: 71526382@N08
+title: PERES PROJECTS MITTE  EDDIE MARTINEZ "SEEKER"
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-06 13:44:24
+dateupload: 1323175464
+tags: 
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 4
+interestingness: 194 out of 53
+
+photo: 6442359677 2251851cc4 7157
+owner: 25651248@N05
+title: JOE'S GIANT ORANGE
+originalsecret: 3eee152f3d
+originalformat: jpg
+o_height: 1084
+o_width: 1928
+datetaken: 2011-12-02 07:11:56
+dateupload: 1322846143
+tags: reddingca aawadventure
+license: 0
+latitude: 40.658674
+longitude: -122.358362
+accuracy: 16
+views: 9
+interestingness: 195 out of 53
+
+photo: 6441401935 acff64386b 7027
+owner: 36516955@N03
+title: ??? ??????????? ??? ?? ??? T-shirt ?? ????? ??? ActionAid
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-04 00:53:16
+dateupload: 1322832464
+tags: actionaid ???????????????????????????????????actionaid
+license: 0
+latitude: 7.955009
+longitude: -1.03182
+accuracy: 2
+views: 53
+interestingness: 196 out of 53
+
+photo: 6441396533 a1af8d58e6 7011
+owner: 36516955@N03
+title: ?????????? ??? ?????? ??? ??????????? ????
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-31 22:06:43
+dateupload: 1322832352
+tags: actionaid ???????????????????????????????????actionaid
+license: 0
+latitude: 5.717539
+longitude: 0.025669
+accuracy: 1
+views: 55
+interestingness: 197 out of 53
+
+photo: 6441393189 2b5565ccd9 7164
+owner: 36516955@N03
+title: ?? ????? ?? ?? ?????? ??? ????????
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-31 22:46:00
+dateupload: 1322832289
+tags: actionaid ???????????????????????????????????actionaid
+license: 0
+latitude: 5.717539
+longitude: 0.025669
+accuracy: 1
+views: 37
+interestingness: 198 out of 53
+
+photo: 6441389989 d28cbe06b1 7171
+owner: 36516955@N03
+title: ??? ??????????? ??????
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-01 01:04:11
+dateupload: 1322832229
+tags: actionaid ???????????????????????????????????actionaid
+license: 0
+latitude: 5.717539
+longitude: 0.025669
+accuracy: 1
+views: 42
+interestingness: 199 out of 53
+
+photo: 6441381101 00662f0606 7025
+owner: 36516955@N03
+title: ??? ??????????? ??? ?? ??? T-shirt ?? ????? ??? ActionAid
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-04 00:51:34
+dateupload: 1322832064
+tags: actionaid ???????????????????????????????????actionaid
+license: 0
+latitude: 7.955009
+longitude: -1.03182
+accuracy: 2
+views: 40
+interestingness: 200 out of 53
+
+photo: 6441373903 0c643989d7 7002
+owner: 36516955@N03
+title: ????????? ?? ?? ?????? ??? ????????
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-31 01:17:46
+dateupload: 1322831931
+tags: actionaid ???????????????????????????????????actionaid
+license: 0
+latitude: 6.184246
+longitude: -0.703125
+accuracy: 4
+views: 47
+interestingness: 201 out of 53
+
+photo: 6472165049 83f06c2f7b 7005
+owner: 54564271@N03
+title: Amiei Glawkins ?2011 02
+originalsecret: 8e4b2f03c3
+originalformat: jpg
+o_height: 504
+o_width: 867
+datetaken: 2011-11-30 05:52:18
+dateupload: 1323274801
+tags: hillsborohighschoolvisualartsinternationalbaccalaureate?photography?martiprofittstreulinashvillearts?nashvilletennessee??advancedplacement??ap??metronashvillepublicschools?artscommission??tennessee?fineart?visualarticlecarol
+license: 0
+latitude: 36.107482
+longitude: -86.812806
+accuracy: 15
+views: 0
+interestingness: 202 out of 53
+
+photo: 6465555849 2ac8d8db17 7003
+owner: 71526382@N08
+title: PERES PROJECT  DAN ATTOE "FLICKERING IN THE DARK"
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-06 13:44:33
+dateupload: 1323175473
+tags: 
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 1
+interestingness: 203 out of 53
+
+photo: 6460220927 0bbc99f983 7147
+owner: 71526382@N08
+title: NEUGERRIEMSCHNEIDER BERLIN   MICHAEL MAJERUS "ZWEIHUNDERTVIER SECHZIGMALSECHZIG"
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-05 16:50:59
+dateupload: 1323100259
+tags: 
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 3
+interestingness: 204 out of 53
+
+photo: 6445746593 4850a055c9 7018
+owner: 66324106@N00
+title: An article by my friend Riccardo Luna which features another friend (and AppCircus Milan judge) Max Uggeri, from Repubblica
+originalsecret: b227b8530e
+originalformat: jpg
+o_height: 2048
+o_width: 1536
+datetaken: 2011-11-20 13:13:07
+dateupload: 1322903361
+tags: 2011
+license: 3
+latitude: 45.183333
+longitude: 10.789333
+accuracy: 16
+views: 0
+interestingness: 205 out of 53
+
+photo: 6476100647 32944d06a2 7030
+owner: 36698994@N04
+title: Musselburgh Race Course - East Lothian Scotland
+originalsecret: af69cb7a75
+originalformat: jpg
+o_height: 640
+o_width: 853
+datetaken: 2008-11-28 14:23:25
+dateupload: 1323339001
+tags: 
+license: 0
+latitude: 55.949139
+longitude: -3.045423
+accuracy: 14
+views: 0
+interestingness: 206 out of 53
+
+photo: 6474129257 991c2bf994 7030
+owner: 68628805@N02
+title: GreenCrowned_Woodnymph_Mindo_Ecuador
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-07 15:46:02
+dateupload: 1323301562
+tags: 
+license: 0
+latitude: -2.898439
+longitude: -79.014976
+accuracy: 11
+views: 2
+interestingness: 207 out of 53
+
+photo: 6471111853 ae791b2728 7011
+owner: 71526382@N08
+title: And presto! There it was?
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-07 12:57:00
+dateupload: 1323259020
+tags: 
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 0
+interestingness: 208 out of 53
+
+photo: 6471106331 0c30362d78 7153
+owner: 71526382@N08
+title: Matthew AntezzoKlosterfelde3_478x340
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-07 12:55:02
+dateupload: 1323258902
+tags: 
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 0
+interestingness: 209 out of 53
+
+photo: 6471099287 5d1e0417be 7153
+owner: 71526382@N08
+title: The Creative Menopause of an Artist
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-07 12:52:30
+dateupload: 1323258750
+tags: 
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 0
+interestingness: 210 out of 53
+
+photo: 6471083253 84f3ab8bd5 7164
+owner: 71526382@N08
+title: Cities in the Sky
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-07 12:47:09
+dateupload: 1323258429
+tags: 
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 0
+interestingness: 211 out of 53
+
+photo: 6471077601 7c176a1999 7161
+owner: 71526382@N08
+title: Ute and Werner Mahler
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-07 12:45:09
+dateupload: 1323258309
+tags: 
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 1
+interestingness: 212 out of 53
+
+photo: 6471072451 8acb491e42 7168
+owner: 71526382@N08
+title: The Breakthrough of a Prophet
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-07 12:43:19
+dateupload: 1323258199
+tags: 
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 0
+interestingness: 213 out of 53
+
+photo: 6471067431 c1df23aedd 7175
+owner: 71526382@N08
+title: CYPRIEN GAILLARD
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-07 12:41:31
+dateupload: 1323258091
+tags: 
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 0
+interestingness: 214 out of 53
+
+photo: 6471061245 fe12b0651e 7162
+owner: 71526382@N08
+title: Thomas Zipp
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-07 12:39:19
+dateupload: 1323257959
+tags: 
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 0
+interestingness: 215 out of 53
+
+photo: 6468710713 afd6bfc6a8 7034
+owner: 55714632@N00
+title: Southie
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-04 12:45:59
+dateupload: 1323215969
+tags: 
+license: 0
+latitude: 42.331987
+longitude: -71.041402
+accuracy: 16
+views: 4
+interestingness: 216 out of 53
+
+photo: 6465555943 c589ee9593 7169
+owner: 71526382@N08
+title: BREAKFAST WITH SONJA GERDES
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-06 13:44:35
+dateupload: 1323175475
+tags: 
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 0
+interestingness: 217 out of 53
+
+photo: 6465555727 82ca872375 7016
+owner: 71526382@N08
+title: Karl Addison
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-06 13:44:31
+dateupload: 1323175471
+tags: 
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 1
+interestingness: 218 out of 53
+
+photo: 6465555571 780de54a3e 7143
+owner: 71526382@N08
+title: IMAGO FOTOKUNSTURSULA KELM "Verg?nglichkeit der Zeit"
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-06 13:44:28
+dateupload: 1323175468
+tags: 
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 0
+interestingness: 219 out of 53
+
+photo: 6465555441 f0b1b82fb1 7146
+owner: 71526382@N08
+title: KUNSTRAUM KREUZEBERG/BETHANIEN  "LET THE RHYTHM HIT 'EM"
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-06 13:44:26
+dateupload: 1323175466
+tags: 
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 2
+interestingness: 220 out of 53
+
+photo: 6465555223 4df00783a4 7148
+owner: 71526382@N08
+title: STATTBAD  DAVID JOHANNSON "SUNDAY WISDOM"
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-06 13:44:22
+dateupload: 1323175462
+tags: 
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 0
+interestingness: 221 out of 53
+
+photo: 6465515079 15e7d40c4d 7156
+owner: 71526382@N08
+title: "donau x ganghofer" STEPHANIE HANNA
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-29 16:03:07
+dateupload: 1323174802
+tags: 
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 0
+interestingness: 222 out of 53
+
+photo: 6465507475 b8ee07c600 7003
+owner: 71526382@N08
+title: GROUP EXHIBITION "HALLELUHWAH! HOMAGE A CAN"
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-24 20:17:27
+dateupload: 1323174669
+tags: 
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 2
+interestingness: 223 out of 53
+
+photo: 6465502967 bcdf06c65f 7027
+owner: 71526382@N08
+title: ISABELLA BORTOLOZZI  "STILL LIFE WITH PHRENOLOGY HEAD"
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-29 17:49:23
+dateupload: 1323174591
+tags: 
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 0
+interestingness: 224 out of 53
+
+photo: 6465500965 0b7e1d4677 7003
+owner: 71526382@N08
+title: ESTHER SHIPPER  AA BRONSON "QUEER SPIRITS AND OTHER INVOCATIONS"
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-29 17:22:58
+dateupload: 1323174558
+tags: 
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 0
+interestingness: 225 out of 53
+
+photo: 6465497917 17777b748e 7148
+owner: 71526382@N08
+title: KUCKEI + KUCKEI  " TEXT "
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-28 11:58:38
+dateupload: 1323174506
+tags: 
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 0
+interestingness: 226 out of 53
+
+photo: 6465494013 bc23dbb92a 7147
+owner: 71526382@N08
+title: berlin-weekly
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-28 11:49:08
+dateupload: 1323174439
+tags: 
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 1
+interestingness: 227 out of 53
+
+photo: 6465489031 eafd620558 7168
+owner: 71526382@N08
+title: KOW BERLIN  MARIO PFEIFER "FORMAL FILM IN NINE EPISODES, EPILOGUE & PROLOGUE"
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-26 15:05:25
+dateupload: 1323174351
+tags: 
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 0
+interestingness: 228 out of 53
+
+photo: 6465485771 89192058f5 7161
+owner: 71526382@N08
+title: AUREL SCHEIBLER  "TWENTY" 20 YEARS AUREL SCHEIBLER 9.9 - 4.11.2011
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-26 16:39:33
+dateupload: 1323174289
+tags: 
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 0
+interestingness: 229 out of 53
+
+photo: 6465482385 30fb0e91a1 7150
+owner: 71526382@N08
+title: RINUS VAN DE VELDE
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-25 11:42:10
+dateupload: 1323174221
+tags: 
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 0
+interestingness: 230 out of 53
+
+photo: 6465479449 5679f1e647 7006
+owner: 71526382@N08
+title: NEDKO SOLAKOV
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-25 11:44:11
+dateupload: 1323174162
+tags: 
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 0
+interestingness: 231 out of 53
+
+photo: 6465477777 bc257a3581 7009
+owner: 71526382@N08
+title: MARCEL VAN EEDEN
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-25 11:42:55
+dateupload: 1323174130
+tags: 
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 0
+interestingness: 232 out of 53
+
+photo: 6465474875 c014de9804 7147
+owner: 71526382@N08
+title: ANTE TIMMERMANS
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-25 11:43:34
+dateupload: 1323174072
+tags: 
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 0
+interestingness: 233 out of 53
+
+photo: 6465471309 23bfcf4170 7149
+owner: 71526382@N08
+title: DESCHLER GALERIE  JAY MARK JOHNSON "EL ANARQUISTA Y EL AUTOMOVIL"
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-25 13:05:17
+dateupload: 1323174004
+tags: 
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 0
+interestingness: 234 out of 53
+
+photo: 6465469823 7ea5067fd3 7156
+owner: 71526382@N08
+title: COFFEE AND CAKE
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-25 13:17:55
+dateupload: 1323173977
+tags: 
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 0
+interestingness: 235 out of 53
+
+photo: 6465465645 fe7eb90c5d 7175
+owner: 71526382@N08
+title: Gaby Bila-G?nther and Orvar
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-24 02:16:17
+dateupload: 1323173904
+tags: 
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 2
+interestingness: 236 out of 53
+
+photo: 6465461803 e71802ea5f 7017
+owner: 71526382@N08
+title: SKALITZER140  KATRIN CONNAN, JANINA WICK, GUILLAUME AIRIAUD, OLVE SANDE "NOBODY WHO'S ON THE ROAD"
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-22 22:04:03
+dateupload: 1323173828
+tags: 
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 0
+interestingness: 237 out of 53
+
+photo: 6465459207 9fa50fec5f 7160
+owner: 71526382@N08
+title: GALERIE CRONE  PETER MILLER "SLEIGHT"
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-22 16:45:28
+dateupload: 1323173776
+tags: 
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 0
+interestingness: 238 out of 53
+
+photo: 6465455103 f32a368fc5 7003
+owner: 71526382@N08
+title: CHRISTIAN NAGEL GALERIE  JAN TIMME "ARTIST GO HOME"
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-22 13:26:17
+dateupload: 1323173697
+tags: 
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 0
+interestingness: 239 out of 53
+
+photo: 6465451759 5bdd77fdce 7002
+owner: 71526382@N08
+title: BERLIN-WEEKLY  UTE BR?NNER "VANISHING BEAUTY"
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-22 13:54:00
+dateupload: 1323173634
+tags: 
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 0
+interestingness: 240 out of 53
+
+photo: 6465448787 1960f8d955 7012
+owner: 71526382@N08
+title: circus gallery
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-17 21:15:06
+dateupload: 1323173572
+tags: 
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 0
+interestingness: 241 out of 53
+
+photo: 6465445361 d9fe226233 7161
+owner: 71526382@N08
+title: Tanya Leighton ENZO MARI EXHIBITION
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-19 14:28:50
+dateupload: 1323173502
+tags: 
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 0
+interestingness: 242 out of 53
+
+photo: 6465444075 5f3f9421a6 7173
+owner: 71526382@N08
+title: SASSA TR?LZSCH  SOFIE BIRD M?LLER
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-19 14:14:12
+dateupload: 1323173477
+tags: 
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 0
+interestingness: 243 out of 53
+
+photo: 6465442789 c11e3585fb 7158
+owner: 71526382@N08
+title: CIRCUS  KATARINA ZDJELAR
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-18 14:58:02
+dateupload: 1323173453
+tags: 
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 0
+interestingness: 244 out of 53
+
+photo: 6465440601 0fec9a4b34 7165
+owner: 71526382@N08
+title: MARTIN KWADE
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-16 22:41:48
+dateupload: 1323173411
+tags: 
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 0
+interestingness: 245 out of 53
+
+photo: 6460228009 1c68bb663a 7034
+owner: 71159954@N04
+title: Pretty in Punk Editorial
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-02 13:33:12
+dateupload: 1323100341
+tags: 
+license: 0
+latitude: 48.856918
+longitude: 2.341209
+accuracy: 11
+views: 0
+interestingness: 246 out of 53
+
+photo: 6472039599 9d98bd488e 7026
+owner: 54564271@N03
+title: Nelly Anaya ?2011 06
+originalsecret: 2e9529119d
+originalformat: jpg
+o_height: 406
+o_width: 504
+datetaken: 2011-12-06 06:10:38
+dateupload: 1323273262
+tags: art public nashville visualarts arts ap ib hhs internationalbaccalaureate art? commission? ?photography? ?fine ?advanced ?tennessee ?nashville hillsborohighschool ?ap? ?metro placement? tennessee? schools? carolhagen nashvillearts chagenstudio martiprofittstreuli hhsvisualarttechnologygrant visualarticle artbyinternationalbaccalaureatestudents nellyanaya
+license: 0
+latitude: 36.107482
+longitude: -86.812806
+accuracy: 15
+views: 1
+interestingness: 247 out of 53
+
+photo: 6449030703 5070822dfa 7165
+owner: 46292690@N00
+title: 337/365: Saturday, December 03, 2011: Sun Sets on Kettle Run Season
+originalsecret: 0f2383102d
+originalformat: jpg
+o_height: 2757
+o_width: 4909
+datetaken: 2011-12-03 15:28:08
+dateupload: 1322944088
+tags: virginia 123 337 fauquier day337 project365 12311 365project 337365 sigma18250mm sigma18250mmf3563 sigma18250mmf3563dcoshsm project36612011 sonya55 2011yip sonyslta55 3652011 slta55 sonyslta55v jstephenlittlejr sigma18250mmf3563dcoshsm880205 sonyalphaslta55v 1232011 12032011 project36512032011 3dec2011 project36503dec11 03dec11 saturdaydecember032011
+license: 0
+latitude: 38.730752
+longitude: -77.677375
+accuracy: 16
+views: 8
+interestingness: 248 out of 53
+
+photo: 6473713109 299786dbb2 7148
+owner: 33170436@N03
+title: Pryor's Hut - Alpine Botanical Garden
+originalsecret: e68ba1d221
+originalformat: jpg
+o_height: 768
+o_width: 1024
+datetaken: 2011-12-08 09:01:45
+dateupload: 1323295305
+tags: cotterriver pryorshut archivesact
+license: 2
+latitude: -35.555691
+longitude: 148.777198
+accuracy: 11
+views: 3
+interestingness: 249 out of 53
+
+photo: 6465259739 72c3a7ee6d 7017
+owner: 71526382@N08
+title: MARIANA CASTILLO DEBALL
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-10-14 12:06:31
+dateupload: 1323169651
+tags: 
+license: 0
+latitude: 52.520144
+longitude: 13.382377
+accuracy: 11
+views: 0
+interestingness: 250 out of 53
+
+Total images queried: 53

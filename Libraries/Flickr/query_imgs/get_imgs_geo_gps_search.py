@@ -37,8 +37,8 @@ else:
 ###########################################################################
 # flickr auth information:
 # change these to your flickr api keys and secret
-flickrAPIKey = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"  # API key
-flickrSecret = "YYYYYYYYYYYYYYYY"                  # shared "secret"
+flickrAPIKey = "9db4bbb1d275baedb6e77c2aa7538c90"  # API key
+flickrSecret = "09be4700c52c3996"                  # shared "secret"
 
 query_file = open(query_file_name, 'r')
 
@@ -51,7 +51,7 @@ for line in query_file:
     if line[0] != '#' and len(line) > 2:  #line end character is 2 long?
       #print line[0:len(line)-2]
       if line[0] != '-':
-        pos_queries = pos_queries + [line[0:len(line)-2]]
+        pos_queries = pos_queries + [line[0:len(line)-1]]
         num_queries = num_queries + 1
       if line[0] == '-':
         neg_queries = neg_queries + ' ' + line[0:len(line)-2]
@@ -68,7 +68,7 @@ fapi = FlickrAPI(flickrAPIKey, flickrSecret)
 for current_tag in range(0, num_queries):
   
     # change this to the location where you want to put your output file
-    out_file = open('/nfs/hn26/jhhays/download_scripts/search_results_geo_and_gps_siggraph/' + pos_queries[current_tag] + '.txt','w')
+    out_file = open('output/' + pos_queries[current_tag] + '.txt','w')
     ###########################################################################
     
     #form the query string.
@@ -89,9 +89,11 @@ for current_tag in range(0, num_queries):
     #mintime = 1167407788 # resume crash england
     #mintime = 1177828976 #resume crash japan
     #mintime = 1187753798 #resume crash greece
-    mintime = 1171416400 #resume crash WashingtonDC
+    #mintime = 1171416400 #resume crash WashingtonDC
+    mintime = 1322697600 # December 1, 2011, 00:00:00 GMT
     maxtime = mintime+timeskip
-    endtime =  1192165200  #10/12/2007, at the end of im2gps queries
+    #endtime =  1192165200  #10/12/2007, at the end of im2gps queries
+    endtime =  1323043199  # 12/4/2011 23:59:59 GMT
 
     #this is the desired number of photos in each block
     desired_photos = 250

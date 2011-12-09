@@ -1,0 +1,261 @@
+
+mintime: 1322697600 maxtime: 1324512427.5
+numimgs: 3
+total pages: 1
+visiting only 1 pages ( up to 250 images)
+photo: 6432149301 5efe97dd57 7155
+owner: 85238885@N00
+title: Bellapais Abbey
+originalsecret: 879f89f4de
+originalformat: jpg
+o_height: 665
+o_width: 1000
+datetaken: 2011-11-12 13:12:50
+dateupload: 1322785687
+tags: november autumn roof fall abbey architecture religious island daylight nikon interior country gothic herfst cyprus medieval lusignan monastery chandelier fantasy inside cinematic eurasian pulpit f28 dak eiland girne kyrenia 12thcentury 2011 k?br?s bellapais northerncyprus easternmediterranean iso2000 singleraw epical nikcolorefexpro turkishrepublicofnortherncyprus kuzeyk?br?st?rkcumhuriyeti kansel d700 mediterraans k?pros nikond700 nikkor2470mmf28 ?????? nikonfx ???????? allardone abbayedelapaix allard1 gpsrecorder fullframepower southeasternmost zuidoostelijkst selfdeclaredstate orderofpremontre
+license: 0
+latitude: 35.307147
+longitude: 33.355613
+accuracy: 11
+views: 242
+interestingness: 1 out of 3
+
+photo: 6421981383 afd6b4af52 7004
+owner: 33363480@N05
+title: Golden temple priest . India
+originalsecret: 73aba01d46
+originalformat: jpg
+o_height: 3000
+o_width: 3000
+datetaken: 1994-03-15 17:26:01
+dateupload: 1323043196
+tags: india temple priest sikh amritsar goldentemple zedzap sriharimandirsahibamritsar
+license: 1
+latitude: 31.63594
+longitude: 74.865509
+accuracy: 11
+views: 96
+interestingness: 2 out of 3
+
+photo: 6474226195 e303565a1a 7015
+owner: 41017214@N02
+title: John Lennon
+originalsecret: 599dcdf238
+originalformat: jpg
+o_height: 1790
+o_width: 2173
+datetaken: 2011-12-07 14:24:24
+dateupload: 1323324805
+tags: street nyc light usa ny newyork art john imagine johnlennon lenon 8desember
+license: 0
+latitude: 40.796917
+longitude: -73.952751
+accuracy: 11
+views: 40
+interestingness: 3 out of 3
+
+photo: 6452939439 fcde7653a4 7160
+owner: 8981098@N07
+title: Sidi Ahmed Tijani Zawiya
+originalsecret: 325d9d62ef
+originalformat: jpg
+o_height: 2583
+o_width: 1937
+datetaken: 2011-10-12 14:04:12
+dateupload: 1323010956
+tags: africa travel canon geotagged mosque morocco fez maroc medina fes peregrin f?selbali fezelbali alma?rib ???????????? lindadevolder powershotsx30 sidiahmedtijanizawiya
+license: 0
+latitude: 34.056214
+longitude: -4.993801
+accuracy: 12
+views: 15
+interestingness: 4 out of 3
+
+photo: 6453058233 6c64317109 7154
+owner: 8981098@N07
+title: Sidi Ahmed Tijani Zawiya
+originalsecret: 2c89ac1a74
+originalformat: jpg
+o_height: 2466
+o_width: 1850
+datetaken: 2011-10-12 14:03:39
+dateupload: 1323012279
+tags: africa travel canon geotagged mosque morocco fez maroc medina fes peregrin f?selbali fezelbali alma?rib ???????????? lindadevolder powershotsx30 sidiahmedtijanizawiya
+license: 0
+latitude: 34.056214
+longitude: -4.993801
+accuracy: 12
+views: 10
+interestingness: 5 out of 3
+
+photo: 6452916711 34f8214d07 7163
+owner: 8981098@N07
+title: Sidi Ahmed Tijani Zawiya
+originalsecret: f1890ec9ff
+originalformat: jpg
+o_height: 2640
+o_width: 1980
+datetaken: 2011-10-12 14:02:56
+dateupload: 1323010712
+tags: africa travel canon geotagged mosque morocco fez maroc medina fes peregrin f?selbali fezelbali alma?rib ???????????? lindadevolder powershotsx30 sidiahmedtijanizawiya
+license: 0
+latitude: 34.056214
+longitude: -4.993801
+accuracy: 12
+views: 11
+interestingness: 6 out of 3
+
+photo: 6461412175 b4319439a7 7024
+owner: 36522981@N00
+title: WW: Vevey
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-05 16:16:55
+dateupload: 1323344694
+tags: winter rain sign gold schweiz switzerland suisse eagle grapes svizzera gcc vv vevey vaud romandie oraetlabora confr?riedesvignerons restaurantdenismartin mus?eduvieuxvevey
+license: 0
+latitude: 46.458377
+longitude: 6.848666
+accuracy: 15
+views: 14
+interestingness: 7 out of 3
+
+photo: 6443772271 f41886ca20 7146
+owner: 46026252@N00
+title: Avenue, Zagreb
+originalsecret: 17aa253ab1
+originalformat: jpg
+o_height: 2138
+o_width: 3205
+datetaken: 2010-02-01 17:41:00
+dateupload: 1322865955
+tags: road street light sunset red sky lamp car night dark highway break traffic bright sony croatia bank headquarters stop zagreb lane jam avenue alpe adria croatian hrvatska traffictrails hypo hypocentre dsch50 slavonskaavenue hypocentar slavonskaavenija hypoalpeadriacenter
+license: 1
+latitude: 45.794698
+longitude: 15.978906
+accuracy: 16
+views: 27
+interestingness: 8 out of 3
+
+photo: 6449869963 2e600616d8 7146
+owner: 28389839@N00
+title: United Brotherhood of Carpenters and Joiners of America
+originalsecret: 5edb4ab0b8
+originalformat: jpg
+o_height: 1798
+o_width: 1798
+datetaken: 2011-12-03 14:50:42
+dateupload: 1322962794
+tags: ontario canada sign logo union kingston mypics kp confederationpark laboromniavincit oldrailwaystation oldtrainstation unitedbrotherhoodofcarpentersandjoinersofamerica kingstonpembrokerailway kprailway
+license: 0
+latitude: 44.229241
+longitude: -76.480497
+accuracy: 16
+views: 21
+interestingness: 9 out of 3
+
+photo: 6452879233 68b0b960ab 7009
+owner: 8981098@N07
+title: Sidi Ahmed Tijani Zawiya
+originalsecret: 356c018c96
+originalformat: jpg
+o_height: 1900
+o_width: 2534
+datetaken: 2011-10-12 14:03:26
+dateupload: 1323010292
+tags: africa travel canon geotagged mosque morocco fez maroc medina fes peregrin f?selbali fezelbali alma?rib ???????????? lindadevolder powershotsx30 sidiahmedtijanizawiya
+license: 0
+latitude: 34.056214
+longitude: -4.993801
+accuracy: 12
+views: 6
+interestingness: 10 out of 3
+
+photo: 6452847877 ce1414bff4 7026
+owner: 8981098@N07
+title: Sidi Ahmed Tijani minaret.
+originalsecret: b3a0acba55
+originalformat: jpg
+o_height: 2640
+o_width: 1980
+datetaken: 2011-10-12 14:02:18
+dateupload: 1323009945
+tags: africa travel canon geotagged minaret mosque morocco fez maroc medina fes peregrin f?selbali fezelbali alma?rib ???????????? lindadevolder powershotsx30 sidiahmedtijanizawiya
+license: 0
+latitude: 34.056214
+longitude: -4.993801
+accuracy: 12
+views: 2
+interestingness: 11 out of 3
+
+photo: 6437726747 b3ab0f941d 7172
+owner: 11928221@N04
+title: Prague - 26-11-2011
+originalsecret: feb1366154
+originalformat: jpg
+o_height: 2560
+o_width: 1920
+datetaken: 2011-11-26 16:09:16
+dateupload: 1322768367
+tags: prague praha czechrepublic
+license: 0
+latitude: 50.09052
+longitude: 14.418053
+accuracy: 14
+views: 4
+interestingness: 12 out of 3
+
+photo: 6451827733 958972e61c 7022
+owner: 27450451@N05
+title: Mating or Brotherhood?
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-04 12:14:32
+dateupload: 1322995445
+tags: singapore pair grasshoppers tampinesecogreen
+license: 0
+latitude: 1.361554
+longitude: 103.946199
+accuracy: 14
+views: 2
+interestingness: 13 out of 3
+
+photo: 6451277269 32b34374ea 7167
+owner: 28197691@N00
+title: Chris Robinson Brotherhood second set list, with encores. Didn't get first set list. (@TheCRB)
+originalsecret: 231c6d1582
+originalformat: jpg
+o_height: 2448
+o_width: 3264
+datetaken: 2011-12-03 23:44:09
+dateupload: 1322984816
+tags: 
+license: 1
+latitude: 45.499833
+longitude: -122.656167
+accuracy: 16
+views: 1
+interestingness: 14 out of 3
+
+photo: 6450599097 bcefbc981e 7147
+owner: 28197691@N00
+title: Chris Robinson Brotherhood on stage at the Aladdin. @TheCRB
+originalsecret: 73e58c268d
+originalformat: jpg
+o_height: 2448
+o_width: 3264
+datetaken: 2011-12-03 20:34:07
+dateupload: 1322973334
+tags: 
+license: 1
+latitude: 45.5035
+longitude: -122.656167
+accuracy: 16
+views: 1
+interestingness: 15 out of 3
+
+Total images queried: 3

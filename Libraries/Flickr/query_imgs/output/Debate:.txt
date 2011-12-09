@@ -1,0 +1,686 @@
+
+mintime: 1322697600 maxtime: 1324512427.5
+numimgs: 11
+total pages: 1
+visiting only 1 pages ( up to 250 images)
+photo: 6474766465 d7f2f1c2a8 7166
+owner: 57681473@N07
+title: 160-100
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-05-13 15:25:01
+dateupload: 1323312167
+tags: street portrait melbourne canonef2470mmf28l 100strangers canoneos7d wwwneilwinchcom
+license: 0
+latitude: -37.810097
+longitude: 144.96108
+accuracy: 15
+views: 165
+interestingness: 1 out of 11
+
+photo: 6437988365 b7a6bf64a7 7034
+owner: 30829023@N03
+title: All The Lights That Light The Way..........
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-01 19:06:53
+dateupload: 1322771867
+tags: uk longexposure england leaf unitedkingdom southbank embankment northbank lcw canon1022 lighttails londonboroughofsouthwark canon450d nd500 allthelightsthatlighttheway lightcraftworkshop
+license: 0
+latitude: 51.50465
+longitude: -0.076025
+accuracy: 16
+views: 135
+interestingness: 2 out of 11
+
+photo: 6461659845 a20cfaa165 7002
+owner: 46742405@N04
+title: To HDR or not to HDR... compare! / Rotterdam
+originalsecret: 29cdd07163
+originalformat: jpg
+o_height: 850
+o_width: 1280
+datetaken: 2011-12-02 10:16:11
+dateupload: 1323116460
+tags: city bridge urban holland robert netherlands dutch river de rotterdam europa europe fotografie nederland van maas hdr stad kop erasmusbrug zuid rivier voogd rotjeknor vormgeving kvz photomatix grafische bergselaan liskwartier zzapback zzapbacknl robdevoogd stayawakeenjoyyourday
+license: 0
+latitude: 51.908696
+longitude: 4.492195
+accuracy: 16
+views: 149
+interestingness: 3 out of 11
+
+photo: 6443642045 8e61837a25 7008
+owner: 38749446@N05
+title: Ringed Trout
+originalsecret: f93685658c
+originalformat: jpg
+o_height: 2064
+o_width: 3092
+datetaken: 2009-10-13 14:25:59
+dateupload: 1322863979
+tags: trout ringed judykennett knightonpowys
+license: 0
+latitude: 52.348763
+longitude: -3.050079
+accuracy: 10
+views: 64
+interestingness: 4 out of 11
+
+photo: 6435151367 46d1a2b841 7006
+owner: 39460523@N02
+title: ?"Let me light my lamp", says the star, "And never debate if it will help to remove the darkness? ~Rabindranath Tagore
+originalsecret: 5427929d38
+originalformat: jpg
+o_height: 2592
+o_width: 3888
+datetaken: 2011-11-05 00:35:01
+dateupload: 1322724434
+tags: flickraward
+license: 0
+latitude: 31.102223
+longitude: 77.17153
+accuracy: 13
+views: 47
+interestingness: 5 out of 11
+
+photo: 6466919875 ccf000621f 7145
+owner: 63570057@N06
+title: Puffins.
+originalsecret: 83573d290d
+originalformat: jpg
+o_height: 1420
+o_width: 1699
+datetaken: 2011-07-11 11:33:33
+dateupload: 1323193631
+tags: scotland puffins firthofforth isleofmay blinkagain ansrtuther
+license: 0
+latitude: 56.192188
+longitude: -2.644958
+accuracy: 9
+views: 60
+interestingness: 6 out of 11
+
+photo: 6471496631 82d2e1f782 7151
+owner: 9990938@N05
+title: Red-Tailed Hawk
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-06 13:05:07
+dateupload: 1323265747
+tags: county red birds hawk indiana morgan redtailed tailed audubon ias d7000
+license: 0
+latitude: 39.501921
+longitude: -86.434593
+accuracy: 10
+views: 42
+interestingness: 7 out of 11
+
+photo: 5149253841 c2e1de0cc9 4053
+owner: 55547205@N07
+title: 40055 Edinburgh Waverley
+originalsecret: 9175ff0aaf
+originalformat: jpg
+o_height: 831
+o_width: 1280
+datetaken: 1980-06-11 07:08:27
+dateupload: 1323052774
+tags: waverley 40055
+license: 0
+latitude: 55.951987
+longitude: -3.191013
+accuracy: 11
+views: 182
+interestingness: 8 out of 11
+
+photo: 6471017381 48061765cd 7016
+owner: 41344138@N04
+title: Touchstone
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-01 13:52:27
+dateupload: 1323257096
+tags: sculpture white green statue stone poetry hand angle skin touch fingers marble knee picnik camilopessanha nikond3100
+license: 0
+latitude: 41.296795
+longitude: -7.746005
+accuracy: 16
+views: 28
+interestingness: 9 out of 11
+
+photo: 6441595799 c6272ffa18 7032
+owner: 42374069@N06
+title: female Northern Cardinal
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-27 12:00:51
+dateupload: 1322835622
+tags: usa bird female woods texas cardinal bokeh tx wildlife feeder cypress dots northern banded kleb
+license: 0
+latitude: 30.071953
+longitude: -95.743585
+accuracy: 14
+views: 37
+interestingness: 10 out of 11
+
+photo: 6461540717 00ae6f4e17 7031
+owner: 68342733@N03
+title: "Let The Speeches Begin"
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2008-01-19 15:21:52
+dateupload: 1323114778
+tags: architecture utah gargoyle saltlakecity governorsmansion wyominggeezer
+license: 0
+latitude: 40.769772
+longitude: -111.873983
+accuracy: 16
+views: 26
+interestingness: 11 out of 11
+
+photo: 6450274377 334be9b7dd 7170
+owner: 32251314@N00
+title: IMG_1649
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2010-10-31 12:57:07
+dateupload: 1322968643
+tags: art history archaeology m?xico mexico mexicocity arte kunst konst mexique historia ciudaddemexico hist?ria chich?nitz? distritofederal messico chacmool chapultepec geschichte archeologie geschiedenis arqueolog?a ????????? arch?ologie sinning museodeantropologia ??????? wwwvisitmexicocom ???? ?????????? ??????? ??????
+license: 0
+latitude: 19.423049
+longitude: -99.197959
+accuracy: 11
+views: 19
+interestingness: 12 out of 11
+
+photo: 6435215165 997eb42cc6 7170
+owner: 36467856@N08
+title: NO MAN'S LAND - Photographic Exhibition
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-25 14:28:28
+dateupload: 1322725930
+tags: 
+license: 0
+latitude: 41.868057
+longitude: 12.63929
+accuracy: 16
+views: 32
+interestingness: 13 out of 11
+
+photo: 6448309473 211ce83796 7025
+owner: 38431558@N08
+title: Christmas Countdown #03
+originalsecret: 77c684570f
+originalformat: jpg
+o_height: 4220
+o_width: 3220
+datetaken: 2011-02-10 16:46:01
+dateupload: 1322942118
+tags: sunset sun tree grave rivertay dundee tay balgayhill
+license: 0
+latitude: 56.464422
+longitude: -3.016444
+accuracy: 15
+views: 28
+interestingness: 14 out of 11
+
+photo: 6469320701 6fe4290734 7006
+owner: 84614046@N00
+title: Reckoning
+originalsecret: 0d1f366e5c
+originalformat: jpg
+o_height: 1936
+o_width: 2592
+datetaken: 2011-11-01 00:00:00
+dateupload: 1323225221
+tags: sunset lake cc couchiching rightsmanaged ramafirstnation rbsfavs couchichingsky iphoneography facebooklandscape
+license: 3
+latitude: 44.65729
+longitude: -79.352628
+accuracy: 16
+views: 23
+interestingness: 15 out of 11
+
+photo: 6442970179 b17a312ef4 7006
+owner: 41776342@N00
+title: Baltic on a clear night
+originalsecret: 85f69b99dd
+originalformat: jpg
+o_height: 2848
+o_width: 4288
+datetaken: 2011-11-22 19:04:15
+dateupload: 1322854492
+tags: bridge light england sky mill night speed river newcastle stars photography star long exposure gallery slow nocturnal 4 north baltic tyne wear east clear shutter prize curve flour universe turner channel millenuim
+license: 0
+latitude: 54.970014
+longitude: -1.599497
+accuracy: 16
+views: 76
+interestingness: 16 out of 11
+
+photo: 6476880911 1abfdd01b4 7031
+owner: 59115084@N04
+title: Reflejos del Festival
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-03 15:15:28
+dateupload: 1323354173
+tags: 
+license: 0
+latitude: 23.128204
+longitude: -82.398405
+accuracy: 14
+views: 21
+interestingness: 17 out of 11
+
+photo: 6471756813 06784f85c2 7157
+owner: 46999255@N04
+title: Herv?s, C?ceres.
+originalsecret: d0fbb43a7b
+originalformat: jpg
+o_height: 4928
+o_width: 3264
+datetaken: 2011-12-03 12:52:27
+dateupload: 1323269601
+tags: 
+license: 0
+latitude: 40.272041
+longitude: -5.863949
+accuracy: 11
+views: 14
+interestingness: 18 out of 11
+
+photo: 6456014123 69570515d0 7150
+owner: 55716304@N05
+title: "Fifth Place, Best Impromptu Speaker"
+originalsecret: 1f9fe37da2
+originalformat: jpg
+o_height: 1024
+o_width: 768
+datetaken: 2011-12-04 18:36:43
+dateupload: 1323041803
+tags: android lightbox debate cellphonephotography mobilephonephotography passaiccountycommunitycollege sunyrockland htcevo picplz foursquare:venue=4af1df71f964a520fce321e3
+license: 0
+latitude: 41.133837
+longitude: -74.086518
+accuracy: 16
+views: 15
+interestingness: 19 out of 11
+
+photo: 6458913373 87fbd4c586 7165
+owner: 12608538@N03
+title: The players debate how best to restart after Andy Mair regains his feet
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-04 15:07:31
+dateupload: 1323081497
+tags: nottingham raw beeston nottinghamshire fieldhockey ehb actionsport d3s elitesport walkingwithmynikon nikkorafs500mmf4 englandhockeyleague menspremierleague highfieldsportsclub beestonvsreading
+license: 0
+latitude: 52.933499
+longitude: -1.195834
+accuracy: 16
+views: 45
+interestingness: 20 out of 11
+
+photo: 6466961393 89b3bee663 7154
+owner: 53216251@N03
+title: Art Debate
+originalsecret: 370ef6f400
+originalformat: jpg
+o_height: 5000
+o_width: 7540
+datetaken: 2011-12-06 19:29:27
+dateupload: 1323194131
+tags: bw white black self 35mm 50mm nikon artist mare cel iso stefan filter national 400 romania painter epson hp5 format v600 135 18 processed ilford iasi f301 2011 pictor afd id11 rapidfixer teatrul stradal cplorange
+license: 0
+latitude: 47.161425
+longitude: 27.584331
+accuracy: 13
+views: 16
+interestingness: 21 out of 11
+
+photo: 6457331837 a39fd0631e 7169
+owner: 41383470@N00
+title: Campfire at Bucksaw, Harry S Truman Lake, Missouri
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-11-04 22:52:54
+dateupload: 1323056178
+tags: camping selfportrait lowlight availablelight tripod campfire missouri gsa 365days remoteshutterrelease bucksaw garyallman garyandginger nikond7000 harrystrumanlake journal2011 outdoors2001
+license: 0
+latitude: 38.257963
+longitude: -93.599809
+accuracy: 16
+views: 6
+interestingness: 22 out of 11
+
+photo: 6455280715 6cef0ea3a8 7024
+owner: 12966803@N07
+title: Traditional Japanese festivals
+originalsecret: 4608291247
+originalformat: jpg
+o_height: 480
+o_width: 640
+datetaken: 2011-08-17 14:52:21
+dateupload: 1323034525
+tags: brussels festival japan thanks photo earthquake belgium belgique centre culture bruxelles exhibition embassy tsunami tradition tohoku
+license: 0
+latitude: 50.840615
+longitude: 4.366169
+accuracy: 16
+views: 9
+interestingness: 23 out of 11
+
+photo: 6438783119 543092acc8 7163
+owner: 47961842@N08
+title: Listen to the trees
+originalsecret: c03234e04b
+originalformat: jpg
+o_height: 1544
+o_width: 1024
+datetaken: 2011-12-01 18:31:39
+dateupload: 1322782299
+tags: old trees light color colour tree green film outside outdoors woods kodak scan haunted 200 lorimer cvs kodakgold expiredfilm kodakgold200 colorfilm lorimerpark colourfilm
+license: 0
+latitude: 40.088184
+longitude: -75.066146
+accuracy: 11
+views: 17
+interestingness: 24 out of 11
+
+photo: 6463352271 68e66b28e6 7001
+owner: 80113646@N00
+title: Public debate ? Town Meeting, Andover MA
+originalsecret: c8978d1bb1
+originalformat: jpg
+o_height: 612
+o_width: 612
+datetaken: 2011-12-05 21:07:17
+dateupload: 1323137237
+tags: square squareformat hefe iphoneography instagramapp uploaded:by=instagram foursquare:venue=4b6b2b81f964a52038f72be3
+license: 0
+latitude: 42.657889
+longitude: -71.15647
+accuracy: 16
+views: 6
+interestingness: 25 out of 11
+
+photo: 6436395771 2afbcfb127 7006
+owner: 45486878@N02
+title: Alexandra & Stephanie - debate
+originalsecret: 671e4f5e46
+originalformat: jpg
+o_height: 1498
+o_width: 2239
+datetaken: 2011-12-01 15:35:59
+dateupload: 1322750159
+tags: label oona desingel riverisland fashionblogs theblogworks
+license: 0
+latitude: 51.191884
+longitude: 4.400485
+accuracy: 15
+views: 17
+interestingness: 26 out of 11
+
+photo: 6445066557 a57aedba50 7141
+owner: 63357760@N02
+title: Hampden Bridge in winters light
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-07-23 16:58:28
+dateupload: 1322888566
+tags: iphotooriginal iphotoconverted
+license: 0
+latitude: -35.100318
+longitude: 147.368073
+accuracy: 14
+views: 5
+interestingness: 27 out of 11
+
+photo: 6471437107 70fd3fb874 7171
+owner: 68255900@N04
+title: Debate sobre el futuro del Ateneu Santboi?
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-07 02:06:06
+dateupload: 1323264873
+tags: radio jornada santboi autogesti?n ateneusantboi?
+license: 5
+latitude: 41.34806
+longitude: 2.04497
+accuracy: 11
+views: 1
+interestingness: 28 out of 11
+
+photo: 6461888691 c6793e49e1 7173
+owner: 43853447@N02
+title: 100 A?os de Educaci?n en Boliviva
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2006-05-19 11:56:11
+dateupload: 1323118589
+tags: en bolivia educacion intercultural docencia
+license: 2
+latitude: -17.782995
+longitude: -63.183134
+accuracy: 16
+views: 5
+interestingness: 29 out of 11
+
+photo: 6441538185 4c82976b31 7001
+owner: 7665931@N08
+title: Here for #smckc to debate... I'm on Team Facebook!
+originalsecret: 3bd734b2bd
+originalformat: jpg
+o_height: 540
+o_width: 720
+datetaken: 2011-12-02 08:05:17
+dateupload: 1322834717
+tags: uploaded:by=flicksquare foursquare:venue=4af420d3f964a52031f021e3 geo:lat=390945307549175 geo:lon=945813202857971
+license: 1
+latitude: 39.09453
+longitude: -94.58132
+accuracy: 16
+views: 4
+interestingness: 30 out of 11
+
+photo: 6447307759 a3013cfa80 7146
+owner: 57512262@N07
+title: True story behind Dona Paula,Goa,India
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2009-04-11 11:43:17
+dateupload: 1322929916
+tags: truestory donapaula
+license: 0
+latitude: 15.459569
+longitude: 73.810157
+accuracy: 13
+views: 4
+interestingness: 31 out of 11
+
+photo: 6470631155 72d9aa7286 7164
+owner: 62930782@N02
+title: Foto der Woche 49 - Photo of the Week 49
+originalsecret: c5b7af279c
+originalformat: jpg
+o_height: 1520
+o_width: 2288
+datetaken: 2011-12-07 01:04:51
+dateupload: 1323248691
+tags: 
+license: 0
+latitude: 46.208351
+longitude: 6.1427
+accuracy: 11
+views: 20
+interestingness: 32 out of 11
+
+photo: 6468148433 7b0572d54a 7141
+owner: 18964106@N00
+title: Speke memorial
+originalsecret: 16ffc74b5e
+originalformat: jpg
+o_height: 2790
+o_width: 1991
+datetaken: 2011-12-05 14:46:08
+dateupload: 1323208530
+tags: 
+license: 4
+latitude: 51.509012
+longitude: -0.179166
+accuracy: 16
+views: 3
+interestingness: 33 out of 11
+
+photo: 6451520021 1fc1910ffd 7008
+owner: 64725904@N04
+title: Jenni and Jeff debating Apple Cup and hairspray
+originalsecret: 34c95a7163
+originalformat: jpg
+o_height: 1936
+o_width: 2592
+datetaken: 2011-11-25 07:42:14
+dateupload: 1322989674
+tags: 
+license: 0
+latitude: 47.617833
+longitude: -122.350667
+accuracy: 16
+views: 5
+interestingness: 34 out of 11
+
+photo: 6480608319 dcff6b750d 7172
+owner: 46925679@N04
+title: Midnight Stare
+originalsecret: 7464388837
+originalformat: jpg
+o_height: 700
+o_width: 460
+datetaken: 2011-12-08 23:42:05
+dateupload: 1323412925
+tags: light portrait woman sexy fall halloween lamp girl beautiful beauty look fashion lady female night contrast standing pose dark hair outside evening model glamour nikon october glare dress adult bright outdoor gothic profile victorian young vinyl dramatic highcontrast posing windy blowing scene sensual gloves lensflare attractive flare latex desaturated nightscene copyspace elegant breeze sensuality sideview drama toned tilted oneperson highiso caucasian selectivefocus fullbody lookingatcamera highnoise verticalformat wideangleview d700 nikond700 chrisnuzzaco
+license: 0
+latitude: 40.245336
+longitude: -111.626329
+accuracy: 13
+views: 22
+interestingness: 35 out of 11
+
+photo: 6448455419 f427d53534 7023
+owner: 43639770@N08
+title: Juventude debate com @depdurvalangelo
+originalsecret: d4bde942ff
+originalformat: jpg
+o_height: 612
+o_width: 612
+datetaken: 2011-12-03 18:26:17
+dateupload: 1322943977
+tags: square squareformat lomofi iphoneography instagramapp uploaded:by=instagram foursquare:venue=4ea16308cc2102b34c8a5791
+license: 0
+latitude: -19.935111
+longitude: -44.052992
+accuracy: 16
+views: 0
+interestingness: 36 out of 11
+
+photo: 6447566737 477fa6ce6a 7154
+owner: 43639770@N08
+title: Educa??o e Democracia em Debate do @depdurvalangelo
+originalsecret: d7acacb274
+originalformat: jpg
+o_height: 612
+o_width: 612
+datetaken: 2011-12-03 15:22:22
+dateupload: 1322932942
+tags: square squareformat lomofi iphoneography instagramapp uploaded:by=instagram foursquare:venue=4ea16308cc2102b34c8a5791
+license: 0
+latitude: -19.935111
+longitude: -44.052992
+accuracy: 16
+views: 0
+interestingness: 37 out of 11
+
+photo: 6471443219 d1f21e9f3f 7019
+owner: 68255900@N04
+title: Debate sobre el futuro del Ateneu Santboi?
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-07 02:14:55
+dateupload: 1323264962
+tags: radio jornada santboi autogesti?n ateneusantboi?
+license: 5
+latitude: 41.34806
+longitude: 2.04497
+accuracy: 11
+views: 2
+interestingness: 38 out of 11
+
+photo: 6471431991 9476d71c23 7027
+owner: 68255900@N04
+title: Xavier Pedr?s de la Fundaci? Marianao interviene en el debate
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-07 02:05:48
+dateupload: 1323264790
+tags: radio jornada santboi autogesti?n ateneusantboi?
+license: 5
+latitude: 41.34806
+longitude: 2.04497
+accuracy: 11
+views: 1
+interestingness: 39 out of 11
+
+photo: 6472908169 b565f8cc56 7156
+owner: 31994769@N07
+title: Good evening from the top of the Radio City Tower  where @radioacademy is debating radio in Liverpool
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-07 18:58:09
+dateupload: 1323284404
+tags: radiotodaylive
+license: 0
+latitude: 53.4065
+longitude: -2.981334
+accuracy: 16
+views: 0
+interestingness: 40 out of 11
+
+Total images queried: 11

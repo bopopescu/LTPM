@@ -1,0 +1,91 @@
+
+mintime: 1322697600 maxtime: 1324512427.5
+numimgs: 3
+total pages: 1
+visiting only 1 pages ( up to 250 images)
+photo: 6442903787 4477e1f813 7172
+owner: 41683013@N00
+title: Rivers Cuomo of Weezer - Live at Squamish 2011
+originalsecret: 18a9c1c636
+originalformat: jpg
+o_height: 1785
+o_width: 1190
+datetaken: 2011-08-21 22:07:12
+dateupload: 1322853648
+tags: blackandwhite bw monochrome musicians singing guitars concerts indierock weezer squamish riverscuomo performances musicfestivals liveatsquamish
+license: 1
+latitude: 49.718957
+longitude: -123.143037
+accuracy: 16
+views: 31
+interestingness: 1 out of 3
+
+photo: 6442905199 182bb29f31 7033
+owner: 41683013@N00
+title: Weezer - Live at Squamish 2011
+originalsecret: 640d5a78cf
+originalformat: jpg
+o_height: 1395
+o_width: 2093
+datetaken: 2011-08-21 22:06:21
+dateupload: 1322853667
+tags: musicians guitars concerts indierock weezer squamish riverscuomo performances musicfestivals liveatsquamish
+license: 1
+latitude: 49.718957
+longitude: -123.143037
+accuracy: 16
+views: 47
+interestingness: 2 out of 3
+
+photo: 6477903807 359234c177 7016
+owner: 53315989@N03
+title: Gov. Cuomo at REC Award Ceremony
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-08 10:25:41
+dateupload: 1323368741
+tags: new york state stage andrew governor now pbs cuomo wmht
+license: 0
+latitude: 42.651415
+longitude: -73.758645
+accuracy: 13
+views: 2
+interestingness: 3 out of 3
+
+photo: 6443023363 5518b254e7 7169
+owner: 41683013@N00
+title: Rivers Cuomo of Weezer - Live at Squamish 2011
+originalsecret: 7386fd0fcd
+originalformat: jpg
+o_height: 2000
+o_width: 2000
+datetaken: 2011-12-02 11:41:07
+dateupload: 1322853576
+tags: blackandwhite bw 6x6 film monochrome musicians mediumformat square guitars 120film squareformat concerts indierock delta3200 weezer guitarists squamish riverscuomo performances ilforddelta3200 ilforddelta musicfestivals ilfordfilm liveatsquamish
+license: 1
+latitude: 49.718957
+longitude: -123.143037
+accuracy: 16
+views: 99
+interestingness: 4 out of 3
+
+photo: 6477904569 2bf5150b0b 7030
+owner: 53315989@N03
+title: Southern Tier Awarded $49 Million
+originalsecret: null
+originalformat: null
+o_height: null
+o_width: null
+datetaken: 2011-12-08 10:25:50
+dateupload: 1323368750
+tags: stage andrew southern governor podium council economic tier cuomo
+license: 0
+latitude: 42.651258
+longitude: -73.758387
+accuracy: 13
+views: 1
+interestingness: 5 out of 3
+
+Total images queried: 3
