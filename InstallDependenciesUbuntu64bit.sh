@@ -12,4 +12,8 @@ fi
 
 apt-get install gfortran
 apt-get install python-mysqldb
+apt-get install python-boto
 
+cd Libraries/mrjob
+python setup.py install
+cd -
