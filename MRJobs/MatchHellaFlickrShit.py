@@ -13,6 +13,7 @@ class DownloadFlickrImages(MRJob):
             url = 'http://static.flickr.com/' + server + "/" + id + "_" + secret + '_m.jpg'
 
             (filename, headers) = urllib.urlretrieve(url, '/tmp/' + unique)
+            
             #s3conn = S3Connection()
             #LTPM = Bucket(s3conn, 'ltpm')
             #image = Key(LTPM)
