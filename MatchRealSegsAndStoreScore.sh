@@ -15,3 +15,6 @@ score=`./PlaceImage/build/PlaceImage ${target_realseg_path} ${candidate_realseg_
 
 # insert in db
 echo "insert into scores(LTPM_name, target_row, target_col, candidate_name, score) VALUES('$LTPM_name', '$target_row', '$target_col', '$candidate_name', $score)" | mysql -u LTPM LTPM
+
+
+echo "match with ($target_row, $target_col): $score"

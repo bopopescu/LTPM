@@ -267,9 +267,6 @@ int SuperPixelsToSegmentation::run(){
 
 
 
-// FIXME
-#warning fix real segment color calculation! not waiting superpixel colors by superpixel size! currently low pass filtering!!!! aaaaaaaggggghh1hhhhhh!!11!111
-// FIXME
 	// merge similar adjacent segments
 	bool updatedGraph = true;
 	while(updatedGraph)
