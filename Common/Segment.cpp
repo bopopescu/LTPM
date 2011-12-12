@@ -131,21 +131,34 @@ float Segment::areaOfIntersectionWith(Segment & other)
 
 	float intersectionArea = 0.0;
 
-	try
+	/*try
 	{
 		std::deque<Polygon> output;
 		boost::geometry::intersection(polygon, other.polygon, output);
 
-		intersectionArea = 0.0;
+		float thisRealArea  = area(polygon);
+		float otherRealArea = area(other.polygon);
+
+		cerr << "thisRealArea = " << thisRealArea << " otherRealArea = " << otherRealArea << endl;
+
 		BOOST_FOREACH(Polygon const& p, output)
 		{
 			intersectionArea += boost::geometry::area(p);
+			cerr << "intersectionArea += " << boost::geometry::area(p) << endl;
 		}
 	}
 	catch(std::exception & e)
-	{
+	{*/
 		intersectionArea = hackAreaOfIntersectionWith(other);
-	}
+		//cerr << "hack intersection area = " << intersectionArea << endl;
+	/*}*/
+
+	float thisRealArea  = area(polygon);
+	float otherRealArea = area(other.polygon);
+	float thisArea  = abs(area(polygon));
+	float otherArea = abs(area(other.polygon));
+        
+        assert(intersectionArea <= thisArea && intersectionArea <= otherArea);
 
 	return intersectionArea;
 }
@@ -173,6 +186,7 @@ float scoreCandidate(vector<Segment> targetSegmentation, vector<Segment> candida
 	for(int targetSegmentIndex = 0; targetSegmentIndex < targetSegmentation.size(); targetSegmentIndex++)
 	{
 		Segment* targetSegment = & targetSegmentation[targetSegmentIndex];
+		cerr << "target segment " << targetSegment << " area " << area(targetSegment->polygon) << endl;
 		totalTargetArea += area(targetSegment->polygon);
 	}
 
@@ -188,6 +202,8 @@ float scoreCandidate(vector<Segment> targetSegmentation, vector<Segment> candida
 		{
 			Segment* targetSegment = & targetSegmentation[targetSegmentIndex];
 			float pairOverlap = candidateSegment->areaOfIntersectionWith(*targetSegment);
+			//cerr << "area(intersect(" << area(targetSegment->polygon) << ", " << area(candidateSegment->polygon) << ")) = " << pairOverlap << endl;
+
 			if(pairOverlap > bestTargetScore)
 			{
 				bestTargetScore = pairOverlap;
@@ -213,7 +229,7 @@ float scoreCandidate(vector<Segment> targetSegmentation, vector<Segment> candida
 		float matchArea = (*match).second.intersectionArea;
 
 		totalMatchArea += matchArea;
-		cerr << "segment pair area match score: " << (*match).second.intersectionArea << endl;
+		cerr << "match (target - area, candidate - area) = (" << targetSegment << " - " << area(targetSegment->polygon) << ", " << candidateSegment << " - " << area(candidateSegment->polygon) << ") score: " << (*match).second.intersectionArea << endl;
 
 		float colorScore = 1.0 - Color::distance(targetSegment->color, candidateSegment->color) / sqrtf((255*255) + (255*255) + (255*255));
 		sumOfColorScoresWeightedByIntersectionArea += matchArea * colorScore;
