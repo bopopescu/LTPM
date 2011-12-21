@@ -24,7 +24,7 @@ def parseRealseg(segStr):
 
     for line in lines:
 
-        sys.stderr.write('line: ' + line)
+        sys.stderr.write('line: ' + line + '\n\n')
 
         parts = line.split('&')[:-1]
         for part in parts:
@@ -108,9 +108,11 @@ class StoreSegments(MRJob):
             p = 0
             for poly in polys:
                 segmentMask = cv.CreateImage(candidateImage.size, cv.IPL_DEPTH_8U, 3)
+                cv.SetZero(segmentMask)
                 cv.FillPoly(segmentMask, [poly], cv.RGB(1, 1, 1))
                 
                 segment = cv.CreateImage(candidateImage.size, cv.IPL_DEPTH_8U, 3)
+                
                 cv.Mul(segmentMask, cvImage, segment)
                 
                 cv.SaveImage('/tmp/' + unique + '_' + str(p) + '.jpg', segment)
