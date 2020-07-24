@@ -426,7 +426,7 @@ JOBCONF_DICT_LIST = [
      '0.21': 'mapreduce.input.sequencefileinputfilter.frequency'},
     {'0.18': 'sequencefile.filter.regex',
      '0.21': 'mapreduce.input.sequencefileinputfilter.regex'},
-    {'0.18': 'slave.host.name',
+    {'0.18': 'subordinate.host.name',
      '0.21': 'mapreduce.tasktracker.host.name'},
     {'0.18': 'tasktracker.contention.tracking',
      '0.21': 'mapreduce.tasktracker.contention.tracking'},

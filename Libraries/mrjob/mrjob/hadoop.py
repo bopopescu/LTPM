@@ -648,9 +648,9 @@ class HadoopJobRunner(MRJobRunner):
         try:
             all_task_attempt_logs.extend(self._ls_logs('userlogs/'))
         except IOError:
-            # sometimes the master doesn't have these
+            # sometimes the main doesn't have these
             pass
-        # TODO: get these logs from slaves if possible
+        # TODO: get these logs from subordinates if possible
         task_attempt_logs = self._enforce_path_regexp(all_task_attempt_logs,
                                                       TASK_ATTEMPTS_LOG_URI_RE,
                                                       step_nums)

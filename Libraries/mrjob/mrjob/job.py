@@ -1173,7 +1173,7 @@ class MRJob(object):
         self.emr_opt_group.add_option(
             '--bootstrap-cmd', dest='bootstrap_cmds', action='append',
             default=[],
-            help=('Commands to run on the master node to set up libraries,'
+            help=('Commands to run on the main node to set up libraries,'
                   ' etc. You can use --bootstrap-cmd more than once. Use'
                   ' mrjob.conf to specify arguments as a list to be run'
                   ' directly.'))
@@ -1181,7 +1181,7 @@ class MRJob(object):
         self.emr_opt_group.add_option(
             '--bootstrap-file', dest='bootstrap_files', action='append',
             default=[],
-            help=('File to upload to the master node before running'
+            help=('File to upload to the main node before running'
                   ' bootstrap_cmds (for example, debian packages). These will'
                   ' be made public on S3 due to a limitation of the bootstrap'
                   ' feature. You can use --bootstrap-file more than once.'))
@@ -1197,7 +1197,7 @@ class MRJob(object):
         self.emr_opt_group.add_option(
             '--bootstrap-script', dest='bootstrap_scripts', action='append',
             default=[],
-            help=('Script to upload and then run on the master node (a'
+            help=('Script to upload and then run on the main node (a'
                   ' combination of bootstrap_cmds and bootstrap_files). These'
                   ' are run after the command from bootstrap_cmds. You can use'
                   ' --bootstrap-script more than once.'))
@@ -1223,14 +1223,14 @@ class MRJob(object):
             help='Path to file containing SSH key for EMR')
 
         self.emr_opt_group.add_option(
-            '--ec2-master-instance-type', dest='ec2_master_instance_type',
+            '--ec2-main-instance-type', dest='ec2_main_instance_type',
             default=None,
-            help='Type of EC2 instance for master node only')
+            help='Type of EC2 instance for main node only')
 
         self.emr_opt_group.add_option(
-            '--ec2-slave-instance-type', dest='ec2_slave_instance_type',
+            '--ec2-subordinate-instance-type', dest='ec2_subordinate_instance_type',
             default=None,
-            help='Type of EC2 instance for slave nodes only')
+            help='Type of EC2 instance for subordinate nodes only')
 
         self.emr_opt_group.add_option(
             '--emr-endpoint', dest='emr_endpoint', default=None,
@@ -1644,11 +1644,11 @@ class MRJob(object):
         """
         file_upload_args = []
 
-        master_option_dict = self.options.__dict__
+        main_option_dict = self.options.__dict__
 
         for opt in self._file_options:
             opt_prefix = opt.get_opt_string()
-            opt_value = master_option_dict[opt.dest]
+            opt_value = main_option_dict[opt.dest]
 
             if opt_value:
                 paths = opt_value if opt.action == 'append' else [opt_value]

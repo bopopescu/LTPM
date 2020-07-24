@@ -289,8 +289,8 @@ class MockEmrConnection(object):
 
     def run_jobflow(self,
                     name, log_uri, ec2_keyname=None, availability_zone=None,
-                    master_instance_type='m1.small',
-                    slave_instance_type='m1.small', num_instances=1,
+                    main_instance_type='m1.small',
+                    subordinate_instance_type='m1.small', num_instances=1,
                     action_on_failure='TERMINATE_JOB_FLOW', keep_alive=False,
                     enable_debugging=False,
                     hadoop_version='0.18',
@@ -332,9 +332,9 @@ class MockEmrConnection(object):
             jobflowid=jobflow_id,
             keepjobflowalivewhennosteps=keep_alive,
             laststatechangereason='Provisioning Amazon EC2 capacity',
-            masterinstancetype=master_instance_type,
+            maininstancetype=main_instance_type,
             name=name,
-            slaveinstancetype=slave_instance_type,
+            subordinateinstancetype=subordinate_instance_type,
             state='STARTING',
             steps=[],
         )

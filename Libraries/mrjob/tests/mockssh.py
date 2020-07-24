@@ -102,15 +102,15 @@ def mock_ssh_file(host, path, contents):
     return path
 
 
-_SLAVE_ADDR_RE = re.compile(r'^(?P<master>.*?)!(?P<slave>.*?)=(?P<dir>.*)$')
+_SLAVE_ADDR_RE = re.compile(r'^(?P<main>.*?)!(?P<subordinate>.*?)=(?P<dir>.*)$')
 
 
-def slave_addresses():
-    """Get the addresses for slaves based on :envvar:`MOCK_SSH_ROOTS`"""
+def subordinate_addresses():
+    """Get the addresses for subordinates based on :envvar:`MOCK_SSH_ROOTS`"""
     for kv_pair in os.environ['MOCK_SSH_ROOTS'].split(':'):
         m = _SLAVE_ADDR_RE.match(kv_pair)
         if m:
-            print m.group('slave')
+            print m.group('subordinate')
 
 
 _SCP_RE = re.compile(r'^.*"cat > (?P<filename>.*?)".*$')
@@ -155,14 +155,14 @@ def cat(host, args):
         print f.read()
 
 
-def run(host, remote_args, slave_key_file=None):
-    """Execute a command as a "host." Recursively call for slave if necessary.
+def run(host, remote_args, subordinate_key_file=None):
+    """Execute a command as a "host." Recursively call for subordinate if necessary.
     """
     remote_arg_pos = 0
 
-    # Get slave addresses (this is 'bash -c "hadoop dfsadmn ...')
+    # Get subordinate addresses (this is 'bash -c "hadoop dfsadmn ...')
     if remote_args[0].startswith('bash -c "hadoop'):
-        slave_addresses()
+        subordinate_addresses()
         return
 
     # Accept stdin for a file transfer (this is 'bash -c "cat > ...')
@@ -180,19 +180,19 @@ def run(host, remote_args, slave_key_file=None):
         cat(host, remote_args)
         return
 
-    # Recursively call for slaves
+    # Recursively call for subordinates
     if remote_args[0] == 'ssh':
-        # Actually check the existence of the key file on the master node
+        # Actually check the existence of the key file on the main node
         while not remote_args[remote_arg_pos] == '-i':
             remote_arg_pos += 1
 
-        slave_key_file = remote_args[remote_arg_pos + 1]
+        subordinate_key_file = remote_args[remote_arg_pos + 1]
 
         if not os.path.exists(
-            os.path.join(path_for_host(host), slave_key_file)):
+            os.path.join(path_for_host(host), subordinate_key_file)):
             # This is word-for-word what SSH says.
             print >> sys.stderr, 'Warning: Identity file',
-            slave_key_file, 'not accessible: No such file or directory.'
+            subordinate_key_file, 'not accessible: No such file or directory.'
 
             print >> sys.stderr, 'Permission denied (publickey).'
             sys.exit(1)
@@ -200,12 +200,12 @@ def run(host, remote_args, slave_key_file=None):
         while not remote_args[remote_arg_pos].startswith('hadoop@'):
             remote_arg_pos += 1
 
-        slave_host = host + '!%s' % remote_args[remote_arg_pos].split('@')[1]
+        subordinate_host = host + '!%s' % remote_args[remote_arg_pos].split('@')[1]
 
         # build bang path
-        run(slave_host,
+        run(subordinate_host,
             remote_args[remote_arg_pos + 1:],
-            slave_key_file)
+            subordinate_key_file)
         return
 
     print >> sys.stderr, ("Command line not recognized: %s" %

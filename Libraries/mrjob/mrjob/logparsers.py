@@ -53,7 +53,7 @@ HADOOP_JOB_LOG_URI_RE = re.compile(
     r'^.*?/job_(?P<timestamp>\d+)_(?P<step_num>\d+)_(?P<mystery_string_1>\d+)'
     r'_(?P<user>.*?)_streamjob(?P<mystery_string_2>\d+).jar$')
 
-# regex for matching slave log URIs
+# regex for matching subordinate log URIs
 NODE_LOG_URI_RE = re.compile(
     r'^.*?/hadoop-hadoop-(jobtracker|namenode).*.out$')
 

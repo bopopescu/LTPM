@@ -50,7 +50,7 @@ def pprint_job_flow(jf):
     """Print a job flow to stdout in this form::
 
         job.flow.name
-        j-JOB_FLOW_ID: 2 instances (master=m1.small, slaves=m1.small, 20 \
+        j-JOB_FLOW_ID: 2 instances (main=m1.small, subordinates=m1.small, 20 \
 minutes to the hour)
     """
     instance_count = int(jf.instancecount)
@@ -62,11 +62,11 @@ minutes to the hour)
         nosep_segments.append('s')
 
     comma_segments = [
-        'master=%s' % jf.masterinstancetype,
+        'main=%s' % jf.maininstancetype,
     ]
 
     if instance_count > 1:
-        comma_segments.append('slaves=%s' % jf.slaveinstancetype)
+        comma_segments.append('subordinates=%s' % jf.subordinateinstancetype)
 
     comma_segments.append('%0.0f minutes to the hour' % est_time_to_hour(jf))
 
@@ -134,8 +134,8 @@ def main():
             'ec2_instance_type',
             'ec2_key_pair',
             'ec2_key_pair_file',
-            'ec2_master_instance_type',
-            'ec2_slave_instance_type',
+            'ec2_main_instance_type',
+            'ec2_subordinate_instance_type',
             'emr_endpoint',
             'num_ec2_instances',
         ),

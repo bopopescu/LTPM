@@ -126,51 +126,51 @@ class MockEMRAndS3TestCase(TestCase):
         to key name to data."""
         add_mock_s3_data(self.mock_s3_fs, data)
 
-    def prepare_runner_for_ssh(self, runner, num_slaves=0):
+    def prepare_runner_for_ssh(self, runner, num_subordinates=0):
         # Set up environment variables
         self._old_environ = os.environ.copy()
         os.environ['MOCK_SSH_VERIFY_KEY_FILE'] = 'true'
 
         # Create temporary directories and add them to MOCK_SSH_ROOTS
-        self.master_ssh_root = tempfile.mkdtemp(prefix='master_ssh_root.')
-        os.environ['MOCK_SSH_ROOTS'] = 'testmaster=%s' % self.master_ssh_root
-        mock_ssh_dir('testmaster', SSH_LOG_ROOT + '/history')
+        self.main_ssh_root = tempfile.mkdtemp(prefix='main_ssh_root.')
+        os.environ['MOCK_SSH_ROOTS'] = 'testmain=%s' % self.main_ssh_root
+        mock_ssh_dir('testmain', SSH_LOG_ROOT + '/history')
 
-        self.slave_ssh_roots = []
+        self.subordinate_ssh_roots = []
 
         # Make the fake binary
-        os.mkdir(os.path.join(self.master_ssh_root, 'bin'))
-        self.ssh_bin = os.path.join(self.master_ssh_root, 'bin', 'ssh')
+        os.mkdir(os.path.join(self.main_ssh_root, 'bin'))
+        self.ssh_bin = os.path.join(self.main_ssh_root, 'bin', 'ssh')
         create_mock_ssh_script(self.ssh_bin)
 
         # Make a fake keyfile so that the 'file exists' requirements are
         # satsified
-        self.keyfile_path = os.path.join(self.master_ssh_root, 'key.pem')
+        self.keyfile_path = os.path.join(self.main_ssh_root, 'key.pem')
         with open(self.keyfile_path, 'w') as f:
             f.write('I AM DEFINITELY AN SSH KEY FILE')
 
         # Tell the runner to use the fake binary
         runner._opts['ssh_bin'] = [self.ssh_bin]
-        # Inject master node hostname so it doesn't try to 'emr --describe' it
-        runner._address = 'testmaster'
+        # Inject main node hostname so it doesn't try to 'emr --describe' it
+        runner._address = 'testmain'
         # Also pretend to have an SSH key pair file
         runner._opts['ec2_key_pair_file'] = self.keyfile_path
 
-    def add_slave(self):
-        """Add a mocked slave to the cluster. Caller is responsible for setting
+    def add_subordinate(self):
+        """Add a mocked subordinate to the cluster. Caller is responsible for setting
         runner._opts['num_ec2_instances'] to the correct number.
         """
-        slave_num = len(self.slave_ssh_roots)
-        new_dir = tempfile.mkdtemp(prefix='slave_%d_ssh_root.' % slave_num)
-        self.slave_ssh_roots.append(new_dir)
-        os.environ['MOCK_SSH_ROOTS'] += (':testmaster!testslave%d=%s'
-                                         % (slave_num, new_dir))
+        subordinate_num = len(self.subordinate_ssh_roots)
+        new_dir = tempfile.mkdtemp(prefix='subordinate_%d_ssh_root.' % subordinate_num)
+        self.subordinate_ssh_roots.append(new_dir)
+        os.environ['MOCK_SSH_ROOTS'] += (':testmain!testsubordinate%d=%s'
+                                         % (subordinate_num, new_dir))
 
     def teardown_ssh(self):
         os.environ.clear()
         os.environ.update(self._old_environ)
-        shutil.rmtree(self.master_ssh_root)
-        for path in self.slave_ssh_roots:
+        shutil.rmtree(self.main_ssh_root)
+        for path in self.subordinate_ssh_roots:
             shutil.rmtree(path)
 
 
@@ -488,7 +488,7 @@ class ExistingJobFlowTestCase(MockEMRAndS3TestCase):
 
             # Issue 182: don't create the bootstrap script when
             # attaching to another job flow
-            assert_equal(runner._master_bootstrap_script, None)
+            assert_equal(runner._main_bootstrap_script, None)
 
             for line in runner.stream_output():
                 key, value = mr_job.parse_output_line(line)
@@ -727,15 +727,15 @@ class DescribeAllJobFlowsTestCase(MockEMRAndS3TestCase):
 
 class EC2InstanceTypeTestCase(MockEMRAndS3TestCase):
 
-    def _test_instance_types(self, kwargs, expected_master, expected_slave):
+    def _test_instance_types(self, kwargs, expected_main, expected_subordinate):
         runner = EMRJobRunner(conf_path=self.mrjob_conf_path, **kwargs)
 
         job_flow_id = runner.make_persistent_job_flow()
         job_flow = runner.make_emr_conn().describe_jobflow(job_flow_id)
 
         assert_equal(
-            (expected_master, expected_slave),
-            (job_flow.masterinstancetype, job_flow.slaveinstancetype))
+            (expected_main, expected_subordinate),
+            (job_flow.maininstancetype, job_flow.subordinateinstancetype))
 
     def test_defaults(self):
         self._test_instance_types(
@@ -755,31 +755,31 @@ class EC2InstanceTypeTestCase(MockEMRAndS3TestCase):
             {'ec2_instance_type': 'c1.xlarge', 'num_ec2_instances': 2},
             'm1.small', 'c1.xlarge')
 
-    def test_explicit_master_and_slave_instance_types(self):
+    def test_explicit_main_and_subordinate_instance_types(self):
         self._test_instance_types(
-            {'ec2_master_instance_type': 'm1.large'},
+            {'ec2_main_instance_type': 'm1.large'},
             'm1.large', 'm1.small')
         self._test_instance_types(
-            {'ec2_slave_instance_type': 'm2.xlarge'},
+            {'ec2_subordinate_instance_type': 'm2.xlarge'},
             'm1.small', 'm2.xlarge')
         self._test_instance_types(
-            {'ec2_master_instance_type': 'm1.large',
-             'ec2_slave_instance_type': 'm2.xlarge'},
+            {'ec2_main_instance_type': 'm1.large',
+             'ec2_subordinate_instance_type': 'm2.xlarge'},
             'm1.large', 'm2.xlarge')
 
     def test_ec2_instance_type_takes_precedence(self):
         self._test_instance_types(
             {'ec2_instance_type': 'c1.xlarge',
-             'ec2_master_instance_type': 'm1.large',
-             'ec2_slave_instance_type': 'm2.xlarge'},
+             'ec2_main_instance_type': 'm1.large',
+             'ec2_subordinate_instance_type': 'm2.xlarge'},
             'c1.xlarge', 'c1.xlarge')
         # when there are multiple instances, ec2_instance_type only
-        # sets slave instance type
+        # sets subordinate instance type
         self._test_instance_types(
             {'ec2_instance_type': 'c1.xlarge',
-             'ec2_master_instance_type': 'm1.large',
+             'ec2_main_instance_type': 'm1.large',
              'num_ec2_instances': 2,
-             'ec2_slave_instance_type': 'm2.xlarge'},
+             'ec2_subordinate_instance_type': 'm2.xlarge'},
             'm1.large', 'c1.xlarge')
 
 
@@ -1047,14 +1047,14 @@ class LogFetchingFallbackTestCase(MockEMRAndS3TestCase):
         self.teardown_ssh()
 
     def test_ssh_comes_first(self):
-        mock_ssh_dir('testmaster', SSH_LOG_ROOT + '/steps/1')
-        mock_ssh_dir('testmaster', SSH_LOG_ROOT + '/history')
-        mock_ssh_dir('testmaster', SSH_LOG_ROOT + '/userlogs')
+        mock_ssh_dir('testmain', SSH_LOG_ROOT + '/steps/1')
+        mock_ssh_dir('testmain', SSH_LOG_ROOT + '/history')
+        mock_ssh_dir('testmain', SSH_LOG_ROOT + '/userlogs')
 
         # Put a log file and error into SSH
         ssh_lone_log_path = posixpath.join(
             SSH_LOG_ROOT, 'steps', '1', 'syslog')
-        mock_ssh_file('testmaster', ssh_lone_log_path,
+        mock_ssh_file('testmain', ssh_lone_log_path,
                       HADOOP_ERR_LINE_PREFIX + USEFUL_HADOOP_ERROR + '\n')
 
         # Put a 'more interesting' error in S3 to make sure that the
@@ -1070,13 +1070,13 @@ class LogFetchingFallbackTestCase(MockEMRAndS3TestCase):
         assert_equal(failure['log_file_uri'],
                      SSH_PREFIX + self.runner._address + ssh_lone_log_path)
 
-    def test_ssh_works_with_slaves(self):
-        self.add_slave()
+    def test_ssh_works_with_subordinates(self):
+        self.add_subordinate()
 
-        mock_ssh_dir('testmaster', SSH_LOG_ROOT + '/steps/1')
-        mock_ssh_dir('testmaster', SSH_LOG_ROOT + '/history')
+        mock_ssh_dir('testmain', SSH_LOG_ROOT + '/steps/1')
+        mock_ssh_dir('testmain', SSH_LOG_ROOT + '/history')
         mock_ssh_dir(
-            'testmaster!testslave0',
+            'testmain!testsubordinate0',
             SSH_LOG_ROOT + '/userlogs/attempt_201007271720_0002_m_000126_0')
 
         # Put a log file and error into SSH
@@ -1086,13 +1086,13 @@ class LogFetchingFallbackTestCase(MockEMRAndS3TestCase):
         ssh_log_path_2 = posixpath.join(SSH_LOG_ROOT, 'userlogs',
                                         'attempt_201007271720_0002_m_000126_0',
                                         'syslog')
-        mock_ssh_file('testmaster!testslave0', ssh_log_path,
+        mock_ssh_file('testmain!testsubordinate0', ssh_log_path,
                       TRACEBACK_START + PY_EXCEPTION)
-        mock_ssh_file('testmaster!testslave0', ssh_log_path_2,
+        mock_ssh_file('testmain!testsubordinate0', ssh_log_path_2,
                       '')
         failure = self.runner._find_probable_cause_of_failure([1, 2])
         assert_equal(failure['log_file_uri'],
-                     SSH_PREFIX + 'testmaster!testslave0' + ssh_log_path)
+                     SSH_PREFIX + 'testmain!testsubordinate0' + ssh_log_path)
 
     def test_ssh_fails_to_s3(self):
         # the runner will try to use SSH and find itself unable to do so,
@@ -1224,24 +1224,24 @@ class TestSSHLs(MockEMRAndS3TestCase):
         self.teardown_ssh()
 
     def test_ssh_ls(self):
-        self.add_slave()
+        self.add_subordinate()
 
-        mock_ssh_dir('testmaster', 'test')
-        mock_ssh_file('testmaster', posixpath.join('test', 'one'), '')
-        mock_ssh_file('testmaster', posixpath.join('test', 'two'), '')
-        mock_ssh_dir('testmaster!testslave0', 'test')
-        mock_ssh_file('testmaster!testslave0',
+        mock_ssh_dir('testmain', 'test')
+        mock_ssh_file('testmain', posixpath.join('test', 'one'), '')
+        mock_ssh_file('testmain', posixpath.join('test', 'two'), '')
+        mock_ssh_dir('testmain!testsubordinate0', 'test')
+        mock_ssh_file('testmain!testsubordinate0',
                       posixpath.join('test', 'three'), '')
 
-        assert_equal(sorted(self.runner.ls('ssh://testmaster/test')),
-                     ['ssh://testmaster/test/one',
-                      'ssh://testmaster/test/two'])
-        assert_equal(list(self.runner.ls('ssh://testmaster!testslave0/test')),
-                     ['ssh://testmaster!testslave0/test/three'])
+        assert_equal(sorted(self.runner.ls('ssh://testmain/test')),
+                     ['ssh://testmain/test/one',
+                      'ssh://testmain/test/two'])
+        assert_equal(list(self.runner.ls('ssh://testmain!testsubordinate0/test')),
+                     ['ssh://testmain!testsubordinate0/test/three'])
 
         # ls() is a generator, so the exception won't fire until we list() it
         assert_raises(IOError, list,
-                      self.runner.ls('ssh://testmaster/does_not_exist'))
+                      self.runner.ls('ssh://testmain/does_not_exist'))
 
 
 class TestNoBoto(TestCase):
@@ -1267,7 +1267,7 @@ class TestNoBoto(TestCase):
                       conf_path=False, s3_scratch_uri='s3://foo/tmp')
 
 
-class TestMasterBootstrapScript(MockEMRAndS3TestCase):
+class TestMainBootstrapScript(MockEMRAndS3TestCase):
 
     @setup
     def make_tmp_dir(self):
@@ -1277,7 +1277,7 @@ class TestMasterBootstrapScript(MockEMRAndS3TestCase):
     def rm_tmp_dir(self):
         shutil.rmtree(self.tmp_dir)
 
-    def test_master_bootstrap_script_is_valid_python(self):
+    def test_main_bootstrap_script_is_valid_python(self):
         # create a fake src tarball
         with open(os.path.join(self.tmp_dir, 'foo.py'), 'w'):
             pass
@@ -1293,7 +1293,7 @@ class TestMasterBootstrapScript(MockEMRAndS3TestCase):
                               bootstrap_python_packages=[yelpy_tar_gz_path],
                               bootstrap_scripts=['speedups.sh', '/tmp/s.sh'])
         script_path = os.path.join(self.tmp_dir, 'b.py')
-        runner._create_master_bootstrap_script(dest=script_path)
+        runner._create_main_bootstrap_script(dest=script_path)
 
         assert os.path.exists(script_path)
         py_compile.compile(script_path)
@@ -1302,14 +1302,14 @@ class TestMasterBootstrapScript(MockEMRAndS3TestCase):
         runner = EMRJobRunner(conf_path=False, bootstrap_mrjob=False)
         script_path = os.path.join(self.tmp_dir, 'b.py')
 
-        runner._create_master_bootstrap_script(dest=script_path)
+        runner._create_main_bootstrap_script(dest=script_path)
         assert not os.path.exists(script_path)
 
-        # bootstrap actions don't figure into the master bootstrap script
+        # bootstrap actions don't figure into the main bootstrap script
         runner = EMRJobRunner(conf_path=False,
                               bootstrap_mrjob=False,
                               bootstrap_actions=['foo', 'bar baz'])
-        runner._create_master_bootstrap_script(dest=script_path)
+        runner._create_main_bootstrap_script(dest=script_path)
 
         assert not os.path.exists(script_path)
 
@@ -1344,13 +1344,13 @@ class TestMasterBootstrapScript(MockEMRAndS3TestCase):
         assert_equal(actions[1].args, [])
         assert_equal(actions[1].name, 'xyzzy')
 
-        # check for master bootstrap script
+        # check for main bootstrap script
         assert actions[2].path.startswith('s3://mrjob-')
         assert actions[2].path.endswith('b.py')
         assert_equal(actions[2].args, [])
-        assert_equal(actions[2].name, 'master')
+        assert_equal(actions[2].name, 'main')
 
-        # make sure master bootstrap script is on S3
+        # make sure main bootstrap script is on S3
         assert runner.path_exists(actions[2].path)
 
     def test_local_bootstrap_action(self):
@@ -1380,13 +1380,13 @@ class TestMasterBootstrapScript(MockEMRAndS3TestCase):
         assert_equal(actions[0].args[0].value, 'python-scipy')
         assert_equal(actions[0].args[1].value, 'mysql-server')
 
-        # check for master boostrap script
+        # check for main boostrap script
         assert actions[1].path.startswith('s3://mrjob-')
         assert actions[1].path.endswith('b.py')
         assert_equal(actions[1].args, [])
-        assert_equal(actions[1].name, 'master')
+        assert_equal(actions[1].name, 'main')
 
-        # make sure master bootstrap script is on S3
+        # make sure main bootstrap script is on S3
         assert runner.path_exists(actions[1].path)
 
 
@@ -1894,7 +1894,7 @@ class TestCatFallback(MockEMRAndS3TestCase):
     def test_ssh_cat(self):
         runner = EMRJobRunner(conf_path=False)
         self.prepare_runner_for_ssh(runner)
-        p = mock_ssh_file('testmaster', 'etc/init.d', 'meow')
+        p = mock_ssh_file('testmain', 'etc/init.d', 'meow')
         assert_equal(
             list(runner.cat(SSH_PREFIX + runner._address + '/etc/init.d')),
             ['meow\n'])

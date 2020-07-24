@@ -44,7 +44,7 @@ class MRBossTestCase(MockEMRAndS3TestCase):
                                    conf_path=False)
         self.runner._s3_job_log_uri = BUCKET_URI + LOG_DIR
         self.prepare_runner_for_ssh(self.runner)
-        self.runner._enable_slave_ssh_access()
+        self.runner._enable_subordinate_ssh_access()
         self.output_dir = tempfile.mkdtemp(prefix='mrboss_wd')
 
     @teardown
@@ -58,32 +58,32 @@ class MRBossTestCase(MockEMRAndS3TestCase):
         self.teardown_ssh()
 
     def test_one_node(self):
-        mock_ssh_file('testmaster', 'some_file', 'file contents')
+        mock_ssh_file('testmain', 'some_file', 'file contents')
 
         run_on_all_nodes(self.runner, self.output_dir, ['cat', 'some_file'],
                          print_stderr=False)
 
-        with open(os.path.join(self.output_dir, 'master', 'stdout'), 'r') as f:
+        with open(os.path.join(self.output_dir, 'main', 'stdout'), 'r') as f:
             assert_equal(f.read(), 'file contents\n')
 
-        assert_equal(os.listdir(self.output_dir), ['master'])
+        assert_equal(os.listdir(self.output_dir), ['main'])
 
     def test_two_nodes(self):
-        self.add_slave()
+        self.add_subordinate()
         self.runner._opts['num_ec2_instances'] = 2
 
-        mock_ssh_file('testmaster', 'some_file', 'file contents 1')
-        mock_ssh_file('testmaster!testslave0', 'some_file', 'file contents 2')
+        mock_ssh_file('testmain', 'some_file', 'file contents 1')
+        mock_ssh_file('testmain!testsubordinate0', 'some_file', 'file contents 2')
 
         run_on_all_nodes(self.runner, self.output_dir, ['cat', 'some_file'],
                          print_stderr=False)
 
-        with open(os.path.join(self.output_dir, 'master', 'stdout'), 'r') as f:
+        with open(os.path.join(self.output_dir, 'main', 'stdout'), 'r') as f:
             assert_equal(f.read(), 'file contents 1\n')
 
-        with open(os.path.join(self.output_dir, 'slave testslave0', 'stdout'),
+        with open(os.path.join(self.output_dir, 'subordinate testsubordinate0', 'stdout'),
                   'r') as f:
             assert_equal(f.read(), 'file contents 2\n')
 
         assert_equal(sorted(os.listdir(self.output_dir)),
-                     ['master', 'slave testslave0'])
+                     ['main', 'subordinate testsubordinate0'])
